@@ -8,8 +8,7 @@ project:
 website:
   title: "Kitáb-i-Íqán Study"
   description: "A fourteen-week study of Bahá'u'lláh's Book of Certitude."
-  # Set this once the repo exists, e.g. https://yourname.github.io/iqan-study
-  # site-url: "https://YOURNAME.github.io/iqan-study"
+  site-url: "https://nr-mog.github.io/book-of-certitude-website"
   favicon: assets/favicon.png
   search: true
   navbar:

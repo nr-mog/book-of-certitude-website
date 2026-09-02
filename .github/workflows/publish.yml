@@ -26,26 +26,37 @@ jobs:
       - name: Render site
         run: quarto render
 
-      - name: Set up Node
-        uses: actions/setup-node@v4
+      - name: Set up Chrome
+        uses: browser-actions/setup-chrome@v1
         with:
-          node-version: "20"
+          install-dependencies: true
 
-      # Serve the rendered site so decktape can drive the reveal.js deck
-      # through its own ?print-pdf stylesheet — this preserves the slide
-      # design exactly, unlike a pandoc pptx/pdf export.
+      # Drives the rendered deck through reveal.js's own ?print-pdf stylesheet,
+      # so the PDF is the web slides printed rather than a separate export.
+      #
+      # continue-on-error: the PDF is an optional download. If this breaks, the
+      # site should still deploy — only the PDF link goes missing.
       - name: Export slides to PDF
+        continue-on-error: true
         run: |
+          set -x
           python3 -m http.server 8080 --directory _site &
           for i in $(seq 1 30); do
             curl -sf http://localhost:8080/ >/dev/null && break
             sleep 1
           done
-          npx -y decktape reveal \
-            --size 1200x750 \
-            --slides 1-999 \
-            "http://localhost:8080/slides/intro.html?print-pdf" \
-            _site/slides/intro.pdf
+
+          for deck in slides/*.qmd; do
+            name="$(basename "$deck" .qmd)"
+            chrome --headless=new --disable-gpu --no-sandbox --hide-scrollbars \
+              --virtual-time-budget=20000 \
+              --run-all-compositor-stages-before-draw \
+              --no-pdf-header-footer \
+              --print-to-pdf="_site/slides/$name.pdf" \
+              "http://localhost:8080/slides/$name.html?print-pdf"
+          done
+
+          ls -l _site/slides/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

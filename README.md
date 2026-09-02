@@ -56,6 +56,9 @@ Every push to `main` then runs `.github/workflows/publish.yml`, which renders th
 exports the slides to `slides/intro.pdf`, and deploys. **The PDF download link only works
 once this has run** — it is generated during the build, not committed.
 
+The PDF step is marked `continue-on-error`, so if the export breaks the site still
+deploys and only the PDF link goes missing. Check the run's log if the link 404s.
+
 ## Exporting the slide PDF locally
 
 Optional; the Action already does this on every push.
