@@ -1,0 +1,7 @@
+_site/
+.quarto/
+*.pdf.tmp
+.DS_Store
+node_modules/
+
+/.quarto/

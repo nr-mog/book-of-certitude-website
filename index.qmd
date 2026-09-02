@@ -1,0 +1,59 @@
+---
+title: "Kitáb-i-Íqán Study"
+subtitle: "A fourteen-week study of Bahá'u'lláh's Book of Certitude"
+toc: false
+---
+
+::: {.kicker}
+Baghdád · 1862
+:::
+
+::: {.lead}
+The Kitáb-i-Íqán was revealed by Bahá'u'lláh in the space of two days and two nights, in answer to
+four questions put to Him by one of the maternal uncles of the Báb. Over fourteen sessions we read
+it from beginning to end.
+:::
+
+> In fact, all the Scriptures and the mysteries thereof are condensed into this brief account. So
+> much so, that were a person to ponder it a while in his heart, he would discover from all that
+> hath been said the mysteries of the Words of God, and would apprehend the meaning of whatever
+> hath been manifested by that ideal King.
+>
+> [Bahá'u'lláh]{.attrib}
+
+## Start here
+
+::: {.cards}
+::: {.card-tile}
+#### [The schedule](schedule.qmd)
+All fourteen sessions, with the paragraphs assigned for each week and the themes we take up.
+:::
+
+::: {.card-tile}
+#### Introductory slides
+What the Íqán is, the occasion of its revelation, and why it is worth studying closely.
+
+[Present](slides/intro.qmd){.btn-slides .primary}
+[PDF](slides/intro.pdf){.btn-slides}
+:::
+:::
+
+## Why this Book
+
+> The Íqán is the most important book written on the spiritual significance of the Cause. I do not
+> believe any person can consider himself well versed in the teachings unless he has studied it
+> thoroughly.
+>
+> [Shoghi Effendi]{.attrib}
+
+Bahá'u'lláh gives the key-note here and explains some of the outstanding passages of the Sacred
+Books — in the hope, as Shoghi Effendi put it, that the friends will *continue to study the Sacred
+Books by themselves and unfold the mysteries found therein.* That is the point of this study: not
+to be handed conclusions, but to leave with the tools and the confidence to read the Writings on
+your own.
+
+## Goals of the study
+
+1. To develop the tools and confidence to read the Writings by yourself.
+2. To advance in our understanding of core Bahá'í beliefs and worldview, and how to explain them to others.
+3. To appreciate the significance of the Íqán, and how it can inform our service and our life in general.

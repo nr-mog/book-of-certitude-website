@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "slides/*.qmd"
+
+website:
+  title: "Kitáb-i-Íqán Study"
+  description: "A fourteen-week study of Bahá'u'lláh's Book of Certitude."
+  # Set this once the repo exists, e.g. https://yourname.github.io/iqan-study
+  # site-url: "https://YOURNAME.github.io/iqan-study"
+  favicon: assets/favicon.png
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+      - text: Slides
+        href: slides/intro.qmd
+  page-footer:
+    center: |
+      A study of the Kitáb-i-Íqán · Revealed by Bahá'u'lláh in Baghdád, 1862
+    border: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 3
+    toc-title: On this page
+    anchor-sections: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    grid:
+      sidebar-width: 240px
+      body-width: 820px
+      margin-width: 260px

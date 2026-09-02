@@ -1,0 +1,63 @@
+name: Publish site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Serve the rendered site so decktape can drive the reveal.js deck
+      # through its own ?print-pdf stylesheet — this preserves the slide
+      # design exactly, unlike a pandoc pptx/pdf export.
+      - name: Export slides to PDF
+        run: |
+          python3 -m http.server 8080 --directory _site &
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:8080/ >/dev/null && break
+            sleep 1
+          done
+          npx -y decktape reveal \
+            --size 1200x750 \
+            --slides 1-999 \
+            "http://localhost:8080/slides/intro.html?print-pdf" \
+            _site/slides/intro.pdf
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

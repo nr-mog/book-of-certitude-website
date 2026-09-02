@@ -1,0 +1,329 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap');
+
+// Palette: warm parchment, midnight ink, muted gold.
+$parchment:   #faf7f0;
+$parchment-2: #f2ece0;
+$ink:         #1c2331;
+$ink-soft:    #414b5c;
+$ink-faint:   #6f7889;
+$gold:        #9a7b32;
+$gold-soft:   #c4a662;
+$rule:        #e3dbc9;
+
+$body-bg:     $parchment;
+$body-color:  $ink;
+$link-color:  $gold;
+$primary:     $ink;
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$font-family-serif:      "EB Garamond", Iowan Old Style, Palatino, Georgia, serif;
+
+$font-size-root: 18px;
+$line-height-base: 1.65;
+
+$headings-font-family: $font-family-serif;
+$headings-font-weight: 500;
+
+$navbar-bg: $ink;
+$navbar-fg: $parchment;
+
+$toc-color: $ink-faint;
+
+/*-- scss:rules --*/
+
+body {
+  font-family: $font-family-serif;
+  font-feature-settings: "liga" 1, "kern" 1;
+  text-rendering: optimizeLegibility;
+}
+
+// --- Navbar -----------------------------------------------------------------
+.navbar {
+  border-bottom: 3px solid $gold;
+  .navbar-title {
+    font-family: $font-family-serif;
+    font-size: 1.15rem;
+    letter-spacing: 0.01em;
+  }
+  .nav-link {
+    font-family: $font-family-sans-serif;
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+}
+
+// --- Headings ---------------------------------------------------------------
+h1, .h1 {
+  font-size: 2.4rem;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.6rem;
+}
+
+h2, .h2 {
+  font-size: 1.6rem;
+  margin-top: 2.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid $rule;
+}
+
+h3, .h3 { font-size: 1.25rem; margin-top: 1.9rem; color: $ink-soft; }
+
+// Subtitle under the page title
+.quarto-title .subtitle {
+  font-size: 1.15rem;
+  color: $ink-faint;
+  font-style: italic;
+  margin-top: 0.2rem;
+}
+
+// --- Eyebrow / kicker -------------------------------------------------------
+.kicker {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: $gold;
+  margin-bottom: 0.4rem;
+}
+
+// --- Pull quotes ------------------------------------------------------------
+blockquote, .quote {
+  border-left: 3px solid $gold-soft;
+  background: transparent;
+  padding: 0.1rem 0 0.1rem 1.4rem;
+  margin: 1.8rem 0;
+  font-size: 1.06rem;
+  color: $ink-soft;
+  font-style: italic;
+
+  p:last-child { margin-bottom: 0; }
+
+  cite, .attrib {
+    display: block;
+    margin-top: 0.6rem;
+    font-style: normal;
+    font-family: $font-family-sans-serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $ink-faint;
+  }
+}
+
+// --- Lead paragraph ---------------------------------------------------------
+.lead {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: $ink-soft;
+}
+
+// --- Schedule table ---------------------------------------------------------
+table {
+  font-size: 0.95rem;
+  width: 100%;
+  border-collapse: collapse;
+
+  thead th {
+    font-family: $font-family-sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: $ink-faint;
+    border-bottom: 2px solid $ink;
+    padding: 0.5rem 0.7rem;
+    text-align: left;
+    vertical-align: bottom;
+  }
+
+  tbody td {
+    padding: 0.62rem 0.7rem;
+    border-bottom: 1px solid $rule;
+    vertical-align: top;
+  }
+
+  tbody tr:hover { background: rgba(154, 123, 50, 0.05); }
+}
+
+// Week number column
+td.wk, .wk {
+  font-family: $font-family-sans-serif;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: $gold;
+  width: 3.2rem;
+}
+
+// Paragraph-range cell
+.para {
+  font-family: $font-family-sans-serif;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.88rem;
+  white-space: nowrap;
+}
+
+.themes { color: $ink-soft; font-size: 0.93rem; }
+
+// --- Callouts ---------------------------------------------------------------
+div.callout {
+  border-radius: 2px;
+  border-left-width: 3px;
+}
+
+// --- Slide download button --------------------------------------------------
+.btn-slides {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.6rem 1.15rem;
+  border: 1px solid $ink;
+  color: $ink;
+  background: transparent;
+  transition: background 0.15s ease, color 0.15s ease;
+  margin: 0.3rem 0.5rem 0.3rem 0;
+
+  &:hover { background: $ink; color: $parchment; }
+
+  &.primary {
+    background: $ink;
+    color: $parchment;
+    &:hover { background: $gold; border-color: $gold; }
+  }
+}
+
+// --- Card grid --------------------------------------------------------------
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1.1rem;
+  margin: 1.8rem 0;
+}
+
+.card-tile {
+  border: 1px solid $rule;
+  border-top: 3px solid $gold-soft;
+  padding: 1.15rem 1.25rem;
+  background: rgba(255, 255, 255, 0.45);
+
+  h4 {
+    font-family: $font-family-serif;
+    font-size: 1.1rem;
+    margin: 0 0 0.4rem;
+  }
+
+  p {
+    font-size: 0.92rem;
+    color: $ink-soft;
+    margin: 0;
+  }
+}
+
+// --- Footer -----------------------------------------------------------------
+.nav-footer {
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem;
+  color: $ink-faint;
+  border-top: 1px solid $rule;
+  background: $parchment-2;
+}
+
+// --- Mobile -----------------------------------------------------------------
+@media (max-width: 767px) {
+  h1, .h1 { font-size: 1.85rem; }
+  h2, .h2 { font-size: 1.35rem; }
+
+  table { font-size: 0.88rem; }
+  table thead th, table tbody td { padding: 0.5rem 0.4rem; }
+
+  blockquote, .quote { padding-left: 1rem; font-size: 1rem; }
+}
+
+// --- Full-width pages with a constrained inner column -----------------------
+.wide {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 1.2rem;
+}
+
+// --- Schedule table column sizing -------------------------------------------
+table.schedule {
+  table-layout: fixed;
+
+  col, th, td { overflow-wrap: break-word; }
+
+  thead th:nth-child(1) { width: 3.4rem; }
+  thead th:nth-child(2) { width: 8.2rem; }
+  thead th:nth-child(3) { width: 5.6rem; }
+
+  td.date {
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+    color: $ink-soft;
+    font-size: 0.92rem;
+  }
+
+  td.date sup { color: $gold; font-weight: 600; }
+}
+
+@media (max-width: 640px) {
+  .wide { padding: 0 0.2rem; }
+
+  // Collapse to a stacked card per week on narrow screens.
+  table.schedule {
+    table-layout: auto;
+
+    thead { display: none; }
+
+    tbody tr {
+      display: block;
+      border-bottom: 1px solid $rule;
+      padding: 0.85rem 0.2rem 0.95rem;
+    }
+
+    tbody tr:hover { background: transparent; }
+
+    tbody td {
+      display: block;
+      border: none;
+      padding: 0;
+    }
+
+    td.wk {
+      width: auto;
+      font-size: 0.7rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+
+      &::before { content: "Week "; }
+    }
+
+    td.date {
+      display: inline-block;
+      font-size: 0.85rem;
+      margin-bottom: 0.35rem;
+    }
+
+    td.para {
+      display: inline-block;
+      margin-left: 0.6rem;
+      color: $gold;
+      font-weight: 600;
+
+      &::before { content: "¶ "; font-weight: 400; }
+    }
+
+    td.themes { margin-top: 0.15rem; font-size: 0.9rem; }
+  }
+}

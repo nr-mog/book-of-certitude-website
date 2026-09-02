@@ -1,0 +1,424 @@
+---
+title: "The Kitáb-i-Íqán"
+subtitle: "The Book of Certitude — why we study it"
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: c/t
+    progress: true
+    history: true
+    transition: fade
+    transition-speed: fast
+    background-transition: fade
+    center: false
+    width: 1200
+    height: 750
+    margin: 0.09
+    hash-type: number
+    footer: "Kitáb-i-Íqán Study"
+    link-external-newwindow: true
+    pdf-separate-fragments: false
+---
+
+##  {.divider}
+
+::: {.kicker}
+Part One
+:::
+
+::: {.divider-title}
+What is the Íqán?
+:::
+
+---
+
+## A Book revealed in answer to a question
+
+::: {.smaller}
+The **Kitáb-i-Íqán** — *the Book of Certitude* — was revealed by Bahá'u'lláh in **Baghdád in 1862**,
+in response to questions posed by one of the maternal uncles of the Báb.
+
+It was translated by Shoghi Effendi and first published in English in **1931**.
+:::
+
+::: {.fragment}
+> Revealed within the space of two days and two nights, in the closing years of that period
+> (1278 A.H.–1862 A.D.). It was written in fulfillment of the prophecy of the Báb, Who had
+> specifically stated that the Promised One would complete the text of the unfinished Persian Bayán.
+>
+> [Shoghi Effendi]{.attrib}
+:::
+
+---
+
+## The manuscript
+
+::: {.incremental}
+- Over **two hundred pages**, revealed in the space of **two days and two nights**
+- Revealed in **Persian**, with Arabic quotations, verses from the Qur'án and traditions of Islám
+- Transcribed by **ʻAbdu'l-Bahá**, then **eighteen years of age**, in His own hand
+- In the margins of several pages, **Bahá'u'lláh** made corrections in His own hand
+:::
+
+---
+
+##  {.divider}
+
+::: {.kicker}
+Part Two
+:::
+
+::: {.divider-title}
+The occasion
+:::
+
+::: {.divider-sub}
+One man's questions, and the Book that answered them
+:::
+
+---
+
+## The three maternal uncles of the Báb
+
+::: {.smaller}
+Brothers of His mother, Fátima-Begum.
+:::
+
+::: {.tiles}
+::: {.tile .marked}
+[Hájí Mírzá Siyyid Muḥammad]{.tile-name}
+[Khál-i-Akbar · the Greater Uncle]{.tile-epithet}
+The eldest of the three, and **the recipient of the Íqán**.
+:::
+
+::: {.tile}
+[Hájí Mírzá Siyyid ʻAlí]{.tile-name}
+[Khál-i-Aʻẓam · the Greatest Uncle]{.tile-epithet}
+The middle brother. Raised and cared for the Báb from childhood after His father's passing.
+Recognized His station at once and was the first to declare his faith after the Letters of the
+Living. Martyred as one of the Seven Martyrs of Ṭihrán.
+:::
+
+::: {.tile}
+[Hájí Mírzá Ḥasan ‘Alí]{.tile-name}
+[Khál-i-Aṣghar · the younger uncle]{.tile-epithet}
+The youngest of the three brothers.
+:::
+:::
+
+---
+
+## The admirer who could not believe
+
+::: {.smaller}
+Before His declaration, the Báb was in **Bushihr**, occupied in business with His three uncles. He
+left for **Shíráz** accompanied by Khál-i-Aʻẓam, and declared His Mission there in **1844**.
+
+Khál-i-Akbar continued to run the family business at Bushihr. Travelling to Mecca and returning,
+the Báb stayed at this uncle's home — and the uncle witnessed a great transformation of spirit
+in his Nephew.
+:::
+
+::: {.fragment}
+> [I am] pleased to be in the presence of his Nephew Whose bountiful soul is the source of
+> felicity for the people of the world and the next.
+>
+> [Khál-i-Akbar, writing to the Báb's mother]{.attrib}
+:::
+
+::: {.fragment .smaller}
+And yet he **never accepted Him as the Promised One of Islám** — not until he met Bahá'u'lláh in
+Baghdád in 1862. Several believers had tried to dispel his doubts, without success: he did not
+believe his Nephew had fulfilled certain Islamic traditions.
+:::
+
+---
+
+## The journey to Baghdád
+
+::: {.incremental .smaller}
+- **1850** — the martyrdom of the Báb and of His uncle Khál-i-Aʻẓam brings immense grief to the
+  family. Fátima-Begum, unable to remain in Shíráz, takes up residence in **Karbilá**.
+- **Áqá Mírzá Núru'd-Dín**, of the Afnán family, in a series of discussions persuades Khál-i-Akbar
+  to travel to Baghdád, meet Bahá'u'lláh, and put his questions to Him directly.
+- He invites his younger brother to accompany him on pilgrimage to the Shrines of Iraq — but does
+  not tell him the real purpose until they arrive. His brother, on hearing it, speaks very harshly
+  to him.
+- So they visit the Shrines first. It is on the **return to Baghdád** that Hájí Mírzá Javád-i-Karbalá'í
+  takes him to the house of Bahá'u'lláh, where he attains His presence **alone**.
+:::
+
+---
+
+## "Bring me your questions"
+
+::: {.smaller}
+Overwhelmed and uplifted as he sat in His presence, Khál-i-Akbar asked Bahá'u'lláh to clarify the
+truth of the Báb's Message — presuming in his mind that certain traditions of Islám concerning
+the Promised Qá'im had not been fulfilled by his Nephew.
+
+Bahá'u'lláh readily consented, and bade him **go home, consider carefully, and make a list of the
+questions that had puzzled him** together with all the Islamic traditions that had bred his doubts.
+:::
+
+::: {.fragment}
+> [He wrote to his son of his] wonder and regret that people who miss being in Bahá'u'lláh's
+> bounteous presence are at a grievous loss.
+>
+> [After the first meeting]{.attrib}
+:::
+
+---
+
+## The four questions
+
+The questions were written on two sheets in his own hand, under four headings — all dealing with
+the coming of the Promised Qá'im.
+
+::: {.questions}
+1. **The Day of Resurrection.** Is there to be a corporeal resurrection? The world is replete with
+   injustice — how are the just to be requited and the unjust punished?
+2. **The twelfth Imám** was born at a certain time and lives on. There are traditions, all supporting
+   the belief. How can this be explained?
+3. **Interpretation of the holy texts.** This Cause does not seem to conform to the beliefs held
+   throughout the years. One cannot ignore the literal meaning of the holy texts and scriptures.
+4. **Certain events** must occur at the advent of the Qá'im, according to the traditions handed down
+   from the Imáms. But none of these has happened. How can this be explained?
+:::
+
+---
+
+## Two days and two nights
+
+::: {.smaller}
+Within two days and two nights the Kitáb-i-Íqán was revealed, answering all of his questions — and
+solving, along the way, a great many misunderstood and misinterpreted questions belonging to
+**all** religions.
+:::
+
+::: {.fragment .smaller}
+The Book dispelled every doubt Khál-i-Akbar had harboured. He reached the stage of **certitude**
+and recognized the station of the Báb. Later he also accepted Bahá'u'lláh as *"Him Whom God shall
+make manifest"* — as was confirmed in his will.
+:::
+
+::: {.fragment}
+::: {.label}
+The point
+:::
+::: {.smaller}
+A book written to answer one man's honest doubts turned out to answer the doubts of everyone who
+would come after him.
+:::
+:::
+
+---
+
+##  {.divider}
+
+::: {.kicker}
+Part Three
+:::
+
+::: {.divider-title}
+Why should we study it?
+:::
+
+---
+
+##  {.center}
+
+> In fact, all the Scriptures and the mysteries thereof are condensed into this brief account.
+> So much so, that were a person to ponder it a while in his heart, he would discover from all
+> that hath been said the mysteries of the Words of God, and would apprehend the meaning of
+> whatever hath been manifested by that ideal King.
+>
+> [Bahá'u'lláh]{.attrib}
+
+---
+
+## Shoghi Effendi on the Íqán
+
+> The Íqán is the most important book written on the spiritual significance of the Cause. I do
+> not believe any person can consider himself well versed in the teachings unless he has studied
+> it thoroughly.
+
+::: {.fragment}
+> The book is so important that the most minute detail is worthy of consideration.
+:::
+
+::: {.fragment}
+> Of special importance is the Book of the Íqán which explains the attitude of the Cause towards
+> the prophets of God and their mission in the history of society.
+:::
+
+---
+
+## A key, not a conclusion
+
+> The Sacred Books are full of allusions to this new dispensation. In the book of Íqán,
+> Bahá'u'lláh gives the **key-note** and explains some of the outstanding passages hoping that
+> the friends will **continue to study the Sacred Books by themselves** and unfold the mysteries
+> found therein.
+>
+> [Shoghi Effendi]{.attrib}
+
+::: {.fragment .smaller}
+> The one who ponders over that book and grasps its full significance will obtain a clear insight
+> into the old scriptures and appreciate the true mission of the Báb and Bahá'u'lláh.
+>
+> [Shoghi Effendi]{.attrib}
+:::
+
+---
+
+##  {.divider}
+
+::: {.kicker}
+Part Four
+:::
+
+::: {.divider-title}
+What is inside
+:::
+
+::: {.divider-sub}
+Shoghi Effendi's overview
+:::
+
+---
+
+## Its place in the Writings
+
+> **Foremost** among the priceless treasures cast forth from the billowing ocean of Bahá'u'lláh's
+> Revelation ranks the Kitáb-i-Íqán.
+
+::: {.fragment}
+> A model of Persian prose, of a style at once original, chaste and vigorous, and remarkably
+> lucid, both cogent in argument and matchless in its irresistible eloquence.
+:::
+
+::: {.fragment}
+> Setting forth in outline the Grand Redemptive Scheme of God, [it] occupies a position
+> **unequalled by any work in the entire range of Bahá'í literature, except the Kitáb-i-Aqdas**,
+> Bahá'u'lláh's Most Holy Book.
+:::
+
+::: {.fragment .tiny}
+Revealed on the eve of the declaration of His Mission, it proffered to mankind the "Choice Sealed
+Wine," whose seal is of "musk," and broke the "seals" of the "Book" referred to by Daniel.
+:::
+
+---
+
+## Within a compass of two hundred pages
+
+::: {.incremental .tight .dense}
+- **Proclaims** the existence and oneness of a personal God — unknowable, inaccessible, the source
+  of all Revelation, eternal, omniscient, omnipresent and almighty
+- **Asserts** the relativity of religious truth and the continuity of Divine Revelation
+- **Affirms** the unity of the Prophets, the universality of their Message, the identity of their
+  fundamental teachings, the sanctity of their scriptures, and the **twofold character of their stations**
+- **Denounces** the blindness and perversity of the divines and doctors of every age
+- **Cites and elucidates** the allegorical passages of the New Testament, the abstruse verses of
+  the Qur'án, and the cryptic Muḥammadan traditions
+- **Enumerates** the essential prerequisites for the attainment by every true seeker of the object
+  of his quest
+- **Demonstrates** the validity, the sublimity and significance of the Báb's Revelation
+- **Unfolds** the meaning of such symbolic terms as "Return," "Resurrection," "Seal of the
+  Prophets" and "Day of Judgment"
+- **Distinguishes** between the three stages of Divine Revelation
+- **Expatiates** upon the glories and wonders of the "City of God"
+:::
+
+---
+
+## The claim {.center}
+
+> Well may it be claimed that of all the books revealed by the Author of the Bahá'í Revelation,
+> **this Book alone**, by sweeping away the age-long barriers that have so insurmountably separated
+> the great religions of the world, has laid down a broad and unassailable foundation for the
+> complete and permanent reconciliation of their followers.
+>
+> [Shoghi Effendi]{.attrib}
+
+---
+
+##  {.divider}
+
+::: {.kicker}
+Part Five
+:::
+
+::: {.divider-title}
+How we will study it
+:::
+
+---
+
+## Goals
+
+::: {.incremental}
+1. To develop the **tools and confidence** to read the Writings by yourself
+2. To advance in our understanding of **core Bahá'í beliefs and worldview** — and how to explain
+   them to others
+3. To appreciate the **significance of the Íqán**, and how it can inform our service and our life
+   in general
+:::
+
+---
+
+## Format
+
+::: {.incremental .smaller}
+- Most of our time goes to **discussing and reflecting on the text of the Book**
+- Part of each session is given to the paragraphs assigned for that week; part to reading and
+  reflecting together on selected paragraphs brought to the session
+- We can supplement the study with other activities, games or art based on your ideas — let me know
+- Further resources for anyone who wants to explore a topic further
+- A **break** in the middle of each session
+:::
+
+---
+
+## What we ask of each other
+
+::: {.incremental .smaller}
+- Contribute to an **open and welcoming environment**, respecting other people in the group
+- Come having **read the paragraphs**, having made an honest attempt to engage with the text and
+  reflect on its meaning
+- **Ask** any questions you have, and respond to the comments and questions others make
+- Be open to **changing your mind** if you find someone else's idea better than yours — and make
+  your best effort to state your view if you disagree
+- Phones for study purposes only — looking up a definition, accessing material
+:::
+
+::: {.fragment}
+::: {.label}
+And
+:::
+You are **not expected to understand everything** we read. That is why we are studying together.
+:::
+
+---
+
+## The road ahead
+
+::: {.smaller}
+**Fourteen sessions. Paragraphs 1 through 290.** From the conditions of the true seeker, through
+the symbolic language of "oppression" and "sun, moon and stars," through resurrection and return
+and the twofold station of the Manifestations, to the proofs of the Revelation of the Báb.
+:::
+
+::: {.fragment}
+[See the full schedule →](../schedule.qmd){.smaller}
+:::
+
+---
+
+##  {.finale}
+
+> They that tread the path of faith, they that thirst for the wine of certitude, must cleanse
+> themselves of all that is earthly.
+>
+> [Bahá'u'lláh, Kitáb-i-Íqán ¶2]{.attrib}

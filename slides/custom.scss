@@ -1,0 +1,296 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap');
+
+$parchment:   #faf7f0;
+$ink:         #1c2331;
+$ink-soft:    #414b5c;
+$ink-faint:   #6f7889;
+$gold:        #9a7b32;
+$gold-soft:   #c4a662;
+
+$body-bg:     $parchment;
+$body-color:  $ink;
+$link-color:  $gold;
+$link-color-hover: $ink;
+$selection-bg: rgba(196, 166, 98, 0.35);
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+$mainFont:      "EB Garamond", Iowan Old Style, Palatino, Georgia, serif;
+$headingFont:   "EB Garamond", Iowan Old Style, Palatino, Georgia, serif;
+
+$presentation-font-size-root: 34px;
+$presentation-line-height: 1.5;
+
+$presentation-heading-font: $headingFont;
+$presentation-heading-color: $ink;
+$presentation-heading-font-weight: 500;
+$presentation-h1-font-size: 2.0em;
+$presentation-h2-font-size: 1.45em;
+$presentation-h3-font-size: 1.1em;
+$presentation-title-slide-text-align: left;
+
+$code-block-font-size: 0.7em;
+
+/*-- scss:rules --*/
+
+.reveal {
+  letter-spacing: 0.002em;
+}
+
+.reveal h2 {
+  letter-spacing: -0.005em;
+  margin-bottom: 0.7em;
+}
+
+.reveal h3 {
+  color: $ink-soft;
+}
+
+// --- Title slide ------------------------------------------------------------
+#title-slide {
+  text-align: left;
+
+  .title {
+    font-size: 2.35em;
+    line-height: 1.05;
+    margin-bottom: 0.1em;
+  }
+
+  .subtitle {
+    font-style: italic;
+    color: $ink-soft;
+    font-size: 1.05em;
+    margin-bottom: 1.1em;
+  }
+
+  .quarto-title-author,
+  .institute,
+  .date {
+    font-family: $font-family-sans-serif;
+    font-size: 0.5em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $ink-faint;
+  }
+}
+
+// --- Section-break slides ---------------------------------------------------
+// Built from divs, not headings: an h1 in reveal.js opens a nested vertical
+// stack, which would turn the deck into a 2-D grid instead of one sequence.
+.reveal section.divider,
+.reveal section.finale {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+
+  // The empty h2 that carries the slide's class
+  > h2 { display: none; }
+}
+
+.reveal section.divider {
+  .kicker {
+    font-family: $font-family-sans-serif;
+    font-size: 0.46em;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: $gold;
+    margin-bottom: 0.5em;
+  }
+
+  .divider-title {
+    font-family: $headingFont;
+    font-size: 2.1em;
+    font-weight: 500;
+    line-height: 1.08;
+    letter-spacing: -0.01em;
+    color: $ink;
+  }
+
+  .divider-sub {
+    font-family: $headingFont;
+    font-size: 1.0em;
+    font-style: italic;
+    color: $ink-faint;
+    margin-top: 0.5em;
+  }
+}
+
+// Closing slide: one quote, vertically centred, no heading.
+.reveal section.finale {
+  blockquote {
+    font-size: 1.2em;
+    line-height: 1.4;
+    max-width: 24em;
+  }
+}
+
+// --- Scripture quotes -------------------------------------------------------
+.reveal blockquote {
+  border-left: 3px solid $gold-soft;
+  background: transparent;
+  box-shadow: none;
+  width: 100%;
+  margin: 0.6em 0;
+  padding: 0.15em 0 0.15em 1.1em;
+  font-style: italic;
+  color: $ink-soft;
+  line-height: 1.45;
+
+  p:last-child { margin-bottom: 0; }
+}
+
+// Big centred pull-quote for a whole slide
+.reveal .pullquote {
+  font-size: 1.15em;
+  line-height: 1.4;
+  font-style: italic;
+  color: $ink;
+  border: none;
+  padding: 0;
+  max-width: 22em;
+  margin: 0.5em auto;
+  text-align: left;
+}
+
+.reveal .attrib {
+  display: block;
+  margin-top: 0.7em;
+  font-family: $font-family-sans-serif;
+  font-style: normal;
+  font-size: 0.5em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $ink-faint;
+}
+
+// --- Lists ------------------------------------------------------------------
+.reveal ul, .reveal ol { margin-left: 0.5em; }
+.reveal li { margin-bottom: 0.42em; }
+.reveal ul li::marker { color: $gold-soft; }
+.reveal ol li::marker { color: $gold; font-family: $font-family-sans-serif; font-size: 0.85em; }
+
+// Tight list for dense slides
+.reveal .tight li { margin-bottom: 0.16em; }
+
+// --- Emphasis ---------------------------------------------------------------
+.reveal strong { color: $ink; font-weight: 600; }
+.reveal em { font-style: italic; }
+
+// A small sans-serif label
+.reveal .label {
+  font-family: $font-family-sans-serif;
+  font-size: 0.48em;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: $gold;
+}
+
+// --- Uncle / fact cards -----------------------------------------------------
+.reveal .tiles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.9em;
+  margin-top: 0.6em;
+}
+
+.reveal .tile {
+  border-top: 3px solid $gold-soft;
+  padding-top: 0.6em;
+  font-size: 0.72em;
+  line-height: 1.4;
+
+  .tile-name {
+    font-weight: 600;
+    display: block;
+    margin-bottom: 0.15em;
+  }
+
+  .tile-epithet {
+    font-family: $font-family-sans-serif;
+    font-size: 0.72em;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: $ink-faint;
+    display: block;
+    margin-bottom: 0.5em;
+  }
+
+  p { margin: 0; color: $ink-soft; }
+}
+
+// Highlight the uncle who received the Book
+.reveal .tile.marked {
+  border-top-color: $ink;
+  .tile-name { color: $gold; }
+}
+
+// --- Numbered question list -------------------------------------------------
+.reveal .questions {
+  counter-reset: q;
+  list-style: none;
+  margin-left: 0;
+
+  li {
+    counter-increment: q;
+    position: relative;
+    padding-left: 2.1em;
+    margin-bottom: 0.6em;
+    font-size: 0.82em;
+    line-height: 1.4;
+    color: $ink-soft;
+  }
+
+  li::before {
+    content: counter(q);
+    position: absolute;
+    left: 0;
+    top: 0.05em;
+    font-family: $font-family-sans-serif;
+    font-size: 0.85em;
+    font-weight: 600;
+    color: $gold;
+    border: 1px solid $gold-soft;
+    width: 1.7em;
+    height: 1.7em;
+    line-height: 1.6em;
+    text-align: center;
+    border-radius: 50%;
+  }
+
+  li strong { color: $ink; display: block; }
+}
+
+// --- Footer / progress ------------------------------------------------------
+.reveal .slide-number {
+  font-family: $font-family-sans-serif;
+  font-size: 0.55em;
+  color: $ink-faint;
+  background: transparent;
+}
+
+.reveal .progress {
+  color: $gold;
+  height: 3px;
+}
+
+.reveal .footer {
+  font-family: $font-family-sans-serif;
+  font-size: 0.42em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $ink-faint;
+}
+
+// --- Smaller / dense variants ----------------------------------------------
+.reveal .smaller { font-size: 0.78em; }
+.reveal .dense   { font-size: 0.72em; line-height: 1.38; }
+.reveal .tiny    { font-size: 0.62em; line-height: 1.4; }
+
+// --- Print (PDF export) -----------------------------------------------------
+@media print {
+  .reveal .slide-number { display: none; }
+}

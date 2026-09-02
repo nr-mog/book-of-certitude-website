@@ -1,0 +1,154 @@
+---
+title: "Schedule"
+subtitle: "Fourteen sessions, paragraphs 1–290"
+toc: false
+page-layout: full
+---
+
+::: {.wide}
+
+::: {.lead}
+The study moves through the whole of the Kitáb-i-Íqán in fourteen sessions. Each week
+covers an assigned span of paragraphs; come having read them and having made an honest
+attempt to engage with the text.
+:::
+
+You are not expected to understand everything we read — that is why we study together.
+
+## The fourteen sessions
+
+```{=html}
+<table class="schedule">
+  <thead>
+    <tr>
+      <th>Wk</th>
+      <th>Date</th>
+      <th>Reading</th>
+      <th>What we take up</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="wk">1</td>
+      <td class="date">10 Sep 2025</td>
+      <td class="para">—</td>
+      <td class="themes">Introductions · Goals, format and expectations · What the Íqán is · Why we study it · Shoghi Effendi’s overview</td>
+    </tr>
+    <tr>
+      <td class="wk">2</td>
+      <td class="date">17 Sep 2025</td>
+      <td class="para">1–23</td>
+      <td class="themes">Requirements of a true seeker · Denial of the Manifestations of God · Understanding the Word of God · The concept of Return</td>
+    </tr>
+    <tr>
+      <td class="wk">3</td>
+      <td class="date">24 Sep 2025</td>
+      <td class="para">24–50</td>
+      <td class="themes">The meaning of “oppression” · “Sun,” “moon” and “stars” · The cleaving of heaven and changing of earth · Literal vs. symbolic reading · Types of Prophets</td>
+    </tr>
+    <tr>
+      <td class="wk">4</td>
+      <td class="date">1 Oct 2025</td>
+      <td class="para">51–73</td>
+      <td class="themes">Tests and the purpose of symbolic language · The strange ways of the Manifestations · Signs in the visible and invisible heaven · The Intermediary</td>
+    </tr>
+    <tr>
+      <td class="wk">5</td>
+      <td class="date">8 Oct 2025</td>
+      <td class="para">74–101</td>
+      <td class="themes">Figurative vs. literal interpretation · The metaphorical genitive · Seeing with the eye of the heart · The messianic secret</td>
+    </tr>
+    <tr>
+      <td class="wk">6</td>
+      <td class="date">15 Oct 2025</td>
+      <td class="para">102–124</td>
+      <td class="themes">The relationship between understanding and practice · Manifestation · Sovereignty · Seeing with the eye of the heart</td>
+    </tr>
+    <tr>
+      <td class="wk">7</td>
+      <td class="date">22 Oct 2025</td>
+      <td class="para">125–146</td>
+      <td class="themes">“Ye must be born again” · Sensible and intelligible realities · Sovereignty and sacrifice · Wealth</td>
+    </tr>
+    <tr>
+      <td class="wk">8</td>
+      <td class="date">3 Nov 2025</td>
+      <td class="para">147–169</td>
+      <td class="themes">Claims of finality · Attainment to the divine presence · The three stages of divine Revelation · Return of the Prophets and their companions · The twofold station</td>
+    </tr>
+    <tr>
+      <td class="wk">9</td>
+      <td class="date">10 Nov 2025</td>
+      <td class="para">170–198</td>
+      <td class="themes">The twofold station of the Manifestations, continued · “First and last” · Seal of the Prophets</td>
+    </tr>
+    <tr>
+      <td class="wk">10</td>
+      <td class="date"><em>see note</em><sup>†</sup></td>
+      <td class="para">199–219</td>
+      <td class="themes">Conditions of a true seeker · Evidences of an unyielding cruelty · Ḥájí Karím Khán · The story of the Miʻráj · The Most Glorious Veil</td>
+    </tr>
+    <tr>
+      <td class="wk">11</td>
+      <td class="date">10 Dec 2025</td>
+      <td class="para">220–239</td>
+      <td class="themes">Why the Manifestations appear in human form · Shoghi Effendi’s letters to Dr. Alain Locke</td>
+    </tr>
+    <tr>
+      <td class="wk">12</td>
+      <td class="date">7 Jan 2026</td>
+      <td class="para">240–254</td>
+      <td class="themes">The abundance of verses · Proofs of the Revelation of the Báb</td>
+    </tr>
+    <tr>
+      <td class="wk">13</td>
+      <td class="date">14 Jan 2026</td>
+      <td class="para">255–274</td>
+      <td class="themes">Proofs of the Revelation of the Báb · Selections from the Writings of the Báb</td>
+    </tr>
+    <tr>
+      <td class="wk">14</td>
+      <td class="date">28 Jan 2026</td>
+      <td class="para">275–290</td>
+      <td class="themes">The Epistle to the Son of the Wolf · The Kitáb-i-Aqdas</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+::: {.callout-note appearance="simple" collapse="true"}
+## † A note on the Week 10 date
+
+The Week 10 handout carries the heading *“Week 9 | 10 November 2025”* — a copy of the
+previous week's header. The session's reading (¶199–219) confirms it is the tenth session,
+but its actual date isn't recorded in the materials. Fill it in on this page when you have it.
+:::
+
+## How each session runs
+
+Most of our time goes to discussing and reflecting on the text itself. Part of the session is
+given to the paragraphs assigned for that week; part to reading and reflecting together on
+selected paragraphs brought to the session. There is a break in the middle.
+
+## What to bring
+
+::: {.cards}
+::: {.card-tile}
+#### The reading, done
+Come having read the assigned paragraphs and having made an honest attempt to engage with
+the text and reflect on its meaning.
+:::
+
+::: {.card-tile}
+#### Your questions
+Ask anything you have about the material, and respond to the comments and questions others make.
+:::
+
+::: {.card-tile}
+#### An open mind
+Be willing to change your mind if you find someone else's idea better than yours — and make
+your best effort to state your view if you disagree.
+:::
+:::
+
+:::
