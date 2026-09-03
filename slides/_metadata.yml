@@ -1,0 +1,19 @@
+# Applies to every .qmd in this directory, so decks only declare their own
+# title and content. File-level `format:` still overrides this.
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: c/t
+    progress: true
+    history: true
+    transition: fade
+    transition-speed: fast
+    background-transition: fade
+    center: false
+    width: 1200
+    height: 750
+    margin: 0.09
+    hash-type: number
+    footer: "Kitáb-i-Íqán Study"
+    link-external-newwindow: true
+    pdf-separate-fragments: false

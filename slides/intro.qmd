@@ -1,23 +1,6 @@
 ---
 title: "The Kitáb-i-Íqán"
 subtitle: "The Book of Certitude — why we study it"
-format:
-  revealjs:
-    theme: [default, custom.scss]
-    slide-number: c/t
-    progress: true
-    history: true
-    transition: fade
-    transition-speed: fast
-    background-transition: fade
-    center: false
-    width: 1200
-    height: 750
-    margin: 0.09
-    hash-type: number
-    footer: "Kitáb-i-Íqán Study"
-    link-external-newwindow: true
-    pdf-separate-fragments: false
 ---
 
 ##  {.divider}

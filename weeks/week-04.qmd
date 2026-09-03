@@ -1,0 +1,23 @@
+---
+title: "Week 4"
+subtitle: "30 September 2026 · Paragraphs 51–73"
+toc: false
+---
+
+::: {.callout-note appearance="simple"}
+Materials for this session will be posted here.
+:::
+
+## Reflections or questions
+
+- What stood out to you in this section?
+- Any questions about the passages?
+- Were there any words, phrases, or concepts you didn't understand?
+
+## Passages
+
+*Paragraphs 51–73.*
+
+::: {.source-note}
+[Back to the schedule](../schedule.qmd)
+:::

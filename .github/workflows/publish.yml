@@ -46,8 +46,11 @@ jobs:
             sleep 1
           done
 
-          for deck in slides/*.qmd; do
-            name="$(basename "$deck" .qmd)"
+          # Only decks offered as a download need a PDF. The per-week decks
+          # are presented live from the site, so exporting all of them would
+          # add ~12 near-empty PDFs and minutes to every push. Add a name here
+          # to start exporting it.
+          for name in intro; do
             chrome --headless=new --disable-gpu --no-sandbox --hide-scrollbars \
               --virtual-time-budget=20000 \
               --run-all-compositor-stages-before-draw \

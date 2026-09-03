@@ -1,0 +1,23 @@
+---
+title: "Week 12"
+subtitle: "2 December 2026"
+---
+
+##  {.divider}
+
+::: {.kicker}
+Week 12
+:::
+::: {.divider-title}
+Reading to be confirmed
+:::
+
+---
+
+## Reflections or questions
+
+::: {.incremental}
+- What stood out to you in this section?
+- Any questions about the passages?
+- Were there any words, phrases, or concepts you didn't understand?
+:::

@@ -1,0 +1,23 @@
+---
+title: "Week 13"
+subtitle: "9 December 2026"
+---
+
+##  {.divider}
+
+::: {.kicker}
+Week 13
+:::
+::: {.divider-title}
+Reading to be confirmed
+:::
+
+---
+
+## Reflections or questions
+
+::: {.incremental}
+- What stood out to you in this section?
+- Any questions about the passages?
+- Were there any words, phrases, or concepts you didn't understand?
+:::

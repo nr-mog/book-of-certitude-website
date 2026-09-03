@@ -1,0 +1,23 @@
+---
+title: "Week 7"
+subtitle: "21 October 2026 · Paragraphs 125–146"
+toc: false
+---
+
+::: {.callout-note appearance="simple"}
+Materials for this session will be posted here.
+:::
+
+## Reflections or questions
+
+- What stood out to you in this section?
+- Any questions about the passages?
+- Were there any words, phrases, or concepts you didn't understand?
+
+## Passages
+
+*Paragraphs 125–146.*
+
+::: {.source-note}
+[Back to the schedule](../schedule.qmd)
+:::

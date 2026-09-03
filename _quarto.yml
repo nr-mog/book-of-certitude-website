@@ -4,6 +4,7 @@ project:
   render:
     - "*.qmd"
     - "slides/*.qmd"
+    - "weeks/*.qmd"
 
 website:
   title: "Kitáb-i-Íqán Study"

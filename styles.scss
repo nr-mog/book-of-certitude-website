@@ -635,3 +635,41 @@ a[role="doc-noteref"] {
 
   .active { color: $gold !important; }
 }
+
+// --- Materials column -------------------------------------------------------
+table.schedule td.mats {
+  white-space: nowrap;
+  padding-top: 0.5rem;
+}
+
+a.mat {
+  display: inline-block;
+  font-family: $font-family-sans-serif;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: $ink-soft;
+  border: 1px solid $rule;
+  padding: 0.22rem 0.55rem;
+  margin: 0 0.28rem 0.2rem 0;
+  transition: background 0.14s ease, color 0.14s ease, border-color 0.14s ease;
+
+  &:hover {
+    background: $ink;
+    border-color: $ink;
+    color: $parchment;
+  }
+}
+
+@media (max-width: 560px) {
+  table.schedule td.mats {
+    display: block;
+    white-space: normal;
+    margin-top: 0.45rem;
+    padding-top: 0;
+  }
+
+  a.mat { font-size: 0.64rem; }
+}

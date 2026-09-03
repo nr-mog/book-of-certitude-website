@@ -1,0 +1,23 @@
+---
+title: "Week 2"
+subtitle: "16 September 2026 · Paragraphs 1–23"
+---
+
+##  {.divider}
+
+::: {.kicker}
+Week 2
+:::
+::: {.divider-title}
+Paragraphs 1–23
+:::
+
+---
+
+## Reflections or questions
+
+::: {.incremental}
+- What stood out to you in this section?
+- Any questions about the passages?
+- Were there any words, phrases, or concepts you didn't understand?
+:::

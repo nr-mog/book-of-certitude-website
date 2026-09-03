@@ -28,8 +28,8 @@ for _ in $(seq 1 30); do
   sleep 1
 done
 
-for deck in slides/*.qmd; do
-  name="$(basename "$deck" .qmd)"
+# Keep this list in step with .github/workflows/publish.yml.
+for name in intro; do
   echo "→ Exporting $name…"
   npx -y decktape reveal \
     --size 1200x750 \
