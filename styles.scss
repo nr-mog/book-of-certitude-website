@@ -894,3 +894,63 @@ h3.notes-group {
   .note-num { width: 1.6rem; font-size: 0.68rem; }
   .note-row.has-note::before { left: 1.75rem; }
 }
+
+// --- Ask about this paragraph -----------------------------------------------
+.note-ask {
+  margin-top: 0.35rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  min-height: 1.4rem;
+}
+
+.ask-btn {
+  font-family: $font-family-sans-serif;
+  font-size: 0.64rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  background: transparent;
+  border: 1px solid transparent;
+  padding: 0.15rem 0.4rem;
+  cursor: pointer;
+  transition: color 0.14s ease, border-color 0.14s ease;
+
+  &:hover { color: $gold; border-color: $rule; }
+}
+
+// The paste targets only appear once the prompt is on the clipboard.
+.ask-targets {
+  display: none;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.66rem;
+}
+
+.note-ask.copied {
+  .ask-targets { display: inline-flex; }
+  .ask-btn { color: $gold; }
+}
+
+.ask-copied {
+  color: $gold;
+  letter-spacing: 0.04em;
+}
+
+.ask-targets a {
+  color: $ink-soft;
+  text-decoration: underline;
+  text-decoration-color: $gold-soft;
+  text-underline-offset: 2px;
+
+  &:hover { color: $gold; }
+}
+
+@media (max-width: 560px) {
+  .ask-btn { font-size: 0.6rem; }
+  .ask-targets { font-size: 0.62rem; }
+}

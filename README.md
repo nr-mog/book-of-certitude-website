@@ -170,6 +170,24 @@ attribution but not republishing full texts, so the translation is not bundled h
 it, write to termsofuse@bahai.org; if permission is granted, filling in that file lights up
 inline text with no code changes.
 
+### Ask about this paragraph
+
+Each paragraph row has a button that copies a study prompt to the clipboard, then offers Claude,
+ChatGPT and Gemini as places to paste it. No API key, no proxy, no cost — each reader uses their
+own account.
+
+Clipboard rather than a deep link, deliberately. `claude://claude.ai/new?q=` needs the desktop
+app installed; the mobile `claude://` scheme opens the Code tab and requires Claude Code access;
+and `https://claude.ai/new?q=` is not a documented parameter and has been reported broken. Since
+most of the group reads on phones, a deep link would fail for most of them. Copying works
+everywhere and with any assistant.
+
+The prompt is built in `buildPrompt()` in `_includes/notes.html`. It asks for definitions,
+allusions and context, and explicitly tells the model to flag contested meanings rather than
+settle them, noting that authoritative interpretation belongs only to ʻAbdu'l-Bahá and Shoghi
+Effendi. Edit that function to change what gets asked. If `data/paragraphs.json` has text for
+the paragraph it is included in the prompt; otherwise the prompt points at bahai.org.
+
 ### The storage caveat
 
 `localStorage` is not durable. Clearing browser data wipes it, it does not sync between devices,

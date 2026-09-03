@@ -55,6 +55,96 @@
     };
   };
 
+
+  /* --- "Ask about this paragraph" ---------------------------------------
+     Deep links are unreliable for this audience: claude://claude.ai/new?q=
+     needs the desktop app, the mobile scheme opens the Code tab, and
+     https://claude.ai/new?q= is not a documented parameter. Copying to the
+     clipboard works on every device and with any assistant, so that is the
+     primary action and the links are just somewhere to paste.
+  --------------------------------------------------------------------- */
+  var IQAN_URL = 'https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/';
+
+  function buildPrompt(n, text) {
+    var lines = [
+      "I'm studying the Kitáb-i-Íqán (the Book of Certitude) by Bahá'u'lláh, " +
+      "revealed in Baghdád in 1862. I'm looking at paragraph " + n + ".",
+      ''
+    ];
+    if (text) {
+      lines.push('Here is the passage:', '', '"""', text, '"""', '');
+    } else {
+      lines.push('You can find the text at ' + IQAN_URL + ' — paragraph ' + n + '.', '');
+    }
+    lines.push(
+      'Please help me read it more closely:',
+      '',
+      '- Define any unfamiliar or archaic words',
+      '- Identify allusions to the Bible, the Qur\u2019án or Islamic tradition, and say where they come from',
+      '- Explain how this connects to the surrounding argument',
+      '',
+      'Please quote the words you are discussing and cite paragraph numbers. Where the ' +
+      'meaning is contested or turns on interpretation, say so rather than settling it — ' +
+      'and note that in the Bahá\u2019í Writings authoritative interpretation belongs only to ' +
+      '\u02bbAbdu\u2019l-Bahá and Shoghi Effendi. I want help reading the text for myself, ' +
+      'not conclusions handed to me.'
+    );
+    return lines.join('\n');
+  }
+
+  function copyText(str) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(str);
+    }
+    // Fallback for browsers without the async clipboard API
+    return new Promise(function (resolve, reject) {
+      var ta = document.createElement('textarea');
+      ta.value = str;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'absolute';
+      ta.style.left = '-9999px';
+      document.body.appendChild(ta);
+      ta.select();
+      var ok = false;
+      try { ok = document.execCommand('copy'); } catch (e) {}
+      document.body.removeChild(ta);
+      ok ? resolve() : reject();
+    });
+  }
+
+  function askControls(n, text) {
+    var wrap = document.createElement('div');
+    wrap.className = 'note-ask';
+
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'ask-btn';
+    btn.textContent = 'Ask about this paragraph';
+    wrap.appendChild(btn);
+
+    var targets = document.createElement('span');
+    targets.className = 'ask-targets';
+    targets.innerHTML =
+      '<span class="ask-copied">Prompt copied — paste it into</span>' +
+      '<a href="https://claude.ai/new" target="_blank" rel="noopener">Claude</a>' +
+      '<a href="https://chatgpt.com/" target="_blank" rel="noopener">ChatGPT</a>' +
+      '<a href="https://gemini.google.com/app" target="_blank" rel="noopener">Gemini</a>';
+    wrap.appendChild(targets);
+
+    var timer;
+    btn.addEventListener('click', function () {
+      copyText(buildPrompt(n, text)).then(function () {
+        wrap.classList.add('copied');
+        clearTimeout(timer);
+        timer = setTimeout(function () { wrap.classList.remove('copied'); }, 12000);
+      }).catch(function () {
+        btn.textContent = 'Could not copy — select the text manually';
+      });
+    });
+
+    return wrap;
+  }
+
   /* --- one paragraph row ------------------------------------------------- */
   function row(n, text) {
     var wrap = document.createElement('div');
@@ -84,6 +174,8 @@
     var flag = document.createElement('span');
     flag.className = 'note-saved';
     wrap.appendChild(flag);
+
+    wrap.appendChild(askControls(n, text));
 
     var commit = debounce(function () {
       var ok = save(n, ta.value);

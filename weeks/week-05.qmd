@@ -24,6 +24,10 @@ Materials for this session will be posted here.
 Write as you read. Notes save automatically and stay **in this browser on this device** —
 nothing is sent anywhere and no one else can see them. Keep a copy from the
 [My notes](../notes.qmd) page if they matter to you.
+
+"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
+ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
+interpreted for you.
 :::
 
 ```{=html}
