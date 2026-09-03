@@ -18,6 +18,29 @@ another device, and **iOS Safari can discard them after about a week without a v
 Export them regularly. It takes one click.
 :::
 
+## Add a note
+
+```{=html}
+<form id="add-note-form" class="add-note-form">
+  <div class="add-note-row">
+    <div class="field field-num">
+      <label for="add-note-num">Paragraph</label>
+      <input type="number" id="add-note-num" min="1" max="290" step="1"
+             inputmode="numeric" placeholder="27" required>
+    </div>
+    <div class="field field-text">
+      <label for="add-note-text">Note</label>
+      <textarea id="add-note-text" rows="3"
+                placeholder="What you want to remember about this paragraph…" required></textarea>
+    </div>
+  </div>
+  <button type="submit" class="btn-slides primary">Add note</button>
+  <p class="form-status" id="add-note-status" role="status" aria-live="polite"></p>
+</form>
+```
+
+## Your notes
+
 ```{=html}
 <div class="notes-toolbar">
   <button type="button" id="export-md" class="btn-slides primary">Download as Markdown</button>

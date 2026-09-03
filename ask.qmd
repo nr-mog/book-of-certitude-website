@@ -53,6 +53,22 @@ Your name is optional. Ask anonymously if you would rather.
   var status = document.getElementById('ask-status');
   if (!form) return;
 
+  // A note sent from the "Submit note as a question" button arrives via
+  // sessionStorage, so the note text never appears in the URL or history.
+  try {
+    var handoff = sessionStorage.getItem('iqan:ask');
+    if (handoff) {
+      sessionStorage.removeItem('iqan:ask');
+      var data = JSON.parse(handoff);
+      if (data.question) document.getElementById('ask-q').value = data.question;
+      if (data.reference) document.getElementById('ask-ref').value = data.reference;
+      status.className = 'form-status ok';
+      status.textContent =
+        'Your note has been brought across. Edit it if you like, then send.';
+      document.getElementById('ask-q').focus();
+    }
+  } catch (e) {}
+
   // Without this script the form still posts normally to Formspree and lands
   // on their confirmation page. With it, submission happens in place so the
   // reader never leaves the site.

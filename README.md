@@ -170,7 +170,31 @@ attribution but not republishing full texts, so the translation is not bundled h
 it, write to termsofuse@bahai.org; if permission is granted, filling in that file lights up
 inline text with no code changes.
 
-### Ask about this paragraph
+### Paragraph links
+
+`data/paragraph-links.json` maps each paragraph to its anchor on bahai.org, so every paragraph
+number on the week pages and the My notes page links to that passage in the official text.
+
+The map was derived by walking body paragraphs in document order across pages 2-9 of the Íqán
+in the Bahá'í Reference Library, skipping the unnumbered opening invocation. The count came to
+exactly 290, and paragraphs 1, 2, 213, 214 and 290 were checked against the study materials
+before the file was written. Page 10 is endnotes and is excluded.
+
+If bahai.org ever restructures those pages the anchors will drift; the paragraph number falls
+back to plain text when a link is missing, so nothing breaks visibly.
+
+### Adding a note from the My notes page
+
+The Add a note form takes a paragraph number (1-290) and text. If that paragraph already has a
+note, the new text is appended rather than replacing it - the same rule the JSON import follows.
+
+### Submit note as a question
+
+Each note row can send its text to the Ask form, with `reference` set to the paragraph number.
+The handover uses `sessionStorage`, not a query string: notes are private, and a URL would put
+their contents into browser history.
+
+### Ask AI about this paragraph
 
 Each paragraph row has a button that copies a study prompt to the clipboard, then offers Claude,
 ChatGPT and Gemini as places to paste it. No API key, no proxy, no cost — each reader uses their

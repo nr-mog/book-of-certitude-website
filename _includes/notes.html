@@ -13,6 +13,7 @@
   'use strict';
 
   var KEY = 'iqan:note:';
+  var LINKS = null;
   // Quarto emits this as "./" at the site root and "../" one level down, so
   // data/ resolves correctly from both index.html and weeks/week-03.html.
   var offset = document.querySelector('meta[name="quarto:offset"]');
@@ -67,8 +68,7 @@
 
   function buildPrompt(n, text) {
     var lines = [
-      "I'm studying the Kitáb-i-Íqán (the Book of Certitude) by Bahá'u'lláh, " +
-      "revealed in Baghdád in 1862. I'm looking at paragraph " + n + ".",
+      "I'm studying the Kitáb-i-Íqán (the Book of Certitude) by Bahá'u'lláh. I'm looking at paragraph " + n + ".",
       ''
     ];
     if (text) {
@@ -77,17 +77,9 @@
       lines.push('You can find the text at ' + IQAN_URL + ' — paragraph ' + n + '.', '');
     }
     lines.push(
-      'Please help me read it more closely:',
-      '',
-      '- Define any unfamiliar or archaic words',
-      '- Identify allusions to the Bible, the Qur\u2019án or Islamic tradition, and say where they come from',
-      '- Explain how this connects to the surrounding argument',
-      '',
-      'Please quote the words you are discussing and cite paragraph numbers. Where the ' +
-      'meaning is contested or turns on interpretation, say so rather than settling it — ' +
-      'and note that in the Bahá\u2019í Writings authoritative interpretation belongs only to ' +
+      'Please help me answer the following question. in the Bahá\u2019í Writings authoritative interpretation belongs only to ' +
       '\u02bbAbdu\u2019l-Bahá and Shoghi Effendi. I want help reading the text for myself, ' +
-      'not conclusions handed to me.'
+      'not conclusions handed to me.' + 'Question:'
     );
     return lines.join('\n');
   }
@@ -116,10 +108,33 @@
     var wrap = document.createElement('div');
     wrap.className = 'note-ask';
 
+    // Hands the note to the Ask form via sessionStorage rather than a query
+    // string: notes are private, and a URL would put them in browser history.
+    var send = document.createElement('button');
+    send.type = 'button';
+    send.className = 'ask-btn send-btn';
+    send.textContent = 'Submit note as a question';
+    send.addEventListener('click', function () {
+      var note = (load(n) || '').trim();
+      if (!note) {
+        send.textContent = 'Write a note first';
+        setTimeout(function () { send.textContent = 'Submit note as a question'; }, 2200);
+        return;
+      }
+      try {
+        sessionStorage.setItem('iqan:ask', JSON.stringify({
+          question: note,
+          reference: 'Paragraph ' + n
+        }));
+      } catch (e) {}
+      window.location.href = BASE + 'ask.html';
+    });
+    wrap.appendChild(send);
+
     var btn = document.createElement('button');
     btn.type = 'button';
     btn.className = 'ask-btn';
-    btn.textContent = 'Ask about this paragraph';
+    btn.textContent = 'Ask AI about this paragraph';
     wrap.appendChild(btn);
 
     var targets = document.createElement('span');
@@ -152,7 +167,19 @@
 
     var head = document.createElement('div');
     head.className = 'note-head';
-    head.innerHTML = '<span class="note-num">' + n + '</span>';
+    var target = LINKS && LINKS.links && LINKS.links[String(n)];
+    if (target) {
+      var a = document.createElement('a');
+      a.className = 'note-num';
+      a.href = LINKS.base + target;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.title = 'Read paragraph ' + n + ' on bahai.org';
+      a.textContent = n;
+      head.appendChild(a);
+    } else {
+      head.innerHTML = '<span class="note-num">' + n + '</span>';
+    }
     wrap.appendChild(head);
 
     if (text) {
@@ -278,10 +305,14 @@
     var allHost  = document.getElementById('all-notes');
     if (!weekHost && !allHost) return;
 
-    Promise.all([fetchJSON('data/weeks.json'), fetchJSON('data/paragraphs.json')])
-      .then(function (res) {
+    Promise.all([
+      fetchJSON('data/weeks.json'),
+      fetchJSON('data/paragraphs.json'),
+      fetchJSON('data/paragraph-links.json')
+    ]).then(function (res) {
         var weeks = (res[0] && res[0].weeks) || [];
         var texts = (res[1] && res[1].text) || {};
+        LINKS = res[2] || null;
 
         if (weekHost) {
           var wk = parseInt(weekHost.getAttribute('data-week'), 10);
@@ -291,6 +322,44 @@
 
         if (allHost) {
           renderAll(allHost, weeks, texts);
+
+          var addForm = document.getElementById('add-note-form');
+          if (addForm) addForm.addEventListener('submit', function (ev) {
+            ev.preventDefault();
+            var numEl = document.getElementById('add-note-num');
+            var txtEl = document.getElementById('add-note-text');
+            var status = document.getElementById('add-note-status');
+            var n = parseInt(numEl.value, 10);
+            var text = txtEl.value.trim();
+
+            if (isNaN(n) || n < 1 || n > 290) {
+              status.className = 'form-status err';
+              status.textContent = 'Give a paragraph number between 1 and 290.';
+              return;
+            }
+            if (!text) {
+              status.className = 'form-status err';
+              status.textContent = 'Write the note itself before adding it.';
+              return;
+            }
+
+            // Never overwrite silently - append to whatever is already there.
+            var existing = (load(n) || '').trim();
+            var merged = existing ? existing + '\n\n' + text : text;
+            if (!save(n, merged)) {
+              status.className = 'form-status err';
+              status.textContent = 'Could not save - this browser may be blocking storage.';
+              return;
+            }
+
+            status.className = 'form-status ok';
+            status.textContent = existing
+              ? 'Added to your existing note on paragraph ' + n + '.'
+              : 'Note saved on paragraph ' + n + '.';
+            txtEl.value = '';
+            numEl.value = '';
+            renderAll(allHost, weeks, texts);
+          });
 
           var ex = document.getElementById('export-md');
           if (ex) ex.addEventListener('click', function () {

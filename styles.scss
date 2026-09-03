@@ -954,3 +954,76 @@ h3.notes-group {
   .ask-btn { font-size: 0.6rem; }
   .ask-targets { font-size: 0.62rem; }
 }
+
+// --- Add a note form --------------------------------------------------------
+.add-note-form {
+  margin: 1.3rem 0 2rem;
+
+  .add-note-row {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .field-num  { flex: 0 0 6.5rem; }
+  .field-text { flex: 1 1 auto; }
+
+  label {
+    display: block;
+    font-family: $font-family-sans-serif;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: $ink-soft;
+    margin-bottom: 0.35rem;
+  }
+
+  input[type="number"],
+  textarea {
+    display: block;
+    width: 100%;
+    font-family: $font-family-serif;
+    font-size: 0.96rem;
+    line-height: 1.5;
+    color: $ink;
+    background: rgba(255, 255, 255, 0.55);
+    border: 1px solid $rule;
+    border-radius: 0;
+    padding: 0.45rem 0.6rem;
+
+    &::placeholder { color: $ink-faint; font-style: italic; }
+
+    &:focus {
+      outline: none;
+      border-color: $gold;
+      box-shadow: 0 0 0 3px rgba(196, 166, 98, 0.2);
+    }
+  }
+
+  input[type="number"] { font-variant-numeric: tabular-nums; }
+  textarea { resize: vertical; }
+
+  button[type="submit"] { margin-top: 0.9rem; cursor: pointer; }
+}
+
+// Paragraph number as a link out to bahai.org
+a.note-num {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+
+  &:hover {
+    color: $gold;
+    border-bottom-color: $gold-soft;
+  }
+}
+
+.send-btn { margin-right: 0.1rem; }
+
+@media (max-width: 560px) {
+  .add-note-form .add-note-row {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+  .add-note-form .field-num { flex: 1 1 auto; width: 7rem; }
+}
