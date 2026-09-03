@@ -7,7 +7,7 @@ reference-location: margin
 
 
 ::: {.lead}
-The Kitáb-i-Íqán (Book of Certitude) is one of the most significant works of Bahá'u'lláh. He has described it as "the cynosure of all books". It was revealed in two days and two nights during the closing days of the [Baghdád period](context.qmd) (1862), in response to [questions](#questions) from the maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad.
+The Kitáb-i-Íqán (Book of Certitude) is one of the most significant works of Bahá'u'lláh. Bahá'u'lláh Himself describes it as "the cynosure of all books". It was revealed in two days and two nights during the closing days of the [Baghdád period](context.qmd) (1862), in response to [questions](#questions) from the maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad.
 :::
 
 ## Start here
