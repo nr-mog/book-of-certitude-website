@@ -17,6 +17,8 @@ website:
         text: Home
       - href: schedule.qmd
         text: Schedule
+      - href: context.qmd
+        text: Context
       - href: summary.qmd
         text: Summary
       - text: Slides

@@ -5,7 +5,7 @@ toc: true
 
 
 ::: {.lead}
-The Kitáb-i-Íqán (Book of Certitude) is one of the most significant works of Bahá'u'lláh. It was revealed in two days and two nights during the closing days of the Baghdád period (1862), in response to [questions](#questions) from the maternal uncle of the Báb (Ḥájí Mírzá Siyyid Muḥammad)
+The Kitáb-i-Íqán (Book of Certitude) is one of the most significant works of Bahá'u'lláh. It was revealed in two days and two nights during the closing days of the [Baghdád period](context.qmd) (1862), in response to [questions](#questions) from the maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad.
 :::
 
 ## Start here
