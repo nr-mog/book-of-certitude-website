@@ -168,7 +168,6 @@ td.wk, .wk {
   white-space: nowrap;
 }
 
-.themes { color: $ink-soft; font-size: 0.93rem; }
 
 // --- Callouts ---------------------------------------------------------------
 div.callout {
@@ -250,22 +249,14 @@ div.callout {
   blockquote, .quote { padding-left: 1rem; font-size: 1rem; }
 }
 
-// --- Full-width pages with a constrained inner column -----------------------
-.wide {
-  max-width: 1080px;
-  margin: 0 auto;
-  padding: 0 1.2rem;
-}
-
-// --- Schedule table column sizing -------------------------------------------
+// --- Schedule table ---------------------------------------------------------
+// Three narrow columns, so cap the width rather than let it sprawl.
 table.schedule {
-  table-layout: fixed;
+  max-width: 32rem;
+  margin: 1.6rem 0 2.2rem;
 
-  col, th, td { overflow-wrap: break-word; }
-
-  thead th:nth-child(1) { width: 3.4rem; }
-  thead th:nth-child(2) { width: 8.2rem; }
-  thead th:nth-child(3) { width: 5.6rem; }
+  thead th:nth-child(1) { width: 4.5rem; }
+  thead th:nth-child(2) { width: 8.5rem; }
 
   td.date {
     white-space: nowrap;
@@ -274,56 +265,24 @@ table.schedule {
     font-size: 0.92rem;
   }
 
-  td.date sup { color: $gold; font-weight: 600; }
+  td.para {
+    white-space: nowrap;
+    font-family: $font-family-sans-serif;
+    font-size: 0.85rem;
+    color: $ink-soft;
+  }
 }
 
-@media (max-width: 640px) {
-  .wide { padding: 0 0.2rem; }
-
-  // Collapse to a stacked card per week on narrow screens.
+@media (max-width: 560px) {
   table.schedule {
-    table-layout: auto;
+    max-width: none;
 
-    thead { display: none; }
+    thead th:nth-child(1) { width: 3.4rem; }
+    thead th:nth-child(2) { width: auto; }
 
-    tbody tr {
-      display: block;
-      border-bottom: 1px solid $rule;
-      padding: 0.85rem 0.2rem 0.95rem;
-    }
+    thead th, tbody td { padding-left: 0; padding-right: 0.5rem; }
 
-    tbody tr:hover { background: transparent; }
-
-    tbody td {
-      display: block;
-      border: none;
-      padding: 0;
-    }
-
-    td.wk {
-      width: auto;
-      font-size: 0.7rem;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-
-      &::before { content: "Week "; }
-    }
-
-    td.date {
-      display: inline-block;
-      font-size: 0.85rem;
-      margin-bottom: 0.35rem;
-    }
-
-    td.para {
-      display: inline-block;
-      margin-left: 0.6rem;
-      color: $gold;
-      font-weight: 600;
-
-      &::before { content: "¶ "; font-weight: 400; }
-    }
-
-    td.themes { margin-top: 0.15rem; font-size: 0.9rem; }
+    td.date { font-size: 0.85rem; }
+    td.para { font-size: 0.78rem; white-space: normal; }
   }
 }
