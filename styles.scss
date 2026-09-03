@@ -20,7 +20,7 @@ $primary:     $ink;
 $font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 $font-family-serif:      "EB Garamond", Iowan Old Style, Palatino, Georgia, serif;
 
-$font-size-root: 18px;
+$font-size-root: 16px;
 $line-height-base: 1.65;
 
 $headings-font-family: $font-family-serif;
@@ -372,4 +372,96 @@ table.schedule td.para.tbd {
 @media (max-width: 640px) {
   .scripture blockquote { font-size: 1.06rem; padding-left: 1rem; }
   .accounts  blockquote { font-size: 1rem;    padding-left: 1rem; }
+}
+
+// --- Questions list ---------------------------------------------------------
+.questions-list {
+  margin: 1.3rem 0 2rem;
+
+  ol { padding-left: 0; list-style: none; counter-reset: q; }
+
+  li {
+    counter-increment: q;
+    position: relative;
+    padding-left: 2.6rem;
+    margin-bottom: 1rem;
+    color: $ink-soft;
+  }
+
+  li::before {
+    content: counter(q);
+    position: absolute;
+    left: 0;
+    top: 0.1rem;
+    width: 1.75rem;
+    height: 1.75rem;
+    line-height: 1.65rem;
+    text-align: center;
+    border: 1px solid $gold-soft;
+    border-radius: 50%;
+    font-family: $font-family-sans-serif;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: $gold;
+  }
+
+  li strong { color: $ink; }
+}
+
+// --- Source note ------------------------------------------------------------
+.source-note {
+  margin-top: 2rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid $rule;
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem;
+  color: $ink-faint;
+}
+
+// --- Footer quote -----------------------------------------------------------
+.nav-footer {
+  .nav-footer-center { flex-basis: 100%; }
+
+  p {
+    margin: 0.2rem auto;
+    max-width: 44rem;
+    font-family: $font-family-serif;
+    font-size: 0.92rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: $ink-soft;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+}
+
+// --- Long-form passages -----------------------------------------------------
+// Same gold rule and slight size step-up as .scripture, but normal weight:
+// semibold reads well for a two-line pull-quote and poorly across 400 words.
+.passage {
+  margin: 1.1rem 0 2rem;
+
+  > p {
+    font-size: 0.94rem;
+    line-height: 1.6;
+    color: $ink-faint;
+  }
+
+  blockquote {
+    border-left: 3px solid $gold-soft;
+    margin: 1.25rem 0;
+    padding: 0.15rem 0 0.15rem 1.4rem;
+    font-size: 1.04rem;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.62;
+    color: $ink;
+
+    p:last-child { margin-bottom: 0; }
+  }
+}
+
+@media (max-width: 640px) {
+  .passage blockquote { font-size: 0.98rem; padding-left: 1rem; }
 }

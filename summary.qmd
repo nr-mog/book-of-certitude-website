@@ -1,0 +1,52 @@
+---
+title: "Summary"
+subtitle: "Shoghi Effendi on the Kitáb-i-Íqán"
+toc: false
+---
+
+::: {.passage}
+From *God Passes By*, chapter VIII — "Bahá'u'lláh's Banishment to ʻIráq (Continued)."
+
+> Foremost among the priceless treasures cast forth from the billowing ocean of Bahá'u'lláh's
+> Revelation ranks the Kitáb-i-Íqán (Book of Certitude), revealed within the space of two days
+> and two nights, in the closing years of that period (1278 A.H.–1862 A.D.). It was written in
+> fulfillment of the prophecy of the Báb, Who had specifically stated that the Promised One would
+> complete the text of the unfinished Persian Bayán, and in reply to the questions addressed to
+> Bahá'u'lláh by the as yet unconverted maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad,
+> while on a visit, with his brother, Ḥájí Mírzá Ḥasan-ʻAlí, to Karbilá. A model of Persian prose,
+> of a style at once original, chaste and vigorous, and remarkably lucid, both cogent in argument
+> and matchless in its irresistible eloquence, this Book, setting forth in outline the Grand
+> Redemptive Scheme of God, occupies a position unequalled by any work in the entire range of
+> Bahá'í literature, except the Kitáb-i-Aqdas, Bahá'u'lláh's Most Holy Book. Revealed on the eve
+> of the declaration of His Mission, it proffered to mankind the "Choice Sealed Wine," whose seal
+> is of "musk," and broke the "seals" of the "Book" referred to by Daniel, and disclosed the
+> meaning of the "words" destined to remain "closed up" till the "time of the end."
+
+> Within a compass of two hundred pages it proclaims unequivocally the existence and oneness of a
+> personal God, unknowable, inaccessible, the source of all Revelation, eternal, omniscient,
+> omnipresent and almighty; asserts the relativity of religious truth and the continuity of Divine
+> Revelation; affirms the unity of the Prophets, the universality of their Message, the identity
+> of their fundamental teachings, the sanctity of their scriptures, and the twofold character of
+> their stations; denounces the blindness and perversity of the divines and doctors of every age;
+> cites and elucidates the allegorical passages of the New Testament, the abstruse verses of the
+> Qur'án, and the cryptic Muḥammadan traditions which have bred those age-long misunderstandings,
+> doubts and animosities that have sundered and kept apart the followers of the world's leading
+> religious systems; enumerates the essential prerequisites for the attainment by every true
+> seeker of the object of his quest; demonstrates the validity, the sublimity and significance of
+> the Báb's Revelation; acclaims the heroism and detachment of His disciples; foreshadows, and
+> prophesies the world-wide triumph of the Revelation promised to the people of the Bayán; upholds
+> the purity and innocence of the Virgin Mary; glorifies the Imáms of the Faith of Muḥammad;
+> celebrates the martyrdom, and lauds the spiritual sovereignty, of the Imám Ḥusayn; unfolds the
+> meaning of such symbolic terms as "Return," "Resurrection," "Seal of the Prophets" and "Day of
+> Judgment"; adumbrates and distinguishes between the three stages of Divine Revelation; and
+> expatiates, in glowing terms, upon the glories and wonders of the "City of God," renewed, at
+> fixed intervals, by the dispensation of Providence, for the guidance, the benefit and salvation
+> of all mankind. Well may it be claimed that of all the books revealed by the Author of the
+> Bahá'í Revelation, this Book alone, by sweeping away the age-long barriers that have so
+> insurmountably separated the great religions of the world, has laid down a broad and unassailable
+> foundation for the complete and permanent reconciliation of their followers.
+:::
+
+::: {.source-note}
+Read this passage on [bahai.org](https://www.bahai.org/r/927672652).
+:::

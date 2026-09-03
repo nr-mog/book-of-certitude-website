@@ -17,11 +17,13 @@ website:
         text: Home
       - href: schedule.qmd
         text: Schedule
+      - href: summary.qmd
+        text: Summary
       - text: Slides
         href: slides/intro.qmd
   page-footer:
     center: |
-      A study of the Kitáb-i-Íqán · Revealed by Bahá'u'lláh in Baghdád, 1862
+      "Blessed is he that hath beheld it and pondered its contents for the love of God, the Lord of creation."
     border: false
 
 format:

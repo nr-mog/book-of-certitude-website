@@ -107,7 +107,10 @@ Optional framing prose, at normal body size.
 :::
 ```
 
-`index.qmd` has a commented-out template of the second form just below the Personal accounts
+**A long passage** — wrap in `.passage`. Same gold rule and size as `.scripture` but normal
+weight, for quotations running more than a few lines. `summary.qmd` uses it.
+
+`index.qmd` has a commented-out template of the accounts form just below the Personal accounts
 section.
 
 ## Adding a deck

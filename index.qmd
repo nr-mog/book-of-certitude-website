@@ -1,17 +1,11 @@
 ---
-title: "Kitáb-i-Íqán Study"
-subtitle: "A study of Bahá'u'lláh's Book of Certitude"
+title: "Book of Certitude Study"
 toc: true
 ---
 
-::: {.kicker}
-Baghdád · 1862
-:::
 
 ::: {.lead}
-The Kitáb-i-Íqán was revealed by Bahá'u'lláh in the space of two days and two nights, in answer to
-four questions put to Him by one of the maternal uncles of the Báb. Over thirteen sessions we read
-it from beginning to end.
+The Kitáb-i-Íqán (Book of Certitude) is one of the most significant works of Bahá'u'lláh. It was revealed in two days and two nights during the closing days of the Baghdád period (1862), in response to [questions](#questions) from the maternal uncle of the Báb (Ḥájí Mírzá Siyyid Muḥammad)
 :::
 
 ## Start here
@@ -107,6 +101,25 @@ in his will.
 > [Name of the person]{.attrib}
 
 -->
+
+## Questions
+
+The Kitáb-i-Íqán was revealed in answer to questions addressed to Bahá'u'lláh from the as yet
+unconverted maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad. They have been summarized
+as follows:
+
+::: {.questions-list}
+1. **The Day of Resurrection.** Is there to be a corporeal resurrection? The world is replete
+   with injustice. How are the just to be requited and the unjust punished?
+2. **The twelfth Imám** was born at a certain time and lives on. There are traditions, all
+   supporting the belief. How can this be explained?
+3. **Interpretation of the holy texts.** This Cause does not seem to conform to the beliefs held
+   throughout the years. One cannot ignore the literal meaning of the holy texts and scriptures.
+   How can this be explained?
+4. **Certain events**, according to the traditions that have come down from the Imáms, must occur
+   at the advent of the Qá'im. Some of these are mentioned. But none of these has happened. How
+   can this be explained?
+:::
 
 ## Goals of the study
 
