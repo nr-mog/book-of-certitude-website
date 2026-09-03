@@ -71,7 +71,12 @@ h2, .h2 {
   border-bottom: 1px solid $rule;
 }
 
-h3, .h3 { font-size: 1.25rem; margin-top: 1.9rem; color: $ink-soft; }
+h3, .h3 {
+  font-size: 1.3rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.5rem;
+  color: $ink;
+}
 
 // Subtitle under the page title
 .quarto-title .subtitle {
@@ -285,4 +290,86 @@ table.schedule {
     td.date { font-size: 0.85rem; }
     td.para { font-size: 0.78rem; white-space: normal; }
   }
+}
+
+// --- Break / pending rows in the schedule -----------------------------------
+table.schedule tbody tr.break-row {
+  td { color: $ink-faint; }
+
+  td.wk { color: $ink-faint; font-weight: 400; }
+
+  td.para {
+    font-style: italic;
+    font-family: $font-family-serif;
+    font-size: 0.92rem;
+    letter-spacing: 0.01em;
+  }
+}
+
+table.schedule td.para.tbd {
+  color: $ink-faint;
+  font-style: italic;
+  font-family: $font-family-serif;
+  font-size: 0.92rem;
+}
+
+// --- Scripture emphasis -----------------------------------------------------
+// For sections quoting a Central Figure. The surrounding prose steps back and
+// the quotation steps forward, so the quoted words carry the section. No
+// attribution line: the heading already names the author.
+.scripture {
+  margin: 1.1rem 0 2rem;
+
+  // Framing prose, deliberately quieter than the body default
+  > p {
+    font-size: 0.94rem;
+    line-height: 1.6;
+    color: $ink-faint;
+  }
+
+  blockquote {
+    border-left: 3px solid $gold-soft;
+    margin: 1.25rem 0;
+    padding: 0.15rem 0 0.15rem 1.4rem;
+
+    // Larger and bolder than body text, and upright rather than italic —
+    // italics at this weight and size fight legibility.
+    font-size: 1.16rem;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.45;
+    color: $ink;
+
+    p:last-child { margin-bottom: 0; }
+  }
+}
+
+// --- Personal accounts ------------------------------------------------------
+// Keeps the italic treatment and the attribution line, since these come from
+// many different voices.
+.accounts {
+  margin: 1.1rem 0 2rem;
+
+  blockquote {
+    font-style: italic;
+    font-size: 1.06rem;
+    font-weight: 400;
+    color: $ink-soft;
+
+    .attrib {
+      display: block;
+      margin-top: 0.6rem;
+      font-style: normal;
+      font-family: $font-family-sans-serif;
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: $ink-faint;
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  .scripture blockquote { font-size: 1.06rem; padding-left: 1rem; }
+  .accounts  blockquote { font-size: 1rem;    padding-left: 1rem; }
 }

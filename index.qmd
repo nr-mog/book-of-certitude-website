@@ -1,7 +1,7 @@
 ---
 title: "Kitáb-i-Íqán Study"
-subtitle: "A fourteen-week study of Bahá'u'lláh's Book of Certitude"
-toc: false
+subtitle: "A study of Bahá'u'lláh's Book of Certitude"
+toc: true
 ---
 
 ::: {.kicker}
@@ -10,23 +10,16 @@ Baghdád · 1862
 
 ::: {.lead}
 The Kitáb-i-Íqán was revealed by Bahá'u'lláh in the space of two days and two nights, in answer to
-four questions put to Him by one of the maternal uncles of the Báb. Over fourteen sessions we read
+four questions put to Him by one of the maternal uncles of the Báb. Over thirteen sessions we read
 it from beginning to end.
 :::
-
-> In fact, all the Scriptures and the mysteries thereof are condensed into this brief account. So
-> much so, that were a person to ponder it a while in his heart, he would discover from all that
-> hath been said the mysteries of the Words of God, and would apprehend the meaning of whatever
-> hath been manifested by that ideal King.
->
-> [Bahá'u'lláh]{.attrib}
 
 ## Start here
 
 ::: {.cards}
 ::: {.card-tile}
 #### [The schedule](schedule.qmd)
-All fourteen sessions, with the paragraphs assigned for each week and the themes we take up.
+Every session, with the paragraphs assigned for each week.
 :::
 
 ::: {.card-tile}
@@ -38,19 +31,82 @@ What the Íqán is, the occasion of its revelation, and why it is worth studying
 :::
 :::
 
-## Why this Book
+## Significance and Station of the Book of Certitude
 
-> The Íqán is the most important book written on the spiritual significance of the Cause. I do not
-> believe any person can consider himself well versed in the teachings unless he has studied it
-> thoroughly.
+### From the letters of Shoghi Effendi
+
+::: {.scripture}
+Shoghi Effendi returned to the Íqán repeatedly in his letters, and translated it himself.
+
+> The Íqán is the most important book written on the spiritual significance of the Cause. I do
+> not believe any person can consider himself well versed in the teachings unless he has studied
+> it thoroughly.
+
+> The book is so important that the most minute detail is worthy of consideration.
+
+> Foremost among the priceless treasures cast forth from the billowing ocean of Bahá'u'lláh's
+> Revelation ranks the Kitáb-i-Íqán.
+
+> Setting forth in outline the Grand Redemptive Scheme of God, it occupies a position unequalled
+> by any work in the entire range of Bahá'í literature, except the Kitáb-i-Aqdas, Bahá'u'lláh's
+> Most Holy Book.
+
+> Of special importance is the Book of the Íqán which explains the attitude of the Cause towards
+> the prophets of God and their mission in the history of society.
+
+> The one who ponders over that book and grasps its full significance will obtain a clear insight
+> into the old scriptures and appreciate the true mission of the Báb and Bahá'u'lláh.
+:::
+
+### From the Writings of ʻAbdu'l-Bahá
+
+::: {.scripture}
+ʻAbdu'l-Bahá transcribed the Book in His own hand at eighteen years of age. He wrote the following
+for the frontispiece of its first English translation.
+
+> O thou who art athirst for the water of Life! This manifest Book is the fountainhead of the
+> Water of Life eternal. Drink so much as thou art able from the fountain of the living water.
+> O thou who art seeking after the knowledge of God! Immerse thyself in the ocean of the
+> explanation of the Beauty of the Merciful, so that thou mayest gather from its depths the
+> pearls of the wisdom of God.
+:::
+
+### From the Writings of Bahá'u'lláh
+
+::: {.scripture}
+Bahá'u'lláh refers to the Kitáb-i-Íqán as "the lord of the books," and commends it again in the
+Epistle to the Son of the Wolf, His last major Work.
+
+> In fact, all the Scriptures and the mysteries thereof are condensed into this brief account.
+> So much so, that were a person to ponder it a while in his heart, he would discover from all
+> that hath been said the mysteries of the Words of God, and would apprehend the meaning of
+> whatever hath been manifested by that ideal King.
+
+> Briefly, there hath been revealed in the Kitáb-i-Íqán, concerning the Presence and Revelation
+> of God, that which will suffice the fair-minded.
+:::
+
+### Personal accounts
+
+::: {.accounts}
+The Book was revealed for one man's questions. It dispelled every doubt Hájí Mírzá Siyyid
+Muḥammad had harboured: he attained the stage of certitude and recognized the station of his
+Nephew, and later accepted Bahá'u'lláh as "Him Whom God shall make manifest," as was confirmed
+in his will.
+
+> [He wrote to his son of his] wonder and regret that people who miss being in Bahá'u'lláh's
+> bounteous presence are at a grievous loss.
 >
-> [Shoghi Effendi]{.attrib}
+> [Hájí Mírzá Siyyid Muḥammad, Khál-i-Akbar]{.attrib}
+:::
 
-Bahá'u'lláh gives the key-note here and explains some of the outstanding passages of the Sacred
-Books — in the hope, as Shoghi Effendi put it, that the friends will *continue to study the Sacred
-Books by themselves and unfold the mysteries found therein.* That is the point of this study: not
-to be handed conclusions, but to leave with the tools and the confidence to read the Writings on
-your own.
+<!-- To add another account, copy the block below inside the .accounts div:
+
+> The text of the account goes here.
+>
+> [Name of the person]{.attrib}
+
+-->
 
 ## Goals of the study
 

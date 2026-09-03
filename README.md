@@ -74,6 +74,42 @@ the web slides exactly. It needs a Chromium, which `decktape` downloads on first
 If you would rather not install that: open
 `http://localhost:PORT/slides/intro.html?print-pdf` in a browser and use ⌘P → Save as PDF.
 
+## Adding quotes to the home page
+
+Two styles, depending on who is speaking.
+
+**A Central Figure** — wrap in `.scripture`. The framing prose steps down in size and the
+quotations step up and turn semibold, so the quoted words carry the section. No attribution
+line: the heading already names the author. Add as many `>` blocks as you like.
+
+```markdown
+### From the letters of Shoghi Effendi
+
+::: {.scripture}
+Optional framing sentence, set smaller and quieter than body text.
+
+> First quotation.
+
+> Second quotation.
+:::
+```
+
+**Personal accounts** — wrap in `.accounts`. Quotations stay italic at close to body size and
+each one carries a name, since these come from many different voices.
+
+```markdown
+::: {.accounts}
+Optional framing prose, at normal body size.
+
+> The account.
+>
+> [Name of the person]{.attrib}
+:::
+```
+
+`index.qmd` has a commented-out template of the second form just below the Personal accounts
+section.
+
 ## Adding a deck
 
 Drop a new `.qmd` in `slides/` with `format: revealjs` and `theme: [default, custom.scss]`.
