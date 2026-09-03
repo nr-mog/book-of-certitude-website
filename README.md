@@ -134,18 +134,11 @@ shows each source in a popup on hover.
 
 Quotes with no source yet simply carry no marker.
 
-## Connecting the question form
+## The question form
 
-`ask.qmd` holds a form styled to match the site. It is **not connected yet** — until it is, it
-tells submitters so rather than posting into the void.
-
-To turn it on:
-
-1. Create a free form at <https://formspree.io>. It gives you an endpoint like
-   `https://formspree.io/f/xayzwbqd`.
-2. In `ask.qmd`, replace `YOUR_FORM_ID` with the part after `/f/`. It appears once, in the
-   form's `action`.
-3. `quarto render`, then push.
+`ask.qmd` holds a form styled to match the site, posting to Formspree. It is connected and
+live. To point it at a different form, change the `action` attribute in `ask.qmd` — that is the
+only place the endpoint appears.
 
 Fields are `name` (optional), `reference` (optional) and `question` (required). There is a
 hidden `_gotcha` honeypot that catches most bots, and `_subject` sets the email subject.

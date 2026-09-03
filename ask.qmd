@@ -12,14 +12,10 @@ you, send it here and we can take it up together in the session.
 Your name is optional. Ask anonymously if you would rather.
 
 ```{=html}
-<!-- ==========================================================================
-     SETUP: replace YOUR_FORM_ID below with the id from your Formspree form.
-     Create a form at https://formspree.io, and it will give you an endpoint
-     like https://formspree.io/f/xayzwbqd — the part after /f/ is the id.
-     It appears once, in the action attribute on the next line.
-     ========================================================================== -->
+<!-- Submissions go to the Formspree form named in the action below. To point
+     this at a different form, change that one attribute. -->
 <form id="ask-form" class="ask-form"
-      action="https://formspree.io/f/YOUR_FORM_ID"
+      action="https://formspree.io/f/xnpqvewa"
       method="POST">
 
   <div class="field">
@@ -62,15 +58,6 @@ Your name is optional. Ask anonymously if you would rather.
   // reader never leaves the site.
   form.addEventListener('submit', function (event) {
     event.preventDefault();
-
-    // Until the Formspree id is filled in, say so rather than posting to an
-    // endpoint that does not exist.
-    if (form.action.indexOf('YOUR_FORM_ID') !== -1) {
-      status.className = 'form-status err';
-      status.textContent =
-        'This form is not connected yet. Please send your question to me directly for now.';
-      return;
-    }
 
     var button = form.querySelector('button[type="submit"]');
     button.disabled = true;
