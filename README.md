@@ -113,6 +113,27 @@ weight, for quotations running more than a few lines. `summary.qmd` uses it.
 `index.qmd` has a commented-out template of the accounts form just below the Personal accounts
 section.
 
+## Citing a quote
+
+Sources appear in the right margin beside the quote, using ordinary Markdown footnotes.
+`index.qmd` sets `reference-location: margin` in its front matter; below 992px the note drops
+inline under the quote instead.
+
+```markdown
+> The Íqán is the most important book written on the spiritual significance of the Cause.[^light]
+
+[^light]: *The Light of Divine Guidance*, vol. 1, p. 37. [bahai.org](https://www.bahai.org/...)
+```
+
+Put the definition at the end of the file. The link is optional — a citation with no URL renders
+fine, which is how the letters written on Shoghi Effendi's behalf are handled.
+
+Because it is plain footnote syntax, switching the whole page to numbered footnotes at the page
+foot is a one-line change: drop `reference-location: margin`. Adding `footnotes-hover: true`
+shows each source in a popup on hover.
+
+Quotes with no source yet simply carry no marker.
+
 ## Adding a deck
 
 Drop a new `.qmd` in `slides/` with `format: revealjs` and `theme: [default, custom.scss]`.

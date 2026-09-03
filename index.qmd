@@ -1,11 +1,13 @@
 ---
 title: "Book of Certitude Study"
 toc: true
+toc-location: left
+reference-location: margin
 ---
 
 
 ::: {.lead}
-The Kitáb-i-Íqán (Book of Certitude) is one of the most significant works of Bahá'u'lláh. It was revealed in two days and two nights during the closing days of the [Baghdád period](context.qmd) (1862), in response to [questions](#questions) from the maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad.
+The Kitáb-i-Íqán (Book of Certitude) is one of the most significant works of Bahá'u'lláh. He has described it as "the cynosure of all books". It was revealed in two days and two nights during the closing days of the [Baghdád period](context.qmd) (1862), in response to [questions](#questions) from the maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad.
 :::
 
 ## Start here
@@ -34,22 +36,22 @@ Shoghi Effendi returned to the Íqán repeatedly in his letters, and translated 
 
 > The Íqán is the most important book written on the spiritual significance of the Cause. I do
 > not believe any person can consider himself well versed in the teachings unless he has studied
-> it thoroughly.
+> it thoroughly.[^sedg-light]
 
-> The book is so important that the most minute detail is worthy of consideration.
+> The book is so important that the most minute detail is worthy of consideration.[^sedg-townshend]
 
 > Foremost among the priceless treasures cast forth from the billowing ocean of Bahá'u'lláh's
-> Revelation ranks the Kitáb-i-Íqán.
+> Revelation ranks the Kitáb-i-Íqán.[^gpb]
 
 > Setting forth in outline the Grand Redemptive Scheme of God, it occupies a position unequalled
 > by any work in the entire range of Bahá'í literature, except the Kitáb-i-Aqdas, Bahá'u'lláh's
-> Most Holy Book.
+> Most Holy Book.[^gpb2]
 
 > Of special importance is the Book of the Íqán which explains the attitude of the Cause towards
-> the prophets of God and their mission in the history of society.
+> the prophets of God and their mission in the history of society.[^sedg-1932]
 
 > The one who ponders over that book and grasps its full significance will obtain a clear insight
-> into the old scriptures and appreciate the true mission of the Báb and Bahá'u'lláh.
+> into the old scriptures and appreciate the true mission of the Báb and Bahá'u'lláh.[^sedg-ponders]
 :::
 
 ### From the Writings of ʻAbdu'l-Bahá
@@ -62,7 +64,14 @@ for the frontispiece of its first English translation.
 > Water of Life eternal. Drink so much as thou art able from the fountain of the living water.
 > O thou who art seeking after the knowledge of God! Immerse thyself in the ocean of the
 > explanation of the Beauty of the Merciful, so that thou mayest gather from its depths the
-> pearls of the wisdom of God.
+> pearls of the wisdom of God.[^ab-frontispiece]
+
+> It is therefore clear and evident that these signs have inner meanings and should not be taken
+> literally. These meanings have been fully explained in the Kitáb-i-Íqán: Refer to it.[^saq11]
+
+> This is the “return” which is mentioned in the heavenly Scriptures. It is fully explained
+> by Bahá’u’lláh in the Kitáb-i-Íqán: Refer to it, that you may be informed of the truth 
+> of the divine mysteries.[^saq-return]
 :::
 
 ### From the Writings of Bahá'u'lláh
@@ -74,24 +83,27 @@ Epistle to the Son of the Wolf, His last major Work.
 > In fact, all the Scriptures and the mysteries thereof are condensed into this brief account.
 > So much so, that were a person to ponder it a while in his heart, he would discover from all
 > that hath been said the mysteries of the Words of God, and would apprehend the meaning of
-> whatever hath been manifested by that ideal King.
+> whatever hath been manifested by that ideal King.[^iqan]
 
 > Briefly, there hath been revealed in the Kitáb-i-Íqán, concerning the Presence and Revelation
-> of God, that which will suffice the fair-minded.
+> of God, that which will suffice the fair-minded.[^esw]
 :::
 
 ### Personal accounts
 
 ::: {.accounts}
-The Book was revealed for one man's questions. It dispelled every doubt Hájí Mírzá Siyyid
-Muḥammad had harboured: he attained the stage of certitude and recognized the station of his
-Nephew, and later accepted Bahá'u'lláh as "Him Whom God shall make manifest," as was confirmed
-in his will.
 
 > [He wrote to his son of his] wonder and regret that people who miss being in Bahá'u'lláh's
 > bounteous presence are at a grievous loss.
 >
 > [Hájí Mírzá Siyyid Muḥammad, Khál-i-Akbar]{.attrib}
+
+> He told me that he had read the Íqán with ‘the eye of intellect’ seventeen times through, 
+> and it had seemed to him a meaningless string of words. That later, he had read it 
+> with ‘the eye of faith,’ and had found it the key with which he could unlock the 
+> secrets of all the sacred books of past religions.
+>
+> [Marzieh Gail, reporting the testimony of Mirza Abu'l-Faḍl]{.attrib}
 :::
 
 <!-- To add another account, copy the block below inside the .accounts div:
@@ -126,3 +138,25 @@ as follows:
 1. To develop the tools and confidence to read the Writings by yourself.
 2. To advance in our understanding of core Bahá'í beliefs and worldview, and how to explain them to others.
 3. To appreciate the significance of the Íqán, and how it can inform our service and our life in general.
+
+[^sedg-light]: *The Light of Divine Guidance*, vol. 1, p. 37.
+
+[^sedg-townshend]: From a letter written on behalf of Shoghi Effendi to George Townshend; quoted in Hofman, *George Townshend*, p. 73.
+
+[^gpb]: *God Passes By*, ch. VIII. [bahai.org](https://www.bahai.org/r/927672652)
+
+[^gpb2]: *God Passes By*, ch. VIII. [bahai.org](https://www.bahai.org/r/927672652)
+
+[^sedg-1932]: From a letter written on behalf of Shoghi Effendi, 9 February 1932.
+
+[^sedg-ponders]: From a letter written on behalf of Shoghi Effendi.
+
+[^ab-frontispiece]: Written for the frontispiece of ʻAli-Kuli Khan's translation of the Íqán, 1904.
+
+[^saq11]: *Some Answered Questions*, ch. 11, "The Second Coming of Christ and the Day of Judgement". [bahai.org](https://www.bahai.org/library/authoritative-texts/abdul-baha/some-answered-questions/7)
+
+[^saq-return]: *Some Answered Questions*. [bahai.org](https://www.bahai.org/library/authoritative-texts/abdul-baha/some-answered-questions/)
+
+[^iqan]: The Kitáb-i-Íqán. [bahai.org](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/)
+
+[^esw]: *Epistle to the Son of the Wolf*. [bahai.org](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/)

@@ -568,3 +568,70 @@ table.schedule td.para.tbd {
     margin-bottom: 0.1rem;
   }
 }
+
+// --- Margin citations -------------------------------------------------------
+// `reference-location: margin` puts footnote bodies in the right margin beside
+// the quote they belong to. Set them in the sans face so they read as
+// apparatus rather than as more of the quotation.
+.column-margin {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: $ink-faint;
+
+  p { margin-bottom: 0.5rem; }
+
+  sup {
+    color: $gold;
+    font-weight: 600;
+    margin-right: 0.1rem;
+  }
+
+  em { font-style: italic; }
+
+  a {
+    color: $ink-faint;
+    text-decoration: underline;
+    text-decoration-color: $gold-soft;
+    text-underline-offset: 2px;
+
+    &:hover { color: $gold; }
+  }
+}
+
+// The in-text reference marker
+.footnote-ref,
+a[role="doc-noteref"] {
+  color: $gold;
+  font-weight: 600;
+  text-decoration: none;
+  padding-left: 0.05rem;
+
+  &:hover { color: $ink; }
+}
+
+// Below Quarto's margin breakpoint the note is placed inline after the block.
+// Give it a rule so it reads as a citation rather than stray text.
+@media (max-width: 991.98px) {
+  .column-margin {
+    margin: 0.4rem 0 1.4rem;
+    padding-left: 1.4rem;
+    border-left: 1px solid $rule;
+    font-size: 0.76rem;
+  }
+}
+
+// --- Left TOC ---------------------------------------------------------------
+#TOC {
+  font-family: $font-family-sans-serif;
+  font-size: 0.76rem;
+
+  .toc-actions { display: none; }
+
+  a {
+    color: $ink-faint;
+    &:hover { color: $gold; }
+  }
+
+  .active { color: $gold !important; }
+}
