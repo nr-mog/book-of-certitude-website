@@ -150,6 +150,38 @@ works either way.
 Formspree's free tier caps monthly submissions (around 50 at the time of writing). If the study
 outgrows that, the same markup works with Basin or Getform by changing only the `action`.
 
+## Personal notes
+
+Readers can write a note against any paragraph. Notes are stored in `localStorage` under
+`iqan:note:<paragraph>`, so nothing is transmitted and no accounts are involved. The code lives
+in `_includes/notes.html`, injected site-wide via `include-after-body`.
+
+Two data files drive it:
+
+- `data/weeks.json` — which paragraphs each session covers. **Set weeks 12 and 13** here once
+  you have redistributed 240-290; a week with `from: null` shows a "not set yet" message instead
+  of note boxes.
+- `data/paragraphs.json` — optional paragraph text under a `text` key, e.g. `{"27": "..."}`.
+  Any paragraph given text renders it above its note box; paragraphs without text show just the
+  number and the box.
+
+`data/paragraphs.json` ships empty on purpose. bahai.org's terms of use permit quotation with
+attribution but not republishing full texts, so the translation is not bundled here. To include
+it, write to termsofuse@bahai.org; if permission is granted, filling in that file lights up
+inline text with no code changes.
+
+### The storage caveat
+
+`localStorage` is not durable. Clearing browser data wipes it, it does not sync between devices,
+and iOS Safari can evict script-writable storage after about seven days without a visit. The
+`notes.qmd` page says this plainly and offers Markdown and JSON export. Markdown is for reading
+and printing; JSON is the one that can be restored. Restoring appends to any note already
+present at that paragraph rather than overwriting it.
+
+If notes ever need to survive properly, the next step is a passphrase-keyed encrypted backup to
+a Cloudflare Worker — still no accounts, but durable. The storage layer is already isolated
+behind `load`/`save`/`allNotes`, so that change would not touch the rendering code.
+
 ## Adding a week's materials
 
 Each session row on the schedule links to two things:

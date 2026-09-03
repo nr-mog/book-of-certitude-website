@@ -18,6 +18,20 @@ Materials for this session will be posted here.
 
 *Reading to be confirmed.*
 
+## Your notes
+
+::: {.notes-intro}
+Write as you read. Notes save automatically and stay **in this browser on this device** —
+nothing is sent anywhere and no one else can see them. Keep a copy from the
+[My notes](../notes.qmd) page if they matter to you.
+:::
+
+```{=html}
+<div id="paragraph-notes" data-week="1" class="paragraph-notes">
+  <p class="note-empty">Loading…</p>
+</div>
+```
+
 ::: {.source-note}
-[Back to the schedule](../schedule.qmd)
+[Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)
 :::

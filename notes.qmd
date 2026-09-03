@@ -1,0 +1,42 @@
+---
+title: "My notes"
+subtitle: "Saved in this browser, on this device"
+toc: false
+---
+
+::: {.lead}
+Everything you write on the week pages collects here, grouped by session.
+:::
+
+::: {.callout-important appearance="simple"}
+## Keep a copy
+
+These notes live in this browser only. They are never sent anywhere — which also means
+nothing can restore them. Clearing your browser data deletes them, they do not follow you to
+another device, and **iOS Safari can discard them after about a week without a visit**.
+
+Export them regularly. It takes one click.
+:::
+
+```{=html}
+<div class="notes-toolbar">
+  <button type="button" id="export-md" class="btn-slides primary">Download as Markdown</button>
+  <button type="button" id="export-json" class="btn-slides">Download as JSON</button>
+  <label for="import-json" class="btn-slides">Restore from JSON</label>
+  <input type="file" id="import-json" accept="application/json,.json"
+         style="position:absolute;left:-9999px;opacity:0">
+  <button type="button" id="clear-notes" class="btn-slides danger">Delete all</button>
+</div>
+
+<p class="notes-count" id="notes-count"></p>
+<p class="form-status" id="import-status" role="status" aria-live="polite"></p>
+
+<div id="all-notes" class="paragraph-notes">
+  <p class="note-empty">Loading…</p>
+</div>
+```
+
+::: {.source-note}
+Markdown is the readable format — open it in any notes app or print it. JSON is the one to keep
+if you want to restore these notes into another browser later.
+:::

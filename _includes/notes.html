@@ -1,0 +1,260 @@
+<script>
+/* ---------------------------------------------------------------------------
+   Personal notes, stored in this browser only.
+
+   Notes are keyed by paragraph number, so the same note follows a paragraph
+   wherever it appears. Nothing is transmitted anywhere.
+
+   Storage is localStorage rather than cookies: cookies cap at ~4KB and are
+   sent with every request. Be aware that iOS Safari can evict script-writable
+   storage after seven days without a visit, which is why export is prominent.
+--------------------------------------------------------------------------- */
+(function () {
+  'use strict';
+
+  var KEY = 'iqan:note:';
+  // Quarto emits this as "./" at the site root and "../" one level down, so
+  // data/ resolves correctly from both index.html and weeks/week-03.html.
+  var offset = document.querySelector('meta[name="quarto:offset"]');
+  var BASE = (offset && offset.content) || './';
+
+  function load(n) {
+    try { return localStorage.getItem(KEY + n) || ''; } catch (e) { return ''; }
+  }
+  function save(n, value) {
+    try {
+      if (value.trim() === '') localStorage.removeItem(KEY + n);
+      else localStorage.setItem(KEY + n, value);
+      return true;
+    } catch (e) { return false; }
+  }
+  function allNotes() {
+    var out = [];
+    try {
+      for (var i = 0; i < localStorage.length; i++) {
+        var k = localStorage.key(i);
+        if (k && k.indexOf(KEY) === 0) {
+          var n = parseInt(k.slice(KEY.length), 10);
+          if (!isNaN(n)) out.push({ n: n, text: localStorage.getItem(k) });
+        }
+      }
+    } catch (e) {}
+    return out.sort(function (a, b) { return a.n - b.n; });
+  }
+
+  function fetchJSON(path) {
+    return fetch(BASE + path, { cache: 'no-cache' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .catch(function () { return null; });
+  }
+
+  var debounce = function (fn, ms) {
+    var t; return function () {
+      var a = arguments, self = this;
+      clearTimeout(t); t = setTimeout(function () { fn.apply(self, a); }, ms);
+    };
+  };
+
+  /* --- one paragraph row ------------------------------------------------- */
+  function row(n, text) {
+    var wrap = document.createElement('div');
+    wrap.className = 'note-row';
+
+    var head = document.createElement('div');
+    head.className = 'note-head';
+    head.innerHTML = '<span class="note-num">' + n + '</span>';
+    wrap.appendChild(head);
+
+    if (text) {
+      var p = document.createElement('blockquote');
+      p.className = 'note-text';
+      p.textContent = text;
+      wrap.appendChild(p);
+    }
+
+    var ta = document.createElement('textarea');
+    ta.className = 'note-input';
+    ta.rows = 2;
+    ta.setAttribute('aria-label', 'Your note on paragraph ' + n);
+    ta.placeholder = 'Your note on paragraph ' + n + '…';
+    ta.value = load(n);
+    if (ta.value) wrap.classList.add('has-note');
+    wrap.appendChild(ta);
+
+    var flag = document.createElement('span');
+    flag.className = 'note-saved';
+    wrap.appendChild(flag);
+
+    var commit = debounce(function () {
+      var ok = save(n, ta.value);
+      flag.textContent = ok ? 'Saved' : 'Could not save';
+      flag.className = 'note-saved show' + (ok ? '' : ' err');
+      wrap.classList.toggle('has-note', ta.value.trim() !== '');
+      setTimeout(function () { flag.className = 'note-saved'; }, 1600);
+    }, 550);
+
+    ta.addEventListener('input', function () {
+      ta.style.height = 'auto';
+      ta.style.height = Math.max(ta.scrollHeight, 44) + 'px';
+      commit();
+    });
+
+    return wrap;
+  }
+
+  /* --- render the paragraph range on a week page -------------------------- */
+  function renderRange(host, from, to, texts) {
+    if (from == null || to == null) {
+      host.innerHTML =
+        '<p class="note-empty">The paragraph range for this session has not been set yet. ' +
+        'Once it is, note boxes for each paragraph will appear here.</p>';
+      return;
+    }
+    var frag = document.createDocumentFragment();
+    for (var n = from; n <= to; n++) frag.appendChild(row(n, texts[String(n)]));
+    host.innerHTML = '';
+    host.appendChild(frag);
+  }
+
+  /* --- export / import --------------------------------------------------- */
+  function weekOf(n, weeks) {
+    for (var i = 0; i < weeks.length; i++) {
+      var w = weeks[i];
+      if (w.from != null && n >= w.from && n <= w.to) return w;
+    }
+    return null;
+  }
+
+  function toMarkdown(weeks) {
+    var notes = allNotes();
+    if (!notes.length) return '# My notes on the Kitáb-i-Íqán\n\n*No notes yet.*\n';
+    var out = ['# My notes on the Kitáb-i-Íqán', ''];
+    var lastWeek = undefined;
+    notes.forEach(function (item) {
+      var w = weekOf(item.n, weeks);
+      var label = w ? 'Week ' + w.week + ' — ' + w.date : 'Unassigned paragraphs';
+      if (label !== lastWeek) { out.push('## ' + label, ''); lastWeek = label; }
+      out.push('**Paragraph ' + item.n + '**', '', item.text, '');
+    });
+    return out.join('\n');
+  }
+
+  function download(name, text, type) {
+    var blob = new Blob([text], { type: type });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = name;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function () { URL.revokeObjectURL(a.href); }, 1000);
+  }
+
+  /* --- the My notes page ------------------------------------------------- */
+  function renderAll(host, weeks, texts) {
+    var notes = allNotes();
+    var count = document.getElementById('notes-count');
+    if (count) {
+      count.textContent = notes.length === 0 ? 'No notes saved yet.'
+        : notes.length === 1 ? '1 note saved.'
+        : notes.length + ' notes saved.';
+    }
+    if (!notes.length) {
+      host.innerHTML = '<p class="note-empty">Nothing saved yet. Open a week from the ' +
+        '<a href="' + BASE + 'schedule.html">schedule</a> and write a note on a paragraph.</p>';
+      return;
+    }
+    host.innerHTML = '';
+    var lastWeek;
+    notes.forEach(function (item) {
+      var w = weekOf(item.n, weeks);
+      var label = w ? 'Week ' + w.week : 'Unassigned';
+      if (label !== lastWeek) {
+        var h = document.createElement('h3');
+        h.className = 'notes-group';
+        h.textContent = w ? 'Week ' + w.week + ' · ' + w.date : 'Unassigned paragraphs';
+        host.appendChild(h);
+        lastWeek = label;
+      }
+      host.appendChild(row(item.n, texts[String(item.n)]));
+    });
+  }
+
+  /* --- wire up on load --------------------------------------------------- */
+  document.addEventListener('DOMContentLoaded', function () {
+    var weekHost = document.getElementById('paragraph-notes');
+    var allHost  = document.getElementById('all-notes');
+    if (!weekHost && !allHost) return;
+
+    Promise.all([fetchJSON('data/weeks.json'), fetchJSON('data/paragraphs.json')])
+      .then(function (res) {
+        var weeks = (res[0] && res[0].weeks) || [];
+        var texts = (res[1] && res[1].text) || {};
+
+        if (weekHost) {
+          var wk = parseInt(weekHost.getAttribute('data-week'), 10);
+          var w = weeks.filter(function (x) { return x.week === wk; })[0] || {};
+          renderRange(weekHost, w.from, w.to, texts);
+        }
+
+        if (allHost) {
+          renderAll(allHost, weeks, texts);
+
+          var ex = document.getElementById('export-md');
+          if (ex) ex.addEventListener('click', function () {
+            download('iqan-notes.md', toMarkdown(weeks), 'text/markdown');
+          });
+
+          var ej = document.getElementById('export-json');
+          if (ej) ej.addEventListener('click', function () {
+            download('iqan-notes.json', JSON.stringify({ notes: allNotes() }, null, 2),
+                     'application/json');
+          });
+
+          var imp = document.getElementById('import-json');
+          if (imp) imp.addEventListener('change', function () {
+            var f = imp.files && imp.files[0];
+            if (!f) return;
+            var reader = new FileReader();
+            reader.onload = function () {
+              var status = document.getElementById('import-status');
+              try {
+                var data = JSON.parse(reader.result);
+                var list = data.notes || [];
+                var added = 0;
+                list.forEach(function (item) {
+                  if (typeof item.n === 'number' && typeof item.text === 'string') {
+                    var existing = load(item.n);
+                    // Never silently discard a note already here.
+                    save(item.n, existing && existing !== item.text
+                      ? existing + '\n\n---\n\n' + item.text
+                      : item.text);
+                    added++;
+                  }
+                });
+                status.className = 'form-status ok';
+                status.textContent = 'Imported ' + added + ' note' + (added === 1 ? '' : 's') +
+                  '. Where a note already existed, the imported text was appended.';
+                renderAll(allHost, weeks, texts);
+              } catch (e) {
+                status.className = 'form-status err';
+                status.textContent = 'That file could not be read as notes JSON.';
+              }
+            };
+            reader.readAsText(f);
+          });
+
+          var clr = document.getElementById('clear-notes');
+          if (clr) clr.addEventListener('click', function () {
+            var n = allNotes().length;
+            if (!n) return;
+            if (!confirm('Delete all ' + n + ' notes from this browser? ' +
+                         'This cannot be undone — export them first if you want a copy.')) return;
+            allNotes().forEach(function (item) { save(item.n, ''); });
+            renderAll(allHost, weeks, texts);
+          });
+        }
+      });
+  });
+})();
+</script>

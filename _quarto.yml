@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - data/
   render:
     - "*.qmd"
     - "slides/*.qmd"
@@ -26,6 +28,8 @@ website:
         href: slides/intro.qmd
       - href: ask.qmd
         text: Ask
+      - href: notes.qmd
+        text: My notes
   page-footer:
     center: |
       "Blessed is he that hath beheld it and pondered its contents for the love of God, the Lord of creation."
@@ -46,3 +50,5 @@ format:
       sidebar-width: 240px
       body-width: 820px
       margin-width: 260px
+    include-after-body:
+      - _includes/notes.html
