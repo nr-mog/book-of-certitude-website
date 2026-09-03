@@ -24,6 +24,8 @@ website:
         text: Summary
       - text: Slides
         href: slides/intro.qmd
+      - href: ask.qmd
+        text: Ask
   page-footer:
     center: |
       "Blessed is he that hath beheld it and pondered its contents for the love of God, the Lord of creation."

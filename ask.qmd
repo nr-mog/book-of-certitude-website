@@ -1,0 +1,104 @@
+---
+title: "Ask a question"
+subtitle: "Anything from the reading — a word, a passage, an idea"
+toc: false
+---
+
+::: {.lead}
+You are not expected to understand everything we read. If something in the paragraphs puzzled
+you, send it here and we can take it up together in the session.
+:::
+
+Your name is optional. Ask anonymously if you would rather.
+
+```{=html}
+<!-- ==========================================================================
+     SETUP: replace YOUR_FORM_ID below with the id from your Formspree form.
+     Create a form at https://formspree.io, and it will give you an endpoint
+     like https://formspree.io/f/xayzwbqd — the part after /f/ is the id.
+     It appears once, in the action attribute on the next line.
+     ========================================================================== -->
+<form id="ask-form" class="ask-form"
+      action="https://formspree.io/f/YOUR_FORM_ID"
+      method="POST">
+
+  <div class="field">
+    <label for="ask-name">Your name <span class="opt">optional</span></label>
+    <input type="text" id="ask-name" name="name" autocomplete="name"
+           placeholder="Leave blank to ask anonymously">
+  </div>
+
+  <div class="field">
+    <label for="ask-ref">Week or paragraphs <span class="opt">optional</span></label>
+    <input type="text" id="ask-ref" name="reference"
+           placeholder="e.g. Week 3, or paragraph 27">
+  </div>
+
+  <div class="field">
+    <label for="ask-q">Your question</label>
+    <textarea id="ask-q" name="question" rows="6" required
+              placeholder="What would you like to ask?"></textarea>
+  </div>
+
+  <!-- Honeypot: bots fill hidden fields, people do not. -->
+  <input type="text" name="_gotcha" tabindex="-1" aria-hidden="true"
+         style="position:absolute;left:-9999px;opacity:0">
+
+  <input type="hidden" name="_subject" value="Iqán study — a question">
+
+  <button type="submit" class="btn-slides primary">Send question</button>
+
+  <p class="form-status" id="ask-status" role="status" aria-live="polite"></p>
+</form>
+
+<script>
+(function () {
+  var form   = document.getElementById('ask-form');
+  var status = document.getElementById('ask-status');
+  if (!form) return;
+
+  // Without this script the form still posts normally to Formspree and lands
+  // on their confirmation page. With it, submission happens in place so the
+  // reader never leaves the site.
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    // Until the Formspree id is filled in, say so rather than posting to an
+    // endpoint that does not exist.
+    if (form.action.indexOf('YOUR_FORM_ID') !== -1) {
+      status.className = 'form-status err';
+      status.textContent =
+        'This form is not connected yet. Please send your question to me directly for now.';
+      return;
+    }
+
+    var button = form.querySelector('button[type="submit"]');
+    button.disabled = true;
+    status.className = 'form-status';
+    status.textContent = 'Sending…';
+
+    fetch(form.action, {
+      method:  'POST',
+      body:    new FormData(form),
+      headers: { Accept: 'application/json' }
+    }).then(function (response) {
+      if (!response.ok) throw new Error('Request failed');
+      form.reset();
+      status.className = 'form-status ok';
+      status.textContent = 'Thank you — your question has been sent.';
+    }).catch(function () {
+      status.className = 'form-status err';
+      status.textContent =
+        'Something went wrong sending that. Please try again, or send it to me directly.';
+    }).finally(function () {
+      button.disabled = false;
+    });
+  });
+})();
+</script>
+```
+
+::: {.source-note}
+Questions come straight to me. Nothing you send appears on this site unless we decide together
+to bring it into a session handout.
+:::

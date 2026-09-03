@@ -673,3 +673,73 @@ a.mat {
 
   a.mat { font-size: 0.64rem; }
 }
+
+// --- Question form ----------------------------------------------------------
+.ask-form {
+  max-width: 34rem;
+  margin: 1.8rem 0 1rem;
+
+  .field { margin-bottom: 1.25rem; }
+
+  label {
+    display: block;
+    font-family: $font-family-sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: $ink-soft;
+    margin-bottom: 0.4rem;
+  }
+
+  .opt {
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: none;
+    color: $ink-faint;
+    font-style: italic;
+    margin-left: 0.35rem;
+  }
+
+  input[type="text"],
+  textarea {
+    display: block;
+    width: 100%;
+    font-family: $font-family-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: $ink;
+    background: rgba(255, 255, 255, 0.55);
+    border: 1px solid $rule;
+    border-radius: 0;
+    padding: 0.6rem 0.75rem;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+
+    &::placeholder { color: $ink-faint; font-style: italic; }
+
+    &:focus {
+      outline: none;
+      border-color: $gold;
+      box-shadow: 0 0 0 3px rgba(196, 166, 98, 0.22);
+    }
+  }
+
+  textarea { resize: vertical; min-height: 8rem; }
+
+  button[type="submit"] {
+    cursor: pointer;
+
+    &:disabled { opacity: 0.55; cursor: default; }
+  }
+}
+
+.form-status {
+  font-family: $font-family-sans-serif;
+  font-size: 0.82rem;
+  margin: 0.9rem 0 0;
+  min-height: 1.2rem;
+  color: $ink-faint;
+
+  &.ok  { color: $gold; font-weight: 500; }
+  &.err { color: #9a3232; }
+}

@@ -134,6 +134,43 @@ shows each source in a popup on hover.
 
 Quotes with no source yet simply carry no marker.
 
+## Connecting the question form
+
+`ask.qmd` holds a form styled to match the site. It is **not connected yet** — until it is, it
+tells submitters so rather than posting into the void.
+
+To turn it on:
+
+1. Create a free form at <https://formspree.io>. It gives you an endpoint like
+   `https://formspree.io/f/xayzwbqd`.
+2. In `ask.qmd`, replace `YOUR_FORM_ID` with the part after `/f/`. It appears once, in the
+   form's `action`.
+3. `quarto render`, then push.
+
+Fields are `name` (optional), `reference` (optional) and `question` (required). There is a
+hidden `_gotcha` honeypot that catches most bots, and `_subject` sets the email subject.
+
+With JavaScript the form submits in place and shows a confirmation without leaving the page.
+Without it, the form posts normally and lands on Formspree's own confirmation page — so it
+works either way.
+
+Formspree's free tier caps monthly submissions (around 50 at the time of writing). If the study
+outgrows that, the same markup works with Basin or Getform by changing only the `action`.
+
+## Adding a week's materials
+
+Each session row on the schedule links to two things:
+
+- `slides/week-NN.qmd` — the deck, opened in presentation mode
+- `weeks/week-NN.qmd` — the handout page
+
+Both already exist as stubs for every week. Edit them in place; no schedule changes needed.
+Decks inherit their reveal.js config from `slides/_metadata.yml`, so a week's deck only needs a
+title and content.
+
+To offer a week's deck as a PDF download, add its name to the list in
+`.github/workflows/publish.yml` (`for name in intro; do`) and in `make-slides-pdf.sh`.
+
 ## Adding a deck
 
 Drop a new `.qmd` in `slides/` with `format: revealjs` and `theme: [default, custom.scss]`.
