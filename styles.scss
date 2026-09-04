@@ -870,31 +870,6 @@ a.note-num {
   min-height: 1.5rem;
 }
 
-.save-btn {
-  font-family: $font-family-sans-serif;
-  font-size: 0.64rem;
-  font-weight: 600;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-  padding: 0.22rem 0.6rem;
-  border: 1px solid $rule;
-  background: transparent;
-  color: $ink-faint;
-  cursor: default;
-  transition: all 0.15s ease;
-
-  &.dirty {
-    cursor: pointer;
-    color: $parchment;
-    background: $ink;
-    border-color: $ink;
-
-    &:hover { background: $gold; border-color: $gold; }
-  }
-
-  &.just-saved { color: $gold; border-color: $gold-soft; }
-}
-
 .note-saved {
   font-family: $font-family-sans-serif;
   font-size: 0.6rem;
@@ -1266,4 +1241,19 @@ details.person {
   .gloss-section dt, .p-name { font-size: 1rem; }
   details.person summary { padding-left: 1.3rem; }
   .p-body { padding-left: 1.3rem; }
+}
+
+// --- Text attribution -------------------------------------------------------
+.attribution {
+  font-family: $font-family-sans-serif;
+  font-size: 0.76rem;
+  line-height: 1.55;
+  color: $ink-faint;
+  border-left: 2px solid $gold-soft;
+  padding: 0.15rem 0 0.15rem 0.9rem;
+  margin: 1.2rem 0 1.5rem;
+  max-width: 40rem;
+
+  a { color: $ink-soft; text-decoration-color: $gold-soft; }
+  a:hover { color: $gold; }
 }

@@ -44,15 +44,23 @@
     return out.sort(function (a, b) { return a.n - b.n; });
   }
 
-  // The source text carries footnote reference markers from the print edition
-  // (…truth."15 / God8 / oppression19). Every digit run in the Book is one of
-  // these - numbers are spelled out in words. The guard requires the digits to
-  // follow a non-space character, so a genuine numeral like "in 1862" survives.
-  var MARKER = /(\S)(\d{1,3})(?=\s|$|[.,;:!?”"’')\]])/g;
+  // Every digit run in the Book is a footnote marker - checked against the
+  // text, all 182 of them, and none is an ordinary numeral. So the rule is
+  // simply: a run of 1-3 digits that names a known footnote is a marker.
+  //
+  // An earlier version required the digits to follow a non-space character,
+  // to protect numerals that turned out not to exist. That guard broke the
+  // paired markers in ¶54 ("…Mosque."38, 39 …"), where the second is preceded
+  // by a space and was being split into "3" + a spurious marker "9".
+  function isMarker(num) {
+    return num.length <= 3 && FOOTNOTES && FOOTNOTES[num];
+  }
 
   // Stripped, for the AI prompt - bare numbers mid-sentence only confuse it.
   function clean(t) {
-    return String(t).replace(MARKER, '$1');
+    return String(t).replace(/\d+/g, function (num) {
+      return isMarker(num) ? '' : num;
+    });
   }
 
   function esc(t) {
@@ -61,14 +69,21 @@
     });
   }
 
-  // Escaped first, then markers become superscripts - never the other way round.
+  // Built segment by segment rather than by escaping first and then swapping
+  // in the markers: HTML entities contain digits of their own (&#39;), and a
+  // second pass over escaped text would mistake those for footnote numbers.
   function renderTextHTML(t) {
-    return esc(t).replace(MARKER, function (_m, before, num) {
-      var known = FOOTNOTES && FOOTNOTES[num];
-      return before + '<sup class="fn-ref' + (known ? '' : ' fn-missing') +
-             '" data-fn="' + num + '" role="button" tabindex="0" ' +
-             'aria-label="Footnote ' + num + '">' + num + '</sup>';
+    var s = String(t), out = '', last = 0;
+    s.replace(/\d+/g, function (num, idx) {
+      out += esc(s.slice(last, idx));
+      out += isMarker(num)
+        ? '<sup class="fn-ref" data-fn="' + num + '" role="button" tabindex="0" ' +
+          'aria-label="Footnote ' + num + '">' + num + '</sup>'
+        : esc(num);
+      last = idx + num.length;
+      return num;
     });
+    return out + esc(s.slice(last));
   }
 
   function fetchJSON(path) {
@@ -236,24 +251,6 @@
     var bar = document.createElement('div');
     bar.className = 'note-bar';
 
-    // A Save button for the sense of agency. Persistence is the debounced
-    // autosave below - by the time this can be pressed the note is already
-    // stored, so pressing it confirms rather than performs. Deliberate: the
-    // affordance is honest about the outcome, just not about the mechanism.
-    var saveBtn = document.createElement('button');
-    saveBtn.type = 'button';
-    saveBtn.className = 'save-btn';
-    saveBtn.textContent = 'Saved';
-    saveBtn.disabled = true;
-    saveBtn.addEventListener('click', function () {
-      saveBtn.textContent = 'Saved';
-      saveBtn.disabled = true;
-      saveBtn.classList.remove('dirty');
-      saveBtn.classList.add('just-saved');
-      setTimeout(function () { saveBtn.classList.remove('just-saved'); }, 1200);
-    });
-    bar.appendChild(saveBtn);
-
     var flag = document.createElement('span');
     flag.className = 'note-saved';
     bar.appendChild(flag);
@@ -270,9 +267,6 @@
     ta.addEventListener('input', function () {
       ta.style.height = 'auto';
       ta.style.height = Math.max(ta.scrollHeight, 44) + 'px';
-      saveBtn.textContent = 'Save';
-      saveBtn.disabled = false;
-      saveBtn.classList.add('dirty');
       commit();
     });
 

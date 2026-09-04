@@ -191,21 +191,23 @@ a quotation.
 ### Footnotes
 
 `data/footnotes.json` holds all 186 footnotes of the published text. The markers embedded in the
-source (`truth."15`, `God8`) are turned into clickable superscripts by `renderTextHTML()` in
-`_includes/notes.html`, which escapes the text first and inserts the `<sup>` elements second —
-never the other way round. Clicking one opens a small popover; Escape or a click outside closes it.
+source (`truth."15`, `God8`) become clickable superscripts via `renderTextHTML()` in
+`_includes/notes.html`. Clicking one opens a small popover; Escape or a click outside closes it.
 
-Eight footnotes (38, 39, 109, 118, 126, 127, 134, 153) have no marker in the text file — those
-references were lost when the text was extracted, so they cannot be linked. Every marker that is
-present does resolve to a footnote.
+**The rule is simply: a run of 1–3 digits naming a known footnote is a marker.** That was checked
+against the text — all 182 digit runs in the Book are footnote markers, and none is an ordinary
+numeral. Two subtleties are worth keeping:
 
-### The Save button
+- Do not add a guard requiring the digits to follow a non-space character. An earlier version did,
+  to protect numerals that turn out not to exist, and it broke the paired markers in ¶54
+  (`…Mosque."38, 39 …`) where the second follows a space — splitting it into `3` plus a spurious
+  marker `9`. It also missed the two markers followed by an em dash.
+- The HTML is assembled segment by segment, not by escaping the whole passage and then swapping in
+  markers. HTML entities contain digits of their own (`&#39;`), and a second pass over escaped
+  text would read those as footnote numbers.
 
-Note rows carry a Save button that is enabled by editing and disabled by pressing. It is an
-affordance, not the persistence mechanism: the debounced autosave has already stored the note by
-the time the button can be pressed. That is deliberate and is commented in the source. The button
-is honest about the outcome — the note really is saved — just not about which code saved it. If
-autosave is ever removed, this button must be made real first.
+Four footnotes (118, 126, 127, 134) have no marker anywhere in the text file — lost when the text
+was extracted — so they cannot be linked. All 182 markers that are present resolve correctly.
 
 ### Glossary and People
 

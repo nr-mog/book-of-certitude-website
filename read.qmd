@@ -10,6 +10,11 @@ The whole Book, with room to write beside it. Notes save as you type and stay in
 keep a copy from the [My notes](notes.qmd) page.
 :::
 
+::: {.attribution}
+The Kitáb-i-Íqán, translated by Shoghi Effendi. Copyright © Bahá'í International Community.
+Text from the [Bahá'í Reference Library](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/).
+:::
+
 Superscript numbers are the footnotes of the published text; click one to read it. Paragraph
 numbers link to the passage in the Bahá'í Reference Library.
 
@@ -18,8 +23,3 @@ numbers link to the passage in the Bahá'í Reference Library.
   <p class="note-empty">Loading the text…</p>
 </div>
 ```
-
-::: {.source-note}
-The Kitáb-i-Íqán, translated by Shoghi Effendi. Text from the
-[Bahá'í Reference Library](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/).
-:::
