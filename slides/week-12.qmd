@@ -1,6 +1,6 @@
 ---
 title: "Week 12"
-subtitle: "2 December 2026"
+subtitle: "2 December 2026 · Paragraphs 266–290"
 ---
 
 ##  {.divider}
@@ -9,7 +9,7 @@ subtitle: "2 December 2026"
 Week 12
 :::
 ::: {.divider-title}
-Reading to be confirmed
+Paragraphs 266–290
 :::
 
 ---

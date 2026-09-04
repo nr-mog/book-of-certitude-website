@@ -1,18 +1,85 @@
 {
-  "_comment": "Paragraph range covered by each session. Set weeks 12 and 13 once you have redistributed 240-290.",
+  "_comment": "Paragraph range covered by each session. A week with no range carries a 'label' describing why; weeks with neither show a 'not set yet' message.",
   "weeks": [
-    { "week": 1,  "date": "9 Sep 2026",  "from": null, "to": null },
-    { "week": 2,  "date": "16 Sep 2026", "from": 1,   "to": 23  },
-    { "week": 3,  "date": "23 Sep 2026", "from": 24,  "to": 50  },
-    { "week": 4,  "date": "30 Sep 2026", "from": 51,  "to": 73  },
-    { "week": 5,  "date": "7 Oct 2026",  "from": 74,  "to": 101 },
-    { "week": 6,  "date": "14 Oct 2026", "from": 102, "to": 124 },
-    { "week": 7,  "date": "21 Oct 2026", "from": 125, "to": 146 },
-    { "week": 8,  "date": "28 Oct 2026", "from": 147, "to": 169 },
-    { "week": 9,  "date": "4 Nov 2026",  "from": 170, "to": 198 },
-    { "week": 10, "date": "11 Nov 2026", "from": 199, "to": 219 },
-    { "week": 11, "date": "18 Nov 2026", "from": 220, "to": 239 },
-    { "week": 12, "date": "2 Dec 2026",  "from": null, "to": null },
-    { "week": 13, "date": "9 Dec 2026",  "from": null, "to": null }
+    {
+      "week": 1,
+      "date": "9 Sep 2026",
+      "from": null,
+      "to": null,
+      "label": "introductions and an overview of the Book"
+    },
+    {
+      "week": 2,
+      "date": "16 Sep 2026",
+      "from": 1,
+      "to": 23
+    },
+    {
+      "week": 3,
+      "date": "23 Sep 2026",
+      "from": 24,
+      "to": 50
+    },
+    {
+      "week": 4,
+      "date": "30 Sep 2026",
+      "from": 51,
+      "to": 73
+    },
+    {
+      "week": 5,
+      "date": "7 Oct 2026",
+      "from": 74,
+      "to": 101
+    },
+    {
+      "week": 6,
+      "date": "14 Oct 2026",
+      "from": 102,
+      "to": 130
+    },
+    {
+      "week": 7,
+      "date": "21 Oct 2026",
+      "from": 131,
+      "to": 158
+    },
+    {
+      "week": 8,
+      "date": "28 Oct 2026",
+      "from": 159,
+      "to": 188
+    },
+    {
+      "week": 9,
+      "date": "4 Nov 2026",
+      "from": 189,
+      "to": 212
+    },
+    {
+      "week": 10,
+      "date": "11 Nov 2026",
+      "from": 213,
+      "to": 245
+    },
+    {
+      "week": 11,
+      "date": "18 Nov 2026",
+      "from": 246,
+      "to": 265
+    },
+    {
+      "week": 12,
+      "date": "2 Dec 2026",
+      "from": 266,
+      "to": 290
+    },
+    {
+      "week": 13,
+      "date": "9 Dec 2026",
+      "from": null,
+      "to": null,
+      "label": "a session for reflection and celebration"
+    }
   ]
 }

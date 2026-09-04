@@ -1,5 +1,6 @@
 ---
 title: "Book of Certitude Study"
+subtitle: "Fall 2026 | Boston"
 toc: true
 toc-location: left
 reference-location: margin

@@ -1,6 +1,6 @@
 ---
 title: "Week 8"
-subtitle: "28 October 2026 · Paragraphs 147–169"
+subtitle: "28 October 2026 · Paragraphs 159–188"
 ---
 
 ##  {.divider}
@@ -9,7 +9,7 @@ subtitle: "28 October 2026 · Paragraphs 147–169"
 Week 8
 :::
 ::: {.divider-title}
-Paragraphs 147–169
+Paragraphs 159–188
 :::
 
 ---

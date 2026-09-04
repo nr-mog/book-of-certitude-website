@@ -222,11 +222,14 @@
   }
 
   /* --- render the paragraph range on a week page -------------------------- */
-  function renderRange(host, from, to, texts) {
+  function renderRange(host, from, to, texts, label) {
     if (from == null || to == null) {
-      host.innerHTML =
-        '<p class="note-empty">The paragraph range for this session has not been set yet. ' +
-        'Once it is, note boxes for each paragraph will appear here.</p>';
+      host.innerHTML = label
+        ? '<p class="note-empty">This session has no assigned reading — it is ' + label +
+          '. You can still add a note against any paragraph from the ' +
+          '<a href="' + BASE + 'notes.html">My notes</a> page.</p>'
+        : '<p class="note-empty">The paragraph range for this session has not been set yet. ' +
+          'Once it is, note boxes for each paragraph will appear here.</p>';
       return;
     }
     var frag = document.createDocumentFragment();
@@ -317,7 +320,7 @@
         if (weekHost) {
           var wk = parseInt(weekHost.getAttribute('data-week'), 10);
           var w = weeks.filter(function (x) { return x.week === wk; })[0] || {};
-          renderRange(weekHost, w.from, w.to, texts);
+          renderRange(weekHost, w.from, w.to, texts, w.label);
         }
 
         if (allHost) {

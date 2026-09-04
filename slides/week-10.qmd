@@ -1,6 +1,6 @@
 ---
 title: "Week 10"
-subtitle: "11 November 2026 · Paragraphs 199–219"
+subtitle: "11 November 2026 · Paragraphs 213–245"
 ---
 
 ##  {.divider}
@@ -9,7 +9,7 @@ subtitle: "11 November 2026 · Paragraphs 199–219"
 Week 10
 :::
 ::: {.divider-title}
-Paragraphs 199–219
+Paragraphs 213–245
 :::
 
 ---

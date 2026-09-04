@@ -1,6 +1,6 @@
 ---
 title: "Week 6"
-subtitle: "14 October 2026 · Paragraphs 102–124"
+subtitle: "14 October 2026 · Paragraphs 102–130"
 ---
 
 ##  {.divider}
@@ -9,7 +9,7 @@ subtitle: "14 October 2026 · Paragraphs 102–124"
 Week 6
 :::
 ::: {.divider-title}
-Paragraphs 102–124
+Paragraphs 102–130
 :::
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Week 13"
-subtitle: "9 December 2026"
+subtitle: "9 December 2026 · Reflection & celebration"
 ---
 
 ##  {.divider}
@@ -9,7 +9,7 @@ subtitle: "9 December 2026"
 Week 13
 :::
 ::: {.divider-title}
-Reading to be confirmed
+Reflection & celebration
 :::
 
 ---
