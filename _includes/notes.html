@@ -147,16 +147,26 @@
     });
   }
 
-  function askControls(n, text) {
-    var wrap = document.createElement('div');
-    wrap.className = 'note-ask';
+  // The passage as plain text, with the footnote numbers taken out - read
+  // from the DOM so the prompt works for pre-rendered rows too.
+  function passageText(wrap) {
+    var el = wrap.querySelector('.note-text');
+    if (!el) return '';
+    var copy = el.cloneNode(true);
+    [].slice.call(copy.querySelectorAll('sup.fn-ref')).forEach(function (sup) {
+      sup.parentNode.removeChild(sup);
+    });
+    return copy.textContent.trim();
+  }
+
+  function wireAsk(wrap, n) {
+    var box  = wrap.querySelector('.note-ask');
+    var send = wrap.querySelector('.send-btn');
+    var btn  = wrap.querySelector('.ask-btn:not(.send-btn)');
+    if (!box || !send || !btn) return;
 
     // Hands the note to the Ask form via sessionStorage rather than a query
     // string: notes are private, and a URL would put them in browser history.
-    var send = document.createElement('button');
-    send.type = 'button';
-    send.className = 'ask-btn send-btn';
-    send.textContent = 'Send as question';
     send.addEventListener('click', function () {
       var note = (load(n) || '').trim();
       if (!note) {
@@ -172,35 +182,17 @@
       } catch (e) {}
       window.location.href = BASE + 'ask.html';
     });
-    wrap.appendChild(send);
-
-    var btn = document.createElement('button');
-    btn.type = 'button';
-    btn.className = 'ask-btn';
-    btn.textContent = 'Ask AI about this paragraph';
-    wrap.appendChild(btn);
-
-    var targets = document.createElement('span');
-    targets.className = 'ask-targets';
-    targets.innerHTML =
-      '<span class="ask-copied">Prompt copied — paste it into</span>' +
-      '<a href="https://claude.ai/new" target="_blank" rel="noopener">Claude</a>' +
-      '<a href="https://chatgpt.com/" target="_blank" rel="noopener">ChatGPT</a>' +
-      '<a href="https://gemini.google.com/app" target="_blank" rel="noopener">Gemini</a>';
-    wrap.appendChild(targets);
 
     var timer;
     btn.addEventListener('click', function () {
-      copyText(buildPrompt(n, text)).then(function () {
-        wrap.classList.add('copied');
+      copyText(buildPrompt(n, passageText(wrap))).then(function () {
+        box.classList.add('copied');
         clearTimeout(timer);
-        timer = setTimeout(function () { wrap.classList.remove('copied'); }, 12000);
+        timer = setTimeout(function () { box.classList.remove('copied'); }, 12000);
       }).catch(function () {
         btn.textContent = 'Could not copy — select the text manually';
       });
     });
-
-    return wrap;
   }
 
   /* --- part divisions and the opening invocation --------------------------
@@ -230,59 +222,60 @@
     });
   }
 
-  /* --- one paragraph row ------------------------------------------------- */
-  function row(n, text) {
+  /* --- one paragraph row -------------------------------------------------
+     The Read page ships its rows in the HTML (see tools/gen_read.py) so the
+     browser can resolve #p102 on first layout. buildRow produces the same
+     markup for the pages that still assemble rows at runtime; keep the two
+     in step.
+  --------------------------------------------------------------------- */
+  var ASK_TARGETS =
+    '<span class="ask-targets">' +
+    '<span class="ask-copied">Prompt copied — paste it into</span>' +
+    '<a href="https://claude.ai/new" target="_blank" rel="noopener">Claude</a>' +
+    '<a href="https://chatgpt.com/" target="_blank" rel="noopener">ChatGPT</a>' +
+    '<a href="https://gemini.google.com/app" target="_blank" rel="noopener">Gemini</a>' +
+    '</span>';
+
+  function buildRow(n, text) {
     var wrap = document.createElement('div');
     wrap.className = 'note-row';
-    wrap.id = 'p' + n;   // anchor target for "Start reading" on the schedule
+    wrap.id = 'p' + n;
 
-    var main = document.createElement('div');
-    main.className = 'note-main';
-
-    var head = document.createElement('div');
-    head.className = 'note-head';
     var target = LINKS && LINKS.links && LINKS.links[String(n)];
-    if (target) {
-      var a = document.createElement('a');
-      a.className = 'note-num';
-      a.href = LINKS.base + target;
-      a.target = '_blank';
-      a.rel = 'noopener';
-      a.title = 'Read paragraph ' + n + ' on bahai.org';
-      a.textContent = n;
-      head.appendChild(a);
-    } else {
-      head.innerHTML = '<span class="note-num">' + n + '</span>';
-    }
-    main.appendChild(head);
+    var num = target
+      ? '<a class="note-num" href="' + LINKS.base + target + '" target="_blank" ' +
+        'rel="noopener" title="Read paragraph ' + n + ' on bahai.org">' + n + '</a>'
+      : '<span class="note-num">' + n + '</span>';
 
-    if (text) {
-      var p = document.createElement('div');
-      p.className = 'note-text';
-      p.innerHTML = renderTextHTML(text);
-      main.appendChild(p);
-    }
-    wrap.appendChild(main);
+    wrap.innerHTML =
+      '<div class="note-main">' +
+        '<div class="note-head">' + num + '</div>' +
+        (text ? '<div class="note-text">' + renderTextHTML(text) + '</div>' : '') +
+      '</div>' +
+      '<aside class="note-side">' +
+        '<textarea class="note-input" rows="2" aria-label="Your note on paragraph ' + n + '" ' +
+        'placeholder="Your note on paragraph ' + n + '…"></textarea>' +
+        '<div class="note-bar"><span class="note-saved"></span></div>' +
+        '<div class="note-ask">' +
+          '<button type="button" class="ask-btn send-btn">Send as question</button>' +
+          '<button type="button" class="ask-btn">Ask AI about this paragraph</button>' +
+          ASK_TARGETS +
+        '</div>' +
+      '</aside>';
+    return wrap;
+  }
 
-    var side = document.createElement('aside');
-    side.className = 'note-side';
+  function wireRow(wrap, n) {
+    var ta   = wrap.querySelector('.note-input');
+    var flag = wrap.querySelector('.note-saved');
+    if (!ta) return wrap;
 
-    var ta = document.createElement('textarea');
-    ta.className = 'note-input';
-    ta.rows = 2;
-    ta.setAttribute('aria-label', 'Your note on paragraph ' + n);
-    ta.placeholder = 'Your note on paragraph ' + n + '…';
     ta.value = load(n);
-    if (ta.value) wrap.classList.add('has-note');
-    side.appendChild(ta);
-
-    var bar = document.createElement('div');
-    bar.className = 'note-bar';
-
-    var flag = document.createElement('span');
-    flag.className = 'note-saved';
-    bar.appendChild(flag);
-    side.appendChild(bar);
+    if (ta.value) {
+      wrap.classList.add('has-note');
+      ta.style.height = 'auto';
+      ta.style.height = Math.max(ta.scrollHeight, 44) + 'px';
+    }
 
     var commit = debounce(function () {
       var ok = save(n, ta.value);
@@ -298,9 +291,12 @@
       commit();
     });
 
-    side.appendChild(askControls(n, text));
-    wrap.appendChild(side);
+    wireAsk(wrap, n);
     return wrap;
+  }
+
+  function row(n, text) {
+    return wireRow(buildRow(n, text), n);
   }
 
   /* --- render the paragraph range on a week page -------------------------- */
@@ -459,42 +455,29 @@
         }
 
         if (readHost) {
-          var frag = document.createDocumentFragment();
-          for (var i = 1; i <= 290; i++) {
-            structure('before', i, frag);
-            frag.appendChild(row(i, texts[String(i)]));
-            structure('after', i, frag);
-          }
-          readHost.innerHTML = '';
-          readHost.appendChild(frag);
+          // Rows are in the HTML already, so the browser resolves any #pN
+          // anchor on its first layout pass - there is nothing to build.
+          [].slice.call(readHost.querySelectorAll('.note-row')).forEach(function (wrap) {
+            var n = parseInt(wrap.id.slice(1), 10);
+            if (!isNaN(n)) wireRow(wrap, n);
+          });
 
-          // The browser tries to honour #p102 before these rows exist, so the
-          // jump has to be repeated. The hard part is *when*: rendering 290
-          // paragraphs and then loading the serif face changes the page height
-          // by hundreds of thousands of pixels, and a jump made against an
-          // intermediate layout lands nowhere near the paragraph. So wait for
-          // the height to stop changing, then hand the job to the browser by
-          // re-applying the hash - native anchor resolution honours
-          // scroll-margin-top, which is what clears the fixed navbar.
-          if (location.hash && /^#p\d+$/.test(location.hash)) {
+          // One correction, for the cold-cache case only. The serif face
+          // arrives after first paint and reflows 290 paragraphs, which leaves
+          // the scroll offset pointing at the wrong place. Once the font is
+          // cached there is no reflow and this is a no-op.
+          if (location.hash && /^#p\d+$/.test(location.hash) &&
+              document.fonts && document.fonts.ready) {
             var hash = location.hash;
-            var target = document.getElementById(hash.slice(1));
-            if (target) {
-              var lastHeight = -1, stable = 0, waited = 0;
-              var settle = setInterval(function () {
-                var h = document.documentElement.scrollHeight;
-                stable = (h === lastHeight) ? stable + 1 : 0;
-                lastHeight = h;
-                waited += 100;
-                // Three quiet samples, or give up after four seconds.
-                if (stable < 3 && waited < 4000) return;
-                clearInterval(settle);
-                history.replaceState(null, '', location.pathname + location.search);
-                location.hash = hash;
-                target.classList.add('landed');
-                setTimeout(function () { target.classList.remove('landed'); }, 2400);
-              }, 100);
-            }
+            document.fonts.ready.then(function () {
+              var el = document.getElementById(hash.slice(1));
+              if (!el) return;
+              var off = el.getBoundingClientRect().top;
+              // Only act if the font swap actually moved things.
+              if (Math.abs(off - 80) < 6) return;
+              history.replaceState(null, '', location.pathname + location.search);
+              location.hash = hash;
+            });
           }
         }
 

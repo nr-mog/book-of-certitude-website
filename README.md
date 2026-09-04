@@ -184,9 +184,24 @@ survive.
 
 ### The Read page
 
-`read.qmd` renders all 290 paragraphs from `data/iqan_full_text.json`, using the same note
-component as the week pages. Passages are set upright, not italic — this is the text itself, not
-a quotation.
+**`read.qmd` is generated. Edit `tools/gen_read.py` and re-run it, not the .qmd.**
+
+```bash
+python3 tools/gen_read.py && quarto render read.qmd
+```
+
+All 290 paragraphs ship as static HTML rather than being built by JavaScript, so the browser
+resolves `read.html#p102` on its first layout pass — arriving at the paragraph directly instead
+of loading the page and then scrolling. The runtime script only attaches behaviour to rows that
+are already in the document.
+
+Two consequences worth keeping: the page is readable with JavaScript off, and browser find-in-page
+and Quarto's own search cover the whole Book.
+
+`buildRow()` in `_includes/notes.html` produces the same markup for the My notes page, which still
+assembles rows at runtime. **Keep the two in step** — if you change one, change the other.
+
+Passages are set upright, not italic: this is the text itself, not a quotation of it.
 
 ### Part divisions
 
@@ -206,18 +221,18 @@ shorthand — the shorthand resets the `margin-right` doing that alignment.
 Each session row on the schedule links to `read.html#pN`, where N is the week's first paragraph,
 taken from `data/weeks.json`. Every paragraph row carries `id="pN"`.
 
-Getting that jump to land took some care and is easy to break:
+Two things make that land, and both are easy to undo by accident:
 
 - **Smooth scrolling must stay off.** `smooth-scroll` is deliberately absent from `_quarto.yml`.
-  Browsers will not animate a jump of tens of thousands of pixels, which is what a 290-paragraph
-  page asks for.
-- **The jump waits for the layout to settle.** Rendering 290 paragraphs and then loading the serif
-  face changes the page height by hundreds of thousands of pixels. Jumping on a fixed timer lands
-  against an intermediate layout and misses by a mile. The code polls `scrollHeight` until it is
-  unchanged for three samples, then jumps.
-- **The browser does the positioning, not us.** Re-applying the hash lets native anchor resolution
-  place the paragraph, which honours the `scroll-margin-top` that clears the fixed navbar. Measuring
-  a position by hand and calling `scrollTo` goes stale as the page reflows.
+  Browsers will not animate a jump of tens of thousands of pixels.
+- **One correction runs after the web font loads.** The serif face arrives after first paint and
+  reflows 290 paragraphs, which leaves the scroll offset pointing somewhere else — it overshot by
+  64,000px before this was added. The correction re-applies the hash once `document.fonts.ready`
+  resolves, and only if the position actually moved. With the font cached there is no reflow and
+  it does nothing.
+
+`scroll-margin-top` on `.note-row` is what clears the fixed navbar; native anchor resolution
+honours it.
 
 ### Footnotes
 
