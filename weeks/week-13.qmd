@@ -2,6 +2,7 @@
 title: "Week 13"
 subtitle: "9 December 2026 · Reflection & celebration"
 toc: false
+page-layout: full
 ---
 
 ::: {.callout-note appearance="simple"}

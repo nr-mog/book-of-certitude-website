@@ -2,6 +2,7 @@
 title: "Week 2"
 subtitle: "16 September 2026 · Paragraphs 1–23"
 toc: false
+page-layout: full
 ---
 
 ::: {.callout-note appearance="simple"}

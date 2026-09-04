@@ -769,18 +769,31 @@ a.mat {
   color: $ink-faint;
 }
 
+// Passage on the left, the reader's note in the margin on the right.
+// Flex rather than grid: Quarto's full-page layout wraps this content in its
+// own grid, and implicit tracks were being created that squeezed the passage
+// into a narrow column. Flex sizing is unaffected by that.
 .note-row {
-  position: relative;
-  padding: 0.7rem 0 0.9rem 2.6rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 1.8rem;
+  padding: 1rem 0 1.1rem;
   border-bottom: 1px solid rgba(227, 219, 201, 0.6);
 
   &:last-child { border-bottom: none; }
 }
 
+.note-main {
+  position: relative;
+  padding-left: 2.6rem;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
 .note-num {
   position: absolute;
   left: 0;
-  top: 0.85rem;
+  top: 0.2rem;
   width: 2rem;
   text-align: right;
   font-family: $font-family-sans-serif;
@@ -793,64 +806,98 @@ a.mat {
   &::before { content: "¶"; margin-right: 0.15rem; font-weight: 400; }
 }
 
-// A paragraph carrying a note gets a visible marker, so progress is legible
-// when scrolling a range of twenty-odd paragraphs.
-.note-row.has-note {
-  .note-num { color: $gold; }
+a.note-num {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
 
-  &::before {
-    content: "";
-    position: absolute;
-    left: 2.15rem;
-    top: 0.95rem;
-    bottom: 0.9rem;
-    width: 2px;
-    background: $gold-soft;
-  }
+  &:hover { color: $gold; border-bottom-color: $gold-soft; }
 }
 
+.note-row.has-note .note-num { color: $gold; }
+
+// The passage itself. Upright, not italic - this is the text, not a quotation.
 .note-text {
-  border-left: 3px solid $gold-soft;
-  margin: 0 0 0.6rem;
-  padding: 0.1rem 0 0.1rem 0.9rem;
-  font-size: 0.98rem;
-  line-height: 1.55;
+  font-family: $font-family-serif;
+  font-style: normal;
+  font-size: 1rem;
+  line-height: 1.68;
   color: $ink;
+  border: none;
+  margin: 0;
+  padding: 0;
 }
+
+// --- The note column --------------------------------------------------------
+.note-side {
+  flex: 0 0 17rem;
+  border-left: 2px solid $rule;
+  padding-left: 0.9rem;
+}
+
+.note-row.has-note .note-side { border-left-color: $gold-soft; }
 
 .note-input {
   display: block;
   width: 100%;
   font-family: $font-family-serif;
-  font-size: 0.96rem;
+  font-size: 0.9rem;
   line-height: 1.5;
   color: $ink;
   background: transparent;
   border: 1px solid transparent;
   border-radius: 0;
-  padding: 0.35rem 0.5rem;
+  padding: 0.3rem 0.4rem;
   resize: none;
   overflow: hidden;
   transition: background 0.15s ease, border-color 0.15s ease;
 
   &::placeholder { color: rgba(111, 120, 137, 0.6); font-style: italic; }
-
   &:hover { border-color: $rule; }
 
   &:focus {
     outline: none;
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.75);
     border-color: $gold;
     box-shadow: 0 0 0 3px rgba(196, 166, 98, 0.18);
   }
 }
 
-.note-saved {
-  position: absolute;
-  right: 0;
-  bottom: 0.35rem;
+.note-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin-top: 0.35rem;
+  min-height: 1.5rem;
+}
+
+.save-btn {
   font-family: $font-family-sans-serif;
-  font-size: 0.62rem;
+  font-size: 0.64rem;
+  font-weight: 600;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  padding: 0.22rem 0.6rem;
+  border: 1px solid $rule;
+  background: transparent;
+  color: $ink-faint;
+  cursor: default;
+  transition: all 0.15s ease;
+
+  &.dirty {
+    cursor: pointer;
+    color: $parchment;
+    background: $ink;
+    border-color: $ink;
+
+    &:hover { background: $gold; border-color: $gold; }
+  }
+
+  &.just-saved { color: $gold; border-color: $gold-soft; }
+}
+
+.note-saved {
+  font-family: $font-family-sans-serif;
+  font-size: 0.6rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: $gold;
@@ -861,7 +908,71 @@ a.mat {
   &.err  { color: #9a3232; }
 }
 
+// --- Footnote references ----------------------------------------------------
+sup.fn-ref {
+  font-family: $font-family-sans-serif;
+  font-size: 0.58em;
+  font-weight: 600;
+  color: $gold;
+  cursor: pointer;
+  padding: 0 0.1em;
+  vertical-align: super;
+  line-height: 0;
+  transition: color 0.12s ease;
+
+  &:hover, &:focus { color: $ink; outline: none; text-decoration: underline; }
+  &.fn-missing { color: $ink-faint; }
+}
+
+.fn-pop {
+  position: absolute;
+  z-index: 400;
+  max-width: 22rem;
+  background: $parchment;
+  border: 1px solid $gold-soft;
+  box-shadow: 0 6px 22px rgba(28, 35, 49, 0.16);
+  padding: 0.7rem 2rem 0.75rem 0.85rem;
+  font-family: $font-family-serif;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: $ink;
+}
+
+.fn-pop-num {
+  font-family: $font-family-sans-serif;
+  font-size: 0.64rem;
+  font-weight: 600;
+  color: $gold;
+  margin-right: 0.45rem;
+}
+
+.fn-pop-close {
+  position: absolute;
+  top: 0.25rem;
+  right: 0.4rem;
+  border: none;
+  background: none;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: $ink-faint;
+  cursor: pointer;
+
+  &:hover { color: $ink; }
+}
+
 // --- My notes page ----------------------------------------------------------
+h3.notes-group {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $gold;
+  margin: 2rem 0 0.4rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid $rule;
+}
+
 .notes-toolbar {
   display: flex;
   flex-wrap: wrap;
@@ -885,22 +996,31 @@ a.mat {
   margin: 0 0 1.4rem;
 }
 
-h3.notes-group {
-  font-family: $font-family-sans-serif;
-  font-size: 0.72rem;
-  font-weight: 600;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: $gold;
-  margin: 2rem 0 0.4rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 1px solid $rule;
+// Stack the note under the passage once there is no room beside it.
+@media (max-width: 900px) {
+  .note-row {
+    display: block;
+  }
+
+  .note-side {
+    flex: none;
+    border-left: none;
+    border-top: 1px solid $rule;
+    padding-left: 0;
+    padding-top: 0.6rem;
+    margin-top: 0.7rem;
+    margin-left: 2.6rem;
+  }
+
+  .note-row.has-note .note-side { border-top-color: $gold-soft; }
 }
 
 @media (max-width: 560px) {
-  .note-row { padding-left: 2.1rem; }
+  .note-main { padding-left: 2.1rem; }
   .note-num { width: 1.6rem; font-size: 0.68rem; }
-  .note-row.has-note::before { left: 1.75rem; }
+  .note-side { margin-left: 2.1rem; }
+  .note-text { font-size: 0.96rem; }
+  .fn-pop { max-width: calc(100vw - 2rem); }
 }
 
 // --- Ask about this paragraph -----------------------------------------------

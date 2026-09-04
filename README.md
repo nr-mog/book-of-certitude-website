@@ -182,6 +182,31 @@ so `clean()` in `_includes/notes.html` strips them for display and for the promp
 requires the digits to follow a non-space character, so a genuine numeral like "in 1862" would
 survive.
 
+### The Read page
+
+`read.qmd` renders all 290 paragraphs from `data/iqan_full_text.json`, using the same note
+component as the week pages. Passages are set upright, not italic — this is the text itself, not
+a quotation.
+
+### Footnotes
+
+`data/footnotes.json` holds all 186 footnotes of the published text. The markers embedded in the
+source (`truth."15`, `God8`) are turned into clickable superscripts by `renderTextHTML()` in
+`_includes/notes.html`, which escapes the text first and inserts the `<sup>` elements second —
+never the other way round. Clicking one opens a small popover; Escape or a click outside closes it.
+
+Eight footnotes (38, 39, 109, 118, 126, 127, 134, 153) have no marker in the text file — those
+references were lost when the text was extracted, so they cannot be linked. Every marker that is
+present does resolve to a footnote.
+
+### The Save button
+
+Note rows carry a Save button that is enabled by editing and disabled by pressing. It is an
+affordance, not the persistence mechanism: the debounced autosave has already stored the note by
+the time the button can be pressed. That is deliberate and is commented in the source. The button
+is honest about the outcome — the note really is saved — just not about which code saved it. If
+autosave is ever removed, this button must be made real first.
+
 ### Glossary and People
 
 `glossary.qmd` and `people.qmd` are generated, not hand-written — the scripts that produced them

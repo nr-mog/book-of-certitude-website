@@ -2,6 +2,7 @@
 title: "Week 12"
 subtitle: "2 December 2026 · Paragraphs 266–290"
 toc: false
+page-layout: full
 ---
 
 ::: {.callout-note appearance="simple"}

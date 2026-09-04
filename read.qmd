@@ -1,0 +1,25 @@
+---
+title: "Read"
+subtitle: "The Kitáb-i-Íqán, paragraphs 1–290"
+toc: false
+page-layout: full
+---
+
+::: {.lead}
+The whole Book, with room to write beside it. Notes save as you type and stay in this browser —
+keep a copy from the [My notes](notes.qmd) page.
+:::
+
+Superscript numbers are the footnotes of the published text; click one to read it. Paragraph
+numbers link to the passage in the Bahá'í Reference Library.
+
+```{=html}
+<div id="read-text" class="paragraph-notes read-page">
+  <p class="note-empty">Loading the text…</p>
+</div>
+```
+
+::: {.source-note}
+The Kitáb-i-Íqán, translated by Shoghi Effendi. Text from the
+[Bahá'í Reference Library](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/).
+:::

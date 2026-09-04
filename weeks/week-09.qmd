@@ -2,6 +2,7 @@
 title: "Week 9"
 subtitle: "4 November 2026 · Paragraphs 189–212"
 toc: false
+page-layout: full
 ---
 
 ::: {.callout-note appearance="simple"}
