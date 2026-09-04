@@ -1,0 +1,172 @@
+---
+title: "People"
+subtitle: "Everyone the Book names, or leans on without naming"
+toc: true
+toc-depth: 2
+---
+
+::: {.lead}
+The Íqán argues from history. It moves through the Prophets in succession, then through the family and
+companions of Muḥammad, the Imáms whose recorded sayings its reader accepted, and finally the disciples
+of the Báb. Many are named once and assumed to be known.
+:::
+
+Each entry is closed to begin with — open the ones you want. Paragraph numbers show where the person
+appears in the text.
+
+```{=html}
+<section class="people-section">
+<h2>The Manifestations of God</h2>
+<p class="gloss-blurb">The Book's central argument is that these are one succession, differing in station and mission but not in essence — and that each was denied in His own day by the learned of the age.</p>
+<details class="person">
+  <summary><span class="p-name">Noah</span><span class="p-role">Prophet of God</span></summary>
+  <div class="p-body"><p>Preached to His people for nine hundred and fifty years, and was mocked throughout. Bahá'u'lláh opens His survey of rejected Messengers with Him: the number who believed dwindled rather than grew, and He was derided by those He came to save.</p><p class="p-refs"><span class="p-ref">¶7 · ¶9 · ¶161 · ¶162 · ¶172</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Húd</span><span class="p-role">Prophet of God</span></summary>
+  <div class="p-body"><p>An Arabian Prophet sent to the tribe of ‘Ád, named in the Qur'án, which has a chapter bearing His name. The Íqán points the reader to that Súrah as sufficient in itself for anyone with understanding.</p><p class="p-refs"><span class="p-ref">¶5 · ¶9</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Ṣáliḥ</span><span class="p-role">Prophet of God</span></summary>
+  <div class="p-body"><p>An Arabian Prophet sent to the tribe of Thamúd, who called them to God for many years and was answered with scorn — his people demanding signs and then rejecting the sign when it came.</p><p class="p-refs"><span class="p-ref">¶10</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Abraham</span><span class="p-role">The Friend of God</span></summary>
+  <div class="p-body"><p>Called <em>Khalílu'lláh</em>, the Friend of God. Before His birth Nimrod dreamed a dream that troubled him; the soothsayers foretold a child who would overturn the kingdom. Abraham was cast into the fire and delivered from it — the Book's image of a Prophet whose apparent defeat is His victory.</p><p class="p-refs"><span class="p-ref">¶67</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Moses</span><span class="p-role">Prophet of God</span></summary>
+  <div class="p-body"><p>Slew a man of the Egyptians, fled to Midian, and was called from the Burning Bush on Sinai. He confronted Pharaoh with a single companion and was met with the charge of imposture. His changing of no law, and His rejection by the very people who awaited deliverance, are used throughout the Book as a pattern.</p><p class="p-refs"><span class="p-ref">¶12 · ¶16 · ¶17 · ¶55 · ¶57 · ¶58 · +14 more</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Jesus</span><span class="p-role">The Son of Mary</span></summary>
+  <div class="p-body"><p>The Íqán devotes its longest sustained passage to the Gospel prophecies attributed to Him — the darkening of the sun, the falling of the stars, the coming of the Son of Man in the clouds — and reads each symbolically rather than literally. Bahá'u'lláh also defends the purity of His mother against the calumnies of her age.</p><p class="p-refs"><span class="p-ref">¶17 · ¶19 · ¶20 · ¶21 · ¶24 · ¶25 · +21 more</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Muḥammad</span><span class="p-role">The Apostle of God</span></summary>
+  <div class="p-body"><p>The Prophet of Islám, more often named in this Book than any other figure. The Íqán treats the opposition He met from the Jewish and Arab learned of Ḥijáz, the changing of the Qiblih as a test, and above all the title <em>Seal of the Prophets</em> — which Bahá'u'lláh argues has been made into a veil rather than a revelation.</p><p class="p-refs"><span class="p-ref">¶20 · ¶25 · ¶26 · ¶38 · ¶40 · ¶54 · +49 more</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">The Báb</span><span class="p-role">The Primal Point</span></summary>
+  <div class="p-body"><p>‘Alí-Muḥammad of Shíráz, who declared in 1844 that He was the Qá'im awaited by Shí'ah Islám. The last third of the Book is given to the proofs of His Revelation: the verses that streamed from Him, His constancy though young and unsupported, and the heroism of those who died for Him. He foretold that the Promised One would complete His unfinished Bayán — which this Book does.</p><p class="p-refs"><span class="p-ref">¶146 · ¶170 · ¶171 · ¶256 · ¶279</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Bahá&#x27;u&#x27;lláh</span><span class="p-role">The author of the Book</span></summary>
+  <div class="p-body"><p>Mírzá Ḥusayn-‘Alí Núrí, who revealed the Íqán in Baghdád in 1862, a year before declaring His Mission in the Garden of Riḍván. He does not name Himself in it — He writes as <em>this servant</em> — and the Book was revealed under a station known to Him but not yet proclaimed.</p><p class="p-refs"><span class="p-ref">not named directly</span></p></div>
+</details>
+</section>
+<section class="people-section">
+<h2>Figures of the Bible and the Qur&#x27;án</h2>
+<p class="gloss-blurb">Named in passing as the Book argues from scripture the reader already accepts.</p>
+<details class="person">
+  <summary><span class="p-name">Mary</span><span class="p-role">Mother of Jesus</span></summary>
+  <div class="p-body"><p>The Íqán upholds her purity and innocence against the accusations levelled at her, and treats those accusations as an instance of the general rule that the world abases whom God exalts.</p><p class="p-refs"><span class="p-ref">¶24 · ¶59 · ¶88 · ¶141 · ¶144 · ¶191</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Yaḥyá, son of Zachariah</span><span class="p-role">John the Baptist</span></summary>
+  <div class="p-body"><p>Gave the tidings of the coming of Jesus. In the Book He is the sign in the invisible heaven — the herald whose announcement was itself the proof, had people been willing to receive it.</p><p class="p-refs"><span class="p-ref">¶70</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Joseph</span><span class="p-role">Son of Jacob</span></summary>
+  <div class="p-body"><p>Cited for the verse in which his father perceives his fragrance from a great distance — an image of recognition by the heart rather than by the eye.</p><p class="p-refs"><span class="p-ref">¶236 · ¶282</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Pharaoh</span><span class="p-role">Ruler of Egypt</span></summary>
+  <div class="p-body"><p>The opponent of Moses, and in the Book the type of worldly power set against divine authority: possessed of every outward advantage and undone by them.</p><p class="p-refs"><span class="p-ref">¶12 · ¶16 · ¶57 · ¶58 · ¶68 · ¶92</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Nimrod</span><span class="p-role">King in the days of Abraham</span></summary>
+  <div class="p-body"><p>Troubled by a dream foretelling a child who would overthrow him, and the one who cast Abraham into the fire.</p><p class="p-refs"><span class="p-ref">¶67</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Sámirí</span><span class="p-role">Maker of the golden calf</span></summary>
+  <div class="p-body"><p>The Qur'ánic figure who led Israel into worshipping the calf while Moses was on the mountain. Bahá'u'lláh uses him for those who abandon the Moses of knowledge and cling to the Sámirí of ignorance.</p><p class="p-refs"><span class="p-ref">¶210</span></p></div>
+</details>
+</section>
+<section class="people-section">
+<h2>Islám: the family and companions of Muḥammad</h2>
+<details class="person">
+  <summary><span class="p-name">‘Alí</span><span class="p-role">Commander of the Faithful, first Imám</span></summary>
+  <div class="p-body"><p>Cousin and son-in-law of Muḥammad, first of the twelve Imáms. The Book relates the story of two men of Kúfih who came to Him, and quotes His sayings among the traditions it expounds.</p><p class="p-refs"><span class="p-ref">¶127 · ¶175</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Ḥusayn</span><span class="p-role">Son of ‘Alí, third Imám</span></summary>
+  <div class="p-body"><p>Martyred at Karbilá. Bahá'u'lláh calls Him a warrior than whom none on earth was more excellent or nearer to God, and uses His outward defeat and enduring spiritual sovereignty to show what <em>sovereignty</em> means when scripture ascribes it to a Manifestation.</p><p class="p-refs"><span class="p-ref">¶135 · ¶179</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Fáṭimih</span><span class="p-role">Daughter of Muḥammad</span></summary>
+  <div class="p-body"><p>Wife of ‘Alí and mother of Ḥusayn. The <em>Tablet of Fáṭimih</em>, a text of Shí'ah tradition, is cited for what it records of the character of the Qá'im.</p><p class="p-refs"><span class="p-ref">¶178 · ¶273</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Ḥamzih</span><span class="p-role">Prince of Martyrs</span></summary>
+  <div class="p-body"><p>Uncle of Muḥammad, killed at the battle of Uḥud. A Qur'ánic verse revealed concerning him and Abú-Jahl is cited on the difference between the living and the dead in the spiritual sense.</p><p class="p-refs"><span class="p-ref">¶129</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Salmán</span><span class="p-role">Formerly Rúz-bih</span></summary>
+  <div class="p-body"><p>A Persian who left his home in search of the truth, passed through the hands of successive masters, and was honoured by serving them until he found Muḥammad. The Book holds him up as the seeker who persevered.</p><p class="p-refs"><span class="p-ref">¶71 · ¶179</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Abú-Jahl</span><span class="p-role">Opponent of Muḥammad</span></summary>
+  <div class="p-body"><p>One of the fiercest adversaries of Muḥammad in Mecca, set against Ḥamzih in the verse the Book cites.</p><p class="p-refs"><span class="p-ref">¶129</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Naḍr-Ibn-i-Ḥárith and ‘Abdu&#x27;lláh-i-Ubayy</span><span class="p-role">Adversaries</span></summary>
+  <div class="p-body"><p>Named among the divines and their associates who inflicted suffering on Muḥammad — evidence, in the Book's argument, that the learned of an age are reliably the first to oppose it.</p><p class="p-refs"><span class="p-ref">¶114</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Ibn-i-Ṣúríyá</span><span class="p-role">A Jewish scholar of Medina</span></summary>
+  <div class="p-body"><p>Subject of a story the Book tells about recognizing a prophecy and then declining to act on the recognition.</p><p class="p-refs"><span class="p-ref">¶92</span></p></div>
+</details>
+</section>
+<section class="people-section">
+<h2>The Imáms and the traditions</h2>
+<p class="gloss-blurb">Shí'ah tradition records the sayings of the Imáms. The uncle's questions rested on these, and much of the Book's latter half examines them.</p>
+<details class="person">
+  <summary><span class="p-name">Ja‘far-i-Ṣádiq</span><span class="p-role">The sixth Imám</span></summary>
+  <div class="p-body"><p>Asked by Mufaḍḍal for the sign of the Manifestation, He answered: <em>In the year sixty, His Cause shall be made manifest, and His Name shall be proclaimed.</em> The Báb declared in 1260 of the Muslim calendar.</p><p class="p-refs"><span class="p-ref">¶86 · ¶142 · ¶270 · ¶272 · ¶275 · ¶281 · +1 more</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Mufaḍḍal</span><span class="p-role">Companion of Ṣádiq</span></summary>
+  <div class="p-body"><p>The questioner in that tradition.</p><p class="p-refs"><span class="p-ref">¶281</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Jábir</span><span class="p-role">Transmitter of tradition</span></summary>
+  <div class="p-body"><p>Named in connection with the tradition recorded in the <em>Káfí</em> concerning the character of the Qá'im.</p><p class="p-refs"><span class="p-ref">¶273</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">The Twelfth Imám</span><span class="p-role">The Qá&#x27;im, the Mihdí</span></summary>
+  <div class="p-body"><p>In Shí'ah belief the Imám who went into concealment and would one day return. The eldest uncle of the Báb could not reconcile the traditions about Him with his Nephew's claim, and it was that difficulty which occasioned this Book.</p><p class="p-refs"><span class="p-ref">¶90 · ¶113 · ¶114 · ¶152 · ¶248 · ¶269 · +4 more</span></p></div>
+</details>
+</section>
+<section class="people-section">
+<h2>The Báb&#x27;s disciples</h2>
+<p class="gloss-blurb">In a single passage the Book names the foremost of those who gave their lives, and says their number was well-nigh four hundred.</p>
+<details class="person">
+  <summary><span class="p-name">Shaykh Aḥmad and Siyyid Káẓim</span><span class="p-role">The twin resplendent lights</span></summary>
+  <div class="p-body"><p>Shaykh Aḥmad-i-Aḥsá'í and Siyyid Káẓim-i-Rashtí, whose teaching in the decades before 1844 prepared their students to expect the Promised One imminently. Bahá'u'lláh calls them twin lights and invokes God's blessing on their resting-places.</p><p class="p-refs"><span class="p-ref">¶72</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Mullá Ḥusayn</span><span class="p-role">The first to believe</span></summary>
+  <div class="p-body"><p>The first to recognize the Báb. Of him the Book says that but for him God would not have been established upon the seat of His mercy.</p><p class="p-refs"><span class="p-ref">¶248</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">Siyyid Yaḥyá</span><span class="p-role">Vaḥíd</span></summary>
+  <div class="p-body"><p>Sent by the Sháh to investigate the Báb's claim and converted by the encounter. The Book calls him the unique and peerless figure of his age.</p><p class="p-refs"><span class="p-ref">¶248</span></p></div>
+</details>
+<details class="person">
+  <summary><span class="p-name">The martyrs named with them</span><span class="p-role">Well-nigh four hundred</span></summary>
+  <div class="p-body"><p>Mullá Muḥammad ‘Alíy-i-Zanjání, Mullá ‘Alíy-i-Bastámí, Mullá Sa‘íd-i-Bárfurúshí, Mullá Ni‘matu'lláh-i-Mázindarání, Mullá Yúsuf-i-Ardibílí, Mullá Mihdíy-i-Khu'í, Siyyid Ḥusayn-i-Turshízí, Mullá Mihdíy-i-Kandí, Mullá Báqir, Mullá ‘Abdu'l-Kháliq-i-Yazdí and Mullá ‘Alíy-i-Baraqání — named in one sustained sentence, with the note that their names are inscribed on the Guarded Tablet of God.</p><p class="p-refs"><span class="p-ref">¶248</span></p></div>
+</details>
+</section>
+<section class="people-section">
+<h2>The reader for whom it was written</h2>
+<details class="person">
+  <summary><span class="p-name">Ḥájí Mírzá Siyyid Muḥammad</span><span class="p-role">Khál-i-Akbar, the Greater Uncle of the Báb</span></summary>
+  <div class="p-body"><p>The eldest maternal uncle of the Báb, who admired his Nephew but could not accept Him as the Promised One because certain traditions seemed unfulfilled. He travelled to Baghdád, put his questions to Bahá'u'lláh in writing, and received this Book in reply within two days and two nights. He is not named in the text — he is the <em>brother</em> and <em>friend</em> the Book addresses throughout. He attained certitude, and later recognized Bahá'u'lláh as well.</p><p class="p-refs"><span class="p-ref">not named directly</span></p></div>
+</details>
+</section>
+```
+
+::: {.source-note}
+Someone missing? [Let me know](ask.qmd).
+:::

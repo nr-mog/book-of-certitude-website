@@ -43,6 +43,15 @@
     return out.sort(function (a, b) { return a.n - b.n; });
   }
 
+  // The source text carries footnote reference markers from the print
+  // edition (…truth."15 / God8 / oppression19). Every digit run in the Book
+  // is one of these - numbers are spelled out in words - so strip them for
+  // display and for the AI prompt. Requires the digits to follow a non-space
+  // character, so a genuine numeral like "in 1862" would survive.
+  function clean(t) {
+    return String(t).replace(/(\S)\d{1,3}(?=\s|$|[.,;:!?”"’')\]])/g, '$1');
+  }
+
   function fetchJSON(path) {
     return fetch(BASE + path, { cache: 'no-cache' })
       .then(function (r) { return r.ok ? r.json() : null; })
@@ -72,7 +81,7 @@
       ''
     ];
     if (text) {
-      lines.push('Here is the passage:', '', '"""', text, '"""', '');
+      lines.push('Here is the passage:', '', '"""', clean(text), '"""', '');
     } else {
       lines.push('You can find the text at ' + IQAN_URL + ' — paragraph ' + n + '.', '');
     }
@@ -185,7 +194,7 @@
     if (text) {
       var p = document.createElement('blockquote');
       p.className = 'note-text';
-      p.textContent = text;
+      p.textContent = clean(text);
       wrap.appendChild(p);
     }
 
@@ -310,11 +319,12 @@
 
     Promise.all([
       fetchJSON('data/weeks.json'),
-      fetchJSON('data/paragraphs.json'),
+      fetchJSON('data/iqan_full_text.json'),
       fetchJSON('data/paragraph-links.json')
     ]).then(function (res) {
         var weeks = (res[0] && res[0].weeks) || [];
-        var texts = (res[1] && res[1].text) || {};
+        // Flat { "27": "text", ... } map of the whole Book.
+        var texts = res[1] || {};
         LINKS = res[2] || null;
 
         if (weekHost) {

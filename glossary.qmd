@@ -1,0 +1,176 @@
+---
+title: "Glossary"
+subtitle: "Words and terms in the Kitáb-i-Íqán that may be unfamiliar"
+toc: true
+toc-depth: 2
+---
+
+::: {.lead}
+The Íqán is a translated nineteenth-century Persian text arguing from the Qur'án and from Islamic
+tradition, in an English deliberately older than our own. Three kinds of word tend to stop a reader:
+archaic English, terms from Islám, and ordinary words being used in a special sense.
+:::
+
+Paragraph numbers show where each term appears; every reference here was taken from the text rather
+than from memory. Click a number on a week page to read the passage on bahai.org.
+
+```{=html}
+<section class="gloss-section">
+<h2>Reading the older English</h2>
+<p class="gloss-blurb">Shoghi Effendi's translation keeps the cadence of the Persian by using a deliberately older English. These are the words most likely to stop a reader who has not met them before.</p>
+<dl>
+  <dt>behooveth <span class="g-ref">¶23 · ¶37 · ¶82 · ¶99 · ¶167 · +3 more</span></dt>
+  <dd>Is fitting for, is incumbent upon. <em>It behooveth us</em> means <em>we ought to</em>.</dd>
+  <dt>hearken <span class="g-ref">¶15 · ¶18 · ¶218 · ¶282</span></dt>
+  <dd>To listen, especially with attention and obedience.</dd>
+  <dt>cavil <span class="g-ref">¶82 · ¶147 · ¶182 · ¶201 · ¶204 · +4 more</span></dt>
+  <dd>To raise petty or unfair objections. Bahá'u'lláh uses it repeatedly for the objections of the learned who quibble rather than seek.</dd>
+  <dt>naught <span class="g-ref">¶14 · ¶28 · ¶46 · ¶51 · ¶76 · +13 more</span></dt>
+  <dd>Nothing. <em>Brought to naught</em> means reduced to nothing.</dd>
+  <dt>methinks <span class="g-ref">¶48 · ¶107 · ¶119 · ¶153 · ¶196 · +5 more</span></dt>
+  <dd>It seems to me.</dd>
+  <dt>wherefore <span class="g-ref">¶89 · ¶91 · ¶157 · ¶162 · ¶182 · +3 more</span></dt>
+  <dd>For which reason; therefore. Sometimes also <em>why</em>.</dd>
+  <dt>whoso <span class="g-ref">¶182 · ¶204 · ¶215 · ¶225 · ¶286</span></dt>
+  <dd>Whoever.</dd>
+  <dt>fain <span class="g-ref">¶130 · ¶134 · ¶136 · ¶238 · ¶277</span></dt>
+  <dd>Gladly, willingly — or, with <em>would</em>, <em>eager to</em>.</dd>
+  <dt>nigh <span class="g-ref">¶9 · ¶58 · ¶66 · ¶69 · ¶71 · +3 more</span></dt>
+  <dd>Near.</dd>
+  <dt>verily <span class="g-ref">¶23 · ¶34 · ¶36 · ¶43 · ¶48 · +37 more</span></dt>
+  <dd>Truly, in truth. A marker of solemn assertion rather than an ordinary intensifier.</dd>
+  <dt>yea <span class="g-ref">¶42 · ¶55 · ¶92 · ¶97 · ¶111 · +10 more</span></dt>
+  <dd>Yes — and often <em>indeed</em>, introducing a stronger restatement of what was just said.</dd>
+  <dt>nay <span class="g-ref">¶12 · ¶14 · ¶31 · ¶38 · ¶45 · +29 more</span></dt>
+  <dd>No — and often <em>rather</em>, correcting what precedes it: not this, but this.</dd>
+  <dt>abstruse <span class="g-ref">¶53 · ¶89 · ¶130 · ¶180 · ¶212 · +1 more</span></dt>
+  <dd>Hard to understand; obscure. Used of the verses whose meaning is veiled.</dd>
+  <dt>effulgent <span class="g-ref">¶2 · ¶35 · ¶205 · ¶248</span></dt>
+  <dd>Radiant, shining brilliantly.</dd>
+  <dt>abase <span class="g-ref">¶155</span></dt>
+  <dd>To bring low, to humble.</dd>
+  <dt>ere <span class="g-ref">¶16 · ¶23 · ¶57 · ¶59 · ¶67 · +6 more</span></dt>
+  <dd>Before.</dd>
+</dl>
+</section>
+<section class="gloss-section">
+<h2>Words for the Manifestation of God</h2>
+<p class="gloss-blurb">The Book turns on the idea that God is unknowable in essence and is made known through Messengers. A large part of its vocabulary names those Messengers under different figures.</p>
+<dl>
+  <dt>Manifestation <span class="g-ref">¶3 · ¶4 · ¶6 · ¶13 · ¶14 · +65 more</span></dt>
+  <dd>A Manifestation of God — one of the Messengers through whom God is revealed. The central term of the Book. Each has a twofold station: one of essential unity with the others, one of individual distinction.</dd>
+  <dt>Daystar <span class="g-ref">¶30 · ¶31 · ¶34 · ¶35 · ¶38 · +10 more</span></dt>
+  <dd>The sun; a title for the Manifestation, whose rising and setting Bahá'u'lláh uses as the governing image of revelation.</dd>
+  <dt>dayspring <span class="g-ref">¶17 · ¶31 · ¶54 · ¶64 · ¶74 · +11 more</span></dt>
+  <dd>The place or moment of dawn; the point from which the light of revelation breaks.</dd>
+  <dt>Quintessence <span class="g-ref">¶32 · ¶101 · ¶105 · ¶281</span></dt>
+  <dd>The purest essence of a thing.</dd>
+  <dt>luminaries <span class="g-ref">¶31 · ¶32 · ¶33 · ¶36 · ¶40 · +10 more</span></dt>
+  <dd>Lights — used both of the Prophets and, in the symbolic reading of scripture, of the divines of a former dispensation.</dd>
+  <dt>dispensation <span class="g-ref">¶1 · ¶13 · ¶20 · ¶21 · ¶25 · +40 more</span></dt>
+  <dd>The period of one Manifestation's revelation and law, from its rise until the next.</dd>
+  <dt>concourse <span class="g-ref">¶90 · ¶117 · ¶177 · ¶180 · ¶214</span></dt>
+  <dd>An assembly. <em>The concourse on high</em> is the company of the heavenly host.</dd>
+</dl>
+</section>
+<section class="gloss-section">
+<h2>The learned, and their objections</h2>
+<p class="gloss-blurb">Much of the Book is addressed to a single problem: why the religious learned of every age have been the first to reject the Messenger of their own time.</p>
+<dl>
+  <dt>divines <span class="g-ref">¶6 · ¶15 · ¶25 · ¶34 · ¶36 · +32 more</span></dt>
+  <dd>Religious scholars and clergy. In this Book almost always the learned of Islám who opposed the Báb — and, before them, the scribes and doctors who opposed each earlier Prophet.</dd>
+  <dt>doctors <span class="g-ref">¶175 · ¶199 · ¶247 · ¶255 · ¶273 · +1 more</span></dt>
+  <dd>Teachers of religious law — the same class as the divines, in the older English sense of <em>doctor</em> as <em>learned authority</em>.</dd>
+  <dt>veils of glory <span class="g-ref">¶175 · ¶177 · ¶178 · ¶205 · ¶219</span></dt>
+  <dd>Bahá'u'lláh's term for the very titles and doctrines that ought to reveal the truth but which people turn into barriers — <em>Seal of the Prophets</em> being his chief example.</dd>
+</dl>
+</section>
+<section class="gloss-section">
+<h2>Terms from Islám</h2>
+<p class="gloss-blurb">The Book was revealed for a Muslim reader and argues from the Qur'án and the traditions of the Imáms throughout.</p>
+<dl>
+  <dt>Qá’im <span class="g-ref">¶90 · ¶113 · ¶114 · ¶152 · ¶272 · +3 more</span></dt>
+  <dd><em>He who shall arise.</em> In Shí'ah Islám, the Promised One expected at the end of the age — identified in this Book with the Báb. The uncle's questions were largely about the traditions concerning His advent.</dd>
+  <dt>Mihdí <span class="g-ref">¶269</span></dt>
+  <dd><em>The rightly guided one.</em> Another title of the same Promised One.</dd>
+  <dt>Imám <span class="g-ref">¶152 · ¶161 · ¶270 · ¶271 · ¶284</span></dt>
+  <dd>For Shí'ah Muslims, one of the twelve rightful successors of Muḥammad, beginning with ‘Alí. Their recorded sayings are the <em>traditions</em> the Book so often cites.</dd>
+  <dt>Qiblih <span class="g-ref">¶54 · ¶55</span></dt>
+  <dd>The direction faced in prayer. Its change from Jerusalem to Mecca is used as the type case of a divine command altered to test the faithful.</dd>
+  <dt>Ka‘bih <span class="g-ref">¶54 · ¶78</span></dt>
+  <dd>The sanctuary at Mecca toward which Muslims pray.</dd>
+  <dt>Súrah <span class="g-ref">¶5 · ¶226</span></dt>
+  <dd>A chapter of the Qur'án.</dd>
+  <dt>Ṣiráṭ <span class="g-ref">¶127 · ¶128</span></dt>
+  <dd>The bridge over hell, finer than a hair and sharper than a sword, which the soul must cross — interpreted here in a spiritual sense.</dd>
+  <dt>Kawthar <span class="g-ref">¶25 · ¶65 · ¶81 · ¶118 · ¶129 · +3 more</span></dt>
+  <dd>A river or fountain of paradise; abundance.</dd>
+  <dt>Salsabíl <span class="g-ref">¶57 · ¶68 · ¶81</span></dt>
+  <dd>A fountain of paradise named in the Qur'án.</dd>
+  <dt>Zaqqúm <span class="g-ref">¶209</span></dt>
+  <dd>The bitter tree of hell named in the Qur'án — the opposite of the fruits of paradise.</dd>
+  <dt>Sadratu’l-Muntahá <span class="g-ref">¶26 · ¶116 · ¶289</span></dt>
+  <dd><em>The Tree beyond which there is no passing.</em> The limit of created understanding; a title for the Manifestation of God.</dd>
+  <dt>Urvatu’l-Vuthqá <span class="g-ref">¶28 · ¶37 · ¶226</span></dt>
+  <dd><em>The Sure Handle</em> — the firm hold spoken of in the Qur'án, that will not break for whoever grasps it.</dd>
+  <dt>Mullá <span class="g-ref">¶248</span></dt>
+  <dd>A Muslim cleric or scholar.</dd>
+  <dt>Siyyid <span class="g-ref">¶248</span></dt>
+  <dd>A descendant of Muḥammad.</dd>
+  <dt>Baní-Háshim <span class="g-ref">¶270 · ¶271</span></dt>
+  <dd>The clan of Háshim, the family of Muḥammad.</dd>
+</dl>
+</section>
+<section class="gloss-section">
+<h2>The Báb and the Bayán</h2>
+<dl>
+  <dt>Bayán <span class="g-ref">¶1 · ¶101 · ¶146 · ¶170 · ¶171 · +4 more</span></dt>
+  <dd><em>Exposition.</em> The Báb's principal Book. Bahá'u'lláh notes that the Báb foretold that the Promised One would complete its unfinished text — which the Íqán does.</dd>
+  <dt>Point of the Bayán <span class="g-ref">¶146 · ¶170 · ¶171</span></dt>
+  <dd>A title of the Báb.</dd>
+  <dt>Mustagháth <span class="g-ref">¶256 · ¶276</span></dt>
+  <dd><em>He Who is invoked.</em> A name whose numerical value the Báb used to indicate the time of the next Manifestation.</dd>
+</dl>
+</section>
+<section class="gloss-section">
+<h2>Symbolic terms the Book unfolds</h2>
+<p class="gloss-blurb">These are not obscure words so much as familiar ones that Bahá'u'lláh argues have been misread. Each is given a spiritual rather than a literal meaning.</p>
+<dl>
+  <dt>Seal of the Prophets <span class="g-ref">¶40 · ¶172 · ¶178 · ¶181 · ¶196 · +2 more</span></dt>
+  <dd>A title of Muḥammad, taken by many to mean that no Messenger could follow Him. Bahá'u'lláh treats the literal reading as the greatest of the <em>veils of glory</em>.</dd>
+  <dt>Day of Resurrection <span class="g-ref">¶46 · ¶85 · ¶88 · ¶124 · ¶149 · +6 more</span></dt>
+  <dd>Not the raising of bodies from graves, but the rising of a new Manifestation and the spiritual quickening — or death — of those who meet Him.</dd>
+  <dt>Day of Judgment <span class="g-ref">¶51 · ¶118 · ¶122 · ¶130 · ¶186</span></dt>
+  <dd>The same Day, considered as the moment at which souls are divided by their response to the Manifestation.</dd>
+  <dt>City of God <span class="g-ref">¶10 · ¶216</span></dt>
+  <dd>The Revelation of each age, renewed at fixed intervals for the guidance of mankind.</dd>
+  <dt>Guarded Tablet <span class="g-ref">¶248</span></dt>
+  <dd>The heavenly record in which all things are inscribed.</dd>
+  <dt>Riḍván <span class="g-ref">¶9 · ¶10 · ¶18 · ¶23 · ¶24 · +14 more</span></dt>
+  <dd><em>Paradise</em>, and also <em>good pleasure</em> — the garden of God's acceptance. Later the name of the festival marking Bahá'u'lláh's declaration, a year after this Book was revealed.</dd>
+</dl>
+</section>
+<section class="gloss-section">
+<h2>Places</h2>
+<dl>
+  <dt>Sinai <span class="g-ref">¶12 · ¶57 · ¶65</span></dt>
+  <dd>The mountain where Moses was addressed by God.</dd>
+  <dt>Ḥijáz <span class="g-ref">¶18 · ¶71</span></dt>
+  <dd>The western region of Arabia containing Mecca and Medina.</dd>
+  <dt>Mecca <span class="g-ref">¶93</span></dt>
+  <dd>The city of Muḥammad's birth and the direction of Muslim prayer.</dd>
+  <dt>Medina <span class="g-ref">¶93</span></dt>
+  <dd>The city to which Muḥammad emigrated.</dd>
+  <dt>Karbilá <span class="g-ref">¶136</span></dt>
+  <dd>The plain in ‘Iráq where Imám Ḥusayn was martyred.</dd>
+  <dt>Kúfih <span class="g-ref">¶127</span></dt>
+  <dd>A city of ‘Iráq closely associated with Imám ‘Alí.</dd>
+  <dt>Zawrá <span class="g-ref">¶274 · ¶275</span></dt>
+  <dd>Baghdád — the city in which this Book was revealed.</dd>
+</dl>
+</section>
+```
+
+::: {.source-note}
+Missing something? [Tell me what stopped you](ask.qmd) and I will add it.
+:::

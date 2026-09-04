@@ -170,6 +170,27 @@ attribution but not republishing full texts, so the translation is not bundled h
 it, write to termsofuse@bahai.org; if permission is granted, filling in that file lights up
 inline text with no code changes.
 
+### The text
+
+`data/iqan_full_text.json` is a flat `{ "27": "…" }` map of all 290 paragraphs. It drives three
+things: the passage shown above each note box, the passage embedded in the AI prompt, and the
+paragraph references on the Glossary and People pages.
+
+The source carries footnote reference markers from the print edition (`truth."15`, `God8`,
+`oppression19`). Every digit run in the Book is one of these — numbers are spelled out in words —
+so `clean()` in `_includes/notes.html` strips them for display and for the prompt. The guard
+requires the digits to follow a non-space character, so a genuine numeral like "in 1862" would
+survive.
+
+### Glossary and People
+
+`glossary.qmd` and `people.qmd` are generated, not hand-written — the scripts that produced them
+compute every paragraph reference from the text rather than trusting memory, so a citation cannot
+drift. To add an entry, edit the data structure at the top of the generator and re-run it. Both
+pages are plain Quarto after generation, so small edits can also be made in place.
+
+The People page uses `<details>`, so entries start collapsed with no JavaScript involved.
+
 ### Paragraph links
 
 `data/paragraph-links.json` maps each paragraph to its anchor on bahai.org, so every paragraph

@@ -24,6 +24,10 @@ website:
         text: Context
       - href: summary.qmd
         text: Summary
+      - href: glossary.qmd
+        text: Glossary
+      - href: people.qmd
+        text: People
       - text: Slides
         href: slides/intro.qmd
       - href: ask.qmd

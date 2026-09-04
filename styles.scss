@@ -268,12 +268,21 @@ div.callout {
 
 // --- Schedule table ---------------------------------------------------------
 // Three narrow columns, so cap the width rather than let it sprawl.
+// Pages using `page-layout: full` (currently the schedule) get a wider column
+// than the 820px body default, centred so the title and content align.
+main.content.column-page {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 table.schedule {
-  max-width: 32rem;
+  width: 100%;
   margin: 1.6rem 0 2.2rem;
 
-  thead th:nth-child(1) { width: 4.5rem; }
-  thead th:nth-child(2) { width: 8.5rem; }
+  thead th:nth-child(1) { width: 5rem; }
+  thead th:nth-child(2) { width: 9.5rem; }
+  thead th:nth-child(3) { width: 14rem; }
 
   td.date {
     white-space: nowrap;
@@ -292,7 +301,6 @@ table.schedule {
 
 @media (max-width: 560px) {
   table.schedule {
-    max-width: none;
 
     thead th:nth-child(1) { width: 3.4rem; }
     thead th:nth-child(2) { width: auto; }
@@ -1026,4 +1034,116 @@ a.note-num {
     gap: 0.8rem;
   }
   .add-note-form .field-num { flex: 1 1 auto; width: 7rem; }
+}
+
+// --- Glossary ---------------------------------------------------------------
+.gloss-section { margin-bottom: 2.6rem; }
+
+.gloss-blurb {
+  font-size: 0.94rem;
+  color: $ink-faint;
+  max-width: 40rem;
+  margin-bottom: 1.4rem;
+}
+
+.gloss-section dl { margin: 0; }
+
+.gloss-section dt {
+  font-family: $font-family-serif;
+  font-size: 1.06rem;
+  font-weight: 600;
+  color: $ink;
+  margin-top: 1.15rem;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.gloss-section dd {
+  margin: 0.2rem 0 0;
+  padding-left: 0;
+  font-size: 0.97rem;
+  line-height: 1.6;
+  color: $ink-soft;
+  max-width: 42rem;
+}
+
+.g-ref, .p-ref {
+  font-family: $font-family-sans-serif;
+  font-size: 0.66rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  color: $ink-faint;
+  font-variant-numeric: tabular-nums;
+}
+
+// --- People -----------------------------------------------------------------
+.people-section { margin-bottom: 2.4rem; }
+
+details.person {
+  border-bottom: 1px solid $rule;
+
+  &[open] { background: rgba(255, 255, 255, 0.4); }
+
+  summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.75rem 0.6rem 0.75rem 1.5rem;
+    position: relative;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+    transition: color 0.14s ease;
+
+    &::-webkit-details-marker { display: none; }
+
+    // Disclosure triangle
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0.35rem;
+      top: 1.15rem;
+      width: 0;
+      height: 0;
+      border-left: 5px solid $gold-soft;
+      border-top: 4px solid transparent;
+      border-bottom: 4px solid transparent;
+      transition: transform 0.16s ease;
+    }
+
+    &:hover .p-name { color: $gold; }
+  }
+
+  &[open] > summary::before { transform: rotate(90deg); }
+}
+
+.p-name {
+  font-family: $font-family-serif;
+  font-size: 1.06rem;
+  font-weight: 600;
+  color: $ink;
+}
+
+.p-role {
+  font-family: $font-family-sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: $ink-faint;
+}
+
+.p-body {
+  padding: 0 0.6rem 1rem 1.5rem;
+  max-width: 44rem;
+
+  p { font-size: 0.97rem; line-height: 1.62; color: $ink-soft; margin-bottom: 0.5rem; }
+  p.p-refs { margin: 0.5rem 0 0; }
+}
+
+@media (max-width: 560px) {
+  .gloss-section dt, .p-name { font-size: 1rem; }
+  details.person summary { padding-left: 1.3rem; }
+  .p-body { padding-left: 1.3rem; }
 }
