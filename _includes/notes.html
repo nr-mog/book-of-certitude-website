@@ -156,12 +156,12 @@
     var send = document.createElement('button');
     send.type = 'button';
     send.className = 'ask-btn send-btn';
-    send.textContent = 'Submit note as a question';
+    send.textContent = 'Send as question';
     send.addEventListener('click', function () {
       var note = (load(n) || '').trim();
       if (!note) {
         send.textContent = 'Write a note first';
-        setTimeout(function () { send.textContent = 'Submit note as a question'; }, 2200);
+        setTimeout(function () { send.textContent = 'Send as question'; }, 2200);
         return;
       }
       try {
@@ -234,6 +234,7 @@
   function row(n, text) {
     var wrap = document.createElement('div');
     wrap.className = 'note-row';
+    wrap.id = 'p' + n;   // anchor target for "Start reading" on the schedule
 
     var main = document.createElement('div');
     main.className = 'note-main';
@@ -466,6 +467,35 @@
           }
           readHost.innerHTML = '';
           readHost.appendChild(frag);
+
+          // The browser tries to honour #p102 before these rows exist, so the
+          // jump has to be repeated. The hard part is *when*: rendering 290
+          // paragraphs and then loading the serif face changes the page height
+          // by hundreds of thousands of pixels, and a jump made against an
+          // intermediate layout lands nowhere near the paragraph. So wait for
+          // the height to stop changing, then hand the job to the browser by
+          // re-applying the hash - native anchor resolution honours
+          // scroll-margin-top, which is what clears the fixed navbar.
+          if (location.hash && /^#p\d+$/.test(location.hash)) {
+            var hash = location.hash;
+            var target = document.getElementById(hash.slice(1));
+            if (target) {
+              var lastHeight = -1, stable = 0, waited = 0;
+              var settle = setInterval(function () {
+                var h = document.documentElement.scrollHeight;
+                stable = (h === lastHeight) ? stable + 1 : 0;
+                lastHeight = h;
+                waited += 100;
+                // Three quiet samples, or give up after four seconds.
+                if (stable < 3 && waited < 4000) return;
+                clearInterval(settle);
+                history.replaceState(null, '', location.pathname + location.search);
+                location.hash = hash;
+                target.classList.add('landed');
+                setTimeout(function () { target.classList.remove('landed'); }, 2400);
+              }, 100);
+            }
+          }
         }
 
         if (allHost) {

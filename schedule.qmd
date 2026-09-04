@@ -35,61 +35,61 @@ You are not expected to understand everything we read — that is why we study t
     <tr>
       <td class="wk">2</td>
       <td class="date">16 Sep 2026</td>
-      <td class="para">¶1-23</td>
+      <td class="para">¶1-23<a class="start-reading" href="read.html#p1">Start reading</a></td>
       <td class="mats"><a href="slides/week-02.html" class="mat">Slides</a><a href="weeks/week-02.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">3</td>
       <td class="date">23 Sep 2026</td>
-      <td class="para">¶24-50</td>
+      <td class="para">¶24-50<a class="start-reading" href="read.html#p24">Start reading</a></td>
       <td class="mats"><a href="slides/week-03.html" class="mat">Slides</a><a href="weeks/week-03.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">4</td>
       <td class="date">30 Sep 2026</td>
-      <td class="para">¶51-73</td>
+      <td class="para">¶51-73<a class="start-reading" href="read.html#p51">Start reading</a></td>
       <td class="mats"><a href="slides/week-04.html" class="mat">Slides</a><a href="weeks/week-04.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">5</td>
       <td class="date">7 Oct 2026</td>
-      <td class="para">¶74-101</td>
+      <td class="para">¶74-101<a class="start-reading" href="read.html#p74">Start reading</a></td>
       <td class="mats"><a href="slides/week-05.html" class="mat">Slides</a><a href="weeks/week-05.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">6</td>
       <td class="date">14 Oct 2026</td>
-      <td class="para">¶102-130</td>
+      <td class="para">¶102-130<a class="start-reading" href="read.html#p102">Start reading</a></td>
       <td class="mats"><a href="slides/week-06.html" class="mat">Slides</a><a href="weeks/week-06.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">7</td>
       <td class="date">21 Oct 2026</td>
-      <td class="para">¶131-158</td>
+      <td class="para">¶131-158<a class="start-reading" href="read.html#p131">Start reading</a></td>
       <td class="mats"><a href="slides/week-07.html" class="mat">Slides</a><a href="weeks/week-07.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">8</td>
       <td class="date">28 Oct 2026</td>
-      <td class="para">¶159-188</td>
+      <td class="para">¶159-188<a class="start-reading" href="read.html#p159">Start reading</a></td>
       <td class="mats"><a href="slides/week-08.html" class="mat">Slides</a><a href="weeks/week-08.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">9</td>
       <td class="date">4 Nov 2026</td>
-      <td class="para">¶189-212</td>
+      <td class="para">¶189-212<a class="start-reading" href="read.html#p189">Start reading</a></td>
       <td class="mats"><a href="slides/week-09.html" class="mat">Slides</a><a href="weeks/week-09.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">10</td>
       <td class="date">11 Nov 2026</td>
-      <td class="para">¶213-245</td>
+      <td class="para">¶213-245<a class="start-reading" href="read.html#p213">Start reading</a></td>
       <td class="mats"><a href="slides/week-10.html" class="mat">Slides</a><a href="weeks/week-10.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">11</td>
       <td class="date">18 Nov 2026</td>
-      <td class="para">¶246-265</td>
+      <td class="para">¶246-265<a class="start-reading" href="read.html#p246">Start reading</a></td>
       <td class="mats"><a href="slides/week-11.html" class="mat">Slides</a><a href="weeks/week-11.html" class="mat">Handout</a></td>
     </tr>
     <tr class="break-row">
@@ -101,7 +101,7 @@ You are not expected to understand everything we read — that is why we study t
     <tr>
       <td class="wk">12</td>
       <td class="date">2 Dec 2026</td>
-      <td class="para">¶266-290</td>
+      <td class="para">¶266-290<a class="start-reading" href="read.html#p266">Start reading</a></td>
       <td class="mats"><a href="slides/week-12.html" class="mat">Slides</a><a href="weeks/week-12.html" class="mat">Handout</a></td>
     </tr>
     <tr>

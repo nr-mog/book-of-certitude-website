@@ -201,6 +201,24 @@ These headings centre over the passage column rather than the full page width, u
 resized. Set their vertical margins with `margin-top`/`margin-bottom`, never the `margin`
 shorthand — the shorthand resets the `margin-right` doing that alignment.
 
+### Start reading
+
+Each session row on the schedule links to `read.html#pN`, where N is the week's first paragraph,
+taken from `data/weeks.json`. Every paragraph row carries `id="pN"`.
+
+Getting that jump to land took some care and is easy to break:
+
+- **Smooth scrolling must stay off.** `smooth-scroll` is deliberately absent from `_quarto.yml`.
+  Browsers will not animate a jump of tens of thousands of pixels, which is what a 290-paragraph
+  page asks for.
+- **The jump waits for the layout to settle.** Rendering 290 paragraphs and then loading the serif
+  face changes the page height by hundreds of thousands of pixels. Jumping on a fixed timer lands
+  against an intermediate layout and misses by a mile. The code polls `scrollHeight` until it is
+  unchanged for three samples, then jumps.
+- **The browser does the positioning, not us.** Re-applying the hash lets native anchor resolution
+  place the paragraph, which honours the `scroll-margin-top` that clears the fixed navbar. Measuring
+  a position by hand and calling `scrollTo` goes stale as the page reflows.
+
 ### Footnotes
 
 `data/footnotes.json` holds all 186 footnotes of the published text. The markers embedded in the

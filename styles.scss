@@ -853,8 +853,8 @@ a.note-num {
   font-size: 0.9rem;
   line-height: 1.5;
   color: $ink;
-  background: transparent;
-  border: 1px solid transparent;
+  background: rgba(255, 255, 255, 0.45);
+  border: 1px solid $rule;
   border-radius: 0;
   padding: 0.3rem 0.4rem;
   resize: none;
@@ -862,7 +862,7 @@ a.note-num {
   transition: background 0.15s ease, border-color 0.15s ease;
 
   &::placeholder { color: rgba(111, 120, 137, 0.6); font-style: italic; }
-  &:hover { border-color: $rule; }
+  &:hover { border-color: $gold-soft; }
 
   &:focus {
     outline: none;
@@ -1315,4 +1315,33 @@ details.person {
 @media (max-width: 560px) {
   .struct { padding-left: 2.1rem; }
   .part-label { font-size: 1.3rem; }
+}
+
+// --- Start reading ----------------------------------------------------------
+a.start-reading {
+  display: inline-block;
+  margin-left: 0.7rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.62rem;
+  font-weight: 500;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  color: $ink-faint;
+  border-bottom: 1px solid $rule;
+  padding-bottom: 1px;
+  transition: color 0.14s ease, border-color 0.14s ease;
+
+  &:hover { color: $gold; border-bottom-color: $gold-soft; }
+}
+
+// Anchored paragraphs must clear the fixed navbar.
+.note-row { scroll-margin-top: 5rem; }
+
+// Brief highlight so an arriving reader can see where they landed.
+.note-row.landed .note-text {
+  background: rgba(196, 166, 98, 0.16);
+  box-shadow: 0 0 0 0.4rem rgba(196, 166, 98, 0.16);
+  transition: background 0.6s ease, box-shadow 0.6s ease;
 }
