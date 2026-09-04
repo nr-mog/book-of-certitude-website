@@ -276,13 +276,16 @@ main.content.column-page {
   margin-right: auto;
 }
 
+// Sized to its contents and centred, rather than stretched across the page.
 table.schedule {
-  width: 100%;
-  margin: 1.6rem 0 2.2rem;
+  width: auto;
+  margin: 1.8rem auto 2.4rem;
 
-  thead th:nth-child(1) { width: 5rem; }
-  thead th:nth-child(2) { width: 9.5rem; }
-  thead th:nth-child(3) { width: 14rem; }
+  th, td { padding-left: 0.9rem; padding-right: 0.9rem; }
+  th:first-child, td:first-child { padding-left: 0.2rem; }
+  th:last-child,  td:last-child  { padding-right: 0.2rem; }
+
+  td.para { font-variant-numeric: tabular-nums; }
 
   td.date {
     white-space: nowrap;
@@ -753,6 +756,13 @@ a.mat {
 }
 
 // --- Personal notes ---------------------------------------------------------
+// One source of truth for the passage/note split, so the part dividers can
+// centre themselves over the passage column rather than the whole width.
+:root {
+  --note-col: 21rem;
+  --note-gap: 1.8rem;
+}
+
 .notes-intro {
   font-size: 0.9rem;
   color: $ink-faint;
@@ -776,7 +786,7 @@ a.mat {
 .note-row {
   display: flex;
   align-items: flex-start;
-  gap: 1.8rem;
+  gap: var(--note-gap);
   padding: 1rem 0 1.1rem;
   border-bottom: 1px solid rgba(227, 219, 201, 0.6);
 
@@ -829,7 +839,7 @@ a.note-num {
 
 // --- The note column --------------------------------------------------------
 .note-side {
-  flex: 0 0 17rem;
+  flex: 0 0 var(--note-col);
   border-left: 2px solid $rule;
   padding-left: 0.9rem;
 }
@@ -1256,4 +1266,53 @@ details.person {
 
   a { color: $ink-soft; text-decoration-color: $gold-soft; }
   a:hover { color: $gold; }
+}
+
+// --- Part divisions and the opening invocation ------------------------------
+.struct {
+  padding-left: 2.6rem;
+  margin-right: calc(var(--note-col) + var(--note-gap));
+  text-align: center;
+}
+
+.part-label {
+  font-family: $font-family-serif;
+  font-size: 1.5rem;
+  color: $ink;
+  margin-top: 2.8rem;
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid $rule;
+
+  &:first-child { margin-top: 0.5rem; }
+}
+
+.invocation {
+  font-family: $font-family-serif;
+  font-size: 0.94rem;
+  letter-spacing: 0.09em;
+  color: $ink-soft;
+  margin-top: 1.6rem;
+  margin-bottom: 2.2rem;
+}
+
+.part-end {
+  font-family: $font-family-sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  color: $gold;
+  margin-top: 2.2rem;
+  margin-bottom: 0.6rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid $rule;
+}
+
+@media (max-width: 900px) {
+  .struct { margin-right: 0; }
+}
+
+@media (max-width: 560px) {
+  .struct { padding-left: 2.1rem; }
+  .part-label { font-size: 1.3rem; }
 }

@@ -188,6 +188,19 @@ survive.
 component as the week pages. Passages are set upright, not italic — this is the text itself, not
 a quotation.
 
+### Part divisions
+
+`STRUCTURE` in `_includes/notes.html` places the opening invocation and the part headings against
+the paragraphs they belong to — Part One and the invocation before ¶1, END OF PART ONE after ¶101,
+Part Two before ¶102, END after ¶290. They render wherever that paragraph appears, so they show on
+the Read page and on the week pages containing those paragraphs. The 101/102 boundary matches the
+footnote numbering: footnote 70, the last of Part One, falls in ¶101.
+
+These headings centre over the passage column rather than the full page width, using the
+`--note-col` and `--note-gap` custom properties so they stay in step if the note column is
+resized. Set their vertical margins with `margin-top`/`margin-bottom`, never the `margin`
+shorthand — the shorthand resets the `margin-right` doing that alignment.
+
 ### Footnotes
 
 `data/footnotes.json` holds all 186 footnotes of the published text. The markers embedded in the

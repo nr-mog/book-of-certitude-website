@@ -203,6 +203,33 @@
     return wrap;
   }
 
+  /* --- part divisions and the opening invocation --------------------------
+     Rendered wherever the relevant paragraph appears, so they show on the
+     Read page and on the week pages that contain those paragraphs.
+  --------------------------------------------------------------------- */
+  var STRUCTURE = {
+    before: {
+      1:   [['part-label', 'Part One'],
+            ['invocation', 'IN THE NAME OF OUR LORD, THE EXALTED, THE MOST HIGH.']],
+      102: [['part-label', 'Part Two']]
+    },
+    after: {
+      101: [['part-end', 'END OF PART ONE']],
+      290: [['part-end', 'END']]
+    }
+  };
+
+  function structure(where, n, host) {
+    var specs = STRUCTURE[where][n];
+    if (!specs) return;
+    specs.forEach(function (spec) {
+      var el = document.createElement('div');
+      el.className = 'struct ' + spec[0];
+      el.textContent = spec[1];
+      host.appendChild(el);
+    });
+  }
+
   /* --- one paragraph row ------------------------------------------------- */
   function row(n, text) {
     var wrap = document.createElement('div');
@@ -287,7 +314,11 @@
       return;
     }
     var frag = document.createDocumentFragment();
-    for (var n = from; n <= to; n++) frag.appendChild(row(n, texts[String(n)]));
+    for (var n = from; n <= to; n++) {
+      structure('before', n, frag);
+      frag.appendChild(row(n, texts[String(n)]));
+      structure('after', n, frag);
+    }
     host.innerHTML = '';
     host.appendChild(frag);
   }
@@ -428,7 +459,11 @@
 
         if (readHost) {
           var frag = document.createDocumentFragment();
-          for (var i = 1; i <= 290; i++) frag.appendChild(row(i, texts[String(i)]));
+          for (var i = 1; i <= 290; i++) {
+            structure('before', i, frag);
+            frag.appendChild(row(i, texts[String(i)]));
+            structure('after', i, frag);
+          }
           readHost.innerHTML = '';
           readHost.appendChild(frag);
         }
