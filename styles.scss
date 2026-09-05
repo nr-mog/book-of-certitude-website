@@ -771,7 +771,15 @@ a.mat {
   margin: 1.1rem 0 1.6rem;
 }
 
-.paragraph-notes { margin: 1.4rem 0 2rem; }
+// Quarto tags this container `page-columns` on a full-layout page and makes it
+// a grid, which places the part headings into one of its narrow named tracks.
+// The rows and headings manage their own widths, so keep it a plain block.
+.paragraph-notes,
+.paragraph-notes.page-columns {
+  display: block;
+  grid-template-columns: none;
+  margin: 1.4rem 0 2rem;
+}
 
 .note-empty {
   font-size: 0.92rem;
@@ -780,15 +788,24 @@ a.mat {
 }
 
 // Passage on the left, the reader's note in the margin on the right.
-// Flex rather than grid: Quarto's full-page layout wraps this content in its
-// own grid, and implicit tracks were being created that squeezed the passage
-// into a narrow column. Flex sizing is unaffected by that.
-.note-row {
+// Flex rather than grid, and stated twice on purpose.
+//
+// On `page-layout: full`, Quarto's own layout pass tags block elements in the
+// rendered HTML with `page-columns`, which sets `display: grid` and a named
+// column template. It never touched these rows while they were built by
+// JavaScript; now that the Read page ships them as static HTML, all 290 get
+// tagged. `.note-row.page-columns` outranks `.page-columns` on specificity,
+// so this holds regardless of stylesheet order.
+.note-row,
+.note-row.page-columns {
   display: flex;
   align-items: flex-start;
   gap: var(--note-gap);
   padding: 1rem 0 1.1rem;
   border-bottom: 1px solid rgba(227, 219, 201, 0.6);
+
+  // Undo Quarto's grid template so the two children lay out as flex items.
+  grid-template-columns: none;
 
   &:last-child { border-bottom: none; }
 }
@@ -983,7 +1000,8 @@ h3.notes-group {
 
 // Stack the note under the passage once there is no room beside it.
 @media (max-width: 900px) {
-  .note-row {
+  .note-row,
+  .note-row.page-columns {
     display: block;
   }
 

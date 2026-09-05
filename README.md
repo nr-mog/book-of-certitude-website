@@ -203,6 +203,21 @@ assembles rows at runtime. **Keep the two in step** — if you change one, chang
 
 Passages are set upright, not italic: this is the text itself, not a quotation of it.
 
+**Quarto's full-page layout tags the rendered HTML.** On `page-layout: full`, Quarto's layout pass
+adds `page-columns page-full` to block elements it finds — which now includes `#read-text` and all
+290 rows, because they exist at build time. `page-columns` sets `display: grid` with a named column
+template, which put the passage in the wrong track and dropped the part headings into a 248px
+sidebar column. Two rules in `styles.scss` undo it:
+
+```scss
+.paragraph-notes, .paragraph-notes.page-columns { display: block; grid-template-columns: none; }
+.note-row,        .note-row.page-columns        { display: flex;  grid-template-columns: none; }
+```
+
+The doubled selectors are deliberate: `.note-row.page-columns` outranks `.page-columns` on
+specificity, so this holds regardless of stylesheet order. Do not simplify them back to a single
+class. This did not arise while the rows were built by JavaScript, because Quarto never saw them.
+
 ### Part divisions
 
 `STRUCTURE` in `_includes/notes.html` places the opening invocation and the part headings against
