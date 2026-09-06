@@ -6,102 +6,95 @@ toc-depth: 2
 ---
 
 ::: {.lead}
-The Kitáb-i-Íqán was not written in tranquillity. It belongs to a decade of exile that began
-with a community in ruins and ended with Bahá'u'lláh's declaration of His Mission — and the
-Book was revealed near the close of it, on the eve of that declaration.
+The Kitáb-i-Íqán was not written in tranquillity. It belongs to a decade of exile that began with
+a community in ruins and ended with Bahá'u'lláh's declaration of His Mission — and the Book was
+revealed near the close of it, on the eve of that declaration.
 :::
 
-## Before the exile
-
-The Báb declared His Mission in Shíráz in 1844. Within six years He had been executed in
-Tabríz, and the movement He founded was being hunted across Persia.
-
-In August 1852 two Bábís, acting on their own and against the explicit teaching of their Faith,
-attempted to assassinate Náṣiri'd-Dín Sháh. The reprisal fell on the whole community.
-Bahá'u'lláh, though innocent and in fact widely known to oppose such acts, was arrested and
-confined for four months in the Síyáh-Chál — the Black Pit, an abandoned underground reservoir
-beneath Ṭihrán, where He was held in chains among criminals.
-
-It was in that dungeon that He received the first intimations of His own Revelation. Nothing in
-the Íqán can be read apart from this: the Book's author had already been given the thing He was
-not yet free to announce.
-
-## Banishment to 'Iráq
-
-The Russian minister intervened on His behalf, and testimony from fellow prisoners established
-His innocence. He was released, then banished.
+## Timeline
 
 ::: {.timeline}
-- **12 January 1853** Departs Ṭihrán for Baghdád in midwinter, accompanied by His family, including His nine-year-old son ʻAbdu'l-Bahá.
-- **8 April 1853** Arrives in Baghdád.
+- **1844** The Báb declares His Mission in Shíráz.
+- **1850** The Báb is executed in Tabríz. His uncle Khál-i-A‘ẓam, who had raised Him, is martyred among the Seven Martyrs of Ṭihrán.
+- **August 1852** Two Bábís, acting alone and against the teaching of their Faith, attempt to assassinate Náṣiri'd-Dín Sháh. The reprisal falls on the whole community.
+- **1852** Bahá'u'lláh, though innocent and known to oppose the act, is confined for four months in the Síyáh-Chál — an abandoned underground reservoir beneath Ṭihrán. There He receives the first intimations of His own Revelation.
+- **12 January 1853** Released and banished, He departs Ṭihrán for Baghdád in midwinter with His family, including His nine-year-old son ʻAbdu'l-Bahá.
+- **8 April 1853** Arrives in Baghdád, to a community described as a handful of souls, faint and dispirited, with some twenty-five individuals claiming to be the Promised One.
+- **10 April 1854** Rather than contend with His half-brother Mírzá Yaḥyá and divide the community further, He leaves alone and unannounced, under the name Darvísh Muḥammad.
+- **1854–1856** Lives in austere seclusion in the mountains of Kurdistán, near Sulaymáníyyah. His learning draws out the Kurdish and Sunní divines of the region, and word of the remarkable dervish reaches Baghdád.
+- **19 March 1856** Returns to Baghdád at the community's urging, after two years away.
+- **1856–1863** The years of revival. A modest house in the Karkh quarter becomes a place of resort for Kurds, Persians, Arabs and Turks; for Muslims, Jews and Christians; for ʻulamá and Persian nobility alike.
+- **1274 A.H.** The Hidden Words is revealed, composed as He walked the banks of the Tigris. The Seven Valleys and the Four Valleys belong to these same years.
+- **1278 A.H. / 1862** The Kitáb-i-Íqán is revealed within two days and two nights, in answer to four questions from the eldest maternal uncle of the Báb.
+- **Spring 1863** Pressed by the Persian government, the Ottoman authorities order His removal to Constantinople.
+- **22 April 1863** He leaves His house and enters the Najíbíyyih Garden — the Garden of Riḍván — where He declares His Mission to His companions.
+- **3 May 1863** Sets out for Constantinople, after twelve days in the Garden.
 :::
 
-What He found there was a wreck. Shoghi Effendi describes a community reduced to "no more than a
-handful of souls, faint and dispirited." Leaderless since the Báb's execution, it had fractured:
-by one count some twenty-five individuals had put themselves forward as the Promised One.
+## Crises
 
-Mírzá Yaḥyá, Bahá'u'lláh's half-brother, had been nominated by the Báb as the community's
-nominal head. He spent these years in concealment, and — with Siyyid Muḥammad of Isfahán —
-worked to undermine Bahá'u'lláh's growing influence.
+The decade opens with the near-destruction of the community the Báb had founded. He had been
+executed in 1850; two years later a lone attempt on the Sháh's life gave the authorities a pretext,
+and the reprisal fell on Bábís everywhere. Bahá'u'lláh was arrested despite having opposed the act,
+and spent four months in chains in the Síyáh-Chál.
 
-## The withdrawal to Kurdistán
+Exile followed, in midwinter, on foot and by mule. What He reached in Baghdád was in some ways
+worse than what He had left: a community leaderless since the Báb's death, scattered, and
+fracturing — by one count some twenty-five people had put themselves forward as the Promised One.
+Mírzá Yaḥyá, nominated by the Báb as the community's nominal head, spent these years in
+concealment, and with Siyyid Muḥammad of Iṣfahán worked against Bahá'u'lláh's growing influence.
 
-Rather than contend with His half-brother and split the community further, Bahá'u'lláh left.
+The lowest point was of His own choosing. In April 1854 He left Baghdád alone rather than contend
+with His half-brother and split the community again — and for two years the friends did not know
+where He was, or whether He lived.
 
-::: {.timeline}
-- **10 April 1854** Departs Baghdád alone, telling no one, under the name Darvísh Muḥammad.
-- **1854–1856** Lives in austere seclusion in the mountains of Kurdistán, near Sulaymáníyyah.
-- **19 March 1856** Returns to Baghdád after two years, at the community's urging.
+The final crisis of the period was caused by success rather than failure. His renown in Baghdád
+alarmed Shaykh ʻAbdu'l-Ḥusayn and the Persian consul-general Mírzá Buzurg Khán, who pressed their
+government, which in turn pressed the Ottomans to move Him further from Persia's borders. The
+result was a second banishment, this time to Constantinople.
+
+## Victories
+
+What is striking about the same decade is where the victories fall: not after the crises, but
+inside them.
+
+The Revelation itself came in the Síyáh-Chál — in chains, in the dark, at the moment the Faith
+looked finished. The withdrawal to Kurdistán, intended as self-effacement, drew the recognition of
+the region's Sunní and Kurdish divines, so that His return was to a wider reputation than He had
+left. And the return itself reversed the community's fortunes: within a few years the house in
+Karkh had become a place people travelled to, across religions and across the region.
+
+The writings of these years are the plainest victory of all. The Hidden Words, the Seven Valleys,
+the Four Valleys and the Kitáb-i-Íqán all belong to a period of exile, poverty and surveillance.
+The British consul-general, Colonel Kemball, offered Bahá'u'lláh British citizenship and the use of
+his channel to Queen Victoria; He declined.
+
+And the banishment that ends the period is also its culmination. Ordered out of Baghdád, He spent
+twelve days in a garden on the edge of the city and there announced what the Síyáh-Chál had given
+Him eleven years before.
+
+## Questions
+
+The Kitáb-i-Íqán was revealed in answer to questions addressed to Bahá'u'lláh from the as yet
+unconverted maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad. They have been summarized
+as follows:
+
+::: {.questions-list}
+1. **The Day of Resurrection.** Is there to be a corporeal resurrection? The world is replete
+   with injustice. How are the just to be requited and the unjust punished?
+2. **The twelfth Imám** was born at a certain time and lives on. There are traditions, all
+   supporting the belief. How can this be explained?
+3. **Interpretation of the holy texts.** This Cause does not seem to conform to the beliefs held
+   throughout the years. One cannot ignore the literal meaning of the holy texts and scriptures.
+   How can this be explained?
+4. **Certain events**, according to the traditions that have come down from the Imáms, must occur
+   at the advent of the Qá'im. Some of these are mentioned. But none of these has happened. How
+   can this be explained?
 :::
 
-He had intended to remain unknown. But His learning drew the attention of Kurdish and Sunní
-divines of the region, who sought Him out — and word of the remarkable dervish eventually
-reached Baghdád, where His family recognized the description.
-
-## The years of revival
-
-The seven years between His return and His final banishment are the most productive of the
-Baghdád period, and the ones that matter most for reading the Íqán.
-
-A modest house in the Karkh quarter became a place of resort. Visitors came from across the
-region and across religions — Kurds, Persians, Arabs and Turks; Muslims, Jews and Christians;
-ʻulamá and Persian nobility among them. The British consul-general, Colonel Kemball, went so far
-as to offer Bahá'u'lláh British citizenship and to convey any message He wished to Queen Victoria.
-He declined.
-
-The Writings of these years include the **Hidden Words** (1274 A.H.), the **Seven Valleys** — His
-principal mystical work — and the **Four Valleys**. The Kitáb-i-Íqán came near the end, in
-1278 A.H./1862.
-
-## The occasion of the Book
-
-Ḥájí Mírzá Siyyid Muḥammad, the eldest maternal uncle of the Báb, had never accepted his Nephew
-as the Promised One of Islám. Certain traditions concerning the Qá'im seemed to him unfulfilled.
-Persuaded by a fellow believer to put his difficulties directly to Bahá'u'lláh, he travelled to
-'Iráq — ostensibly on pilgrimage to the Shrines at Karbilá and Najaf — and attained His presence
-in Baghdád.
-
-Bahá'u'lláh asked him to go home, consider carefully, and return with his questions written
-down. Within two days and two nights, the answer was revealed.
-
-The Book was also written in fulfillment of a prophecy of the Báb: that the Promised One would
-complete the text of the unfinished Persian Bayán.
-
-## What followed
-
-Bahá'u'lláh's renown was precisely the problem. Shaykh ʻAbdu'l-Ḥusayn and the Persian
-consul-general Mírzá Buzurg Khán pressed against Him; the Persian government in turn pressed
-the Ottoman authorities to move Him further from its borders.
-
-::: {.timeline}
-- **Spring 1863** Ottoman authorities order His removal to Constantinople.
-- **22 April 1863** Leaves His house and enters the Najíbíyyih Garden — the Garden of Riḍván — where He declares His Mission to His companions.
-- **3 May 1863** Sets out for Constantinople after twelve days in the Garden.
-:::
-
-The Íqán, revealed the year before, was written by One whose station was known to Himself and to
-a few, and not yet proclaimed. It answers a seeker's questions about how to recognize a
-Manifestation of God — and it was written by a Manifestation of God awaiting the hour to speak.
+Within two days and two nights, the answer was revealed. The Book dispelled every doubt he had
+held: he attained certitude, recognized the station of his Nephew, and later accepted Bahá'u'lláh
+as well.
 
 ::: {.source-note}
 This account follows Shoghi Effendi's narrative in *God Passes By* — chiefly

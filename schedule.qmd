@@ -1,19 +1,8 @@
 ---
 title: "Schedule"
-subtitle: "Thirteen sessions, paragraphs 1–290"
 toc: false
 page-layout: full
 ---
-
-::: {.lead}
-The study moves through the whole of the Kitáb-i-Íqán, meeting every Wednesday. Each week
-covers an assigned span of paragraphs; come having read them and having made an honest
-attempt to engage with the text.
-:::
-
-You are not expected to understand everything we read — that is why we study together.
-
-## The thirteen sessions
 
 ```{=html}
 <table class="schedule">
@@ -114,33 +103,6 @@ You are not expected to understand everything we read — that is why we study t
 </table>
 ```
 
-## How each session runs
-
-Most of our time goes to discussing and reflecting on the text itself. Part of the session is
-given to the paragraphs assigned for that week; part to reading and reflecting together on
-selected paragraphs brought to the session. There is a break in the middle.
-
-## What to bring
-
-::: {.cards}
-::: {.card-tile}
-#### The reading, done
-Come having read the assigned paragraphs and having made an honest attempt to engage with
-the text and reflect on its meaning.
-:::
-
-::: {.card-tile}
-#### Your questions
-Ask anything you have about the material, and respond to the comments and questions others make.
-:::
-
-::: {.card-tile}
-#### An open mind
-Be willing to change your mind if you find someone else's idea better than yours — and make
-your best effort to state your view if you disagree.
-:::
-:::
-
 ## Further resources
 
 ::: {.optional-note}
@@ -150,7 +112,7 @@ Not required — for anyone who wants to go further on their own.
 ::: {.resources}
 ### Books
 
-- [A Companion to the Study of the Kitáb-i-Íqán](https://www.bahaibookstore.com/Companion-to-the-Study-of-the-Kitab-i-Iqan-P7228) — Hooper Dunbar
+- [Companion to the Study of the Kitáb-i-Íqán](https://www.bahaibookstore.com/Companion-to-the-Study-of-the-Kitab-i-Iqan-P7228) — Hooper Dunbar
 
 ### Videos
 
@@ -158,5 +120,5 @@ Not required — for anyone who wants to go further on their own.
 
 ### Audiobook
 
-- [Ocean 2.0 — the full Book, read aloud](https://youtu.be/raBpVD5zIxc?si=0AtsHjmZiUjEdZVE)
+- [Ocean 2.0 full audiobook](https://youtu.be/raBpVD5zIxc?si=0AtsHjmZiUjEdZVE)
 :::
