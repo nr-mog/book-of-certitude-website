@@ -1363,3 +1363,53 @@ a.start-reading {
   box-shadow: 0 0 0 0.4rem rgba(196, 166, 98, 0.16);
   transition: background 0.6s ease, box-shadow 0.6s ease;
 }
+
+// --- Further resources ------------------------------------------------------
+.optional-note {
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  color: $ink-faint;
+  margin: 0.6rem 0 1.4rem;
+}
+
+.resources {
+  h3 {
+    font-family: $font-family-sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: $gold;
+    margin: 1.6rem 0 0.5rem;
+  }
+
+  ul { list-style: none; padding-left: 0; margin: 0; }
+
+  li {
+    position: relative;
+    padding-left: 1.1rem;
+    margin-bottom: 0.55rem;
+    font-size: 0.97rem;
+    color: $ink-soft;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.62em;
+      width: 0.38rem;
+      height: 0.38rem;
+      border: 1px solid $gold-soft;
+      border-radius: 50%;
+    }
+  }
+
+  a {
+    color: $ink;
+    text-decoration: underline;
+    text-decoration-color: $gold-soft;
+    text-underline-offset: 2px;
+
+    &:hover { color: $gold; }
+  }
+}

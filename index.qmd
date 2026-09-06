@@ -58,14 +58,6 @@ Shoghi Effendi returned to the Íqán repeatedly in his letters, and translated 
 ### From the Writings of ʻAbdu'l-Bahá
 
 ::: {.scripture}
-ʻAbdu'l-Bahá transcribed the Book in His own hand at eighteen years of age. He wrote the following
-for the frontispiece of its first English translation.
-
-> O thou who art athirst for the water of Life! This manifest Book is the fountainhead of the
-> Water of Life eternal. Drink so much as thou art able from the fountain of the living water.
-> O thou who art seeking after the knowledge of God! Immerse thyself in the ocean of the
-> explanation of the Beauty of the Merciful, so that thou mayest gather from its depths the
-> pearls of the wisdom of God.[^ab-frontispiece]
 
 > It is therefore clear and evident that these signs have inner meanings and should not be taken
 > literally. These meanings have been fully explained in the Kitáb-i-Íqán: Refer to it.[^saq11]
@@ -94,10 +86,11 @@ Epistle to the Son of the Wolf, His last major Work.
 
 ::: {.accounts}
 
-> [He wrote to his son of his] wonder and regret that people who miss being in Bahá'u'lláh's
-> bounteous presence are at a grievous loss.
+> At times when reading the Book of Ighan the spirit of light, joy and gladness has come over me, 
+> which I have not been able to ascribe to any word or sentence or to any one idea or 
+> thought. It seemed like a radiance arising from the Book, from the Certainty of Truth.
 >
-> [Hájí Mírzá Siyyid Muḥammad, Khál-i-Akbar]{.attrib}
+> [Arthur Agnew]{.attrib}
 
 > He told me that he had read the Íqán with ‘the eye of intellect’ seventeen times through, 
 > and it had seemed to him a meaningless string of words. That later, he had read it 
@@ -139,6 +132,7 @@ as follows:
 1. To develop the tools and confidence to read the Writings by yourself.
 2. To advance in our understanding of core Bahá'í beliefs and worldview, and how to explain them to others.
 3. To appreciate the significance of the Íqán, and how it can inform our service and our life in general.
+4. To experience 
 
 [^sedg-light]: *The Light of Divine Guidance*, vol. 1, p. 37.
 

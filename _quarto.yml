@@ -15,6 +15,7 @@ website:
   favicon: assets/favicon.png
   search: true
   navbar:
+    title: false
     left:
       - href: index.qmd
         text: Home
