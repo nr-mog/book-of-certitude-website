@@ -444,6 +444,45 @@ table.schedule td.para.tbd {
   .accounts  blockquote { font-size: 1rem;    padding-left: 1rem; }
 }
 
+// --- Witness quotations -----------------------------------------------------
+// Used on the Context page, where the narrative leads and the quotation
+// supports it — so these stay close to body size and upright, unlike the
+// enlarged .scripture blocks on the home page. The voices vary, so each
+// carries a small attribution line.
+.witness {
+  margin: 1.1rem 0 1.6rem;
+
+  blockquote {
+    border-left: 3px solid $gold-soft;
+    margin: 0;
+    padding: 0.15rem 0 0.15rem 1.2rem;
+    font-size: 1.02rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.55;
+    color: $ink-soft;
+
+    p:last-child { margin-bottom: 0; }
+
+    .attrib {
+      display: block;
+      margin-top: 0.55rem;
+      font-family: $font-family-sans-serif;
+      font-size: 0.74rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: $ink-faint;
+
+      a { color: inherit; text-decoration-color: $gold-soft; }
+      a:hover { color: $gold; }
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  .witness blockquote { font-size: 0.98rem; padding-left: 1rem; }
+}
+
 // --- Questions list ---------------------------------------------------------
 .questions-list {
   margin: 1.3rem 0 2rem;
