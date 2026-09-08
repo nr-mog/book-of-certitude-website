@@ -302,16 +302,63 @@ table.schedule {
   }
 }
 
+// Four columns will not fit a phone. The Materials buttons wrapped onto two
+// lines, "Start reading" dropped below the reading, and its underline read as
+// a broken row rule - so the horizontals looked ragged. Each week becomes a
+// stacked card instead, with exactly one rule beneath it.
 @media (max-width: 560px) {
   table.schedule {
+    max-width: none;
+    width: 100%;
+    margin: 1.4rem 0 2.2rem;
 
-    thead th:nth-child(1) { width: 3.4rem; }
-    thead th:nth-child(2) { width: auto; }
+    thead { display: none; }
 
-    thead th, tbody td { padding-left: 0; padding-right: 0.5rem; }
+    tbody, tbody tr, tbody td { display: block; }
 
-    td.date { font-size: 0.85rem; }
-    td.para { font-size: 0.78rem; white-space: normal; }
+    tbody tr {
+      padding: 0.9rem 0 1rem;
+      border-bottom: 1px solid $rule;
+    }
+
+    tbody tr:last-child { border-bottom: none; }
+
+    tbody tr:hover { background: transparent; }
+
+    tbody td {
+      border: none;
+      padding: 0;
+    }
+
+    td.wk {
+      display: inline;
+      width: auto;
+      font-size: 0.7rem;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+
+      &::before { content: "Week "; }
+    }
+
+    td.date {
+      display: inline;
+      font-size: 0.82rem;
+
+      &::before { content: " · "; color: $ink-faint; }
+    }
+
+    td.para {
+      margin-top: 0.45rem;
+      font-size: 0.92rem;
+      white-space: normal;
+    }
+
+    td.mats {
+      display: block;
+      margin-top: 0.55rem;
+      padding-top: 0;
+      white-space: normal;
+    }
   }
 }
 
@@ -675,13 +722,6 @@ a.mat {
 }
 
 @media (max-width: 560px) {
-  table.schedule td.mats {
-    display: block;
-    white-space: normal;
-    margin-top: 0.45rem;
-    padding-top: 0;
-  }
-
   a.mat { font-size: 0.64rem; }
 }
 
@@ -1459,6 +1499,18 @@ a.start-reading {
   transition: color 0.14s ease, border-color 0.14s ease;
 
   &:hover { color: $gold; border-bottom-color: $gold-soft; }
+}
+
+// Must follow the base rule above: same specificity, so source order decides.
+// A grey bottom border reads as a stray row rule once the schedule becomes
+// stacked cards on a phone.
+@media (max-width: 560px) {
+  a.start-reading {
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration-color: $gold-soft;
+    text-underline-offset: 3px;
+  }
 }
 
 // Anchored paragraphs must clear the fixed navbar.
