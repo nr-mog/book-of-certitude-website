@@ -5,19 +5,170 @@ toc: false
 page-layout: full
 ---
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
+::: {.lead}
+Introductions, how the study will work, and what the Kitáb-i-Íqán is — no reading is assigned
+for this first session.
 :::
+
+## Introductions
+
+- Your name, and where you're from
+- What you want to study in college, or what career you have in mind (if you know yet)
+- Your experience of reading the Writings, on your own or in groups
+- What you hope to get out of this year, and out of this study
+- Something fun you did this summer
+
+## Goals of the study
+
+1. To develop the habit of reading the Writings by yourself
+2. To advance in your understanding of fundamental Bahá'í beliefs, and how to explain them to others
+3. To experience the joy of reading the Sacred Writings
+
+## How the sessions work
+
+- Most of our time goes on discussing and reflecting on the text itself.
+- Part of each session takes up the paragraphs assigned for that week; part is spent reading and
+  reflecting together on selected paragraphs, which will be printed and brought to the session.
+- We can supplement the study with other activities, games or art, based on your ideas — say what
+  you'd like.
+- Further resources are posted for anyone who wants to follow a topic further. They are never
+  required reading.
+- There is a break in the middle of every session.
+
+## What we expect of each other
+
+- To contribute to an open and welcoming environment, and to respect everyone in the group.
+- To come having read the paragraphs, having made an honest attempt to engage with the text and
+  reflect on its meaning.
+- To ask the questions you actually have, and to respond to what others say.
+- To be open to changing your mind when someone else's idea is better than yours — and to make
+  your best effort to say what you think when you disagree.
+- To use phones only for the study: looking up a definition, or getting to the text.
+- **You are not expected to understand everything we read.** That is why we study together.
+
+## What is the Íqán?
+
+The Kitáb-i-Íqán — the Book of Certitude — was revealed by Bahá'u'lláh in Baghdád in 1862, in
+answer to questions from one of the maternal uncles of the Báb. It was translated by Shoghi
+Effendi and first published in English in 1931.
+
+For the setting in which it was revealed — the state of the Bábí community, the two years in
+Kurdistán, and the years in that house in Baghdád — see [Context](../context.qmd). Shoghi
+Effendi's own account of the Book is on the [Summary](../summary.qmd) page.
+
+## The three maternal uncles of the Báb
+
+The Báb had three maternal uncles, brothers of His mother, Fáṭimih-Bagum.
+
+1. **Ḥájí Mírzá Siyyid Muḥammad** — *Khál-i-Akbar*, the Greater Uncle. The eldest of the three,
+   and the recipient of the Íqán.
+2. **Ḥájí Mírzá Siyyid ʻAlí** — *Khál-i-Aʻẓam*, the Greatest Uncle. The middle brother, who took
+   charge of the Báb's upbringing after His father died. Having seen His qualities from
+   childhood, he recognized the station of the Báb at once and became an ardent believer soon
+   after the Declaration — the first to declare his faith after the Letters of the Living, and
+   both a promoter of the new Faith and a protector of its Founder. Refusing to recant, he was
+   publicly martyred as one of the Seven Martyrs of Ṭihrán, a few months before his Nephew.
+3. **Ḥájí Mírzá Siyyid Ḥasan-ʻAlí** — *Khál-i-Aṣghar*, the Lesser Uncle. The youngest of the
+   three.
+
+## How the questions came to be asked
+
+Before His Declaration, the Báb was in Bushihr, in business with His three uncles. He left for
+Shíráz accompanied by Khál-i-Aʻẓam, and declared His Mission there in 1844. The eldest and
+youngest uncles carried on the family business in Bushihr, and when the Báb travelled to Mecca
+He stayed at the eldest uncle's home in Bushihr both going and returning. Ḥájí Mírzá Siyyid
+Muḥammad saw a great transformation of spirit in his Nephew, and wrote to his sister that he was
+"pleased to be in the presence of his Nephew Whose bountiful soul is the source of felicity for
+the people of the world and the next."
+
+Yet a great admirer of Him was not the same as a believer in Him. He could not accept his Nephew
+as the Promised One of Islám, because certain traditions seemed to him unfulfilled — and he held
+to that position, through the efforts of several believers to persuade him, for eighteen years.
+
+Meanwhile the family was struck twice in one year: in 1850 the Báb was executed in Tabríz, and
+His uncle Khál-i-Aʻẓam was martyred in Ṭihrán. Fáṭimih-Bagum could not bear to stay in Shíráz,
+and moved to Karbilá to be near the shrine of the Imám Ḥusayn.
+
+It was Áqá Mírzá Núru'd-Dín, of the Afnán family, who in a series of discussions persuaded the
+eldest uncle to take his questions to Bahá'u'lláh in Baghdád — a journey that would also let him
+visit his sister and the shrines at Karbilá, Najaf, Káẓimayn and Sámarrá. He invited his younger
+brother along on the pilgrimage, but said nothing of the real purpose until they reached Baghdád.
+Ḥájí Mírzá Siyyid Ḥasan-ʻAlí, on hearing it, spoke to his elder brother very harshly, and so they
+went to the shrines first. Only on the return to Baghdád was Ḥájí Mírzá Siyyid Muḥammad taken —
+by Siyyid Javád-i-Karbalá'í — to the house of Bahá'u'lláh, where he attained His presence alone.
+
+Sitting there and listening, he was overwhelmed. He asked Bahá'u'lláh to clarify the truth of the
+Báb's Message. Bahá'u'lláh readily consented, and bade him go home, consider the matter
+carefully, write out the questions that had puzzled him along with the traditions behind them,
+and bring them back. Afterwards the uncle wrote to his son of his wonder — and of his regret that
+those who miss such a presence are at a grievous loss.
+
+### The four questions
+
+He returned the next day with his questions, written on two sheets in his own hand, under four
+headings, all concerning the coming of the Promised Qá'im. They are summarized as follows:
+
+::: {.questions-list}
+1. **The Day of Resurrection.** Is there to be a corporeal resurrection? The world is replete
+   with injustice. How are the just to be requited and the unjust punished?
+2. **The twelfth Imám** was born at a certain time and lives on. There are traditions, all
+   supporting the belief. How can this be explained?
+3. **Interpretation of the holy texts.** This Cause does not seem to conform to the beliefs held
+   throughout the years. One cannot ignore the literal meaning of the holy texts and scriptures.
+   How can this be explained?
+4. **Certain events**, according to the traditions that have come down from the Imáms, must occur
+   at the advent of the Qá'im. Some of these are mentioned. But none of these has happened. How
+   can this be explained?
+:::
+
+Within two days and two nights the Kitáb-i-Íqán was revealed in answer to all of them. It was
+revealed in Persian, with Arabic quotations, verses from the Qur'án and traditions of Islám, and
+it takes up far more than the four questions put to it. This Epistle of over two hundred pages
+was transcribed by ʻAbdu'l-Bahá, then eighteen years old, in His own hand; in the margins of
+several pages Bahá'u'lláh made corrections in His own.
+
+The Book dispelled every doubt its recipient had harboured. He reached the stage of certitude and
+recognized the station of the Báb, and later accepted Bahá'u'lláh as "Him Whom God shall make
+manifest" — as his will confirms.
+
+## Why study the Íqán?
+
+::: {.witness}
+> In fact, all the Scriptures and the mysteries thereof are condensed into this brief account. So
+> much so, that were a person to ponder it a while in his heart, he would discover from all that
+> hath been said the mysteries of the Words of God, and would apprehend the meaning of whatever
+> hath been manifested by that ideal King.
+>
+> [Bahá'u'lláh]{.attrib}
+:::
+
+::: {.witness}
+> The Íqán is the most important book written on the spiritual significance of the Cause. I do not
+> believe any person can consider himself well versed in the teachings unless he has studied it
+> thoroughly.
+>
+> [Shoghi Effendi]{.attrib}
+:::
+
+::: {.witness}
+> The one who ponders over that book and grasps its full significance will obtain a clear insight
+> into the old scriptures and appreciate the true mission of the Báb and Bahá'u'lláh.
+>
+> [Shoghi Effendi]{.attrib}
+:::
+
+More of these, with their sources, are on the [home page](../index.qmd).
+
+## Before next week
+
+Read **[¶1–23](../read.qmd#p1)**, and come with what struck you and what you did not follow. The
+whole reading schedule is on the [Schedule](../schedule.qmd) page.
 
 ## Reflections or questions
 
 - What stood out to you in this section?
 - Any questions about the passages?
 - Were there any words, phrases, or concepts you didn't understand?
-
-## Passages
-
-*No assigned reading — introductions, and what the Íqán is.*
 
 ## Your notes
 
@@ -26,7 +177,7 @@ Write as you read. Notes save automatically and stay **in this browser on this d
 nothing is sent anywhere and no one else can see them. Keep a copy from the
 [My notes](../notes.qmd) page if they matter to you.
 
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
+"Ask AI about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
 ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
 interpreted for you.
 :::
