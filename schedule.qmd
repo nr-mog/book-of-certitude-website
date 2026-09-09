@@ -103,16 +103,15 @@ page-layout: full
 </table>
 ```
 
-## Further resources
-
-::: {.optional-note}
-Not required — for anyone who wants to go further on their own.
-:::
+## Further resources (not required)
 
 ::: {.resources}
 ### Books
 
 - [Companion to the Study of the Kitáb-i-Íqán](https://www.bahaibookstore.com/Companion-to-the-Study-of-the-Kitab-i-Iqan-P7228) — Hooper Dunbar
+- [The Dawn-Breakers: Nabil's Narrative of the Early Days of the Bahá'í Revelation](https://bahai-library.com/nabil_dawnbreakers) - Nabil-i-A'zam
+- [Symbol and Secret: Qur'án Commentary in Bahá'u'lláh's Kitáb-i-Íqán](https://bahai-library.com/buck_symbol_secret_quran) - Christopher Buck 
+- [Revelation and Social Reality](https://www.bahaiebooks.org/publications/revelationandsocialreality/) - Paul Lample
 
 ### Videos
 

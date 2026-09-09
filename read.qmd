@@ -1,10 +1,14 @@
 ---
 title: "Read"
-subtitle: "The Kitáb-i-Íqán, translated by Shoghi Effendi. Copyright © Bahá'í International Community.
+subtitle: "Official translation into English by Shoghi Effendi. Copyright © Bahá'í International Community.
 Text from the [Bahá'í Reference Library](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/)."
 toc: false
 page-layout: full
 ---
+
+Other languages: 
+- [Spanish](https://bahai.es/wp-content/uploads/2015/01/Kit%C3%A1b-i-Iqan.pdf)
+- [Original language](https://drive.google.com/file/d/18CDbfJAt_Z49cKO6MXn1j7y0pp8TWWkj/view?usp=sharing) (Arabic/Persian)
 
 <!-- This page is generated. Edit tools/gen_read.py and re-run it, not this file. -->
 

@@ -483,6 +483,34 @@ table.schedule td.para.tbd {
   .witness blockquote { font-size: 0.98rem; padding-left: 1rem; }
 }
 
+// --- Manuscript facsimile ---------------------------------------------------
+// A page image, centred and held well short of the body width so the script
+// stays legible without dominating the page.
+.manuscript {
+  margin: 2.2rem auto 0.5rem;
+  max-width: 24rem;
+
+  figure { margin: 0; }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid $rule;
+    background: #fff;
+  }
+
+  figcaption,
+  .figure-caption {
+    margin-top: 0.7rem;
+    font-family: $font-family-sans-serif;
+    font-size: 0.76rem;
+    line-height: 1.5;
+    color: $ink-faint;
+    text-align: center;
+  }
+}
+
 // --- Questions list ---------------------------------------------------------
 .questions-list {
   margin: 1.3rem 0 2rem;
