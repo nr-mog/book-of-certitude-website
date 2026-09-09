@@ -9,11 +9,6 @@ page-layout: full
 [Download as PDF](week-01.pdf){.btn-pdf download="Kitab-i-Iqan-week-01.pdf"}
 :::
 
-::: {.lead}
-Introductions, how the study will work, and what the Kitáb-i-Íqán is — no reading is assigned
-for this first session.
-:::
-
 ## Introductions
 
 - Your name
@@ -24,13 +19,14 @@ for this first session.
 
 ## Goals of the study
 
-1. To develop the habit of reading the Writings by yourself
+1. To strengthen the habit of reading the Writings by yourself
 2. To advance in your understanding of fundamental Bahá'í beliefs, and how to explain them to others
 3. To experience the joy of reading the Sacred Writings
 
 ## Format of the study
 
 Each session there will be time for:
+
 - Understanding and reflecting on the paragraphs assigned for that week, and selected supplementary material related to the themes of those paragraphs
 - Exploring any questions that came up during your reading or during the last weeks' discussion
 - Further resources are posted for anyone who wants to follow a topic further. They are not required reading.
@@ -92,7 +88,7 @@ Promised One of Islám until he met Bahá'u'lláh in Baghdad, in 1862. Before th
 believers tried to convince him of the truth of this New Faith, but he refused to accept it as he
 did not believe his Nephew had fulfilled certain Islamic traditions.
 
-The martyrdom of the Báb and His uncle Haji Mirza Siyyid Ali in Shiraz in 1850 brought immense
+The martyrdom of the Báb and His uncle Haji Mirza Siyyid Ali in 1850 brought immense
 grief and shock to the members of the family. Fatima-Begum, the Báb's mother, could not bear to
 stay in her home in Shiraz anymore. She travelled to Iraq and took up residence in Karbala to be
 near the shrine of Imám Hussein.
@@ -113,7 +109,7 @@ his younger brother, Haji Mirza Hasan Ali to accompany him on pilgrimage to the 
 but he did not tell him the real purpose of his visit to Bahá'u'lláh until they arrived in Baghdad.
 On hearing about this, Haji Mirza Hasan Ali got angry and although younger than him spoke very
 harshly to him, so he decided to go with his younger brother to the Shrines first. It was on his
-return to Baghdad that he was taken by Haji Mirza Javai-Karbala'i to the house of Bahá'u'lláh where
+return to Baghdad that he was taken by Haji Mirza Javad-i-Karbala'i to the house of Bahá'u'lláh where
 he attained His presence alone.
 
 Upon meeting Bahá'u'lláh, Haji Mirza Siyyid Muhammad was overwhelmed and uplifted as he sat in His
