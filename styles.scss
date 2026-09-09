@@ -483,6 +483,33 @@ table.schedule td.para.tbd {
   .witness blockquote { font-size: 0.98rem; padding-left: 1rem; }
 }
 
+// --- Plates -----------------------------------------------------------------
+// A landscape figure - a map or diagram - centred and capped so it does not
+// run the full width of a page-layout: full page. Shares the caption
+// treatment with .manuscript.
+.plate {
+  margin: 1.6rem auto 1.8rem;
+  max-width: 42rem;
+
+  figure { margin: 0; }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  figcaption,
+  .figure-caption {
+    margin-top: 0.6rem;
+    font-family: $font-family-sans-serif;
+    font-size: 0.76rem;
+    line-height: 1.5;
+    color: $ink-faint;
+    text-align: center;
+  }
+}
+
 // --- Manuscript facsimile ---------------------------------------------------
 // A page image, centred and held well short of the body width so the script
 // stays legible without dominating the page.

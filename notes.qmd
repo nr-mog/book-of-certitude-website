@@ -52,8 +52,3 @@ To keep them safe, export them regularly. It takes one click. Markdown is the re
   <p class="note-empty">Loading…</p>
 </div>
 ```
-
-::: {.source-note}
-Markdown is the readable format — open it in any notes app or print it. JSON is the one to keep
-if you want to restore these notes into another browser later.
-:::

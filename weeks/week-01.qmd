@@ -12,11 +12,10 @@ for this first session.
 
 ## Introductions
 
-- Your name, and where you're from
-- What you want to study in college, or what career you have in mind (if you know yet)
-- Your experience of reading the Writings, on your own or in groups
-- What you hope to get out of this year, and out of this study
-- Something fun you did this summer
+- Your name
+- Where you're from
+- Something you're looking forward to this year
+- What do you hope to contribute to this space?
 
 ## Goals of the study
 
@@ -24,112 +23,137 @@ for this first session.
 2. To advance in your understanding of fundamental Bahá'í beliefs, and how to explain them to others
 3. To experience the joy of reading the Sacred Writings
 
-## How the sessions work
+## Format of the study
 
-- Most of our time goes on discussing and reflecting on the text itself.
-- Part of each session takes up the paragraphs assigned for that week; part is spent reading and
-  reflecting together on selected paragraphs, which will be printed and brought to the session.
-- We can supplement the study with other activities, games or art, based on your ideas — say what
-  you'd like.
-- Further resources are posted for anyone who wants to follow a topic further. They are never
-  required reading.
-- There is a break in the middle of every session.
+- Each session there will be time for:
+- Understanding and reflecting on the paragraphs assigned for that week, and selected supplementary material related to the themes of those paragraphs
+- Exploring any questions that came up during your reading or during the last weeks' discussion
+- Further resources are posted for anyone who wants to follow a topic further. They are not required reading.
 
-## What we expect of each other
+## Group norms and expectations
 
 - To contribute to an open and welcoming environment, and to respect everyone in the group.
 - To come having read the paragraphs, having made an honest attempt to engage with the text and
   reflect on its meaning.
 - To ask the questions you actually have, and to respond to what others say.
-- To be open to changing your mind when someone else's idea is better than yours — and to make
-  your best effort to say what you think when you disagree.
-- To use phones only for the study: looking up a definition, or getting to the text.
 - **You are not expected to understand everything we read.** That is why we study together.
 
-## What is the Íqán?
+## What is the Book of Certitude?
 
-The Kitáb-i-Íqán — the Book of Certitude — was revealed by Bahá'u'lláh in Baghdád in 1862, in
-answer to questions from one of the maternal uncles of the Báb. It was translated by Shoghi
-Effendi and first published in English in 1931.
+The Kitáb-i-Íqán: The Book of Certitude is a Book revealed by Bahá'u'lláh in Baghdad in 1862 in
+response to questions posed by one of the maternal uncles of the Báb, translated by Shoghi Effendi
+and first published in English in 1931.
 
-For the setting in which it was revealed — the state of the Bábí community, the two years in
-Kurdistán, and the years in that house in Baghdád — see [Context](../context.qmd). Shoghi
-Effendi's own account of the Book is on the [Summary](../summary.qmd) page.
+### The Life of Bahá'u'lláh (recap)
+
+::: {.plate}
+![Bahá'u'lláh's successive places of exile, with the years He spent in each](../images/bahaullah-exiles-map.jpg){fig-alt="A map of the Ottoman Empire and Iran marking Tehran 1817-1853, Baghdad 1853-1863, Constantinople 1863-1863, Adrianople 1863-1868 and 'Akká 1868-1892, joined by a line tracing the route of the exiles."}
+:::
 
 ## The three maternal uncles of the Báb
 
-The Báb had three maternal uncles, brothers of His mother, Fáṭimih-Bagum.
+The Báb had three maternal uncles; they were brothers of His mother, Fatima-Begum:
 
-1. **Ḥájí Mírzá Siyyid Muḥammad** — *Khál-i-Akbar*, the Greater Uncle. The eldest of the three,
-   and the recipient of the Íqán.
-2. **Ḥájí Mírzá Siyyid ʻAlí** — *Khál-i-Aʻẓam*, the Greatest Uncle. The middle brother, who took
-   charge of the Báb's upbringing after His father died. Having seen His qualities from
-   childhood, he recognized the station of the Báb at once and became an ardent believer soon
-   after the Declaration — the first to declare his faith after the Letters of the Living, and
-   both a promoter of the new Faith and a protector of its Founder. Refusing to recant, he was
-   publicly martyred as one of the Seven Martyrs of Ṭihrán, a few months before his Nephew.
-3. **Ḥájí Mírzá Siyyid Ḥasan-ʻAlí** — *Khál-i-Aṣghar*, the Lesser Uncle. The youngest of the
-   three.
+1. Hájí Mírzá Siyyid Muhammad (Khal-i-Akbar, the Greater Uncle), was the eldest of the three
+   brothers and the recipient of the Íqán.
+2. Haji Mirza Siyyid Ali (Khal-i-Azam, the Greatest Uncle), was the middle brother:
+    - He was the one who was responsible for the upbringing and caring of the Báb from His
+      childhood, after the passing of His father.
+    - Having witnessed the spiritual and superhuman qualities in his Nephew all along from His
+      childhood, this uncle instantly and readily recognized the station of the Báb and became an
+      ardent believer soon after His Declaration. He was the first to declare his faith after The
+      Letters of Living, as a promoter of the new religion as well as a protector of its Founder.
+    - As a result of refusing to recant his faith, he was publicly martyred as one of the seven
+      Martyrs of Tehran, a few months before the martyrdom of the Báb.
+3. Haji Mirza Hassan Ali (Khal-i-Asghar, the younger uncle), was the youngest of the three
+   brothers.
 
 ## How the questions came to be asked
 
-Before His Declaration, the Báb was in Bushihr, in business with His three uncles. He left for
-Shíráz accompanied by Khál-i-Aʻẓam, and declared His Mission there in 1844. The eldest and
-youngest uncles carried on the family business in Bushihr, and when the Báb travelled to Mecca
-He stayed at the eldest uncle's home in Bushihr both going and returning. Ḥájí Mírzá Siyyid
-Muḥammad saw a great transformation of spirit in his Nephew, and wrote to his sister that he was
-"pleased to be in the presence of his Nephew Whose bountiful soul is the source of felicity for
-the people of the world and the next."
+Before His declaration in Shiraz, the Báb was in Bushier occupied in a business with His three
+uncles. The Báb left Bushier for Shiraz accompanied by Khal-i-Azam, Haji Mirza Siyyid Ali (the
+middle uncle). The Báb declared His Mission in Shiraz in 1844 A.D.
 
-Yet a great admirer of Him was not the same as a believer in Him. He could not accept his Nephew
-as the Promised One of Islám, because certain traditions seemed to him unfulfilled — and he held
-to that position, through the efforts of several believers to persuade him, for eighteen years.
+Haji Mirza Siyyid Muhammad (the eldest uncle) continued to run the family business in Bushier
+together with his younger brother, Haji Mirza Hasan Ali (the younger uncle). After His declaration,
+the Báb went to Mecca via Bushier where He stayed at the home of this uncle. Returning from Mecca,
+again He stayed at His uncle's home in Bushier. Haji Mirza Siyyid Muhammad witnessed a great
+transformation of spirit in the Báb and wrote to his sister, the Báb's mother, Fatima-Begum,
+expressing that he was "pleased to be in the presence of his Nephew Whose bountiful soul is the
+source of felicity for the people of the world and the next."
 
-Meanwhile the family was struck twice in one year: in 1850 the Báb was executed in Tabríz, and
-His uncle Khál-i-Aʻẓam was martyred in Ṭihrán. Fáṭimih-Bagum could not bear to stay in Shíráz,
-and moved to Karbilá to be near the shrine of the Imám Ḥusayn.
+Though a great admirer of his Nephew, Haji Mirza Siyyid Muhammad never accepted Him as the
+Promised One of Islám until he met Bahá'u'lláh in Baghdad, in 1862. Before then, in Iran, several
+believers tried to convince him of the truth of this New Faith, but he refused to accept it as he
+did not believe his Nephew had fulfilled certain Islamic traditions.
 
-It was Áqá Mírzá Núru'd-Dín, of the Afnán family, who in a series of discussions persuaded the
-eldest uncle to take his questions to Bahá'u'lláh in Baghdád — a journey that would also let him
-visit his sister and the shrines at Karbilá, Najaf, Káẓimayn and Sámarrá. He invited his younger
-brother along on the pilgrimage, but said nothing of the real purpose until they reached Baghdád.
-Ḥájí Mírzá Siyyid Ḥasan-ʻAlí, on hearing it, spoke to his elder brother very harshly, and so they
-went to the shrines first. Only on the return to Baghdád was Ḥájí Mírzá Siyyid Muḥammad taken —
-by Siyyid Javád-i-Karbalá'í — to the house of Bahá'u'lláh, where he attained His presence alone.
+The martyrdom of the Báb and His uncle Haji Mirza Siyyid Ali in Shiraz in 1850 brought immense
+grief and shock to the members of the family. Fatima-Begum, the Báb's mother, could not bear to
+stay in her home in Shiraz anymore. She travelled to Iraq and took up residence in Karbala to be
+near the shrine of Imám Hussein.
 
-Sitting there and listening, he was overwhelmed. He asked Bahá'u'lláh to clarify the truth of the
-Báb's Message. Bahá'u'lláh readily consented, and bade him go home, consider the matter
-carefully, write out the questions that had puzzled him along with the traditions behind them,
-and bring them back. Afterwards the uncle wrote to his son of his wonder — and of his regret that
-those who miss such a presence are at a grievous loss.
+After His declaration, most of the relatives of the Báb, including His wife, Khadíjah-Begum and His
+uncle, Haji Mirza Siyyid Ali who had realized His Station from His early age, readily became His
+followers. Thousands of believers (Bábís) laid down their lives in His path, but the eldest and the
+youngest uncles, Haji Mirza Siyyid Muhammad and Haji Mirza Hassan Ali, respectively, were not yet
+convinced of His Station as a Prophet of God.
+
+Several Bábís had tried to dispel Haji Mirza Siyyid Muhammad's doubts about the Báb's Station,
+without success. Agha Mirza Nurud-Din, a believer from the Afnan family, in a series of discussions
+with him, convinced this uncle to travel to Baghdad in Iraq, meet with Bahá'u'lláh and ask Him the
+questions about which he had doubts. On this journey, he would also visit his sister, Fatima Begum,
+and the Shrines in Karbala, Najaf, Kazimayn and Samarra where some of the Imáms of Shi'i Islám
+including Imám Husayn are buried. Haji Mirza Siyyid Muhammad agreed to this suggestion and invited
+his younger brother, Haji Mirza Hasan Ali to accompany him on pilgrimage to the Shrines in Iraq,
+but he did not tell him the real purpose of his visit to Bahá'u'lláh until they arrived in Baghdad.
+On hearing about this, Haji Mirza Hasan Ali got angry and although younger than him spoke very
+harshly to him, so he decided to go with his younger brother to the Shrines first. It was on his
+return to Baghdad that he was taken by Haji Mirza Javai-Karbala'i to the house of Bahá'u'lláh where
+he attained His presence alone.
+
+Upon meeting Bahá'u'lláh, Haji Mirza Siyyid Muhammad was overwhelmed and uplifted as he sat in His
+presence and listened to His utterances. He asked Bahá'u'lláh to clarify the truth of the Báb's
+Message, presuming in his mind that some of the traditions of Islám concerning the Promised Qá'im
+were apparently not fulfilled by his Nephew. To this Bahá'u'lláh readily consented and bade him go
+home and after careful consideration, make a list of the questions that had puzzled him together
+with all the Islamic traditions that had brought doubts in his mind and bring these to Him. After
+meeting with Bahá'u'lláh, Haji Mirza Siyyid Muhammad was so affected that he wrote to his son, Haji
+Mirza Muhammad Taqi, expressing his wonder and regret that people who miss being in Bahá'u'lláh's
+bounteous presence are at a grievous loss.
 
 ### The four questions
 
-He returned the next day with his questions, written on two sheets in his own hand, under four
-headings, all concerning the coming of the Promised Qá'im. They are summarized as follows:
+The following day, Haji Mirza Siyyid Muhammad arrived with his questions. The questions that Haji
+Mirza Siyyid Muhammad presented to Bahá'u'lláh were written on two sheets in his own hand and they
+are under four headings, all dealing with the coming of the Promised Qá'im. They are summarized as
+follows:
 
 ::: {.questions-list}
-1. **The Day of Resurrection.** Is there to be a corporeal resurrection? The world is replete
-   with injustice. How are the just to be requited and the unjust punished?
-2. **The twelfth Imám** was born at a certain time and lives on. There are traditions, all
-   supporting the belief. How can this be explained?
-3. **Interpretation of the holy texts.** This Cause does not seem to conform to the beliefs held
+1. The Day of Resurrection. Is there to be a corporeal resurrection? The world is replete with
+   injustice. How are the just to be requited and the unjust punished?
+2. The twelfth Imám was born at a certain time and lives on. There are traditions, all supporting
+   the belief. How can this be explained?
+3. Interpretation of the holy texts. This Cause does not seem to conform to the beliefs held
    throughout the years. One cannot ignore the literal meaning of the holy texts and scriptures.
    How can this be explained?
-4. **Certain events**, according to the traditions that have come down from the Imáms, must occur
-   at the advent of the Qá'im. Some of these are mentioned. But none of these has happened. How
-   can this be explained?
+4. Certain events, according to the traditions that have come down from the Imáms, must occur at
+   the advent of the Qá'im. Some of these are mentioned. But none of these has happened. How can
+   this be explained?
 :::
 
-Within two days and two nights the Kitáb-i-Íqán was revealed in answer to all of them. It was
-revealed in Persian, with Arabic quotations, verses from the Qur'án and traditions of Islám, and
-it takes up far more than the four questions put to it. This Epistle of over two hundred pages
-was transcribed by ʻAbdu'l-Bahá, then eighteen years old, in His own hand; in the margins of
-several pages Bahá'u'lláh made corrections in His own.
+Within two days and two nights, the Kitáb-i-Íqán was revealed by Bahá'u'lláh responding to all of
+his questions. It was revealed in Persian, with some Arabic quotations, verses from the Qur'án and
+traditions of Islám, as well as numerous other references to solving many misunderstood and
+misinterpreted questions related to all Religions.
 
-The Book dispelled every doubt its recipient had harboured. He reached the stage of certitude and
-recognized the station of the Báb, and later accepted Bahá'u'lláh as "Him Whom God shall make
-manifest" — as his will confirms.
+This lengthy Epistle [Book] of over two hundred pages was transcribed by ʻAbdu'l-Bahá, then 18
+years of age, in His own hand. In the margins of several of the pages, Bahá'u'lláh has in His own
+hand made some corrections.
+
+The Kitáb-i-Íqán dispelled every doubt that Haji Mirza Siyyid Muhammad had harboured in his mind.
+As a result of reading, he reached the stage of Certitude and recognized the station of the Báb.
+Later he also accepted Bahá'u'lláh as "Him Whom God shall make manifest", as was confirmed in his
+will.
 
 ## Why study the Íqán?
 
@@ -143,7 +167,7 @@ manifest" — as his will confirms.
 :::
 
 ::: {.witness}
-> The Íqán is the most important book written on the spiritual significance of the Cause. I do not
+> The Iqan is the most important book written on the spiritual significance of the Cause. I do not
 > believe any person can consider himself well versed in the teachings unless he has studied it
 > thoroughly.
 >
@@ -151,13 +175,98 @@ manifest" — as his will confirms.
 :::
 
 ::: {.witness}
-> The one who ponders over that book and grasps its full significance will obtain a clear insight
-> into the old scriptures and appreciate the true mission of the Báb and Bahá'u'lláh.
+> The book is so important that the most minute detail is worthy of consideration
+>
+> [Shoghi Effendi]{.attrib}
+:::
+
+::: {.witness}
+> The Sacred Books are full of allusions to this new dispensation. In the book of Iqán,
+> Bahá'u'lláh gives the key-note and explains some of the outstanding passages hoping that the
+> friends will continue to study the Sacred Books by themselves and unfold the mysteries found
+> therein.
+>
+> [Shoghi Effendi]{.attrib}
+:::
+
+::: {.witness}
+> Shoghi Effendi hoped that you will exert all your efforts first in deepening your own knowledge
+> of the teachings and then to strive to attract other people. You should form study classes and
+> read the Important books that have been published especially the Iqán which contains the basic
+> tenets of the Faith. The one who ponders over that book and grasps its full significance will
+> obtain a clear insight into the old scriptures and appreciate the true mission of the Báb and
+> Bahá'u'lláh.
+>
+> [Shoghi Effendi]{.attrib}
+:::
+
+::: {.witness}
+> Shoghi Effendi hopes that you will exert all your efforts to deepen your knowledge of the
+> literature of the Movement, until you become fully acquainted with its spirit and tenets. Unless
+> you do obtain such a firm hold you will never be able to teach others and render real service to
+> the promulgation of the Faith. Of special importance is the Book of the Iqán which explains the
+> attitude of the Cause towards the prophets of God and their mission in the history of society.
+> Besides this there is Some Answered Questions of the Master and Dawn-Breakers of Nabíl. Every
+> Bahá'í should master these books and be able to explain their contents to others. Besides their
+> importance, they are interesting and most absorbing.
+>
+> [Shoghi Effendi]{.attrib}
+:::
+
+::: {.witness}
+> Books such as the Iqán, Some Answered Questions, the Tablets of Bahá'u'lláh, Nabíl's Narrative
+> and Dr. Esslemont's book should be read and read over again by every soul who desires to serve
+> the Movement or considers himself an active member of the group.
 >
 > [Shoghi Effendi]{.attrib}
 :::
 
 More of these, with their sources, are on the [home page](../index.qmd).
+
+## Shoghi Effendi's Overview of the Iqán
+
+::: {.witness}
+> Foremost among the priceless treasures cast forth from the billowing ocean of Bahá'u'lláh's
+> Revelation ranks the Kitáb-i-Íqán (Book of Certitude), revealed within the space of two days and
+> two nights, in the closing years of that period (1278 A.H.–1862 A.D.). It was written in
+> fulfillment of the prophecy of the Báb, Who had specifically stated that the Promised One would
+> complete the text of the unfinished Persian Bayán, and in reply to the questions addressed to
+> Bahá'u'lláh by the as yet unconverted maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad,
+> while on a visit, with his brother, Ḥájí Mírzá Ḥasan-ʻAlí, to Karbilá. A model of Persian prose,
+> of a style at once original, chaste and vigorous, and remarkably lucid, both cogent in argument
+> and matchless in its irresistible eloquence, this Book, setting forth in outline the Grand
+> Redemptive Scheme of God, occupies a position unequalled by any work in the entire range of
+> Bahá'í literature, except the Kitáb-i-Aqdas, Bahá'u'lláh's Most Holy Book. Revealed on the eve
+> of the declaration of His Mission, it proffered to mankind the "Choice Sealed Wine," whose seal
+> is of "musk," and broke the "seals" of the "Book" referred to by Daniel, and disclosed the
+> meaning of the "words" destined to remain "closed up" till the "time of the end."
+>
+> Within a compass of two hundred pages it proclaims unequivocally the existence and oneness of a
+> personal God, unknowable, inaccessible, the source of all Revelation, eternal, omniscient,
+> omnipresent and almighty; asserts the relativity of religious truth and the continuity of
+> Divine Revelation; affirms the unity of the Prophets, the universality of their Message, the
+> identity of their fundamental teachings, the sanctity of their scriptures, and the twofold
+> character of their stations; denounces the blindness and perversity of the divines and doctors
+> of every age; cites and elucidates the allegorical passages of the New Testament, the abstruse
+> verses of the Qur'án, and the cryptic Muḥammadan traditions which have bred those age-long
+> misunderstandings, doubts and animosities that have sundered and kept apart the followers of
+> the world's leading religious systems; enumerates the essential prerequisites for the
+> attainment by every true seeker of the object of his quest; demonstrates the validity, the
+> sublimity and significance of the Báb's Revelation; acclaims the heroism and detachment of His
+> disciples; foreshadows, and prophesies the world-wide triumph of the Revelation promised to the
+> people of the Bayán; upholds the purity and innocence of the Virgin Mary; glorifies the Imáms
+> of the Faith of Muḥammad; celebrates the martyrdom, and lauds the spiritual sovereignty, of the
+> Imám Ḥusayn; unfolds the meaning of such symbolic terms as "Return," "Resurrection," "Seal of
+> the Prophets" and "Day of Judgment"; adumbrates and distinguishes between the three stages of
+> Divine Revelation; and expatiates, in glowing terms, upon the glories and wonders of the "City
+> of God," renewed, at fixed intervals, by the dispensation of Providence, for the guidance, the
+> benefit and salvation of all mankind. Well may it be claimed that of all the books revealed by
+> the Author of the Bahá'í Revelation, this Book alone, by sweeping away the age-long barriers
+> that have so insurmountably separated the great religions of the world, has laid down a broad
+> and unassailable foundation for the complete and permanent reconciliation of their followers.
+>
+> [Shoghi Effendi]{.attrib}
+:::
 
 ## Before next week
 
