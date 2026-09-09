@@ -1639,3 +1639,85 @@ a.start-reading {
     &:hover { color: $gold; }
   }
 }
+
+// --- Handout download -------------------------------------------------------
+.handout-actions {
+  margin: 0 0 1.4rem;
+}
+
+a.btn-pdf {
+  display: inline-block;
+  font-family: $font-family-sans-serif;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: $ink-soft;
+  border: 1px solid $rule;
+  padding: 0.28rem 0.65rem;
+  transition: background 0.14s ease, color 0.14s ease, border-color 0.14s ease;
+
+  &:hover, &:focus {
+    background: $ink;
+    border-color: $ink;
+    color: $parchment;
+  }
+}
+
+// --- Print ------------------------------------------------------------------
+// Also what the published handout PDFs are made of: the GitHub Action drives
+// each week page through headless Chrome, which applies these rules. So this
+// is the layout of the PDF itself, not only of a reader's printout.
+//
+// Kept last in the file on purpose. A media query adds no specificity, so any
+// base rule appearing after these would win on source order.
+@media print {
+  .navbar,
+  .nav-footer,
+  #quarto-sidebar,
+  #TOC,
+  nav[role="doc-toc"],
+  .handout-actions,
+  .notes-intro,
+  .note-side,
+  .note-ask,
+  .note-bar,
+  .note-input,
+  .ask-targets,
+  .note-empty {
+    display: none !important;
+  }
+
+  // With the note column gone the passage takes the full measure.
+  .note-row,
+  .note-row.page-columns {
+    display: block;
+    padding: 0.35rem 0 0.5rem;
+    border-bottom: none;
+    break-inside: avoid;
+  }
+
+  .note-main { padding-left: 2.2rem; }
+
+  .struct {
+    margin-right: 0;
+    break-after: avoid;
+  }
+
+  // A dotted term invites a click, which paper cannot honour.
+  .gl-ref { border-bottom: none; }
+
+  body {
+    background: #fff;
+    font-size: 10.5pt;
+  }
+
+  h1, h2, h3 { break-after: avoid; }
+
+  .witness { break-inside: avoid; }
+  .plate   { break-inside: avoid; }
+  .questions-list li { break-inside: avoid; }
+
+  a { text-decoration: none; color: inherit; }
+}

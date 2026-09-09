@@ -5,6 +5,10 @@ toc: false
 page-layout: full
 ---
 
+::: {.handout-actions}
+[Download as PDF](week-01.pdf){.btn-pdf download="Kitab-i-Iqan-week-01.pdf"}
+:::
+
 ::: {.lead}
 Introductions, how the study will work, and what the Kitáb-i-Íqán is — no reading is assigned
 for this first session.
@@ -15,7 +19,8 @@ for this first session.
 - Your name
 - Where you're from
 - Something you're looking forward to this year
-- What do you hope to contribute to this space?
+- What do you hope to get from this space?
+- What do you hope to give to this space?
 
 ## Goals of the study
 
@@ -25,7 +30,7 @@ for this first session.
 
 ## Format of the study
 
-- Each session there will be time for:
+Each session there will be time for:
 - Understanding and reflecting on the paragraphs assigned for that week, and selected supplementary material related to the themes of those paragraphs
 - Exploring any questions that came up during your reading or during the last weeks' discussion
 - Further resources are posted for anyone who wants to follow a topic further. They are not required reading.
@@ -54,21 +59,21 @@ and first published in English in 1931.
 
 The Báb had three maternal uncles; they were brothers of His mother, Fatima-Begum:
 
-1. Hájí Mírzá Siyyid Muhammad (Khal-i-Akbar, the Greater Uncle), was the eldest of the three
+1. Hájí Mírzá Siyyid Muhammad was the eldest of the three
    brothers and the recipient of the Íqán.
-2. Haji Mirza Siyyid Ali (Khal-i-Azam, the Greatest Uncle), was the middle brother:
+2. Haji Mirza Siyyid Ali was the middle brother:
     - He was the one who was responsible for the upbringing and caring of the Báb from His
       childhood, after the passing of His father.
     - Having witnessed the spiritual and superhuman qualities in his Nephew all along from His
-      childhood, this uncle instantly and readily recognized the station of the Báb and became an
+      childhood, this uncle readily recognized the station of the Báb and became an
       ardent believer soon after His Declaration. He was the first to declare his faith after The
       Letters of Living, as a promoter of the new religion as well as a protector of its Founder.
     - As a result of refusing to recant his faith, he was publicly martyred as one of the seven
       Martyrs of Tehran, a few months before the martyrdom of the Báb.
-3. Haji Mirza Hassan Ali (Khal-i-Asghar, the younger uncle), was the youngest of the three
+3. Haji Mirza Siyyid Hassan Ali was the youngest of the three
    brothers.
 
-## How the questions came to be asked
+## Circumstances surrounding the revelation of the Book
 
 Before His declaration in Shiraz, the Báb was in Bushier occupied in a business with His three
 uncles. The Báb left Bushier for Shiraz accompanied by Khal-i-Azam, Haji Mirza Siyyid Ali (the
@@ -121,7 +126,7 @@ meeting with Bahá'u'lláh, Haji Mirza Siyyid Muhammad was so affected that he w
 Mirza Muhammad Taqi, expressing his wonder and regret that people who miss being in Bahá'u'lláh's
 bounteous presence are at a grievous loss.
 
-### The four questions
+### The questions
 
 The following day, Haji Mirza Siyyid Muhammad arrived with his questions. The questions that Haji
 Mirza Siyyid Muhammad presented to Bahá'u'lláh were written on two sheets in his own hand and they
@@ -155,7 +160,7 @@ As a result of reading, he reached the stage of Certitude and recognized the sta
 Later he also accepted Bahá'u'lláh as "Him Whom God shall make manifest", as was confirmed in his
 will.
 
-## Why study the Íqán?
+## Why study the Book of Certitude?
 
 ::: {.witness}
 > In fact, all the Scriptures and the mysteries thereof are condensed into this brief account. So
@@ -273,29 +278,6 @@ More of these, with their sources, are on the [home page](../index.qmd).
 Read **[¶1–23](../read.qmd#p1)**, and come with what struck you and what you did not follow. The
 whole reading schedule is on the [Schedule](../schedule.qmd) page.
 
-## Reflections or questions
-
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
-
-## Your notes
-
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
-
-"Ask AI about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
-:::
-
-```{=html}
-<div id="paragraph-notes" data-week="1" class="paragraph-notes">
-  <p class="note-empty">Loading…</p>
-</div>
-```
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)

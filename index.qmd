@@ -13,21 +13,6 @@ The Kitáb-i-Íqán (Book of Certitude) is one of the most significant works of 
 
 ## Start here
 
-::: {.cards}
-::: {.card-tile}
-#### [The schedule](schedule.qmd)
-Every session, with the paragraphs assigned for each week.
-:::
-
-::: {.card-tile}
-#### Introductory slides
-What the Íqán is, the occasion of its revelation, and why it is worth studying closely.
-
-[Present](slides/intro.qmd){.btn-slides .primary}
-[PDF](slides/intro.pdf){.btn-slides}
-:::
-:::
-
 ## Significance and Station of the Book of Certitude
 
 ### From the letters of Shoghi Effendi

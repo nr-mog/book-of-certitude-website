@@ -36,7 +36,7 @@ jobs:
       #
       # continue-on-error: the PDF is an optional download. If this breaks, the
       # site should still deploy — only the PDF link goes missing.
-      - name: Export slides to PDF
+      - name: Export slides and handouts to PDF
         continue-on-error: true
         run: |
           set -x
@@ -56,10 +56,25 @@ jobs:
               --run-all-compositor-stages-before-draw \
               --no-pdf-header-footer \
               --print-to-pdf="_site/slides/$name.pdf" \
-              "http://localhost:8080/slides/$name.html?print-pdf"
+              "http://localhost:8080/slides/$name.html?print-pdf" || true
           done
 
-          ls -l _site/slides/
+          # Each week handout, printed from the page itself so the PDF cannot
+          # drift from the web version. The @media print rules in styles.scss
+          # are what shape it: navigation, note boxes and the download button
+          # itself drop out, and the passage text takes the full width. The
+          # long virtual-time budget is for the pages that build their
+          # paragraphs from data/ at load.
+          for n in $(seq -w 1 13); do
+            chrome --headless=new --disable-gpu --no-sandbox --hide-scrollbars \
+              --virtual-time-budget=25000 \
+              --run-all-compositor-stages-before-draw \
+              --no-pdf-header-footer \
+              --print-to-pdf="_site/weeks/week-$n.pdf" \
+              "http://localhost:8080/weeks/week-$n.html" || true
+          done
+
+          ls -l _site/slides/ _site/weeks/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -5,6 +5,10 @@ toc: false
 page-layout: full
 ---
 
+::: {.handout-actions}
+[Download as PDF](week-07.pdf){.btn-pdf download="Kitab-i-Iqan-week-07.pdf"}
+:::
+
 ::: {.callout-note appearance="simple"}
 Materials for this session will be posted here.
 :::
