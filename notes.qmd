@@ -4,18 +4,12 @@ subtitle: "Saved in this browser, on this device"
 toc: false
 ---
 
-::: {.lead}
-Everything you write on the week pages collects here, grouped by session.
-:::
-
 ::: {.callout-important appearance="simple"}
 ## Keep a copy
 
-These notes live in this browser only. They are never sent anywhere — which also means
-nothing can restore them. Clearing your browser data deletes them, they do not follow you to
-another device, and **iOS Safari can discard them after about a week without a visit**.
+These notes live in your browser only. They are never sent anywhere, which means no one sees your notes, but also nothing can restore them. Clearing your browser data (e.g. cookies) deletes them, and they are often **automatically discarded after about a week without a visit**.
 
-Export them regularly. It takes one click.
+To keep them safe, export them regularly. It takes one click. Markdown is the readable format — open it in any notes app or print it. JSON is the one to keep if you want to restore these notes later.
 :::
 
 ## Add a note

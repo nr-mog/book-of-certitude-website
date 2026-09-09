@@ -5,11 +5,6 @@ toc: true
 toc-depth: 2
 ---
 
-::: {.lead}
-The Kitáb-i-Íqán was not written in tranquillity. It belongs to a decade of exile that began with
-a community in ruins and ended with Bahá'u'lláh's declaration of His Mission — and the Book was
-revealed near the close of it, on the eve of that declaration.
-:::
 
 ## Timeline
 
@@ -32,10 +27,10 @@ revealed near the close of it, on the eve of that declaration.
 ## Condition of the Bábí community
 
 The Bábí community had suffered a serious blow due to the severe repression following the attempt
-on the life of the King. Baghdád had once heard Ṭáhirih teach. By the time Bahá'u'lláh
-arrived, He found among the inhabitants of the city no more than a single Bábí, and in Káẓimayn
-(a neighboring town) a mere handful who still professed their faith "in fear and obscurity." 
-The Báb had been executed, Bahá'u'lláh Himself had been imprisoned and then banished, 
+on the life of the King. Baghdád had been blessed by the teaching efforts of Ṭáhirih, but by the 
+time Bahá'u'lláh arrived, He found among the inhabitants of the city no more than a single 
+Bábí, and in Káẓimayn (a neighboring town) a mere handful who still professed their faith "in fear 
+and obscurity." The Báb had been executed, Bahá'u'lláh Himself had been imprisoned and then banished, 
 and the ablest of the believers had been killed. What remained was a community with no voice
 it could trust to resolve its questions or tell it what its duty was. Shoghi Effendi writes that
 it was sunk in a distress that "stifled their spirit, confused their minds and strained to
@@ -71,11 +66,11 @@ later stigmatized as the "source of envy and the quintessence of mischief," and 
 hold over Yaḥyá ʻAbdu'l-Bahá likened to that of "the sucking child" upon the "much-prized 
 breast" of its mother.
 
-As Bahá'u'lláh's prestige rose, the jealosy of Mírzá Yaḥyá and Siyyid Muḥammad grew and they began
-a underground campaign to undermine Bahá'u'lláh and by their conduct were bringing the public image
+As Bahá'u'lláh's prestige rose, the jealousy of Mírzá Yaḥyá and Siyyid Muḥammad grew and they began
+an underground campaign to undermine Bahá'u'lláh and by their conduct were bringing the public image
 of the Faith into disrepute. Insinuations circulated that Bahá'u'lláh was a usurper and a
 subverter of the Báb's laws, His letters and commentaries were covertly misrepresented. 
-An attempt on His life was also set afoot, though it ultimately came to nothing. 
+An attempt on His life was also set afoot, though it ultimately came to nothing. To the believers of those days Bahá'u'lláh wrote:
 
 ::: {.witness}
 > The days of tests are now come. Oceans of dissension and tribulation are surging, and the Banners
@@ -83,7 +78,7 @@ An attempt on His life was also set afoot, though it ultimately came to nothing.
 > perdition.… God, however, will establish His Faith, and manifest His light albeit the stirrers of
 > sedition abhor it.
 >
-> [Bahá'u'lláh, writing to the believers in those days]{.attrib}
+> [Bahá'u'lláh]{.attrib}
 :::
 
 ## Withdrawal of Bahá'u'lláh
@@ -109,8 +104,7 @@ Discovered at last through a specimen of His penmanship, He was drawn into the s
 Sulaymáníyyih, where He resolved the doctors' perplexities over Ibn ʻArabí's *Futúḥát-i-Makkíyyih*
 — a book He told them He had never seen — and, at their request, dictated two thousand verses in
 the exacting metre of Ibn-i-Fáriḍ, permitting them to keep one hundred and twenty-seven of them.
-These are the (Qaṣídiy-i-Varqáʼíyyih)[https://bahai-library.com/hatcher_bahaullah_ode_dove]. Some held Him to be one of the "Men of the Unseen"; others
-thought His station no less than that of a prophet.
+These are known as the [Ode of the Dove](https://bahai-library.com/hatcher_bahaullah_ode_dove).
 
 ::: {.witness}
 > In a short time, Kurdistán was magnetized with His love. During this period Bahá'u'lláh lived in
@@ -122,14 +116,12 @@ thought His station no less than that of a prophet.
 
 ## Return and reinvigoration of the Bábí community
 
-The two years of absence were the worst the community endured. Mírzá Yaḥyá directed a campaign by
+The two years of absence especially challenging to the Bábí community. Mírzá Yaḥyá directed a campaign by
 letter to discredit Bahá'u'lláh, sent a man to murder Dayyán, and ordered the secret killing of the
-Báb's cousin Mírzá ʻAlí-Akbar; Siyyid Muḥammad's band of ruffians robbed pilgrims in Karbilá and
-stripped the shrine of the Imám Ḥusayn. Bábís hardly dared appear in public.
+Báb's cousin Mírzá ʻAlí-Akbar. Siyyid Muḥammad's band of ruffians robbed pilgrims in Karbilá and
+stripped the shrine of the Imám Ḥusayn. Out of shame, Bábís hardly dared appear in public.
 
-Two summonses brought Him back: one from within — "from the Mystic Source, there came the summons
-bidding Us return whence We came" — and one from His own household, where His son ʻAbdu'l-Bahá,
-twelve years old, said that in His boyhood He had grown old. He reached Baghdád on 19 March 1856,
+Bahá'u'lláh returned to Baghdád on 19 March 1856,
 exactly two lunar years after He had left.
 
 ::: {.witness}
@@ -148,11 +140,9 @@ now beginning to surge back." In the seven years that followed, a re-arisen comm
 around a fixed and accessible centre — something the Faith had not possessed since its first three
 years.
 
-The change was as much ethical as numerical. Political activity and secret associations were
-disavowed; sedition, back-biting and retaliation were banned; non-violence, truthfulness, courtesy
-and detachment were pressed as obligations. Bahá'u'lláh once told an official that were His own
-brother to act against the state or religion, he should be bound and cast into the river without
-regard to anyone's intercession.
+During this time the community grew in number and in reputation. Through Bahá'u'lláh's guidance the
+character and conduct of the community improved and He succeeded in establishing a high standard of 
+rectitude of conduct, a standard to which souls joyously assisted each other to acquiesce.
 
 ::: {.witness}
 > We exhorted all men … and forbade them to engage in sedition, quarrels, disputes or conflict. As
@@ -164,9 +154,9 @@ regard to anyone's intercession.
 
 ## Flow of visitors from all walks of life
 
-The house of Sulaymán-i-Ghannám in the Karkh quarter, an extremely modest residence, known then
+The house of Sulaymán-i-Ghannám in the Karkh quarter was an extremely modest residence, known then
 simply as "the house of Mírzá Músá, the Bábí," and later designated the Bayt-i-Aʻẓam, the Most
-Great House — became the focal centre for a great number of seekers, visitors and pilgrims.
+Great House. It became the focal centre for a great number of seekers, visitors and pilgrims.
 
 Ṣúfí shaykhs of the Qádiríyyih and Khálidíyyih orders came from Sulaymáníyyih with the name
 Darvísh Muḥammad on their lips. The Muftí of Baghdád, Ibn-i-Álúsí, and other divines of the city
@@ -174,10 +164,10 @@ came to test Him and enrolled among His admirers. Government officials came, and
 living in exile, and Persian Bábís whose only object was to attain His presence — among them four
 of the Báb's cousins and His maternal uncle Ḥájí Mírzá Siyyid Muḥammad. Colonel Sir Arnold Burrowes
 Kemball, the British consul-general, offered Him the protection of British citizenship and
-undertook to carry any message He wished to Queen Victoria; Bahá'u'lláh declined. In His last year
-in the city the governor, Námiq Páshá, came to pay his own tribute. The house served, too, as a
-sanctuary for those seeking redress against the Persian consul. The visitors, Shoghi Effendi
-writes, ranged "from the haughtiest prince to the meanest beggar."
+undertook to carry any message He wished to Queen Victoria, an offer which Bahá'u'lláh declined. 
+In His last year in the city the governor, Námiq Páshá, came to pay his own tribute. The house
+served, too, as a sanctuary for those seeking redress against the Persian consul. The visitors, 
+Shoghi Effendi writes, ranged "from the haughtiest prince to the meanest beggar."
 
 ::: {.witness}
 > Low-roofed, it yet seemed to reach to the stars, and though it boasted but a single couch,
@@ -231,7 +221,7 @@ father He lost as a child.
 - **Ḥájí Mírzá Siyyid Ḥasan-ʻAlí**, *Khál-i-Aṣghar* (the Lesser Uncle), the youngest, who was with
   his brother on that visit to Karbilá.
 
-## Questions submitted by Khál-i-Akbar (the greater uncle)
+## Questions submitted by Ḥájí Mírzá Siyyid Muḥammad 
 The Kitáb-i-Íqán was revealed in answer to questions addressed to Bahá'u'lláh from the as yet
 unconverted maternal uncle of the Báb, Ḥájí Mírzá Siyyid Muḥammad. They have been summarized 
 into four categories as follows:
@@ -250,7 +240,7 @@ into four categories as follows:
 :::
 
 The response was revealed by Bahá'u'lláh in two days and two nights. It was originally known as 
-Risáliy-i-Khál (letter to the uncle) and later renamed Kitáb-i-Íqan (Book of Certitude)
+Risáliy-i-Khál (letter to the uncle) and later named Kitáb-i-Íqan (Book of Certitude)
 by Bahá'u'lláh Himself. The original copy of the Book was transcribed by 'Abdu'l-Bahá at
 the age of eighteen. The Book enabled the uncle as well as the majority of the family of 
 the Báb to recognize the station and revelation of the Báb. They later also recognized Bahá'u'lláh. 

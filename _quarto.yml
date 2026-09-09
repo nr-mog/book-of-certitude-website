@@ -19,16 +19,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: read.qmd
-        text: Read
       - href: schedule.qmd
         text: Schedule
       - href: context.qmd
         text: Context
       - href: summary.qmd
         text: Summary
-      - text: Slides
-        href: slides/intro.qmd
+      - href: read.qmd
+        text: Read
       - href: ask.qmd
         text: Ask
       - href: notes.qmd
