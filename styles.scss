@@ -1069,6 +1069,31 @@ sup.fn-ref {
   &:hover { color: $ink; }
 }
 
+// --- Glossary terms ---------------------------------------------------------
+// Marked in the passage text and opened in the same popover as a footnote.
+// A dotted underline rather than the footnote's raised numeral: these are
+// words in the sentence, so they must stay readable as prose.
+.gl-ref {
+  border-bottom: 1px dotted $gold-soft;
+  cursor: pointer;
+  transition: border-color 0.12s ease, background-color 0.12s ease;
+
+  &:hover, &:focus {
+    outline: none;
+    border-bottom-color: $gold;
+    background: rgba(196, 166, 98, 0.14);
+  }
+}
+
+// The heading is a term rather than a number, so it needs room to breathe.
+.gl-pop .fn-pop-num {
+  display: block;
+  margin: 0 0 0.3rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
 // --- My notes page ----------------------------------------------------------
 h3.notes-group {
   font-family: $font-family-sans-serif;
@@ -1150,58 +1175,6 @@ h3.notes-group {
   .note-text { font-size: 0.96rem; }
 
   .fn-pop { max-width: calc(100vw - 2rem); }
-}
-
-// --- Footnote references ----------------------------------------------------
-sup.fn-ref {
-  font-family: $font-family-sans-serif;
-  font-size: 0.58em;
-  font-weight: 600;
-  color: $gold;
-  cursor: pointer;
-  padding: 0 0.1em;
-  vertical-align: super;
-  line-height: 0;
-  transition: color 0.12s ease;
-
-  &:hover, &:focus { color: $ink; outline: none; text-decoration: underline; }
-  &.fn-missing { color: $ink-faint; }
-}
-
-.fn-pop {
-  position: absolute;
-  z-index: 400;
-  max-width: 22rem;
-  background: $parchment;
-  border: 1px solid $gold-soft;
-  box-shadow: 0 6px 22px rgba(28, 35, 49, 0.16);
-  padding: 0.7rem 2rem 0.75rem 0.85rem;
-  font-family: $font-family-serif;
-  font-size: 0.9rem;
-  line-height: 1.5;
-  color: $ink;
-}
-
-.fn-pop-num {
-  font-family: $font-family-sans-serif;
-  font-size: 0.64rem;
-  font-weight: 600;
-  color: $gold;
-  margin-right: 0.45rem;
-}
-
-.fn-pop-close {
-  position: absolute;
-  top: 0.25rem;
-  right: 0.4rem;
-  border: none;
-  background: none;
-  font-size: 1.1rem;
-  line-height: 1;
-  color: $ink-faint;
-  cursor: pointer;
-
-  &:hover { color: $ink; }
 }
 
 // --- My notes page ----------------------------------------------------------

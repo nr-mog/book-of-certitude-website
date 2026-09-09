@@ -18,22 +18,38 @@ import re
 TEXT = json.load(open('data/iqan_full_text.json'))
 FOOTNOTES = json.load(open('data/footnotes.json'))['notes']
 LINKS = json.load(open('data/paragraph-links.json'))
+GLHITS = json.load(open('data/glossary-hits.json'))
 
 # Same rule as the runtime: a run of 1-3 digits naming a known footnote is a
-# marker. Assembled segment by segment so escaping never runs over a marker
-# (HTML entities contain digits of their own).
-def render_text(raw):
-    out, last = [], 0
+# marker. Glossary terms are marked from the offsets in data/glossary-hits.json,
+# the same file the runtime reads, so both pages mark identical words.
+# Assembled segment by segment so escaping never runs over a marker (HTML
+# entities contain digits of their own).
+def render_text(raw, n):
+    marks = []
     for m in re.finditer(r'\d+', raw):
         num = m.group(0)
-        out.append(html.escape(raw[last:m.start()]))
         if len(num) <= 3 and num in FOOTNOTES:
+            marks.append((m.start(), m.end(), 'fn', num))
+    for start, end, slug in GLHITS.get(str(n), []):
+        marks.append((start, end, 'gl', slug))
+    marks.sort()
+
+    out, last = [], 0
+    for start, end, kind, payload in marks:
+        if start < last:                 # overlapping - keep the first
+            continue
+        out.append(html.escape(raw[last:start]))
+        if kind == 'fn':
             out.append(
                 '<sup class="fn-ref" data-fn="%s" role="button" tabindex="0" '
-                'aria-label="Footnote %s">%s</sup>' % (num, num, num))
+                'aria-label="Footnote %s">%s</sup>' % (payload, payload, payload))
         else:
-            out.append(html.escape(num))
-        last = m.end()
+            word = html.escape(raw[start:end])
+            out.append(
+                '<span class="gl-ref" data-gl="%s" role="button" tabindex="0" '
+                'aria-label="Glossary: %s">%s</span>' % (payload, word, word))
+        last = end
     out.append(html.escape(raw[last:]))
     return ''.join(out)
 
@@ -84,39 +100,39 @@ for n in range(1, 291):
         '</div>'
         '</aside>'
         '</div>'
-        % (n, num_html, render_text(TEXT[str(n)]), n, n, TARGETS))
+        % (n, num_html, render_text(TEXT[str(n)], n), n, n, TARGETS))
 
     for cls, label in STRUCTURE_AFTER.get(n, []):
         parts.append('<div class="struct %s">%s</div>' % (cls, html.escape(label)))
 
 page = '''---
 title: "Read"
-subtitle: "The Kitáb-i-Íqán, paragraphs 1–290"
+subtitle: "Official translation into English by Shoghi Effendi. Copyright © Bahá'í International Community.
+Text from the [Bahá'í Reference Library](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/)."
 toc: false
 page-layout: full
 ---
 
+Other languages: 
+- [Spanish](https://bahai.es/wp-content/uploads/2015/01/Kit%C3%A1b-i-Iqan.pdf)
+- [Arabic/Persian](https://drive.google.com/file/d/18CDbfJAt_Z49cKO6MXn1j7y0pp8TWWkj/view?usp=sharing)
+
 <!-- This page is generated. Edit tools/gen_read.py and re-run it, not this file. -->
 
-::: {.lead}
-The whole Book, with room to write beside it. Notes save as you type and stay in this browser —
-keep a copy from the [My notes](notes.qmd) page.
-:::
-
-::: {.attribution}
-The Kitáb-i-Íqán, translated by Shoghi Effendi. Copyright © Bahá'í International Community.
-Text from the [Bahá'í Reference Library](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/).
-:::
-
-Superscript numbers are the footnotes of the published text; click one to read it. Paragraph
-numbers link to the passage in the Bahá'í Reference Library.
+Superscript numbers are the footnotes of the published text, and dotted words have a glossary
+entry. Click either to read it.
 
 ```{=html}
 <div id="read-text" class="paragraph-notes read-page" data-prerendered="true">
-%s
+@@ROWS@@
 </div>
 ```
-''' % '\n'.join(parts)
+
+::: {.source-note}
+Glossary entries are the "Glossary and Notes" of the published Kitáb-i-Íqán, transcribed at
+[bahai-library.com](https://bahai-library.com/writings/bahaullah/iqan/iq-glos.htm).
+:::
+'''.replace('@@ROWS@@', '\n'.join(parts))
 
 open('read.qmd', 'w').write(page)
 print('wrote read.qmd — %d paragraphs, %d bytes' % (290, len(page)))

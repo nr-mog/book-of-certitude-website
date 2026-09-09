@@ -15,6 +15,8 @@
   var KEY = 'iqan:note:';
   var LINKS = null;
   var FOOTNOTES = null;
+  var GLOSSARY = null;   // {slug: {term, def}}
+  var GLHITS = null;     // {paragraph: [[start, end, slug], ...]}
   // Quarto emits this as "./" at the site root and "../" one level down, so
   // data/ resolves correctly from both index.html and weeks/week-03.html.
   var offset = document.querySelector('meta[name="quarto:offset"]');
@@ -72,17 +74,36 @@
   // Built segment by segment rather than by escaping first and then swapping
   // in the markers: HTML entities contain digits of their own (&#39;), and a
   // second pass over escaped text would mistake those for footnote numbers.
-  function renderTextHTML(t) {
-    var s = String(t), out = '', last = 0;
+  //
+  // Glossary spans come precomputed from data/glossary-hits.json as offsets
+  // into this same raw text - see tools/gen_glossary_data.py. The static Read
+  // page marks the same words from the same file, so the two cannot drift.
+  function renderTextHTML(t, n) {
+    var s = String(t), marks = [], out = '', last = 0, i;
+
     s.replace(/\d+/g, function (num, idx) {
-      out += esc(s.slice(last, idx));
-      out += isMarker(num)
-        ? '<sup class="fn-ref" data-fn="' + num + '" role="button" tabindex="0" ' +
-          'aria-label="Footnote ' + num + '">' + num + '</sup>'
-        : esc(num);
-      last = idx + num.length;
+      if (isMarker(num)) marks.push([idx, idx + num.length, 'fn', num]);
       return num;
     });
+
+    var hits = (GLHITS && n != null && GLHITS[String(n)]) || [];
+    for (i = 0; i < hits.length; i++) {
+      marks.push([hits[i][0], hits[i][1], 'gl', hits[i][2]]);
+    }
+    marks.sort(function (a, b) { return a[0] - b[0] || a[1] - b[1]; });
+
+    for (i = 0; i < marks.length; i++) {
+      var m = marks[i];
+      if (m[0] < last) continue;                 // overlapping - keep the first
+      out += esc(s.slice(last, m[0]));
+      out += m[2] === 'fn'
+        ? '<sup class="fn-ref" data-fn="' + m[3] + '" role="button" tabindex="0" ' +
+          'aria-label="Footnote ' + m[3] + '">' + m[3] + '</sup>'
+        : '<span class="gl-ref" data-gl="' + esc(m[3]) + '" role="button" tabindex="0" ' +
+          'aria-label="Glossary: ' + esc(s.slice(m[0], m[1])) + '">' +
+          esc(s.slice(m[0], m[1])) + '</span>';
+      last = m[1];
+    }
     return out + esc(s.slice(last));
   }
 
@@ -250,7 +271,7 @@
     wrap.innerHTML =
       '<div class="note-main">' +
         '<div class="note-head">' + num + '</div>' +
-        (text ? '<div class="note-text">' + renderTextHTML(text) + '</div>' : '') +
+        (text ? '<div class="note-text">' + renderTextHTML(text, n) + '</div>' : '') +
       '</div>' +
       '<aside class="note-side">' +
         '<textarea class="note-input" rows="2" aria-label="Your note on paragraph ' + n + '" ' +
@@ -393,14 +414,22 @@
 
   function openPop(el) {
     closePop();
-    var num = el.getAttribute('data-fn');
-    var body = FOOTNOTES && FOOTNOTES[num];
+    var isGl = el.className.indexOf('gl-ref') !== -1;
+    var head, body;
+    if (isGl) {
+      var entry = GLOSSARY && GLOSSARY[el.getAttribute('data-gl')];
+      head = entry ? entry.term : el.textContent;
+      body = entry ? entry.def : 'This entry is not recorded.';
+    } else {
+      head = el.getAttribute('data-fn');
+      body = (FOOTNOTES && FOOTNOTES[head]) || 'This footnote is not recorded.';
+    }
     pop = document.createElement('div');
-    pop.className = 'fn-pop';
+    pop.className = isGl ? 'fn-pop gl-pop' : 'fn-pop';
     pop.setAttribute('role', 'dialog');
     pop.innerHTML =
-      '<span class="fn-pop-num">' + esc(num) + '</span>' +
-      '<span class="fn-pop-body">' + esc(body || 'This footnote is not recorded.') + '</span>' +
+      '<span class="fn-pop-num">' + esc(head) + '</span>' +
+      '<span class="fn-pop-body">' + esc(body) + '</span>' +
       '<button type="button" class="fn-pop-close" aria-label="Close">&times;</button>';
     document.body.appendChild(pop);
 
@@ -416,14 +445,15 @@
   }
 
   document.addEventListener('click', function (ev) {
-    var ref = ev.target.closest && ev.target.closest('.fn-ref');
+    var ref = ev.target.closest && ev.target.closest('.fn-ref, .gl-ref');
     if (ref) { ev.preventDefault(); openPop(ref); return; }
     if (pop && !ev.target.closest('.fn-pop')) closePop();
   });
   document.addEventListener('keydown', function (ev) {
     if (ev.key === 'Escape') closePop();
     if ((ev.key === 'Enter' || ev.key === ' ') && ev.target.classList &&
-        ev.target.classList.contains('fn-ref')) {
+        (ev.target.classList.contains('fn-ref') ||
+         ev.target.classList.contains('gl-ref'))) {
       ev.preventDefault(); openPop(ev.target);
     }
   });
@@ -440,9 +470,13 @@
       fetchJSON('data/weeks.json'),
       fetchJSON('data/iqan_full_text.json'),
       fetchJSON('data/paragraph-links.json'),
-      fetchJSON('data/footnotes.json')
+      fetchJSON('data/footnotes.json'),
+      fetchJSON('data/glossary.json'),
+      fetchJSON('data/glossary-hits.json')
     ]).then(function (res) {
         FOOTNOTES = (res[3] && res[3].notes) || null;
+        GLOSSARY = (res[4] && res[4].entries) || null;
+        GLHITS = res[5] || null;
         var weeks = (res[0] && res[0].weeks) || [];
         // Flat { "27": "text", ... } map of the whole Book.
         var texts = res[1] || {};
