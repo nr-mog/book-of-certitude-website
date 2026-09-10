@@ -6,7 +6,7 @@ toc: false
 
 ::: {.lead}
 You are not expected to understand everything we read. If something in the paragraphs puzzled
-you, send it here and we can take it up together in the session.
+you, send it here and we can take it up together in the session. You can also submit a question for group discussion or anonymous feedback for me to improve the sessions.
 :::
 
 Your name is optional. Ask anonymously if you would rather.
