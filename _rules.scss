@@ -1,0 +1,1717 @@
+// Every rule in the site, written against the palette variables that
+// styles.scss (light) and styles-dark.scss (dark) each define before
+// importing this file. Nothing here should name a colour directly -
+// if you need a new one, add it to both palettes.
+
+body {
+  font-family: $font-family-serif;
+  font-feature-settings: "liga" 1, "kern" 1;
+  text-rendering: optimizeLegibility;
+}
+
+// --- Navbar -----------------------------------------------------------------
+// $nav-bg / $nav-fg rather than Bootstrap's $navbar-bg: Quarto reassigns that
+// one to $primary after the user defaults are read, which in the dark theme is
+// a light colour - so the bar came out pale. These names are ours alone.
+.navbar {
+  background-color: $nav-bg !important;
+  color: $nav-fg;
+  border-bottom: 3px solid $gold;
+
+  .navbar-title,
+  .nav-link,
+  .quarto-navbar-tools a,
+  .navbar-toggler { color: $nav-fg; }
+
+  .nav-link:hover,
+  .nav-link:focus,
+  .quarto-navbar-tools a:hover { color: $gold-soft; }
+
+  .navbar-title {
+    font-family: $font-family-serif;
+    font-size: 1.15rem;
+    letter-spacing: 0.01em;
+  }
+  .nav-link {
+    font-family: $font-family-sans-serif;
+    font-size: 0.82rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+}
+
+// --- Headings ---------------------------------------------------------------
+h1, .h1 {
+  font-size: 2.4rem;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.6rem;
+}
+
+h2, .h2 {
+  font-size: 1.6rem;
+  margin-top: 2.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid $rule;
+}
+
+h3, .h3 {
+  font-size: 1.3rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.5rem;
+  color: $ink;
+}
+
+// Subtitle under the page title
+.quarto-title .subtitle {
+  font-size: 1.15rem;
+  color: $ink-faint;
+  font-style: normal;
+  margin-top: 0.2rem;
+}
+
+// --- Eyebrow / kicker -------------------------------------------------------
+.kicker {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: $gold;
+  margin-bottom: 0.4rem;
+}
+
+// --- Pull quotes ------------------------------------------------------------
+blockquote, .quote {
+  border-left: 3px solid $gold-soft;
+  background: transparent;
+  padding: 0.1rem 0 0.1rem 1.4rem;
+  margin: 1.8rem 0;
+  font-size: 1.06rem;
+  color: $ink-soft;
+  font-style: italic;
+
+  p:last-child { margin-bottom: 0; }
+
+  cite, .attrib {
+    display: block;
+    margin-top: 0.6rem;
+    font-style: normal;
+    font-family: $font-family-sans-serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $ink-faint;
+  }
+}
+
+// --- Lead paragraph ---------------------------------------------------------
+.lead {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: $ink-soft;
+}
+
+// --- Schedule table ---------------------------------------------------------
+table {
+  font-size: 0.95rem;
+  width: 100%;
+  border-collapse: collapse;
+
+  thead th {
+    font-family: $font-family-sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: $ink-faint;
+    border-bottom: 2px solid $ink;
+    padding: 0.5rem 0.7rem;
+    text-align: left;
+    vertical-align: bottom;
+  }
+
+  tbody td {
+    padding: 0.62rem 0.7rem;
+    border-bottom: 1px solid $rule;
+    vertical-align: top;
+  }
+
+  tbody tr:hover { background: $row-hover; }
+}
+
+// Week number column
+td.wk, .wk {
+  font-family: $font-family-sans-serif;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: $gold;
+  width: 3.2rem;
+}
+
+// Paragraph-range cell
+.para {
+  font-family: $font-family-sans-serif;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.88rem;
+  white-space: nowrap;
+}
+
+
+// --- Callouts ---------------------------------------------------------------
+div.callout {
+  border-radius: 2px;
+  border-left-width: 3px;
+}
+
+// --- Slide download button --------------------------------------------------
+.btn-slides {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.6rem 1.15rem;
+  border: 1px solid $ink;
+  color: $ink;
+  background: transparent;
+  transition: background 0.15s ease, color 0.15s ease;
+  margin: 0.3rem 0.5rem 0.3rem 0;
+
+  &:hover { background: $ink; color: $parchment; }
+
+  &.primary {
+    background: $ink;
+    color: $parchment;
+    &:hover { background: $gold; border-color: $gold; }
+  }
+}
+
+// --- Card grid --------------------------------------------------------------
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1.1rem;
+  margin: 1.8rem 0;
+}
+
+.card-tile {
+  border: 1px solid $rule;
+  border-top: 3px solid $gold-soft;
+  padding: 1.15rem 1.25rem;
+  background: $surface;
+
+  h4 {
+    font-family: $font-family-serif;
+    font-size: 1.1rem;
+    margin: 0 0 0.4rem;
+  }
+
+  p {
+    font-size: 0.92rem;
+    color: $ink-soft;
+    margin: 0;
+  }
+}
+
+// --- Footer -----------------------------------------------------------------
+.nav-footer {
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem;
+  color: $ink-faint;
+  border-top: 1px solid $rule;
+  background: $parchment-2;
+}
+
+// This site sets only footer `center` in _quarto.yml, but Quarto still emits
+// the left and right regions containing `&nbsp;` — so they are not `:empty`
+// and cannot be selected as such. Combined with `flex-basis: 100%` on the
+// centre (below) and Quarto's `flex-flow: wrap`, those two placeholders were
+// being pushed onto a second row, padding the footer out at every width.
+//
+// If footer `left` or `right` are ever added, remove this rule.
+.nav-footer .nav-footer-left,
+.nav-footer .nav-footer-right {
+  display: none;
+}
+
+// --- Mobile -----------------------------------------------------------------
+@media (max-width: 767px) {
+  h1, .h1 { font-size: 1.85rem; }
+  h2, .h2 { font-size: 1.35rem; }
+
+  table { font-size: 0.88rem; }
+  table thead th, table tbody td { padding: 0.5rem 0.4rem; }
+
+  blockquote, .quote { padding-left: 1rem; font-size: 1rem; }
+}
+
+// --- Schedule table ---------------------------------------------------------
+// Three narrow columns, so cap the width rather than let it sprawl.
+// Pages using `page-layout: full` (currently the schedule) get a wider column
+// than the 820px body default, centred so the title and content align.
+main.content.column-page {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Sized to its contents and centred, rather than stretched across the page.
+table.schedule {
+  width: auto;
+  margin: 1.8rem auto 2.4rem;
+
+  th, td { padding-left: 0.9rem; padding-right: 0.9rem; }
+  th:first-child, td:first-child { padding-left: 0.2rem; }
+  th:last-child,  td:last-child  { padding-right: 0.2rem; }
+
+  td.para { font-variant-numeric: tabular-nums; }
+
+  td.date {
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+    color: $ink-soft;
+    font-size: 0.92rem;
+  }
+
+  td.para {
+    white-space: nowrap;
+    font-family: $font-family-sans-serif;
+    font-size: 0.85rem;
+    color: $ink-soft;
+  }
+}
+
+// Four columns will not fit a phone. The Materials buttons wrapped onto two
+// lines, "Start reading" dropped below the reading, and its underline read as
+// a broken row rule - so the horizontals looked ragged. Each week becomes a
+// stacked card instead, with exactly one rule beneath it.
+@media (max-width: 560px) {
+  table.schedule {
+    max-width: none;
+    width: 100%;
+    margin: 1.4rem 0 2.2rem;
+
+    thead { display: none; }
+
+    tbody, tbody tr, tbody td { display: block; }
+
+    tbody tr {
+      padding: 0.9rem 0 1rem;
+      border-bottom: 1px solid $rule;
+    }
+
+    tbody tr:last-child { border-bottom: none; }
+
+    tbody tr:hover { background: transparent; }
+
+    tbody td {
+      border: none;
+      padding: 0;
+    }
+
+    td.wk {
+      display: inline;
+      width: auto;
+      font-size: 0.7rem;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+
+      &::before { content: "Week "; }
+    }
+
+    td.date {
+      display: inline;
+      font-size: 0.82rem;
+
+      &::before { content: " · "; color: $ink-faint; }
+    }
+
+    td.para {
+      margin-top: 0.45rem;
+      font-size: 0.92rem;
+      white-space: normal;
+    }
+
+    td.mats {
+      display: block;
+      margin-top: 0.55rem;
+      padding-top: 0;
+      white-space: normal;
+    }
+  }
+}
+
+// --- Break / pending rows in the schedule -----------------------------------
+table.schedule tbody tr.break-row {
+  td { color: $ink-faint; }
+
+  td.wk { color: $ink-faint; font-weight: 400; }
+
+  td.para {
+    font-style: italic;
+    font-family: $font-family-serif;
+    font-size: 0.92rem;
+    letter-spacing: 0.01em;
+  }
+}
+
+table.schedule td.para.tbd {
+  color: $ink-faint;
+  font-style: italic;
+  font-family: $font-family-serif;
+  font-size: 0.92rem;
+}
+
+// --- Scripture emphasis -----------------------------------------------------
+// For sections quoting a Central Figure. The surrounding prose steps back and
+// the quotation steps forward, so the quoted words carry the section. No
+// attribution line: the heading already names the author.
+.scripture {
+  margin: 1.1rem 0 2rem;
+
+  // Framing prose, deliberately quieter than the body default
+  > p {
+    font-size: 0.94rem;
+    line-height: 1.6;
+    color: $ink-faint;
+  }
+
+  blockquote {
+    border-left: 3px solid $gold-soft;
+    margin: 1.25rem 0;
+    padding: 0.15rem 0 0.15rem 1.4rem;
+
+    // Larger and bolder than body text, and upright rather than italic —
+    // italics at this weight and size fight legibility.
+    font-size: 1.16rem;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.45;
+    color: $ink;
+
+    p:last-child { margin-bottom: 0; }
+  }
+}
+
+// --- Personal accounts ------------------------------------------------------
+// Keeps the italic treatment and the attribution line, since these come from
+// many different voices.
+.accounts {
+  margin: 1.1rem 0 2rem;
+
+  blockquote {
+    font-style: italic;
+    font-size: 1.06rem;
+    font-weight: 400;
+    color: $ink-soft;
+
+    .attrib {
+      display: block;
+      margin-top: 0.6rem;
+      font-style: normal;
+      font-family: $font-family-sans-serif;
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: $ink-faint;
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  .scripture blockquote { font-size: 1.06rem; padding-left: 1rem; }
+  .accounts  blockquote { font-size: 1rem;    padding-left: 1rem; }
+}
+
+// --- Witness quotations -----------------------------------------------------
+// Used on the Context page, where the narrative leads and the quotation
+// supports it — so these stay close to body size and upright, unlike the
+// enlarged .scripture blocks on the home page. The voices vary, so each
+// carries a small attribution line.
+.witness {
+  margin: 1.1rem 0 1.6rem;
+
+  blockquote {
+    border-left: 3px solid $gold-soft;
+    margin: 0;
+    padding: 0.15rem 0 0.15rem 1.2rem;
+    font-size: 1.02rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.55;
+    color: $ink-soft;
+
+    p:last-child { margin-bottom: 0; }
+
+    .attrib {
+      display: block;
+      margin-top: 0.55rem;
+      font-family: $font-family-sans-serif;
+      font-size: 0.74rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: $ink-faint;
+
+      a { color: inherit; text-decoration-color: $gold-soft; }
+      a:hover { color: $gold; }
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  .witness blockquote { font-size: 0.98rem; padding-left: 1rem; }
+}
+
+// --- Plates -----------------------------------------------------------------
+// A landscape figure - a map or diagram - centred and capped so it does not
+// run the full width of a page-layout: full page. Shares the caption
+// treatment with .manuscript.
+.plate {
+  margin: 1.6rem auto 1.8rem;
+  max-width: 42rem;
+
+  figure { margin: 0; }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  figcaption,
+  .figure-caption {
+    margin-top: 0.6rem;
+    font-family: $font-family-sans-serif;
+    font-size: 0.76rem;
+    line-height: 1.5;
+    color: $ink-faint;
+    text-align: center;
+  }
+}
+
+// --- Manuscript facsimile ---------------------------------------------------
+// A page image, centred and held well short of the body width so the script
+// stays legible without dominating the page.
+.manuscript {
+  margin: 2.2rem auto 0.5rem;
+  max-width: 24rem;
+
+  figure { margin: 0; }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid $rule;
+    background: $image-mat;
+  }
+
+  figcaption,
+  .figure-caption {
+    margin-top: 0.7rem;
+    font-family: $font-family-sans-serif;
+    font-size: 0.76rem;
+    line-height: 1.5;
+    color: $ink-faint;
+    text-align: center;
+  }
+}
+
+// --- Questions list ---------------------------------------------------------
+.questions-list {
+  margin: 1.3rem 0 2rem;
+
+  ol { padding-left: 0; list-style: none; counter-reset: q; }
+
+  li {
+    counter-increment: q;
+    position: relative;
+    padding-left: 2.6rem;
+    margin-bottom: 1rem;
+    color: $ink-soft;
+  }
+
+  li::before {
+    content: counter(q);
+    position: absolute;
+    left: 0;
+    top: 0.1rem;
+    width: 1.75rem;
+    height: 1.75rem;
+    line-height: 1.65rem;
+    text-align: center;
+    border: 1px solid $gold-soft;
+    border-radius: 50%;
+    font-family: $font-family-sans-serif;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: $gold;
+  }
+
+  li strong { color: $ink; }
+}
+
+// --- Source note ------------------------------------------------------------
+.source-note {
+  margin-top: 2rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid $rule;
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem;
+  color: $ink-faint;
+}
+
+// --- Footer quote -----------------------------------------------------------
+.nav-footer {
+  .nav-footer-center { flex-basis: 100%; }
+
+  p {
+    margin: 0.2rem auto;
+    max-width: 44rem;
+    font-family: $font-family-serif;
+    font-size: 0.92rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: $ink-soft;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+}
+
+// --- Long-form passages -----------------------------------------------------
+// Same gold rule and slight size step-up as .scripture, but normal weight:
+// semibold reads well for a two-line pull-quote and poorly across 400 words.
+.passage {
+  margin: 1.1rem 0 2rem;
+
+  > p {
+    font-size: 0.94rem;
+    line-height: 1.6;
+    color: $ink-faint;
+  }
+
+  blockquote {
+    border-left: 3px solid $gold-soft;
+    margin: 1.25rem 0;
+    padding: 0.15rem 0 0.15rem 1.4rem;
+    font-size: 1.04rem;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.62;
+    color: $ink;
+
+    p:last-child { margin-bottom: 0; }
+  }
+}
+
+@media (max-width: 640px) {
+  .passage blockquote { font-size: 0.98rem; padding-left: 1rem; }
+}
+
+// --- Footer -----------------------------------------------------------------
+// Quarto sets `min-height: 3.5em` on .nav-footer and `3em` on the centre
+// region, which leaves a single line of text floating in a tall band. Reset
+// both and let padding set the height.
+.nav-footer,
+.nav-footer .nav-footer-center {
+  min-height: 0;
+}
+
+.nav-footer {
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+  align-items: center;
+}
+
+// Below 768px Quarto also adds `.nav-footer-center { margin-top: 3em }`.
+@media (max-width: 767.98px) {
+  .nav-footer .nav-footer-center {
+    margin-top: 0;
+    margin-bottom: 0;
+    order: 0;
+  }
+
+  .nav-footer {
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+  }
+
+  .nav-footer p {
+    font-size: 0.88rem;
+    margin: 0;
+  }
+}
+
+// --- Timeline ---------------------------------------------------------------
+.timeline {
+  margin: 1.5rem 0 1.8rem;
+
+  ul { list-style: none; padding-left: 0; margin: 0; }
+
+  li {
+    position: relative;
+    padding-left: 1.6rem;
+    padding-bottom: 0.85rem;
+    margin: 0;
+    color: $ink-soft;
+    font-size: 0.96rem;
+    line-height: 1.55;
+
+    // Connecting rule
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0.3rem;
+      top: 0.75rem;
+      bottom: -0.1rem;
+      width: 1px;
+      background: $rule;
+    }
+
+    &:last-child {
+      padding-bottom: 0;
+      &::after { display: none; }
+    }
+
+    // Node
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.5rem;
+      width: 0.62rem;
+      height: 0.62rem;
+      border-radius: 50%;
+      background: $parchment;
+      border: 2px solid $gold-soft;
+      z-index: 1;
+    }
+  }
+
+  li strong {
+    color: $ink;
+    font-family: $font-family-sans-serif;
+    font-size: 0.82rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    display: block;
+    margin-bottom: 0.1rem;
+  }
+}
+
+// --- Margin citations -------------------------------------------------------
+// `reference-location: margin` puts footnote bodies in the right margin beside
+// the quote they belong to. Set them in the sans face so they read as
+// apparatus rather than as more of the quotation.
+.column-margin {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: $ink-faint;
+
+  p { margin-bottom: 0.5rem; }
+
+  sup {
+    color: $gold;
+    font-weight: 600;
+    margin-right: 0.1rem;
+  }
+
+  em { font-style: italic; }
+
+  a {
+    color: $ink-faint;
+    text-decoration: underline;
+    text-decoration-color: $gold-soft;
+    text-underline-offset: 2px;
+
+    &:hover { color: $gold; }
+  }
+}
+
+// The in-text reference marker
+.footnote-ref,
+a[role="doc-noteref"] {
+  color: $gold;
+  font-weight: 600;
+  text-decoration: none;
+  padding-left: 0.05rem;
+
+  &:hover { color: $ink; }
+}
+
+// Below Quarto's margin breakpoint the note is placed inline after the block.
+// Give it a rule so it reads as a citation rather than stray text.
+@media (max-width: 991.98px) {
+  .column-margin {
+    margin: 0.4rem 0 1.4rem;
+    padding-left: 1.4rem;
+    border-left: 1px solid $rule;
+    font-size: 0.76rem;
+  }
+}
+
+// --- Left TOC ---------------------------------------------------------------
+#TOC {
+  font-family: $font-family-sans-serif;
+  font-size: 0.76rem;
+
+  .toc-actions { display: none; }
+
+  a {
+    color: $ink-faint;
+    &:hover { color: $gold; }
+  }
+
+  .active { color: $gold !important; }
+}
+
+// --- Materials column -------------------------------------------------------
+table.schedule td.mats {
+  white-space: nowrap;
+  padding-top: 0.5rem;
+}
+
+a.mat {
+  display: inline-block;
+  font-family: $font-family-sans-serif;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: $ink-soft;
+  border: 1px solid $rule;
+  padding: 0.22rem 0.55rem;
+  margin: 0 0.28rem 0.2rem 0;
+  transition: background 0.14s ease, color 0.14s ease, border-color 0.14s ease;
+
+  &:hover {
+    background: $ink;
+    border-color: $ink;
+    color: $parchment;
+  }
+}
+
+@media (max-width: 560px) {
+  a.mat { font-size: 0.64rem; }
+}
+
+// --- Question form ----------------------------------------------------------
+.ask-form {
+  max-width: 34rem;
+  margin: 1.8rem 0 1rem;
+
+  .field { margin-bottom: 1.25rem; }
+
+  label {
+    display: block;
+    font-family: $font-family-sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: $ink-soft;
+    margin-bottom: 0.4rem;
+  }
+
+  .opt {
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: none;
+    color: $ink-faint;
+    font-style: italic;
+    margin-left: 0.35rem;
+  }
+
+  input[type="text"],
+  textarea {
+    display: block;
+    width: 100%;
+    font-family: $font-family-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: $ink;
+    background: $surface;
+    border: 1px solid $rule;
+    border-radius: 0;
+    padding: 0.6rem 0.75rem;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+
+    &::placeholder { color: $ink-faint; font-style: italic; }
+
+    &:focus {
+      outline: none;
+      border-color: $gold;
+      box-shadow: 0 0 0 3px $gold-ring;
+    }
+  }
+
+  textarea { resize: vertical; min-height: 8rem; }
+
+  button[type="submit"] {
+    cursor: pointer;
+
+    &:disabled { opacity: 0.55; cursor: default; }
+  }
+}
+
+.form-status {
+  font-family: $font-family-sans-serif;
+  font-size: 0.82rem;
+  margin: 0.9rem 0 0;
+  min-height: 1.2rem;
+  color: $ink-faint;
+
+  &.ok  { color: $gold; font-weight: 500; }
+  &.err { color: $danger; }
+}
+
+// --- Personal notes ---------------------------------------------------------
+// One source of truth for the passage/note split, so the part dividers can
+// centre themselves over the passage column rather than the whole width.
+:root {
+  --note-col: 21rem;
+  --note-gap: 1.8rem;
+}
+
+.notes-intro {
+  font-size: 0.9rem;
+  color: $ink-faint;
+  border-left: 2px solid $rule;
+  padding-left: 0.9rem;
+  margin: 1.1rem 0 1.6rem;
+}
+
+// Quarto tags this container `page-columns` on a full-layout page and makes it
+// a grid, which places the part headings into one of its narrow named tracks.
+// The rows and headings manage their own widths, so keep it a plain block.
+.paragraph-notes,
+.paragraph-notes.page-columns {
+  display: block;
+  grid-template-columns: none;
+  margin: 1.4rem 0 2rem;
+}
+
+.note-empty {
+  font-size: 0.92rem;
+  font-style: italic;
+  color: $ink-faint;
+}
+
+// Passage on the left, the reader's note in the margin on the right.
+// Flex rather than grid, and stated twice on purpose.
+//
+// On `page-layout: full`, Quarto's own layout pass tags block elements in the
+// rendered HTML with `page-columns`, which sets `display: grid` and a named
+// column template. It never touched these rows while they were built by
+// JavaScript; now that the Read page ships them as static HTML, all 290 get
+// tagged. `.note-row.page-columns` outranks `.page-columns` on specificity,
+// so this holds regardless of stylesheet order.
+.note-row,
+.note-row.page-columns {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--note-gap);
+  padding: 1rem 0 1.1rem;
+  border-bottom: 1px solid rgba($rule, 0.6);
+
+  // Undo Quarto's grid template so the two children lay out as flex items.
+  grid-template-columns: none;
+
+  &:last-child { border-bottom: none; }
+}
+
+.note-main {
+  position: relative;
+  padding-left: 2.6rem;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.note-num {
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  width: 2rem;
+  text-align: right;
+  font-family: $font-family-sans-serif;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: $ink-faint;
+  transition: color 0.15s ease;
+
+  &::before { content: "¶"; margin-right: 0.15rem; font-weight: 400; }
+}
+
+a.note-num {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+
+  &:hover { color: $gold; border-bottom-color: $gold-soft; }
+}
+
+.note-row.has-note .note-num { color: $gold; }
+
+// The passage itself. Upright, not italic - this is the text, not a quotation.
+.note-text {
+  font-family: $font-family-serif;
+  font-style: normal;
+  font-size: 1rem;
+  line-height: 1.68;
+  color: $ink;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+// --- The note column --------------------------------------------------------
+.note-side {
+  flex: 0 0 var(--note-col);
+  border-left: 2px solid $rule;
+  padding-left: 0.9rem;
+}
+
+.note-row.has-note .note-side { border-left-color: $gold-soft; }
+
+.note-input {
+  display: block;
+  width: 100%;
+  font-family: $font-family-serif;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: $ink;
+  background: $surface;
+  border: 1px solid $rule;
+  border-radius: 0;
+  padding: 0.3rem 0.4rem;
+  resize: none;
+  overflow: hidden;
+  transition: background 0.15s ease, border-color 0.15s ease;
+
+  &::placeholder { color: rgba($ink-faint, 0.6); font-style: italic; }
+  &:hover { border-color: $gold-soft; }
+
+  &:focus {
+    outline: none;
+    background: $surface-strong;
+    border-color: $gold;
+    box-shadow: 0 0 0 3px $gold-ring;
+  }
+}
+
+.note-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin-top: 0.35rem;
+  min-height: 1.5rem;
+}
+
+.note-saved {
+  font-family: $font-family-sans-serif;
+  font-size: 0.6rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $gold;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+
+  &.show { opacity: 1; }
+  &.err  { color: $danger; }
+}
+
+// --- Footnote references ----------------------------------------------------
+sup.fn-ref {
+  font-family: $font-family-sans-serif;
+  font-size: 0.58em;
+  font-weight: 600;
+  color: $gold;
+  cursor: pointer;
+  padding: 0 0.1em;
+  vertical-align: super;
+  line-height: 0;
+  transition: color 0.12s ease;
+
+  &:hover, &:focus { color: $ink; outline: none; text-decoration: underline; }
+  &.fn-missing { color: $ink-faint; }
+}
+
+.fn-pop {
+  position: absolute;
+  z-index: 400;
+  max-width: 22rem;
+  background: $parchment;
+  border: 1px solid $gold-soft;
+  box-shadow: 0 6px 22px $shadow;
+  padding: 0.7rem 2rem 0.75rem 0.85rem;
+  font-family: $font-family-serif;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: $ink;
+}
+
+.fn-pop-num {
+  font-family: $font-family-sans-serif;
+  font-size: 0.64rem;
+  font-weight: 600;
+  color: $gold;
+  margin-right: 0.45rem;
+}
+
+.fn-pop-close {
+  position: absolute;
+  top: 0.25rem;
+  right: 0.4rem;
+  border: none;
+  background: none;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: $ink-faint;
+  cursor: pointer;
+
+  &:hover { color: $ink; }
+}
+
+// --- Glossary terms ---------------------------------------------------------
+// Marked in the passage text and opened in the same popover as a footnote.
+// A dotted underline rather than the footnote's raised numeral: these are
+// words in the sentence, so they must stay readable as prose.
+.gl-ref {
+  border-bottom: 1px dotted $gold-soft;
+  cursor: pointer;
+  transition: border-color 0.12s ease, background-color 0.12s ease;
+
+  &:hover, &:focus {
+    outline: none;
+    border-bottom-color: $gold;
+    background: $gold-tint;
+  }
+}
+
+// The heading is a term rather than a number, so it needs room to breathe.
+.gl-pop .fn-pop-num {
+  display: block;
+  margin: 0 0 0.3rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+// --- My notes page ----------------------------------------------------------
+h3.notes-group {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $gold;
+  margin: 2rem 0 0.4rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid $rule;
+}
+
+.notes-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem;
+  margin: 1.6rem 0 0.9rem;
+
+  label.btn-slides { cursor: pointer; }
+
+  .btn-slides.danger {
+    border-color: $danger-border;
+    color: $danger;
+
+    &:hover { background: $danger; border-color: $danger; color: $parchment; }
+  }
+}
+
+.notes-count {
+  font-family: $font-family-sans-serif;
+  font-size: 0.76rem;
+  color: $ink-faint;
+  margin: 0 0 1.4rem;
+}
+
+// Stack the note under the passage once there is no room beside it.
+@media (max-width: 900px) {
+  .note-row,
+  .note-row.page-columns {
+    display: block;
+  }
+
+  .note-side {
+    flex: none;
+    border-left: none;
+    border-top: 1px solid $rule;
+    padding-left: 0;
+    padding-top: 0.6rem;
+    margin-top: 0.7rem;
+    margin-left: 2.6rem;
+  }
+
+  .note-row.has-note .note-side { border-top-color: $gold-soft; }
+}
+
+// On a narrow screen the paragraph number moves inline, above the passage,
+// rather than sitting in a left gutter. That frees the passage to use the full
+// column with equal margins either side, and lets the part headings line up
+// with it instead of running edge to edge.
+@media (max-width: 560px) {
+  .paragraph-notes { padding: 0 1.1rem; }
+
+  .note-main { padding-left: 0; }
+
+  .note-num {
+    position: static;
+    display: inline-block;
+    width: auto;
+    text-align: left;
+    margin-bottom: 0.4rem;
+    font-size: 0.68rem;
+  }
+
+  .note-side { margin-left: 0; }
+
+  .struct { padding-left: 0; }
+
+  .note-text { font-size: 0.96rem; }
+
+  .fn-pop { max-width: calc(100vw - 2rem); }
+}
+
+// --- My notes page ----------------------------------------------------------
+h3.notes-group {
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $gold;
+  margin: 2rem 0 0.4rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid $rule;
+}
+
+.notes-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem;
+  margin: 1.6rem 0 0.9rem;
+
+  label.btn-slides { cursor: pointer; }
+
+  .btn-slides.danger {
+    border-color: $danger-border;
+    color: $danger;
+
+    &:hover { background: $danger; border-color: $danger; color: $parchment; }
+  }
+}
+
+.notes-count {
+  font-family: $font-family-sans-serif;
+  font-size: 0.76rem;
+  color: $ink-faint;
+  margin: 0 0 1.4rem;
+}
+
+
+// --- Ask about this paragraph -----------------------------------------------
+.note-ask {
+  margin-top: 0.35rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  min-height: 1.4rem;
+}
+
+.ask-btn {
+  font-family: $font-family-sans-serif;
+  font-size: 0.64rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  background: transparent;
+  border: 1px solid transparent;
+  padding: 0.15rem 0.4rem;
+  cursor: pointer;
+  transition: color 0.14s ease, border-color 0.14s ease;
+
+  &:hover { color: $gold; border-color: $rule; }
+}
+
+// The paste targets only appear once the prompt is on the clipboard.
+.ask-targets {
+  display: none;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.66rem;
+}
+
+.note-ask.copied {
+  .ask-targets { display: inline-flex; }
+  .ask-btn { color: $gold; }
+}
+
+.ask-copied {
+  color: $gold;
+  letter-spacing: 0.04em;
+}
+
+.ask-targets a {
+  color: $ink-soft;
+  text-decoration: underline;
+  text-decoration-color: $gold-soft;
+  text-underline-offset: 2px;
+
+  &:hover { color: $gold; }
+}
+
+@media (max-width: 560px) {
+  .ask-btn { font-size: 0.6rem; }
+  .ask-targets { font-size: 0.62rem; }
+}
+
+// --- Add a note form --------------------------------------------------------
+.add-note-form {
+  margin: 1.3rem 0 2rem;
+
+  .add-note-row {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .field-num  { flex: 0 0 6.5rem; }
+  .field-text { flex: 1 1 auto; }
+
+  label {
+    display: block;
+    font-family: $font-family-sans-serif;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: $ink-soft;
+    margin-bottom: 0.35rem;
+  }
+
+  input[type="number"],
+  textarea {
+    display: block;
+    width: 100%;
+    font-family: $font-family-serif;
+    font-size: 0.96rem;
+    line-height: 1.5;
+    color: $ink;
+    background: $surface;
+    border: 1px solid $rule;
+    border-radius: 0;
+    padding: 0.45rem 0.6rem;
+
+    &::placeholder { color: $ink-faint; font-style: italic; }
+
+    &:focus {
+      outline: none;
+      border-color: $gold;
+      box-shadow: 0 0 0 3px $gold-ring;
+    }
+  }
+
+  input[type="number"] { font-variant-numeric: tabular-nums; }
+  textarea { resize: vertical; }
+
+  button[type="submit"] { margin-top: 0.9rem; cursor: pointer; }
+}
+
+// Paragraph number as a link out to bahai.org
+a.note-num {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+
+  &:hover {
+    color: $gold;
+    border-bottom-color: $gold-soft;
+  }
+}
+
+.send-btn { margin-right: 0.1rem; }
+
+@media (max-width: 560px) {
+  .add-note-form .add-note-row {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+  .add-note-form .field-num { flex: 1 1 auto; width: 7rem; }
+}
+
+// --- Glossary ---------------------------------------------------------------
+.gloss-section { margin-bottom: 2.6rem; }
+
+.gloss-blurb {
+  font-size: 0.94rem;
+  color: $ink-faint;
+  max-width: 40rem;
+  margin-bottom: 1.4rem;
+}
+
+.gloss-section dl { margin: 0; }
+
+.gloss-section dt {
+  font-family: $font-family-serif;
+  font-size: 1.06rem;
+  font-weight: 600;
+  color: $ink;
+  margin-top: 1.15rem;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.gloss-section dd {
+  margin: 0.2rem 0 0;
+  padding-left: 0;
+  font-size: 0.97rem;
+  line-height: 1.6;
+  color: $ink-soft;
+  max-width: 42rem;
+}
+
+.g-ref, .p-ref {
+  font-family: $font-family-sans-serif;
+  font-size: 0.66rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  color: $ink-faint;
+  font-variant-numeric: tabular-nums;
+}
+
+// --- People -----------------------------------------------------------------
+.people-section { margin-bottom: 2.4rem; }
+
+details.person {
+  border-bottom: 1px solid $rule;
+
+  &[open] { background: $surface; }
+
+  summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.75rem 0.6rem 0.75rem 1.5rem;
+    position: relative;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+    transition: color 0.14s ease;
+
+    &::-webkit-details-marker { display: none; }
+
+    // Disclosure triangle
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0.35rem;
+      top: 1.15rem;
+      width: 0;
+      height: 0;
+      border-left: 5px solid $gold-soft;
+      border-top: 4px solid transparent;
+      border-bottom: 4px solid transparent;
+      transition: transform 0.16s ease;
+    }
+
+    &:hover .p-name { color: $gold; }
+  }
+
+  &[open] > summary::before { transform: rotate(90deg); }
+}
+
+.p-name {
+  font-family: $font-family-serif;
+  font-size: 1.06rem;
+  font-weight: 600;
+  color: $ink;
+}
+
+.p-role {
+  font-family: $font-family-sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: $ink-faint;
+}
+
+.p-body {
+  padding: 0 0.6rem 1rem 1.5rem;
+  max-width: 44rem;
+
+  p { font-size: 0.97rem; line-height: 1.62; color: $ink-soft; margin-bottom: 0.5rem; }
+  p.p-refs { margin: 0.5rem 0 0; }
+}
+
+@media (max-width: 560px) {
+  .gloss-section dt, .p-name { font-size: 1rem; }
+  details.person summary { padding-left: 1.3rem; }
+  .p-body { padding-left: 1.3rem; }
+}
+
+// --- Text attribution -------------------------------------------------------
+.attribution {
+  font-family: $font-family-sans-serif;
+  font-size: 0.76rem;
+  line-height: 1.55;
+  color: $ink-faint;
+  border-left: 2px solid $gold-soft;
+  padding: 0.15rem 0 0.15rem 0.9rem;
+  margin: 1.2rem 0 1.5rem;
+  max-width: 40rem;
+
+  a { color: $ink-soft; text-decoration-color: $gold-soft; }
+  a:hover { color: $gold; }
+}
+
+// --- Part divisions and the opening invocation ------------------------------
+.struct {
+  padding-left: 2.6rem;
+  margin-right: calc(var(--note-col) + var(--note-gap));
+  text-align: center;
+}
+
+.part-label {
+  font-family: $font-family-serif;
+  font-size: 1.5rem;
+  color: $ink;
+  margin-top: 2.8rem;
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid $rule;
+
+  &:first-child { margin-top: 0.5rem; }
+}
+
+.invocation {
+  font-family: $font-family-serif;
+  font-size: 0.94rem;
+  letter-spacing: 0.09em;
+  color: $ink-soft;
+  margin-top: 1.6rem;
+  margin-bottom: 2.2rem;
+}
+
+.part-end {
+  font-family: $font-family-sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  color: $gold;
+  margin-top: 2.2rem;
+  margin-bottom: 0.6rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid $rule;
+}
+
+@media (max-width: 900px) {
+  .struct { margin-right: 0; }
+}
+
+@media (max-width: 560px) {
+  .part-label { font-size: 1.3rem; }
+}
+
+// --- Start reading ----------------------------------------------------------
+a.start-reading {
+  display: inline-block;
+  margin-left: 0.7rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.62rem;
+  font-weight: 500;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  color: $ink-faint;
+  border-bottom: 1px solid $rule;
+  padding-bottom: 1px;
+  transition: color 0.14s ease, border-color 0.14s ease;
+
+  &:hover { color: $gold; border-bottom-color: $gold-soft; }
+}
+
+// Must follow the base rule above: same specificity, so source order decides.
+// A grey bottom border reads as a stray row rule once the schedule becomes
+// stacked cards on a phone.
+@media (max-width: 560px) {
+  a.start-reading {
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration-color: $gold-soft;
+    text-underline-offset: 3px;
+  }
+}
+
+// Anchored paragraphs must clear the fixed navbar.
+.note-row { scroll-margin-top: 5rem; }
+
+// Brief highlight so an arriving reader can see where they landed.
+.note-row.landed .note-text {
+  background: $gold-tint;
+  box-shadow: 0 0 0 0.4rem $gold-tint;
+  transition: background 0.6s ease, box-shadow 0.6s ease;
+}
+
+// --- Further resources ------------------------------------------------------
+.optional-note {
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  color: $ink-faint;
+  margin: 0.6rem 0 1.4rem;
+}
+
+.resources {
+  h3 {
+    font-family: $font-family-sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: $gold;
+    margin: 1.6rem 0 0.5rem;
+  }
+
+  ul { list-style: none; padding-left: 0; margin: 0; }
+
+  li {
+    position: relative;
+    padding-left: 1.1rem;
+    margin-bottom: 0.55rem;
+    font-size: 0.97rem;
+    color: $ink-soft;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.62em;
+      width: 0.38rem;
+      height: 0.38rem;
+      border: 1px solid $gold-soft;
+      border-radius: 50%;
+    }
+  }
+
+  a {
+    color: $ink;
+    text-decoration: underline;
+    text-decoration-color: $gold-soft;
+    text-underline-offset: 2px;
+
+    &:hover { color: $gold; }
+  }
+}
+
+// --- Handout download -------------------------------------------------------
+.handout-actions {
+  margin: 0 0 1.4rem;
+}
+
+a.btn-pdf {
+  display: inline-block;
+  font-family: $font-family-sans-serif;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: $ink-soft;
+  border: 1px solid $rule;
+  padding: 0.28rem 0.65rem;
+  transition: background 0.14s ease, color 0.14s ease, border-color 0.14s ease;
+
+  &:hover, &:focus {
+    background: $ink;
+    border-color: $ink;
+    color: $parchment;
+  }
+}
+
+// --- Print ------------------------------------------------------------------
+// Also what the published handout PDFs are made of: the GitHub Action drives
+// each week page through headless Chrome, which applies these rules. So this
+// is the layout of the PDF itself, not only of a reader's printout.
+//
+// Kept last in the file on purpose. A media query adds no specificity, so any
+// base rule appearing after these would win on source order.
+@media print {
+  .navbar,
+  .nav-footer,
+  #quarto-sidebar,
+  #TOC,
+  nav[role="doc-toc"],
+  .handout-actions,
+  .notes-intro,
+  .note-side,
+  .note-ask,
+  .note-bar,
+  .note-input,
+  .ask-targets,
+  .note-empty {
+    display: none !important;
+  }
+
+  // With the note column gone the passage takes the full measure.
+  .note-row,
+  .note-row.page-columns {
+    display: block;
+    padding: 0.35rem 0 0.5rem;
+    border-bottom: none;
+    break-inside: avoid;
+  }
+
+  .note-main { padding-left: 2.2rem; }
+
+  .struct {
+    margin-right: 0;
+    break-after: avoid;
+  }
+
+  // A dotted term invites a click, which paper cannot honour.
+  .gl-ref { border-bottom: none; }
+
+  // Paper is always paper - a reader in dark mode would otherwise print
+  // pale text onto a white page.
+  body {
+    background: $print-bg;
+    color: $print-ink;
+    font-size: 10.5pt;
+  }
+
+  h1, h2, h3, h4, h5, h6,
+  p, li, td, th, blockquote,
+  .lead, .note-text, .struct, .gl-ref, sup.fn-ref { color: $print-ink; }
+
+  .note-num, .attrib, .source-note, figcaption, .figure-caption { color: $print-faint; }
+
+  h1, h2, h3 { break-after: avoid; }
+
+  .witness { break-inside: avoid; }
+  .plate   { break-inside: avoid; }
+  .questions-list li { break-inside: avoid; }
+
+  a { text-decoration: none; color: inherit; }
+}

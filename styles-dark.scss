@@ -1,0 +1,54 @@
+/*-- scss:defaults --*/
+
+// The same design after dark: the parchment becomes a warm near-black, the
+// ink becomes the light on it, and the gold is lifted so it still reads as a
+// link. Every variable here answers one in styles.scss - keep the two in step.
+$parchment:   #1a1815;
+$parchment-2: #232019;
+$ink:         #ece5d6;
+$ink-soft:    #c5bda9;
+$ink-faint:   #8d8675;
+$gold:        #d2b169;
+$gold-soft:   #7d6a3c;
+$rule:        #332f26;
+
+// White veils would glare here, so the raised surfaces are barely-there
+// lightenings instead, and the shadow gets darker rather than softer.
+$surface:        rgba(255, 255, 255, 0.035);
+$surface-strong: rgba(255, 255, 255, 0.06);
+$shadow:         rgba(0, 0, 0, 0.55);
+$gold-tint:      rgba(210, 177, 105, 0.16);
+$gold-ring:      rgba(210, 177, 105, 0.28);
+$row-hover:      rgba(210, 177, 105, 0.07);
+$danger:         #e79a9a;
+$danger-border:  rgba(231, 154, 154, 0.45);
+// A mat for scanned pages: full white would be a torch on a dark page.
+$image-mat:      #e6e1d4;
+
+$body-bg:     $parchment;
+$body-color:  $ink;
+$link-color:  $gold;
+$primary:     $ink;
+
+$navbar-bg: #100f0b;
+$navbar-fg: $ink;
+$nav-bg: #100f0b;
+$nav-fg: $ink;
+
+$toc-color: $ink-faint;
+
+// Paper is always paper: the print rules use these, not the theme colours.
+$print-bg:    #fff;
+$print-ink:   #1c2331;
+$print-faint: #5a5a5a;
+
+@import "defaults-base";
+
+/*-- scss:rules --*/
+
+@import "rules";
+
+// Black-on-white scans are lit like a lamp against this background; take the
+// glare off without washing out the script.
+.manuscript img,
+.plate img { filter: unquote("brightness(0.9) contrast(1.04)"); }  // quoted: Bootstrap defines a contrast() Sass function

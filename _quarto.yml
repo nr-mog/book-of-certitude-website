@@ -39,8 +39,12 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - styles.scss
+      light:
+        - cosmo
+        - styles.scss
+      dark:
+        - cosmo
+        - styles-dark.scss
     toc: true
     toc-depth: 3
     toc-title: On this page
