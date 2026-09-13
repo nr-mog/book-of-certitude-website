@@ -27,6 +27,37 @@ body {
   .nav-link:focus,
   .quarto-navbar-tools a:hover { color: $gold-soft; }
 
+  // Quarto bakes the colour of the search and scheme-toggle icons from
+  // $navbar-fg, which it derives from the $primary it has already put in
+  // $navbar-bg. In the dark theme that came out as the page's own near-black,
+  // drawn on a near-black bar - invisible. Pin them to $nav-fg instead.
+  #quarto-search svg.aa-SubmitIcon,
+  #quarto-search .aa-Form .aa-Label svg,
+  #quarto-search .aa-Form .aa-LoadingIndicator svg,
+  #quarto-search .aa-DetachedSearchButtonIcon svg,
+  .quarto-navigation-tool { color: $nav-fg !important; }
+
+  // A sun and a moon instead of Quarto's toggle switch: it says what the
+  // button does rather than that it is a switch. Drawn as a Bootstrap Icons
+  // glyph rather than a baked-in SVG, so it simply takes $nav-fg.
+  .quarto-color-scheme-toggle .bi::before {
+    background-image: none !important;
+    font-family: "bootstrap-icons";
+    font-size: 1rem;
+    line-height: 1;
+    width: auto;
+    height: auto;
+    vertical-align: -0.125em;
+    color: $nav-fg;
+    content: "\f494";            // moon - press to go dark
+  }
+
+  .quarto-color-scheme-toggle.alternate .bi::before {
+    content: "\f5a1";            // sun - press to come back
+  }
+
+  .quarto-color-scheme-toggle:hover .bi::before { color: $gold-soft; }
+
   .navbar-title {
     font-family: $font-family-serif;
     font-size: 1.15rem;
