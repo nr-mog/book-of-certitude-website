@@ -16,6 +16,20 @@ page-layout: full
 <div class="note-row passage-row" data-p="2"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p2" title="Paragraph 2 in the full text">2</a></div><div class="note-text">The essence of these words is this: they that tread the path of faith, they that thirst for the wine of certitude, must cleanse themselves of all that is earthly—their ears from idle talk, their minds from vain imaginings, their hearts from worldly affections, their eyes from that which perisheth. They should put their trust in God, and, holding fast unto Him, follow in His way. Then will they be made worthy of the effulgent glories of the sun of divine knowledge and understanding, and become the recipients of a grace that is infinite and unseen, inasmuch as man can never hope to attain unto the knowledge of the All-Glorious, can never quaff from the stream of divine knowledge and wisdom, can never enter the abode of immortality, nor partake of the cup of divine nearness and favor, unless and until he ceases to regard the words and deeds of mortal men as a standard for the true understanding and recognition of God and His Prophets.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 2" placeholder="Your note on paragraph 2…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
 ```
 
+1. Bahá'u'lláh claims that walking a path of faith requires certain qualities in order to lead the seeker to a true understanding and recognition of God and His Prophets. Specifically we must cleanse our ears, our minds, our hearts and our eyes from earthly things. It may be helpful for you to pause and reflect on what you consider to be earthly. It may assist you to consider the categories that Bahá'u'lláh lays out and think of examples of each:
+    1. their ears from idle talk
+    2. their minds from vain imaginings
+    3. their hearts from worldly affections
+    4. their eyes from that which perisheth
+2. It may seem strange that Bahá'u'lláh asks the reader at the outset to 'put their trust in God' and 'follow in His way' when the objective of the journey is to understand and recognize God. What is your understanding of this?
+3. Bahá'u'lláh concludes this passage with the idea that 'the words and deeds of mortal men' are not a reliable standard on which to base our 'recognition of God and His Prophets'. You have surely heard people give many reasons for their belief in a particular Manifestation of God. In which of the following has the individual used the words and deeds of mortal men as a standard for the recognition of God or His Prophets?
+    1. Upon reaching the age of 15, someone decides to become a Baha'i because their parents are Baha'is
+    2. An individual feels the warmth and love of the Baha'i community and decides to enroll
+    3. An individual discerns the signs of disunity and antipathy between members of a Baha'i community and decides to unenroll
+    4. After witnessing the transformative impact of the institute process on their neighborhood, an individual recognizes Bahá'u'lláh as a Manifestation of God
+    5. After a long period in which the institute process seems to have produced no impact in one's neighborhood, and individual ceases to recognize Bahá'u'lláh as a Manifestation of God
+    6. An individual declares as a Baha'i as a result of seeing 'Abdu'l-Baha in their dream
+
 ## Reasons for the Denial of the Prophets {.passage-heading}
 
 ```{=html}
