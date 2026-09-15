@@ -1668,6 +1668,26 @@ a.start-reading {
   &::before { content: "\00b6"; margin-right: 0.1em; }
 }
 
+// The rule beside a handout note stays neutral whether or not there is a note
+// in it: on a page of four passages the gold marker read as an error state.
+.passage-row.has-note .note-side { border-left-color: $rule; }
+
+// A section heading belongs over the passage it introduces - indented to the
+// text, not to the paragraph number, and stopping where the notes column
+// begins. Same geometry as .struct on the Read page, left aligned.
+h2.passage-heading {
+  // Quarto puts headings in the body-content column while the passage rows
+  // span the full screen column, which is what left the two out of line.
+  grid-column: screen-start / screen-end;
+  padding-left: 2.6rem;
+  margin-right: calc(var(--note-col) + var(--note-gap));
+  text-align: left;
+}
+
+@media (max-width: 560px) {
+  h2.passage-heading { padding-left: 0; margin-right: 0; }
+}
+
 // --- Handout download -------------------------------------------------------
 .handout-actions {
   margin: 0 0 1.4rem;
@@ -1721,12 +1741,21 @@ a.btn-pdf {
   }
 
   // With the note column gone the passage takes the full measure.
+  // break-inside: auto, deliberately. A passage taller than the space left on
+  // the page cannot be kept whole, and asking for it made Chrome lay the next
+  // heading over the top of it instead of moving it down.
   .note-row,
   .note-row.page-columns {
     display: block;
     padding: 0.35rem 0 0.5rem;
     border-bottom: none;
-    break-inside: avoid;
+    break-inside: auto;
+  }
+
+  h2.passage-heading {
+    padding-left: 0;
+    margin-right: 0;
+    break-after: avoid;
   }
 
   .note-main { padding-left: 2.2rem; }
