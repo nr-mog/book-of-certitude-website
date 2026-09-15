@@ -23,6 +23,7 @@ Materials for this session will be posted here.
 
 *Paragraphs 102–130.*
 
+::: {.notes-section}
 ## Your notes
 
 ::: {.notes-intro}
@@ -40,6 +41,7 @@ interpreted for you.
   <p class="note-empty">Loading…</p>
 </div>
 ```
+:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)

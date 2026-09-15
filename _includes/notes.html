@@ -287,6 +287,22 @@
     return wrap;
   }
 
+  // A textarea only reports a useful scrollHeight once it is in the document.
+  // Rows are built inside a fragment and wired before they are appended, so
+  // sizing them there gave every note the 44px minimum however long it was -
+  // which is why long notes looked truncated on the week and My notes pages.
+  // Hence autosizeAll(), run after each render and again when the font lands.
+  function autosize(ta) {
+    if (!ta) return;
+    ta.style.height = 'auto';
+    ta.style.height = Math.max(ta.scrollHeight, 44) + 'px';
+  }
+
+  function autosizeAll(root) {
+    [].slice.call((root || document).querySelectorAll('.note-input'))
+      .forEach(function (ta) { if (ta.value) autosize(ta); });
+  }
+
   function wireRow(wrap, n) {
     var ta   = wrap.querySelector('.note-input');
     var flag = wrap.querySelector('.note-saved');
@@ -295,8 +311,7 @@
     ta.value = load(n);
     if (ta.value) {
       wrap.classList.add('has-note');
-      ta.style.height = 'auto';
-      ta.style.height = Math.max(ta.scrollHeight, 44) + 'px';
+      autosize(ta);
     }
 
     var commit = debounce(function () {
@@ -308,8 +323,7 @@
     }, 550);
 
     ta.addEventListener('input', function () {
-      ta.style.height = 'auto';
-      ta.style.height = Math.max(ta.scrollHeight, 44) + 'px';
+      autosize(ta);
       commit();
     });
 
@@ -340,6 +354,7 @@
     }
     host.innerHTML = '';
     host.appendChild(frag);
+    autosizeAll(host);
   }
 
   /* --- export / import --------------------------------------------------- */
@@ -404,6 +419,7 @@
       }
       host.appendChild(row(item.n, texts[String(item.n)]));
     });
+    autosizeAll(host);
   }
 
   /* --- footnote popover -------------------------------------------------- */
@@ -465,7 +481,11 @@
     var weekHost = document.getElementById('paragraph-notes');
     var allHost  = document.getElementById('all-notes');
     var readHost = document.getElementById('read-text');
-    if (!weekHost && !allHost && !readHost) return;
+    // Passages quoted at the top of a handout. They carry data-p rather than
+    // id="pN": the notes block further down the same page already uses those
+    // ids, and duplicates would break the schedule's anchor links.
+    var passages = [].slice.call(document.querySelectorAll('.passage-row[data-p]'));
+    if (!weekHost && !allHost && !readHost && !passages.length) return;
 
     Promise.all([
       fetchJSON('data/weeks.json'),
@@ -483,6 +503,11 @@
         var texts = res[1] || {};
         LINKS = res[2] || null;
 
+        passages.forEach(function (wrap) {
+          var n = parseInt(wrap.getAttribute('data-p'), 10);
+          if (!isNaN(n)) wireRow(wrap, n);
+        });
+
         if (weekHost) {
           var wk = parseInt(weekHost.getAttribute('data-week'), 10);
           var w = weeks.filter(function (x) { return x.week === wk; })[0] || {};
@@ -496,6 +521,7 @@
             var n = parseInt(wrap.id.slice(1), 10);
             if (!isNaN(n)) wireRow(wrap, n);
           });
+          autosizeAll(readHost);
 
           // One correction, for the cold-cache case only. The serif face
           // arrives after first paint and reflows 290 paragraphs, which leaves
@@ -514,6 +540,12 @@
               location.hash = hash;
             });
           }
+        }
+
+        // The serif face arrives after first paint and changes how many lines
+        // a note occupies, so measure again once it has.
+        if (document.fonts && document.fonts.ready) {
+          document.fonts.ready.then(function () { autosizeAll(document); });
         }
 
         if (allHost) {

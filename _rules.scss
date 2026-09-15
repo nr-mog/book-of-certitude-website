@@ -1657,53 +1657,15 @@ a.start-reading {
 }
 
 // --- Passages on a handout --------------------------------------------------
-// A paragraph reproduced for discussion. The number links back to its place in
-// the full text; footnote markers and glossary terms inside behave exactly as
-// they do on the Read page, since the markup is the same.
-.passage {
-  position: relative;
-  max-width: 44rem;
-  margin: 1.2rem 0 1.6rem;
-  padding-left: 3rem;
+// Quoted for discussion at the top of a week page. The markup is a note row,
+// so the reader's own note sits in the margin exactly as it does on the Read
+// page, and the footnote and glossary popovers work unchanged.
+.passage-row {
+  scroll-margin-top: 5rem;
 }
 
-a.passage-num {
-  position: absolute;
-  left: 0;
-  top: 0.15rem;
-  width: 2.2rem;
-  text-align: right;
-  font-family: $font-family-sans-serif;
-  font-size: 0.72rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  color: $gold;
-  text-decoration: none;
-  border-bottom: none;
-
-  &:hover, &:focus { color: $ink; }
-}
-
-.passage-text {
-  font-size: 1.04rem;
-  line-height: 1.72;
-  color: $ink;
-  border-left: 2px solid $rule;
-  padding-left: 1.1rem;
-}
-
-@media (max-width: 560px) {
-  .passage { padding-left: 0; }
-
-  a.passage-num {
-    position: static;
-    display: block;
-    width: auto;
-    text-align: left;
-    margin-bottom: 0.35rem;
-  }
-
-  .passage-text { font-size: 1rem; padding-left: 0.9rem; }
+.passage-row .note-num {
+  &::before { content: "\00b6"; margin-right: 0.1em; }
 }
 
 // --- Handout download -------------------------------------------------------
@@ -1745,6 +1707,9 @@ a.btn-pdf {
   #TOC,
   nav[role="doc-toc"],
   .handout-actions,
+  // The whole "Your notes" section, heading and all: a handout is for reading
+  // from, and the reader's own notes are theirs, not the printout's.
+  .notes-section,
   .notes-intro,
   .note-side,
   .note-ask,
