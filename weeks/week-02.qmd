@@ -37,11 +37,16 @@ page-layout: full
 <div class="note-row passage-row" data-p="13"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p13" title="Paragraph 13 in the full text">13</a></div><div class="note-text">And now, ponder upon these things. What could have caused such contention and conflict? Why is it that the advent of every true <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span> of God hath been accompanied by such strife and tumult, by such tyranny and upheaval? This notwithstanding the fact that all the Prophets of God, whenever made manifest unto the peoples of the world, have invariably foretold the coming of yet another Prophet after them, and have established such signs as would herald the advent of the future Dispensation. To this the records of all sacred books bear witness. Why then is it that despite the expectation of men in their quest of the Manifestations of Holiness, and in spite of the signs recorded in the sacred books, such acts of violence, of oppression and cruelty, should have been perpetrated in every age and cycle against all the Prophets and chosen Ones of God? Even as He hath revealed: “As oft as an Apostle cometh unto you with that which your souls desire not, ye swell with pride, accusing some of being impostors and slaying others.”<sup class="fn-ref" data-fn="11" role="button" tabindex="0" aria-label="Footnote 11">11</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 13" placeholder="Your note on paragraph 13…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
 ```
 
-## Reflections or questions
-
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+```{=html}
+<h2 class="passage-heading">Reflections or questions</h2>
+<div class="passage-body">
+<ul>
+<li>What stood out to you in this section?</li>
+<li>Any questions about the passages?</li>
+<li>Were there any words, phrases, or concepts you didn't understand?</li>
+</ul>
+</div>
+```
 
 ::: {.notes-section}
 ## Your notes

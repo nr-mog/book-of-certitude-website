@@ -1675,6 +1675,10 @@ a.start-reading {
 // A section heading belongs over the passage it introduces - indented to the
 // text, not to the paragraph number, and stopping where the notes column
 // begins. Same geometry as .struct on the Read page, left aligned.
+// A quoted passage is the thing being studied, so it carries more weight than
+// the prose around it.
+.passage-row .note-text { font-weight: 600; }
+
 h2.passage-heading {
   // Quarto puts headings in the body-content column while the passage rows
   // span the full screen column, which is what left the two out of line.
@@ -1682,6 +1686,32 @@ h2.passage-heading {
   padding-left: 2.6rem;
   margin-right: calc(var(--note-col) + var(--note-gap));
   text-align: left;
+}
+
+// Prose or a list belonging to the passage column - the reflection questions,
+// for instance. Same geometry as the heading above it, and the list markers
+// hang in the gutter the paragraph numbers use, so the text lines up with the
+// quotations rather than sitting inside them.
+.passage-body {
+  grid-column: screen-start / screen-end;
+  padding-left: 2.6rem;
+  margin-right: calc(var(--note-col) + var(--note-gap));
+
+  > ul, > ol {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  li { margin-left: 0; }
+}
+
+@media (max-width: 560px) {
+  .passage-body {
+    padding-left: 0;
+    margin-right: 0;
+
+    > ul, > ol { padding-left: 1.1rem; }
+  }
 }
 
 @media (max-width: 560px) {
