@@ -18,20 +18,20 @@ page-layout: full
 
 ::: {.passage-body}
 1. Bahá'u'lláh claims that walking a path of faith requires certain qualities in order to lead the seeker to a true understanding and recognition of God and His Prophets. Specifically we must cleanse our ears, our minds, our hearts and our eyes from earthly things. It may be helpful for you to pause and reflect on what you consider to be earthly. It may assist you to consider the categories that Bahá'u'lláh lays out and think of examples of each:
-    1. their ears from idle talk
-    2. their minds from vain imaginings
-    3. their hearts from worldly affections
-    4. their eyes from that which perisheth
+    a. their ears from idle talk
+    b. their minds from vain imaginings
+    c. their hearts from worldly affections
+    d. their eyes from that which perisheth
 2. It may seem strange that Bahá'u'lláh asks the reader at the outset to 'put their trust in God' and 'follow in His way' when the objective of the journey is to understand and recognize God. This seems to imply that the path towards certitude is cyclical rather than linear. What is your understanding of this?
 3. Bahá'u'lláh concludes this passage with the idea that 'the words and deeds of mortal men' are not a reliable standard on which to base our 'recognition of God and His Prophets'. You have surely heard people give many reasons for their belief in a particular Manifestation of God. In which of the following has the individual used the words and deeds of mortal men as a standard for the recognition of God or His Prophets?
-    1. Upon reaching the age of 15, someone decides to become a Baha'i because their parents are Baha'is
-    2. An individual decides to become a Baha'i because a podcast host, who they look up to, is a Baha'i
-    2. An individual feels the warmth and love of the Baha'i community and decides to enroll
-    3. An individual discerns the signs of disunity and antipathy between members of a Baha'i community and decides to unenroll
-    4. After witnessing the transformative impact of the institute process on their neighborhood, an individual appreciates the potency of Bahá'u'lláh's Revelation
-    5. After a long period in which the institute process appears to have produced no impact in one's neighborhood, and individual waivers in their belief in the potency of Bahá'u'lláh's Revelation
-    6. An individual is struggling to observe a particular Baha'i law. However, since they notice others in the community are struggling with the same law, they feel it is probably okay
-    7. An individual tries to apply Bahá'u'lláh's laws and teachings in their own life and feels that it has made them a better person and improved their relationship with others
+    a. Upon reaching the age of 15, someone decides to become a Baha'i because their parents are Baha'is
+    b. An individual decides to become a Baha'i because a podcast host, who they look up to, is a Baha'i
+    c. An individual feels the warmth and love of the Baha'i community and decides to enroll
+    d. An individual discerns the signs of disunity and antipathy between members of a Baha'i community and decides to unenroll
+    e. After witnessing the transformative impact of the institute process on their neighborhood, an individual appreciates the potency of Bahá'u'lláh's Revelation
+    f. After a long period in which the institute process appears to have produced no impact in one's neighborhood, and individual waivers in their belief in the potency of Bahá'u'lláh's Revelation
+    g. An individual is struggling to observe a particular Baha'i law. However, since they notice others in the community are struggling with the same law, they feel it is probably okay
+    h. An individual tries to apply Bahá'u'lláh's laws and teachings in their own life and feels that it has made them a better person and improved their relationship with others
 4. Take a moment to reflect on your own spiritual journey. What is your current attitude towards the claims of Bahá'u'lláh? What are your reasons for those attitudes?
 :::
 
@@ -44,7 +44,7 @@ page-layout: full
 ```
 
 ::: {.passage-body}
-1. Seven times in these opening passages Bahá'u'lláh asks the reader to 'consider', to 'ponder', or to 'reflect' on the reason for the denial of the Prophets. The more we observe these denials, He claims, the firmer will become our faith in the Cause of God. Below are some extracts which document various reasons people have given for the denial of particular Prophets. What themes can you identify? 
+5. Seven times in these opening passages Bahá'u'lláh asks the reader to 'consider', to 'ponder', or to 'reflect' on the reason for the denial of the Prophets. The more we observe these denials, He claims, the firmer will become our faith in the Cause of God. Below are some extracts which document various reasons people have given for the denial of particular Prophets. What themes can you identify? 
 :::
 
 
@@ -65,33 +65,9 @@ Explore full compilation on [Reasons for the Denial of the Prophets](../denials.
 :::
 
 ::: {.passage-body}
-2. In your discussions you will probably have touched on the imperfections in the human soul, such as prejudice and closed mindedness that leads to rejection of new ways of thinking and being. Bahá'u'lláh suggests that meditating on the reason for the rejection of the Prophets will lead us to acknowledge the truth that "from time immemorial even unto eternity the Almighty hath tried, and will continue to try, His servants, so that light may be distinguished from darkness, truth from falsehood, right from wrong, guidance from error, happiness from misery, and roses from thorns." What is your current understanding of this truth?
+6. In your discussions you will probably have touched on the imperfections of human character, such as prejudice, self-interest, and closed mindedness that leads to rejection of new ways of thinking and being. Bahá'u'lláh suggests that meditating on the reason for the rejection of the Prophets will lead us to acknowledge the truth that "from time immemorial even unto eternity the Almighty hath tried, and will continue to try, His servants, so that light may be distinguished from darkness, truth from falsehood, right from wrong, guidance from error, happiness from misery, and roses from thorns." What is your current understanding of this truth?
 :::
 
-
-```{=html}
-<h2 class="passage-heading">Reflections or questions</h2>
-<div class="passage-body">
-<ul>
-<li>What stood out to you in this section?</li>
-<li>Any questions about the passages?</li>
-<li>Were there any words, phrases, or concepts you didn't understand?</li>
-</ul>
-</div>
-```
-
-::: {.notes-section}
-## Your notes
-
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
-
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
-:::
 
 ```{=html}
 <div id="paragraph-notes" data-week="2" class="paragraph-notes">

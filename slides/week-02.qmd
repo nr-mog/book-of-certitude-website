@@ -1,23 +1,68 @@
 ---
-title: "Week 2"
-subtitle: "16 September 2026 · Paragraphs 1–23"
+title: "Paragraphs 1–23"
+subtitle: "Week 2 · 16 September 2026"
 ---
 
-##  {.divider}
+## What is inside the Book {.smaller}
 
-::: {.kicker}
-Week 2
+::: {.tight .dense}
+- Proclaims the existence and oneness of a personal God — unknowable, inaccessible, the source of
+  all Revelation, eternal, omniscient, omnipresent and almighty
+- Asserts the relativity of religious truth and the continuity of Divine Revelation
+- Affirms the unity of the Prophets, the universality of their Message, the identity of their
+  fundamental teachings, the sanctity of their scriptures, and the twofold character of their stations
+- **Denounces the blindness and perversity of the divines and doctors of every age**
+- Cites and elucidates the allegorical passages of the New Testament, the abstruse verses of the
+  Qur'án, and the cryptic Muḥammadan traditions
+- **Enumerates the essential prerequisites for the attainment by every true seeker of the object
+  of his quest**
+- Demonstrates the validity, the sublimity and significance of the Báb's Revelation
+- Unfolds the meaning of such symbolic terms as "Return," "Resurrection," "Seal of the Prophets"
+  and "Day of Judgment"
+- Distinguishes between the three stages of Divine Revelation
+- Expatiates upon the glories and wonders of the "City of God"
 :::
-::: {.divider-title}
-Paragraphs 1–23
+
+::: {.tiny}
+Shoghi Effendi, *God Passes By* — the two in bold are where this week's reading begins.
 :::
 
 ---
 
-## Reflections or questions
+## Two themes this week
 
-::: {.incremental}
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+::: {.tiles}
+::: {.tile .marked}
+[The Path to True Understanding]{.tile-name}
+[Paragraphs 1–2]{.tile-epithet}
+Detachment is the first condition. The seeker must cleanse the ears of idle talk, the mind of vain
+imaginings, the heart of worldly affections and the eyes of that which perisheth — and must cease
+to take the words and deeds of mortal men as the standard by which God and His Prophets are known.
 :::
+
+::: {.tile .marked}
+[Reasons for the Denial of the Prophets]{.tile-name}
+[Paragraphs 8 and 13]{.tile-epithet}
+Every Manifestation of God has been met with denial, strife and cruelty — though every one of them
+was foretold, and the signs of His coming recorded. Bahá'u'lláh asks us to ponder why, so that
+light may be distinguished from darkness, and roses from thorns.
+:::
+:::
+
+---
+
+## An initial thought
+
+<!-- Yours to fill: the thought you want to open the session with. -->
+
+---
+
+## Story Corner: Nabíl-i-Akbar
+
+::: {.smaller}
+Mullá Muḥammad-i-Qá'iní, surnamed **Nabíl-i-Akbar** — "the erudite," in Shoghi Effendi's word —
+was among those who crossed the threshold of the house in Baghdád and attained Bahá'u'lláh's
+presence.
+:::
+
+<!-- Yours to fill: the story itself. -->
