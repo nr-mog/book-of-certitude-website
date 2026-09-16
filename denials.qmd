@@ -5,12 +5,12 @@ toc: false
 page-layout: full
 ---
 
-::: {.lead}
+::: {.lead .lead-sm}
 The coming of every Manifestation of God has been accompanied by opposition from the people of the day. Bahá'u'lláh asks us to reflect on the reason for the denials of the Prophets and the causes of the cruelties inflicted on Them. Below is a compilation of extracts from various sacred writings to assist you in such reflection.
 :::
 
 ```{=html}
-<div class="denial-list">
+<div class="denial-list full-measure">
 <figure class="denial"><blockquote><p>"Then said the chiefs of his people who believed not, "We see in thee but a man like ourselves; and we see not who have followed thee except our meanest ones of hasty judgment, nor see we any excellence in you above ourselves: nay, we deem you liars."</p></blockquote><figcaption><span class="denial-prophet">Noah</span><span class="denial-source">Qur'án 11:27</span></figcaption></figure>
 <figure class="denial"><blockquote><p>"They said: "O Noah! already hast thou disputed with us, and multiplied disputes with us: Bring then upon us what thou hast threatened, if thou be of those who speak truth.""</p></blockquote><figcaption><span class="denial-prophet">Noah</span><span class="denial-source">Qur'án 11:32</span></figcaption></figure>
 <figure class="denial"><blockquote><p>"Do they say, "This Qur'án is of his own devising?" Say: On me be my own guilt, if I have devised it, but I am clear of that whereof ye are guilty."</p></blockquote><figcaption><span class="denial-prophet">Noah</span><span class="denial-source">Qur'án 11:35</span></figcaption></figure>

@@ -1796,10 +1796,12 @@ a.more-link {
   margin-right: calc(var(--note-col) + var(--note-gap));
 }
 
-// The denials list has to leave the notes column free, because it also appears
-// on the handout beside it. The claims list never does, so it takes the same
-// measure as the lead above it rather than two thirds of it.
-.claim-list {
+// On the handout the denials list has to leave the notes column free, because
+// the reader's notes sit there. On a compilation page nothing does, so the
+// quotations take the same measure as the lead above them rather than two
+// thirds of it - the claims list always, the denials list where it is marked.
+.claim-list,
+.denial-list.full-measure {
   padding-left: 0;
   margin-right: 0;
 }
@@ -1831,9 +1833,10 @@ figure.claim {
   }
 }
 
-// Bold on the claims page: these are the statements the reader has come for,
-// and there is no attribution line under each one to carry the emphasis.
-figure.claim blockquote {
+// Bold, on the handout and on both compilation pages: the quotations are what
+// the reader has come for, and they carry the weight the passages do.
+figure.claim blockquote,
+figure.denial blockquote {
   font-weight: 600;
 
   p { font-weight: inherit; }
@@ -1875,6 +1878,11 @@ figure.claim blockquote {
     margin-right: 0;
   }
 
+  .denial-list.full-measure {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .passage-body > ul,
   .passage-body > ol { padding-left: 1.1rem; }
 }
@@ -1912,6 +1920,26 @@ a.btn-pdf {
 //
 // Kept last in the file on purpose. A media query adds no specificity, so any
 // base rule appearing after these would win on source order.
+// --- No rules on a handout --------------------------------------------------
+// Nima's call: a week handout reads as one continuous piece, so nothing on it
+// is separated by a line - not the passages from one another, not a heading
+// from the text under it, not the closing links. Scoped with :has() to the
+// thirteen week pages, which are the pages that offer a PDF of themselves, so
+// the Read page and My notes keep the row dividers that make a long list of
+// paragraphs legible. The note column's own rule stays: it marks where a note
+// goes rather than dividing the text.
+body:has(.handout-actions) {
+  h2,
+  .h2,
+  .note-row,
+  .note-row.page-columns,
+  .part-label,
+  .source-note {
+    border-top: none;
+    border-bottom: none;
+  }
+}
+
 @media print {
   .navbar,
   .nav-footer,
