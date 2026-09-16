@@ -547,21 +547,46 @@ $code-block-font-size: 0.7em;
   color: $ink-faint;
 }
 
-// The journey map: sized by height so the whole country fits the stage.
-.reveal .journey {
+// --- Journey map ------------------------------------------------------------
+// Inlined rather than linked, so its labels take the deck's own serif.
+.reveal .fs-map {
+  flex: 0 0 470px;
   text-align: center;
+}
 
-  // px here are reveal's own slide units (the stage is 1200x750 before it is
-  // scaled), unlike vh, which follows the browser window and left the map
-  // tiny in a small one.
-  img {
-    display: block;
-    max-height: 545px;
-    width: auto;
-    margin: 0.1em auto 0;
-    border: 1px solid $rule;
-    border-radius: 3px;
-    box-shadow: none;
-    background: none;
-  }
+.reveal .journey-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid $rule;
+  border-radius: 3px;
+}
+
+.reveal .map-stop {
+  font-family: $mainFont;
+  font-weight: 500;
+}
+
+.reveal .map-country {
+  font-family: $font-family-sans-serif;
+  opacity: 0.7;
+}
+
+.reveal .map-caption {
+  display: block;
+  margin-top: 0.6em;
+  font-family: $font-family-sans-serif;
+  font-size: 0.42em;
+  letter-spacing: 0.04em;
+  color: $ink-faint;
+}
+
+// With the map beside it the bullets take a narrower measure, and a step down
+// in size so nine of them still clear the foot of the stage.
+.reveal .fs-narrow {
+  flex: 1 1 auto;
+  max-width: 620px;
+  font-size: 0.58em;
+
+  li { margin-bottom: 0.3em; }
 }

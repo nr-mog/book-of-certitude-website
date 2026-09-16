@@ -20,6 +20,9 @@ SRC = 'tools/sources/ne_50m_admin_0_countries.geojson'
 URL = ('https://raw.githubusercontent.com/nvkelso/natural-earth-vector/'
        'master/geojson/ne_50m_admin_0_countries.geojson')
 OUT = 'images/nabil-journey.svg'
+# Also written as an includable partial: inlined in the page, the labels can
+# use the deck's own webfont, which an <img> can never reach.
+PARTIAL = 'slides/_journey-map.md'
 
 # The window, in degrees: eastern Iraq through all of Iran.
 LON0, LON1 = 41.6, 63.6
@@ -48,7 +51,8 @@ PARCHMENT = '#faf7f0'
 WATER = '#edf1f0'   # barely blue: the map sits on parchment
 LAND = '#f1ece1'
 LAND_FOCUS = '#e6dcc4'
-BORDER = '#d9cfb8'
+BORDER = '#ddd4c0'
+FOCUS_BORDER = '#a89871'
 GOLD = '#9a7b32'
 INK = '#1c2331'
 INK_FAINT = '#6f7889'
@@ -121,8 +125,8 @@ def main():
 
     data = json.load(open(SRC))
     svg = ['<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %.0f %.0f" '
-           'width="%.0f" height="%.0f" font-family="Inter, sans-serif">'
-           % (WIDTH, HEIGHT, WIDTH, HEIGHT),
+           'class="journey-svg" preserveAspectRatio="xMidYMid meet">'
+           % (WIDTH, HEIGHT),
            '<rect width="100%%" height="100%%" fill="%s"/>' % WATER]
 
     focus_paths = []
@@ -137,14 +141,14 @@ def main():
             focus_paths.append((name, path_for(feature['geometry'])))
 
     for name, d in focus_paths:
-        svg.append('<path d="%s" fill="%s" stroke="%s" stroke-width="1.1"/>'
-                   % (d, LAND_FOCUS, BORDER))
+        svg.append('<path d="%s" fill="%s" stroke="%s" stroke-width="2.4" '
+                   'stroke-linejoin="round"/>' % (d, LAND_FOCUS, FOCUS_BORDER))
 
     # Country names, set quietly.
     for name, lon, lat in (('IRAN', 55.0, 30.6), ('IRAQ', 42.9, 34.4)):
         x, y = project(lon, lat)
-        svg.append('<text x="%.1f" y="%.1f" fill="%s" font-size="16" '
-                   'letter-spacing="3.4" opacity="0.75">%s</text>'
+        svg.append('<text x="%.1f" y="%.1f" class="map-country" fill="%s" '
+                   'font-size="17" letter-spacing="3.4">%s</text>'
                    % (x, y, INK_FAINT, name))
 
     # The journey.
@@ -165,13 +169,17 @@ def main():
             'left':  (-15, 7, 'end'),
             'right': (12, 5, 'start'),
         }[place]
-        svg.append('<text x="%.1f" y="%.1f" fill="%s" font-size="21" '
-                   'font-weight="500" text-anchor="%s">%d. %s</text>'
+        svg.append('<text x="%.1f" y="%.1f" class="map-stop" fill="%s" font-size="23" '
+                   'text-anchor="%s">%d. %s</text>'
                    % (x + dx, y + dy, INK, anchor, order, label))
 
     svg.append('</svg>')
-    open(OUT, 'w').write('\n'.join(svg))
-    print('wrote %s  (%.0f x %.0f)' % (OUT, WIDTH, HEIGHT))
+    body = '\n'.join(svg)
+    open(OUT, 'w').write(body.replace('class="journey-svg"',
+        'class="journey-svg" width="%.0f" height="%.0f" '
+        'font-family="EB Garamond, Palatino, Georgia, serif"' % (WIDTH, HEIGHT)))
+    open(PARTIAL, 'w').write('```{=html}\n' + body + '\n```\n')
+    print('wrote %s and %s  (%.0f x %.0f)' % (OUT, PARTIAL, WIDTH, HEIGHT))
 
 
 if __name__ == '__main__':

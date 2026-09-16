@@ -131,7 +131,7 @@ Nabíl-i-Akbar
 :::
 
 ::: {.figure-slide}
-::: {.fs-body .incremental}
+::: {.fs-body .fs-narrow .incremental}
 - He spent much of his early years pursuing a traditional Islamic education
 - He studied with his father at home
 - Around 1847 he goes to Sabzevár to study theology and philosophy for five years
@@ -147,21 +147,11 @@ Nabíl-i-Akbar
 - Returning to Iran by way of Baghdád, around 1858, he has the opportunity to meet Bahá'u'lláh
 :::
 
-::: {.fs-portrait}
-![](../images/Nabil-i-Akbar.jpg)
+::: {.fs-map}
+{{< include _journey-map.md >}}
+
+[Nabíl-i-Akbar's travels up until Baghdád]{.map-caption}
 :::
-:::
-
----
-
-## Story Corner
-
-::: {.slide-sub}
-Nabíl-i-Akbar
-:::
-
-::: {.journey}
-![](../images/nabil-journey.svg)
 :::
 
 ---
