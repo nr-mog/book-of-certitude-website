@@ -35,6 +35,15 @@ page-layout: full
 4. Take a moment to reflect on your own spiritual journey. What is your current attitude towards the [claims of Bahá'u'lláh](../claims.qmd)? What are your reasons for those attitudes?
 :::
 
+```{=html}
+<div class="write-box" data-write="w2-q4">
+  <label class="write-label" for="write-w2-q4">Your response</label>
+  <textarea class="note-input" id="write-w2-q4" rows="3" placeholder="Write your thoughts…"></textarea>
+  <div class="note-bar"><span class="note-saved"></span></div>
+  <div class="write-lines" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+</div>
+```
+
 
 ## Reasons for the Denial of the Prophets {.passage-heading}
 
@@ -56,7 +65,7 @@ page-layout: full
 <figure class="denial"><blockquote><p>"They said, "O Shuʻayb! we understand not much of what thou sayest, and we clearly see that thou art powerless among us: were it not for thy family we would have surely stoned thee, nor couldest thou have prevailed against us.""</p></blockquote><figcaption><span class="denial-prophet">Shuʻayb</span><span class="denial-source">Qur'án 11:91</span></figcaption></figure>
 <figure class="denial"><blockquote><p>"They asked [sarcastically], “O Shuʻayb! Does your prayer command you that we should abandon what our forefathers worshipped or give up managing our wealth as we please? Indeed, you are such a tolerant, sensible man!”"</p></blockquote><figcaption><span class="denial-prophet">Shuʻayb</span><span class="denial-source">Qur'án 11:87</span></figcaption></figure>
 <figure class="denial"><blockquote><p>"Among these signs is this, that the Messiah should come from an unknown place, yet we all know this man’s house in Nazareth, and can any good thing come out of Nazareth?"</p></blockquote><figcaption><span class="denial-prophet">Jesus</span><span class="denial-source">ʻAbdu'l‑Bahá</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"And they say: "What sort of a messenger is this, who eats food, and walks through the streets? Why has not an angel been sent down to him to give admonition with him"</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 25:7</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And they say: "What sort of a messenger is this, who eats food, and walks through the streets? Why has not an angel been sent down to him to give admonition with him?""</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 25:7</span></figcaption></figure>
 <figure class="denial"><blockquote><p>"“Shall we, then, give up our deities at the bidding of a mad poet?”"</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 37:36</span></figcaption></figure>
 </div>
 ```

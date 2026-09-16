@@ -331,6 +331,44 @@
     return wrap;
   }
 
+  /* --- a free-standing writing box on a handout -------------------------- */
+  // Its own key prefix: this is an answer to a question rather than a note on
+  // a paragraph, so it stays out of allNotes(), the export, the import merge
+  // and the My notes page - none of which know what to do with it.
+  var WKEY = 'iqan:write:';
+
+  function loadWrite(id) {
+    try { return localStorage.getItem(WKEY + id) || ''; } catch (e) { return ''; }
+  }
+
+  function saveWrite(id, value) {
+    try {
+      if (value.trim() === '') localStorage.removeItem(WKEY + id);
+      else localStorage.setItem(WKEY + id, value);
+      return true;
+    } catch (e) { return false; }
+  }
+
+  function wireWriteBox(box) {
+    var id   = box.getAttribute('data-write');
+    var ta   = box.querySelector('.note-input');
+    var flag = box.querySelector('.note-saved');
+    if (!id || !ta) return;
+
+    ta.value = loadWrite(id);
+    if (ta.value) { box.classList.add('has-note'); autosize(ta); }
+
+    var commit = debounce(function () {
+      var ok = saveWrite(id, ta.value);
+      flag.textContent = ok ? 'Saved' : 'Could not save';
+      flag.className = 'note-saved show' + (ok ? '' : ' err');
+      box.classList.toggle('has-note', ta.value.trim() !== '');
+      setTimeout(function () { flag.className = 'note-saved'; }, 1600);
+    }, 550);
+
+    ta.addEventListener('input', function () { autosize(ta); commit(); });
+  }
+
   function row(n, text) {
     return wireRow(buildRow(n, text), n);
   }
@@ -485,6 +523,11 @@
     // id="pN": the notes block further down the same page already uses those
     // ids, and duplicates would break the schedule's anchor links.
     var passages = [].slice.call(document.querySelectorAll('.passage-row[data-p]'));
+
+    // Wired first, and outside the fetch below: a writing box needs no text.
+    [].slice.call(document.querySelectorAll('.write-box[data-write]'))
+      .forEach(wireWriteBox);
+
     if (!weekHost && !allHost && !readHost && !passages.length) return;
 
     Promise.all([
