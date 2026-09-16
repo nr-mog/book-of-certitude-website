@@ -162,6 +162,9 @@ blockquote, .quote {
   color: $ink-soft;
 }
 
+// For a lead that runs to a paragraph of background rather than one line.
+.lead.lead-sm { font-size: 1.08rem; }
+
 // --- Schedule table ---------------------------------------------------------
 table {
   font-size: 0.95rem;
@@ -1793,6 +1796,14 @@ a.more-link {
   margin-right: calc(var(--note-col) + var(--note-gap));
 }
 
+// The denials list has to leave the notes column free, because it also appears
+// on the handout beside it. The claims list never does, so it takes the same
+// measure as the lead above it rather than two thirds of it.
+.claim-list {
+  padding-left: 0;
+  margin-right: 0;
+}
+
 figure.denial,
 figure.claim {
   margin: 0 0 1.5rem;
@@ -1818,6 +1829,14 @@ figure.claim {
     letter-spacing: 0.06em;
     color: $ink-faint;
   }
+}
+
+// Bold on the claims page: these are the statements the reader has come for,
+// and there is no attribution line under each one to carry the emphasis.
+figure.claim blockquote {
+  font-weight: 600;
+
+  p { font-weight: inherit; }
 }
 
 .denial-prophet {
@@ -1850,8 +1869,7 @@ figure.claim {
 
   h2.passage-heading,
   .passage-body,
-  .denial-list,
-  .claim-list {
+  .denial-list {
     padding-left: 2.6rem;
     padding-right: 2.6rem;
     margin-right: 0;

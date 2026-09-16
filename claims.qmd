@@ -5,8 +5,8 @@ toc: false
 page-layout: full
 ---
 
-::: {.lead}
-The following passages are extracted from a famous letter written by Shoghi Effendi to the believers in the West in 1934 titled 'The Dispensation of Bahá'u'lláh'. In it he quotes extensively from the Writings of the Báb, Bahá'u'lláh, and ʻAbdu'l-Bahá about the significance of Bahá'u'lláh's revelation. As part of it he quotes many of Bahá'u'lláh's statements about the claims He has advanced, the forces He has released, and the greatness of His long-awaited Day. You can read [this part of the letter](https://www.bahai.org/r/167979049), or [the whole letter](https://www.bahai.org/r/014079006), in the Bahá'í Reference Library.
+::: {.lead .lead-sm}
+The following passages are extracted from a famous letter written by Shoghi Effendi to the believers in the West in 1934 titled *The Dispensation of Bahá'u'lláh*. In it he quotes extensively from the Writings of the Báb, Bahá'u'lláh, and ʻAbdu'l-Bahá about the significance of Bahá'u'lláh's revelation. As part of it he quotes many of Bahá'u'lláh's statements about the claims He has advanced, the forces He has released, and the greatness of His long-awaited Day. To read this part of the letter click [here](https://www.bahai.org/r/167979049). To read the whole letter, click [here](https://www.bahai.org/r/014079006). 
 :::
 
 ```{=html}
