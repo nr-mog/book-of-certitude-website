@@ -1764,14 +1764,19 @@ a.more-link {
 
 // --- Quoted denials ---------------------------------------------------------
 // A gathered quotation with the Prophet it was said of. Used on the handout
-// and, in full, on the Reasons for the Denial of the Prophets page.
-.denial-list {
+// and, in full, on the Reasons for the Denial of the Prophets page. The Claims
+// of Bahá'u'lláh page gathers quotations the same way, without the per-quote
+// attribution - every passage there is Bahá'u'lláh's - so it shares the type
+// and measure under its own name.
+.denial-list,
+.claim-list {
   grid-column: screen-start / screen-end;
   padding-left: 2.6rem;
   margin-right: calc(var(--note-col) + var(--note-gap));
 }
 
-figure.denial {
+figure.denial,
+figure.claim {
   margin: 0 0 1.5rem;
 
   blockquote {
@@ -1827,7 +1832,8 @@ figure.denial {
 
   h2.passage-heading,
   .passage-body,
-  .denial-list {
+  .denial-list,
+  .claim-list {
     padding-left: 2.6rem;
     padding-right: 2.6rem;
     margin-right: 0;
@@ -1910,7 +1916,8 @@ a.btn-pdf {
   // passages, indented to match .note-main above.
   h2.passage-heading,
   .passage-body,
-  .denial-list {
+  .denial-list,
+  .claim-list {
     padding-left: 2.2rem;
     margin-right: 0;
   }
