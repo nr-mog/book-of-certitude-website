@@ -1,0 +1,38 @@
+---
+title: "Reasons for the Denial of the Prophets"
+subtitle: "What people said when a Manifestation of God appeared among them"
+toc: false
+page-layout: full
+---
+
+::: {.lead}
+Every Prophet named here was rejected by people who had been waiting for Him. These are the words
+of those who denied Him, as the Qur'án, ʻAbdu'l-Bahá and Bahá'u'lláh record them. The name beside
+each quotation is the Prophet it was said of.
+:::
+
+```{=html}
+<div class="denial-list">
+<figure class="denial"><blockquote><p>"Then said the chiefs of his people who believed not, "We see in thee but a man like ourselves; and we see not who have followed thee except our meanest ones of hasty judgment, nor see we any excellence in you above ourselves: nay, we deem you liars."</p></blockquote><figcaption><span class="denial-prophet">Noah</span><span class="denial-source">Qur'án 11:27</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"They said: "O Noah! already hast thou disputed with us, and multiplied disputes with us: Bring then upon us what thou hast threatened, if thou be of those who speak truth.""</p></blockquote><figcaption><span class="denial-prophet">Noah</span><span class="denial-source">Qur'án 11:32</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Do they say, "This Koran is of his own devising?" Say: On me be my own guilt, if I have devised it, but I am clear of that whereof ye are guilty."</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 11:35</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"They argued, “O Hud! You have not given us any clear proof, and we will never abandon our gods upon your word, nor will we believe in you. All we can say is that some of our gods have possessed you with evil.”"</p></blockquote><figcaption><span class="denial-prophet">Húd</span><span class="denial-source">Qur'án 11:53-54</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"They said, "O Salih! our hopes were fixed on thee till now: forbiddest thou us to worship what our fathers worshipped? Truly we misdoubt the faith to which thou callest us, as suspicious.""</p></blockquote><figcaption><span class="denial-prophet">Ṣáliḥ</span><span class="denial-source">Qur'án 11:62</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"They asked [sarcastically], “O Shu’aib! Does your prayer command you that we should abandon what our forefathers worshipped or give up managing our wealth as we please? Indeed, you are such a tolerant, sensible man!”"</p></blockquote><figcaption><span class="denial-prophet">Shuʻayb</span><span class="denial-source">Qur'án 11:87</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"They said, "O Shu’aib! we understand not much of what thou sayest, and we clearly see that thou art powerless among us: were it not for thy family we would have surely stoned thee, nor couldest thou have prevailed against us.""</p></blockquote><figcaption><span class="denial-prophet">Shuʻayb</span><span class="denial-source">Qur'án 11:91</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Among these signs is this, that the Messiah should come from an unknown place, yet we all know this man’s house in Nazareth, and can any good thing come out of Nazareth?"</p></blockquote><figcaption><span class="denial-prophet">Jesus</span><span class="denial-source">ʻAbdu'l‑Bahá</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"The second sign is that He shall rule with a rod of iron, that is, He must act with the sword, but this Messiah has not even a wooden staff."</p></blockquote><figcaption><span class="denial-prophet">Jesus</span><span class="denial-source">ʻAbdu'l‑Bahá</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Another of the conditions and signs is this: He must sit upon the throne of David and establish David’s sovereignty. Now, far from being enthroned, this man has not even a mat to sit on."</p></blockquote><figcaption><span class="denial-prophet">Jesus</span><span class="denial-source">ʻAbdu'l‑Bahá</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Another of the conditions is this: the promulgation of all the laws of the Torah; yet this man has abrogated these laws, and has even broken the sabbath day"</p></blockquote><figcaption><span class="denial-prophet">Jesus</span><span class="denial-source">ʻAbdu'l‑Bahá</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Another of the signs is this, that in His reign justice will be so advanced that righteousness and well-doing will extend from the human even to the animal world—the snake and the mouse will share one hole, and the eagle and the partridge one nest, the lion and the gazelle shall dwell in one pasture, and the wolf and the kid shall drink from one fountain."</p></blockquote><figcaption><span class="denial-prophet">Jesus</span><span class="denial-source">ʻAbdu'l‑Bahá</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And they say: "What sort of a messenger is this, who eats food, and walks through the streets? Why has not an angel been sent down to him to give admonition with him"</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 25:7</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Remember how they said: "O God if this is indeed the Truth from Thee, rain down on us a shower of stones form the sky, or send us a grievous penalty.""</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 8:32</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"“Shall we, then, give up our deities at the bidding of a mad poet?”"</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 37:36</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"They called Him a poet, scoffed at the verses of God, and exclaimed saying: “These words of his are but tales of the Ancients!” By this they meant that those words which were spoken by the peoples of old Muḥammad hath compiled and called them the Word of God."</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Bahá'u'lláh · Kitáb-i-Íqán ¶234 · <a href="read.html#p234">Kitáb-i-Íqán ¶234</a></span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And when our verses are recited to them as clear evidences, they say, "This is not but a man who wishes to avert you from that which your fathers were worshipping." And they say, "This is not except a lie invented.""</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 34:43</span></figcaption></figure>
+</div>
+```
+
+::: {.source-note}
+Gathered for [Week 2](weeks/week-02.qmd) · [Back to the schedule](schedule.qmd)
+:::
