@@ -1664,6 +1664,10 @@ a.start-reading {
   scroll-margin-top: 5rem;
 }
 
+// No rule directly above a block of questions - it read as a divider between
+// the passage and the text that belongs to it.
+.note-row.passage-row:has(+ .passage-body) { border-bottom: none; }
+
 .passage-row .note-num {
   &::before { content: "\00b6"; margin-right: 0.1em; }
 }
@@ -1704,18 +1708,29 @@ h2.passage-heading {
   line-height: 1.6;
   color: $ink-soft;
 
+  // Clear of the passage above it.
+  margin-top: 1.9rem;
+
   > ul, > ol {
     margin-left: 0;
     padding-left: 0;
   }
 
-  li { margin-left: 0; }
+  // Room to breathe between one question and the next.
+  > ol > li,
+  > ul > li { margin-left: 0; margin-bottom: 1.15rem; }
 
-  // Nested options and sub-questions, quieter again.
+  > ol > li:last-child,
+  > ul > li:last-child { margin-bottom: 0; }
+
+  // Sub-questions and options: indented, but the same voice as the question
+  // they belong to.
   ol ol, ul ul, ol ul, ul ol {
     padding-left: 1.4rem;
-    font-size: 0.96em;
-    color: $ink-faint;
+    margin-top: 0.5rem;
+    color: inherit;
+
+    li { margin-bottom: 0.4rem; }
   }
 }
 
