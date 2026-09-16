@@ -6,7 +6,7 @@ page-layout: full
 ---
 
 ::: {.lead}
-Bahá'u'lláh asks the reader of the Kitáb-i-Íqán not to take the words and deeds of mortal men as a standard for the recognition of God and His Prophets, but to weigh His own claim for themselves. Every passage below is His own. They are gathered here for reflection rather than argument.
+The following passages are extracted from a famous letter written by Shoghi Effendi to the believers in the West in 1934 titled 'The Dispensation of Bahá'u'lláh'. In it he quotes extensively from the Writings of the Báb, Bahá'u'lláh, and ʻAbdu'l-Bahá about the significance of Bahá'u'lláh's revelation. As part of it he quotes many of Bahá'u'lláh's statements about the claims He has advanced, the forces He has released, and the greatness of His long-awaited Day. You can read [this part of the letter](https://www.bahai.org/r/167979049), or [the whole letter](https://www.bahai.org/r/014079006), in the Bahá'í Reference Library.
 :::
 
 ```{=html}

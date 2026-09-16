@@ -1,14 +1,12 @@
 ---
 title: "Reasons for the Denial of the Prophets"
-subtitle: "What people said when a Manifestation of God appeared among them"
+subtitle: "A compilation from various sacred writings"
 toc: false
 page-layout: full
 ---
 
 ::: {.lead}
-Every Prophet named here was rejected by people who had been waiting for Him. These are the words
-of those who denied Him, as the Qur'án, ʻAbdu'l-Bahá and Bahá'u'lláh record them. The name beside
-each quotation is the Prophet it was said of.
+The coming of every Manifestation of God has been accompanied by opposition from the people of the day. Bahá'u'lláh asks us to reflect on the reason for the denials of the Prophets and the causes of the cruelties inflicted on Them. Below is a compilation of extracts from various sacred writings to assist you in such reflection.
 :::
 
 ```{=html}
@@ -28,7 +26,7 @@ each quotation is the Prophet it was said of.
 <figure class="denial"><blockquote><p>"And they say: "What sort of a messenger is this, who eats food, and walks through the streets? Why has not an angel been sent down to him to give admonition with him"</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 25:7</span></figcaption></figure>
 <figure class="denial"><blockquote><p>"Remember how they said: "O God if this is indeed the Truth from Thee, rain down on us a shower of stones form the sky, or send us a grievous penalty.""</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 8:32</span></figcaption></figure>
 <figure class="denial"><blockquote><p>"“Shall we, then, give up our deities at the bidding of a mad poet?”"</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 37:36</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"They called Him a poet, scoffed at the verses of God, and exclaimed saying: “These words of his are but tales of the Ancients!” By this they meant that those words which were spoken by the peoples of old Muḥammad hath compiled and called them the Word of God."</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Bahá'u'lláh · Kitáb-i-Íqán ¶234 · <a href="read.html#p234">Kitáb-i-Íqán ¶234</a></span></figcaption></figure>
+<figure class="denial"><blockquote><p>"They called Him a poet, scoffed at the verses of God, and exclaimed saying: “These words of his are but tales of the Ancients!” By this they meant that those words which were spoken by the peoples of old Muḥammad hath compiled and called them the Word of God."</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Bahá'u'lláh · <a href="read.html#p234">Kitáb-i-Íqán ¶234</a></span></figcaption></figure>
 <figure class="denial"><blockquote><p>"And when our verses are recited to them as clear evidences, they say, "This is not but a man who wishes to avert you from that which your fathers were worshipping." And they say, "This is not except a lie invented.""</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 34:43</span></figcaption></figure>
 </div>
 ```

@@ -37,6 +37,24 @@ body {
   #quarto-search .aa-DetachedSearchButtonIcon svg,
   .quarto-navigation-tool { color: $nav-fg !important; }
 
+  // The hamburger on a phone is baked the same way - a data-URI SVG with the
+  // stroke colour written into it - so in the dark theme it was a near-black
+  // icon on a near-black bar. Drawn as a glyph, it takes $nav-fg like the rest.
+  .navbar-toggler-icon {
+    background-image: none !important;
+    font-family: "bootstrap-icons";
+    font-size: 1.5rem;
+    line-height: 1;
+    width: auto;
+    height: auto;
+    vertical-align: -0.2em;
+    color: $nav-fg;
+
+    &::before { content: "\f479"; }   // list
+  }
+
+  .navbar-toggler:hover .navbar-toggler-icon { color: $gold-soft; }
+
   // A sun and a moon instead of Quarto's toggle switch: it says what the
   // button does rather than that it is a switch. Drawn as a Bootstrap Icons
   // glyph rather than a baked-in SVG, so it simply takes $nav-fg.
