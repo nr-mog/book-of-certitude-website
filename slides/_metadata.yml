@@ -14,6 +14,6 @@ format:
     height: 750
     margin: 0.09
     hash-type: number
-    footer: "Kitáb-i-Íqán Study"
+    footer: "Book of Certitude Study"
     link-external-newwindow: true
     pdf-separate-fragments: false
