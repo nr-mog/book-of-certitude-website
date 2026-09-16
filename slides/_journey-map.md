@@ -26,11 +26,13 @@
 <circle cx="291.9" cy="197.5" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
 <text x="291.9" y="182.5" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Zanján</text>
 <circle cx="453.0" cy="203.1" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
-<text x="453.0" y="188.1" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Bábul</text>
+<text x="453.0" y="188.1" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Bárfurúsh</text>
 <circle cx="542.1" cy="207.7" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
-<text x="542.1" y="233.7" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Badasht</text>
+<text x="542.1" y="192.7" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Badasht</text>
 <circle cx="121.0" cy="382.1" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
-<text x="133.0" y="389.1" class="map-city" fill="#6f7889" font-size="21" text-anchor="start">Karbilá</text>
+<text x="109.0" y="389.1" class="map-city" fill="#6f7889" font-size="21" text-anchor="end">Karbilá</text>
+<circle cx="414.2" cy="380.3" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
+<text x="426.2" y="387.3" class="map-city" fill="#6f7889" font-size="21" text-anchor="start">Iṣfahán</text>
 <circle cx="449.4" cy="519.6" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
 <text x="449.4" y="545.6" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Shíráz</text>
 <circle cx="516.3" cy="537.6" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>

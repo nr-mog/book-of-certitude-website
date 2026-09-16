@@ -51,13 +51,14 @@ ROUTE = [0, 1, 2, 3, 4]
 # number. Badasht is the one soft coordinate here - the conference was held in
 # a hamlet near Sháhrúd, and this is that valley rather than a surveyed point.
 CITIES = [
-    ('Tabríz',   38.0800, 46.2919, 'right'),
-    ('Zanján',   36.6736, 48.4787, 'above'),
-    ('Bábul',    36.5513, 52.6790, 'above'),
-    ('Badasht',       36.4500, 55.0000, 'below'),
-    ('Karbilá',  32.6160, 44.0249, 'right'),
-    ('Shíráz', 29.5918, 52.5837, 'below'),
-    ('Nayríz',   29.1975, 54.3281, 'right'),
+    ('Tabríz',        38.0800, 46.2919, 'right'),
+    ('Zanján',        36.6736, 48.4787, 'above'),
+    ('Bárfurúsh', 36.5513, 52.6790, 'above'),
+    ('Badasht',            36.4500, 55.0000, 'above'),
+    ('Karbilá',       32.6160, 44.0249, 'left'),
+    ('Iṣfahán',  32.6546, 51.6680, 'right'),
+    ('Shíráz',   29.5918, 52.5837, 'below'),
+    ('Nayríz',        29.1975, 54.3281, 'right'),
 ]
 
 PARCHMENT = '#faf7f0'
