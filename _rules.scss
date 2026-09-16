@@ -929,6 +929,14 @@ a.mat {
   display: block;
   grid-template-columns: none;
   margin: 1.4rem 0 2rem;
+
+  // On the Read page this block is a child of `main` and Quarto tags it
+  // `page-full` itself, so the span below only repeats what it already has.
+  // On a week handout the block follows a `## {.passage-heading}` section, so
+  // Quarto nests it inside that section - which is a `page-columns` grid - and
+  // places it in the narrow `body-content` track, leaving the passage text
+  // about 250px wide. Take the same measure as the passage rows above it.
+  grid-column: screen-start / screen-end;
 }
 
 .note-empty {
@@ -1199,6 +1207,12 @@ h3.notes-group {
 // with it instead of running edge to edge.
 @media (max-width: 560px) {
   .paragraph-notes { padding: 0 1.1rem; }
+
+  // On a week handout this block spans the whole grid (see
+  // `.paragraph-notes` above), so its own padding is the phone margin:
+  // take the 2.6rem the passages above it use rather than sitting 24px
+  // further left than them. The Read page keeps the narrower 1.1rem.
+  .passage-heading .paragraph-notes { padding: 0 2.6rem; }
 
   .note-main { padding-left: 0; }
 
