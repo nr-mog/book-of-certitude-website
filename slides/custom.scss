@@ -517,3 +517,23 @@ $code-block-font-size: 0.7em;
 
   p { margin-bottom: 0.55em; }
 }
+
+// A verse quoted on a story slide: italic, indented, lines kept as written.
+.reveal .poem {
+  margin-top: 1.1em;
+
+  blockquote {
+    margin: 0;
+    padding: 0.1rem 0 0.1rem 1em;
+    border-left: 2px solid $gold-soft;
+    font-style: italic;
+    font-size: 1.02em;
+    line-height: 1.45;
+    color: $ink-soft;
+    box-shadow: none;
+    background: none;
+    width: auto;
+  }
+
+  p { margin: 0; }
+}
