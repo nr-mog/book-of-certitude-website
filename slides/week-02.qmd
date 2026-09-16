@@ -56,17 +56,7 @@ Shoghi Effendi, *God Passes By* — the two in bold are where this week's readin
 
 ---
 
-## An initial thought {auto-animate="true"}
-
-```{=html}
-<div class="p2-wrap" data-id="p2">
-<span class="p2">The essence of these words is this: <span class="hl-off" data-id="cleanse" id="s-cleanse">they that tread the path of faith, they that thirst for the wine of certitude, must cleanse themselves of all that is earthly</span>—their ears from idle talk, their minds from vain imaginings, their hearts from worldly affections, their eyes from that which perisheth. They should put their trust in God, and, holding fast unto Him, follow in His way. Then will they be made worthy of the effulgent glories of the sun of divine knowledge and understanding, and become the recipients of a grace that is infinite and unseen, inasmuch as man can never hope to attain unto the <span class="hl-off" data-id="f1" id="s-f1">knowledge of the All-Glorious</span>, can never quaff from the stream of <span class="hl-off" data-id="f2" id="s-f2">divine knowledge and wisdom</span>, can never enter the <span class="hl-off" data-id="f3" id="s-f3">abode of immortality</span>, nor partake of the cup of <span class="hl-off" data-id="f4" id="s-f4">divine nearness and favor</span>, unless and until he ceases to regard the words and deeds of mortal men as a <span class="hl-off" data-id="standard" id="s-standard">standard for the true understanding and recognition of God and His Prophets</span>.</span>
-</div>
-```
-
----
-
-## An initial thought {auto-animate="true"}
+## An initial thought
 
 ```{=html}
 <div class="p2-wrap" data-id="p2">
@@ -76,7 +66,7 @@ Shoghi Effendi, *God Passes By* — the two in bold are where this week's readin
 
 ---
 
-## An initial thought {auto-animate="true" auto-animate-duration="1.1"}
+## An initial thought
 
 ```{=html}
 <div class="flow">

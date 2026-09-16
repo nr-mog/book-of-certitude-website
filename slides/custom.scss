@@ -364,9 +364,11 @@ $code-block-font-size: 0.7em;
 // The text column stops well short of the right edge: the arrows are routed
 // through that margin so they never cross the prose.
 .reveal .p2-wrap {
-  font-size: 0.62em;
-  line-height: 1.55;
+  // Big enough to fill the stage - this slide is the paragraph and nothing else.
+  font-size: 1.06em;
+  line-height: 1.45;
   text-align: left;
+  margin-top: 0.4em;
 }
 
 // A highlight that arrives on a keypress. Reveal hides an ordinary .fragment
@@ -378,9 +380,9 @@ $code-block-font-size: 0.7em;
 .reveal .slides section .fragment.hl-f {
   opacity: 1;
   visibility: inherit;
-  padding: 0.04em 0.1em;
-  border-radius: 2px;
-  transition: background-color 0.35s ease, color 0.35s ease;
+  // No padding, no radius: anything that changes the box re-wraps the line
+  // when the highlight lands. Only the colour changes.
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .reveal .slides section .fragment.hl-f.visible {
@@ -396,19 +398,19 @@ $code-block-font-size: 0.7em;
 .reveal .flow {
   display: flex;
   align-items: center;
-  gap: 0.8em;
-  margin-top: 1.2em;
-  font-size: 0.44em;
+  gap: 0.9em;
+  margin-top: 0.9em;
+  font-size: 0.68em;
   text-align: left;
 }
 
 // The reasoning that follows from the diagram.
 .reveal .flow-notes {
-  margin-top: 1.2em;
-  font-size: 0.5em;
-  line-height: 1.4;
+  margin-top: 1.1em;
+  font-size: 0.72em;
+  line-height: 1.45;
 
-  li { margin-bottom: 0.3em; }
+  li { margin-bottom: 0.45em; }
 }
 
 .reveal .flow-step {
