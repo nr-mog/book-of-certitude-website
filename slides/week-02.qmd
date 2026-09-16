@@ -98,7 +98,7 @@ Nabíl-i-Akbar
 :::
 
 ::: {.figure-slide}
-::: {.fs-body}
+::: {.fs-body .incremental}
 - Áqá Muḥammad-i-Qá'iní
 - Known as the Learned One of Qá'ín
 - Born: 29 March 1829, Qá'ín, Iran
@@ -122,7 +122,7 @@ Nabíl-i-Akbar
 :::
 
 ::: {.figure-slide}
-::: {.fs-body}
+::: {.fs-body .incremental}
 - He spent much of his early years pursuing a traditional Islamic education
 - He studied with his father at home
 - Around 1847 he goes to Sabzevár to study theology and philosophy for five years
@@ -131,23 +131,6 @@ Nabíl-i-Akbar
   of the Sháh. Though not a Bábí, he is caught up in the chaos and arrested
 - A Bábí gives him some of the Báb's writings, which he studies intending to write a refutation —
   and instead concludes that the Báb's claims are true
-:::
-
-::: {.fs-portrait}
-![](../images/Nabil-i-Akbar.jpg)
-:::
-:::
-
----
-
-## Story Corner
-
-::: {.slide-sub}
-Nabíl-i-Akbar
-:::
-
-::: {.figure-slide}
-::: {.fs-body}
 - He continues on to Najaf, where he studies for six years under the famous mujtahid
   Shaykh Murtaḍá
 - Shaykh Murtaḍá conferred the rank of mujtahid on only three students in his lifetime. Nabíl
@@ -170,6 +153,7 @@ Nabíl-i-Akbar
 
 ::: {.figure-slide}
 ::: {.fs-body .fs-prose}
+::: {.fragment}
 One afternoon I was seated in the room talking with Mullá Muhammad-Sádiq-i-Khurásání, known as
 Muqaddas. He was a learned man of great dignity and stature. As we were talking together,
 Bahá'u'lláh, Who had just returned from the town, arrived in the outer apartment accompanied by
@@ -179,21 +163,7 @@ action did not please Bahá'u'lláh Who angrily rebuked Mullá Sádiq and ordere
 immediately, after which He went out of the room followed by the Prince.
 :::
 
-::: {.fs-portrait}
-![](../images/Nabil-i-Akbar.jpg)
-:::
-:::
-
----
-
-## Story Corner
-
-::: {.slide-sub}
-Nabíl-i-Akbar
-:::
-
-::: {.figure-slide}
-::: {.fs-body .fs-prose}
+::: {.fragment}
 I was amazed and bewildered at such behaviour on the part of Mullá Sádiq as I had never expected
 such an important person to act in this manner. Having witnessed Bahá'u'lláh's reaction also, I
 expressed my disapproval of Mullá Sádiq's behaviour and admonished him for it, saying: 'You are a
@@ -201,6 +171,7 @@ man who occupies an exalted position in the realm of knowledge and learning and,
 you had the honour of attaining the presence of the Báb Himself. Your rank is next to the Letters
 of the Living and you are one of the Witnesses of the Dispensation of the Báb.'
 :::
+:::
 
 ::: {.fs-portrait}
 ![](../images/Nabil-i-Akbar.jpg)
@@ -217,6 +188,7 @@ Nabíl-i-Akbar
 
 ::: {.figure-slide}
 ::: {.fs-body .fs-prose}
+::: {.fragment}
 'It is true that Bahá'u'lláh is an eminent person Who belongs to the nobility and His ancestors
 have occupied high positions in the government. It is also true that He has suffered persecution
 and imprisonment as a result of embracing the Cause of God, that all His possessions have been
@@ -228,21 +200,7 @@ beaming with joy; he merely said to me, 'I beseech God to tear asunder the veil 
 His bounties upon thy person through His abundant grace.'
 :::
 
-::: {.fs-portrait}
-![](../images/Nabil-i-Akbar.jpg)
-:::
-:::
-
----
-
-## Story Corner
-
-::: {.slide-sub}
-Nabíl-i-Akbar
-:::
-
-::: {.figure-slide}
-::: {.fs-body .fs-prose}
+::: {.fragment}
 After this incident, I decided in my heart to investigate and began to observe the person of
 Bahá'u'lláh and His actions very carefully. The more I observed the less I discovered any sign
 which could point to His claiming a station. On the contrary, I observed in Him nothing, either in
@@ -250,6 +208,7 @@ word or deed, except humility, self-effacement, servitude and utter nothingness.
 led into grievous error, believing that I was in every way superior to Bahá'u'lláh, and preferred
 my own self to Him.
 :::
+:::
 
 ::: {.fs-portrait}
 ![](../images/Nabil-i-Akbar.jpg)
@@ -265,7 +224,8 @@ Nabíl-i-Akbar
 :::
 
 ::: {.figure-slide}
-::: {.fs-body .fs-prose}
+::: {.fs-body .fs-prose .fs-tight}
+::: {.fragment}
 It was through my vain imagining that in the gatherings of the friends I always used to occupy the
 seat of honour, assume the function of the speaker and would not give an opportunity to Bahá'u'lláh
 or anyone else to say anything. One afternoon, Bahá'u'lláh arranged a meeting in His house and a
@@ -274,21 +234,7 @@ the Pen of the Most High, circle in adoration the people of Bahá. Again, I occu
 honour. Bahá'u'lláh sat in the midst of the friends and was serving tea with His own hands.
 :::
 
-::: {.fs-portrait}
-![](../images/Nabil-i-Akbar.jpg)
-:::
-:::
-
----
-
-## Story Corner
-
-::: {.slide-sub}
-Nabíl-i-Akbar
-:::
-
-::: {.figure-slide}
-::: {.fs-body .fs-prose}
+::: {.fragment}
 In the course of the meeting, a certain question was asked. Having satisfied myself that no one in
 the room was capable of tackling the problem, I began to speak. All the friends were attentively
 listening and were absolutely silent, except Bahá'u'lláh Who occasionally, while agreeing with my
@@ -297,21 +243,7 @@ explanations were so profound and the ocean of His utterance surged with such a 
 being was overtaken with awe and fear.
 :::
 
-::: {.fs-portrait}
-![](../images/Nabil-i-Akbar.jpg)
-:::
-:::
-
----
-
-## Story Corner
-
-::: {.slide-sub}
-Nabíl-i-Akbar
-:::
-
-::: {.figure-slide}
-::: {.fs-body .fs-prose}
+::: {.fragment}
 Spellbound by His words, I was plunged into a state of dazed bewilderment. After a few minutes of
 listening to His words — words of unparalleled wonder and majesty — I became dumbfounded. I could
 no longer hear His voice. Only by the movement of His lips did I know that He was still speaking.
@@ -320,6 +252,7 @@ waited impatiently until I saw that His lips were no longer moving when I knew t
 talking. Like a helpless bird which is freed from the claws of a mighty falcon I rose to my feet
 and went out. There three times I hit my head hard against the wall and rebuked myself for my
 spiritual blindness.
+:::
 :::
 
 ::: {.fs-portrait}
