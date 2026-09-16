@@ -112,6 +112,8 @@ Nabíl-i-Akbar
 > My love to hide—\
 > But how could I, upon that blazing pyre\
 > Not catch fire!
+
+[ʻAbdu'l-Bahá, in honour of Nabíl-i-Akbar]{.poem-attrib}
 :::
 :::
 
@@ -148,6 +150,18 @@ Nabíl-i-Akbar
 ::: {.fs-portrait}
 ![](../images/Nabil-i-Akbar.jpg)
 :::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.journey}
+![](../images/nabil-journey.svg)
 :::
 
 ---

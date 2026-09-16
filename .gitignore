@@ -5,3 +5,4 @@ _site/
 node_modules/
 
 /.quarto/
+tools/sources/ne_50m_admin_0_countries.geojson
