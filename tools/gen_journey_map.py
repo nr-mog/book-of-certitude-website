@@ -47,6 +47,19 @@ STOPS = [
 # The order travelled: Qá'in to Sabzevár to Ṭihrán, on to Najaf, then Baghdád.
 ROUTE = [0, 1, 2, 3, 4]
 
+# Places worth seeing on the same map, not part of the journey: no line, no
+# number. Badasht is the one soft coordinate here - the conference was held in
+# a hamlet near Sháhrúd, and this is that valley rather than a surveyed point.
+CITIES = [
+    ('Tabríz',   38.0800, 46.2919, 'right'),
+    ('Zanján',   36.6736, 48.4787, 'above'),
+    ('Bábul',    36.5513, 52.6790, 'above'),
+    ('Badasht',       36.4500, 55.0000, 'below'),
+    ('Karbilá',  32.6160, 44.0249, 'right'),
+    ('Shíráz', 29.5918, 52.5837, 'below'),
+    ('Nayríz',   29.1975, 54.3281, 'right'),
+]
+
 PARCHMENT = '#faf7f0'
 WATER = '#edf1f0'   # barely blue: the map sits on parchment
 LAND = '#f1ece1'
@@ -157,6 +170,21 @@ def main():
                'stroke-linejoin="round" stroke-linecap="round" opacity="0.9"/>'
                % (' L '.join('%.1f,%.1f' % p for p in pts), GOLD))
 
+    # The other places first, so a journey marker always sits on top.
+    for label, lat, lon, place in CITIES:
+        x, y = project(lon, lat)
+        svg.append('<circle cx="%.1f" cy="%.1f" r="4.2" fill="%s" stroke="%s" '
+                   'stroke-width="1.4"/>' % (x, y, PARCHMENT, INK_FAINT))
+        dx, dy, anchor = {
+            'above': (0, -15, 'middle'),
+            'below': (0, 26, 'middle'),
+            'left':  (-12, 7, 'end'),
+            'right': (12, 7, 'start'),
+        }[place]
+        svg.append('<text x="%.1f" y="%.1f" class="map-city" fill="%s" '
+                   'font-size="21" text-anchor="%s">%s</text>'
+                   % (x + dx, y + dy, INK_FAINT, anchor, label))
+
     for order, i in enumerate(ROUTE, start=1):
         label, lat, lon, place = STOPS[i]
         x, y = project(lon, lat)
@@ -169,7 +197,7 @@ def main():
             'left':  (-15, 7, 'end'),
             'right': (12, 5, 'start'),
         }[place]
-        svg.append('<text x="%.1f" y="%.1f" class="map-stop" fill="%s" font-size="23" '
+        svg.append('<text x="%.1f" y="%.1f" class="map-stop" fill="%s" font-size="26" '
                    'text-anchor="%s">%d. %s</text>'
                    % (x + dx, y + dy, INK, anchor, order, label))
 

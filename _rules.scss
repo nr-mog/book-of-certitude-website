@@ -1864,8 +1864,11 @@ a.btn-pdf {
   nav[role="doc-toc"],
   .handout-actions,
   // The whole "Your notes" section, heading and all: a handout is for reading
-  // from, and the reader's own notes are theirs, not the printout's.
+  // from, and the reader's own notes are theirs, not the printout's. The id is
+  // listed as well as the wrapper, since an edit to a week page can drop the
+  // wrapper without anyone noticing - which is exactly what happened.
   .notes-section,
+  #paragraph-notes,
   .notes-intro,
   .note-side,
   .note-ask,
@@ -1888,11 +1891,17 @@ a.btn-pdf {
     break-inside: auto;
   }
 
-  h2.passage-heading {
-    padding-left: 0;
+  // On paper there is no notes column, so nothing should reserve room for one:
+  // the questions and the gathered quotations take the same measure as the
+  // passages, indented to match .note-main above.
+  h2.passage-heading,
+  .passage-body,
+  .denial-list {
+    padding-left: 2.2rem;
     margin-right: 0;
-    break-after: avoid;
   }
+
+  h2.passage-heading { break-after: avoid; }
 
   .note-main { padding-left: 2.2rem; }
 

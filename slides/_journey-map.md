@@ -21,20 +21,34 @@
 <text x="542.1" y="473.8" class="map-country" fill="#6f7889" font-size="17" letter-spacing="3.4">IRAN</text>
 <text x="77.9" y="300.9" class="map-country" fill="#6f7889" font-size="17" letter-spacing="3.4">IRAQ</text>
 <path d="M 702.6,331.6 L 645.0,218.5 L 403.5,242.3 L 132.1,410.3 L 134.1,350.3" fill="none" stroke="#9a7b32" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" opacity="0.9"/>
+<circle cx="208.0" cy="133.5" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
+<text x="220.0" y="140.5" class="map-city" fill="#6f7889" font-size="21" text-anchor="start">Tabríz</text>
+<circle cx="291.9" cy="197.5" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
+<text x="291.9" y="182.5" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Zanján</text>
+<circle cx="453.0" cy="203.1" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
+<text x="453.0" y="188.1" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Bábul</text>
+<circle cx="542.1" cy="207.7" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
+<text x="542.1" y="233.7" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Badasht</text>
+<circle cx="121.0" cy="382.1" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
+<text x="133.0" y="389.1" class="map-city" fill="#6f7889" font-size="21" text-anchor="start">Karbilá</text>
+<circle cx="449.4" cy="519.6" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
+<text x="449.4" y="545.6" class="map-city" fill="#6f7889" font-size="21" text-anchor="middle">Shíráz</text>
+<circle cx="516.3" cy="537.6" r="4.2" fill="#faf7f0" stroke="#6f7889" stroke-width="1.4"/>
+<text x="528.3" y="544.6" class="map-city" fill="#6f7889" font-size="21" text-anchor="start">Nayríz</text>
 <circle cx="702.6" cy="331.6" r="6.6" fill="#faf7f0" stroke="#9a7b32" stroke-width="2.4"/>
 <circle cx="702.6" cy="331.6" r="2.7" fill="#9a7b32"/>
-<text x="702.6" y="361.6" class="map-stop" fill="#1c2331" font-size="23" text-anchor="middle">1. Qáʼin</text>
+<text x="702.6" y="361.6" class="map-stop" fill="#1c2331" font-size="26" text-anchor="middle">1. Qáʼin</text>
 <circle cx="645.0" cy="218.5" r="6.6" fill="#faf7f0" stroke="#9a7b32" stroke-width="2.4"/>
 <circle cx="645.0" cy="218.5" r="2.7" fill="#9a7b32"/>
-<text x="645.0" y="200.5" class="map-stop" fill="#1c2331" font-size="23" text-anchor="middle">2. Sabzevár</text>
+<text x="645.0" y="200.5" class="map-stop" fill="#1c2331" font-size="26" text-anchor="middle">2. Sabzevár</text>
 <circle cx="403.5" cy="242.3" r="6.6" fill="#faf7f0" stroke="#9a7b32" stroke-width="2.4"/>
 <circle cx="403.5" cy="242.3" r="2.7" fill="#9a7b32"/>
-<text x="403.5" y="224.3" class="map-stop" fill="#1c2331" font-size="23" text-anchor="middle">3. Ṭihrán</text>
+<text x="403.5" y="224.3" class="map-stop" fill="#1c2331" font-size="26" text-anchor="middle">3. Ṭihrán</text>
 <circle cx="132.1" cy="410.3" r="6.6" fill="#faf7f0" stroke="#9a7b32" stroke-width="2.4"/>
 <circle cx="132.1" cy="410.3" r="2.7" fill="#9a7b32"/>
-<text x="132.1" y="440.3" class="map-stop" fill="#1c2331" font-size="23" text-anchor="middle">4. Najaf</text>
+<text x="132.1" y="440.3" class="map-stop" fill="#1c2331" font-size="26" text-anchor="middle">4. Najaf</text>
 <circle cx="134.1" cy="350.3" r="6.6" fill="#faf7f0" stroke="#9a7b32" stroke-width="2.4"/>
 <circle cx="134.1" cy="350.3" r="2.7" fill="#9a7b32"/>
-<text x="119.1" y="357.3" class="map-stop" fill="#1c2331" font-size="23" text-anchor="end">5. Baghdád</text>
+<text x="119.1" y="357.3" class="map-stop" fill="#1c2331" font-size="26" text-anchor="end">5. Baghdád</text>
 </svg>
 ```

@@ -74,7 +74,6 @@ Explore full compilation on [Reasons for the Denial of the Prophets](../denials.
   <p class="note-empty">Loading…</p>
 </div>
 ```
-:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)
