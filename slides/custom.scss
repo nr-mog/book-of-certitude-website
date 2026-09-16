@@ -331,13 +331,25 @@ $code-block-font-size: 0.7em;
   line-height: 1.24;
 
   li {
-    color: #8d8675;
+    color: $ink;
     margin-bottom: 0.1em;
 
-    strong { color: $ink; font-weight: 600; }
+    // Plain to begin with: the emphasis arrives on a keypress.
+    strong { color: inherit; font-weight: inherit; }
   }
+}
 
+// Same override reveal uses for its highlight-* fragments, so the list is
+// readable before its turn rather than hidden.
+.reveal .slides section .fragment.overview {
+  opacity: 1;
+  visibility: inherit;
+}
+
+.reveal .slides section .fragment.overview.visible {
+  li { color: #8d8675; transition: color 0.4s ease; }
   li:has(strong) { color: $ink; }
+  strong { color: $ink; font-weight: 600; }
 }
 
 // --- Two cards --------------------------------------------------------------
@@ -389,10 +401,6 @@ $code-block-font-size: 0.7em;
   background: rgba(196, 166, 98, 0.38);
 }
 
-.reveal .slides section .fragment.hl-key.visible {
-  background: rgba(154, 123, 50, 0.92);
-  color: $parchment;
-}
 
 // --- The same thought, straightened out -------------------------------------
 .reveal .flow {
@@ -504,7 +512,7 @@ $code-block-font-size: 0.7em;
 
 // Three paragraphs on one slide need a step down to stay inside the stage.
 .reveal .fs-tight {
-  font-size: 0.54em;
+  font-size: 0.58em;
   line-height: 1.45;
 
   p { margin-bottom: 0.55em; }

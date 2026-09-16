@@ -5,7 +5,7 @@ subtitle: "Paragraphs 1-23 · 16 September 2026"
 
 ## Shoghi Effendi's Overview
 
-::: {.tight .overview}
+::: {.tight .overview .fragment}
 - Proclaims the existence and oneness of a personal God, unknowable, inaccessible, the source of
   all Revelation, eternal, omniscient, omnipresent and almighty
 - Asserts the relativity of religious truth and the continuity of Divine Revelation
@@ -194,7 +194,9 @@ have occupied high positions in the government. It is also true that He has suff
 and imprisonment as a result of embracing the Cause of God, that all His possessions have been
 confiscated and that He has finally been exiled to this land. Yet, your behaviour towards Him this
 afternoon was like that of an unworthy servant towards his glorious Lord.'
+:::
 
+::: {.fragment}
 Mullá Sádiq refrained from answering me. He was in a state of spiritual intoxication, his face
 beaming with joy; he merely said to me, 'I beseech God to tear asunder the veil for thee and shower
 His bounties upon thy person through His abundant grace.'
