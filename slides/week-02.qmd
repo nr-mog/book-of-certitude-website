@@ -3,6 +3,30 @@ title: "Week 2"
 subtitle: "Paragraphs 1-23 · 16 September 2026"
 ---
 
+## Introductions
+
+::: {.incremental}
+- Your name
+- Where you're from
+- Something you're looking forward to this year
+- What do you hope to **get** from this space?
+- What do you hope to **give** to this space?
+:::
+
+---
+
+## Turn to your neighbour
+
+::: {.incremental}
+- With the person next to you try to remember what you read this week
+- What did Bahá'u'lláh say in these paragraphs?
+- What ideas stood out to you?
+- Which parts did you not understand?
+- What questions came up as you were reading?
+:::
+
+---
+
 ## Shoghi Effendi's Overview
 
 ::: {.tight .overview .fragment}
