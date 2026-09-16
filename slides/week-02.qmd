@@ -70,9 +70,9 @@ Shoghi Effendi, *God Passes By* — the two in bold are where this week's readin
 
 ```{=html}
 <div class="flow">
-  <div class="flow-step" data-id="cleanse">they that tread the path of faith, they that thirst for the wine of certitude, must cleanse themselves of all that is earthly</div>
+  <div class="flow-step" data-id="cleanse"> cleanse themselves of all that is earthly</div>
   <div class="flow-arrow">&#8594;</div>
-  <div class="flow-step flow-key" data-id="standard">standard for the true understanding and recognition of God and His Prophets</div>
+  <div class="flow-step flow-key" data-id="standard"> true understanding and recognition of God and His Prophets</div>
   <div class="flow-arrow">&#8594;</div>
   <div class="flow-fruits">
     <div class="flow-fruit" data-id="f1">knowledge of the All-Glorious</div>
@@ -87,16 +87,242 @@ Shoghi Effendi, *God Passes By* — the two in bold are where this week's readin
 - Maybe "recognition of God and His Prophets" = declare as a Bahá'í
 - But that would imply Bahá'ís have cleansed themselves of all that is earthly
 - Bahá'ís have not cleansed themselves of all that is earthly
-- Therefore "recognition of God and His Prophets" ≠ declare as a Bahá'í, and we must embark on
-  this journey along with the uncle of the Báb
+- Therefore "recognition of God and His Prophets" ≠ declare as a Bahá'í
+- We must all embark on this journey along with the uncle of the Báb
 :::
 
-## Story Corner: Nabíl-i-Akbar
+## Story Corner
 
-::: {.smaller}
-Mullá Muḥammad-i-Qá'iní, surnamed **Nabíl-i-Akbar** — "the erudite," in Shoghi Effendi's word —
-was among those who crossed the threshold of the house in Baghdád and attained Bahá'u'lláh's
-presence.
+::: {.slide-sub}
+Nabíl-i-Akbar
 :::
 
-<!-- Yours to fill: the story itself. -->
+::: {.figure-slide}
+::: {.fs-body}
+- Áqá Muḥammad-i-Qá'iní
+- Known as the Learned One of Qá'ín
+- Born: 29 March 1829, Qá'ín, Iran
+- Died: 6 July 1892, Bukhara, Uzbekistan
+
+- Appointed a Hand of the Cause by ʻAbdu'l-Bahá
+- Named one of the nineteen Apostles of Bahá'u'lláh by Shoghi Effendi
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body}
+- He spent much of his early years pursuing a traditional Islamic education
+- He studied with his father at home
+- Around 1847 he goes to Sabzevár to study theology and philosophy for five years
+- In 1852 he sets out for Najaf, in Iraq, to continue his studies
+- On the way he passes through Ṭihrán, in complete turbulence following the attempt on the life
+  of the Sháh. Though not a Bábí, he is caught up in the chaos and arrested
+- A Bábí gives him some of the Báb's writings, which he studies intending to write a refutation —
+  and instead concludes that the Báb's claims are true
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body}
+- He continues on to Najaf, where he studies for six years under the famous mujtahid
+  Shaykh Murtaḍá
+- Shaykh Murtaḍá conferred the rank of mujtahid on only three students in his lifetime. Nabíl
+  was one of them
+- Returning to Iran by way of Baghdád, around 1858, he has the opportunity to meet Bahá'u'lláh
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body .fs-prose}
+One afternoon I was seated in the room talking with Mullá Muhammad-Sádiq-i-Khurásání, known as
+Muqaddas. He was a learned man of great dignity and stature. As we were talking together,
+Bahá'u'lláh, Who had just returned from the town, arrived in the outer apartment accompanied by
+Prince Mulk-Árá whose hand He was holding. Mullá Sádiq, who was the embodiment of dignity and
+solemnity, immediately rose to his feet and prostrated himself at the feet of Bahá'u'lláh. This
+action did not please Bahá'u'lláh Who angrily rebuked Mullá Sádiq and ordered him to rise
+immediately, after which He went out of the room followed by the Prince.
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body .fs-prose}
+I was amazed and bewildered at such behaviour on the part of Mullá Sádiq as I had never expected
+such an important person to act in this manner. Having witnessed Bahá'u'lláh's reaction also, I
+expressed my disapproval of Mullá Sádiq's behaviour and admonished him for it, saying: 'You are a
+man who occupies an exalted position in the realm of knowledge and learning and, above all else,
+you had the honour of attaining the presence of the Báb Himself. Your rank is next to the Letters
+of the Living and you are one of the Witnesses of the Dispensation of the Báb.'
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body .fs-prose}
+'It is true that Bahá'u'lláh is an eminent person Who belongs to the nobility and His ancestors
+have occupied high positions in the government. It is also true that He has suffered persecution
+and imprisonment as a result of embracing the Cause of God, that all His possessions have been
+confiscated and that He has finally been exiled to this land. Yet, your behaviour towards Him this
+afternoon was like that of an unworthy servant towards his glorious Lord.'
+
+Mullá Sádiq refrained from answering me. He was in a state of spiritual intoxication, his face
+beaming with joy; he merely said to me, 'I beseech God to tear asunder the veil for thee and shower
+His bounties upon thy person through His abundant grace.'
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body .fs-prose}
+After this incident, I decided in my heart to investigate and began to observe the person of
+Bahá'u'lláh and His actions very carefully. The more I observed the less I discovered any sign
+which could point to His claiming a station. On the contrary, I observed in Him nothing, either in
+word or deed, except humility, self-effacement, servitude and utter nothingness. As a result, I was
+led into grievous error, believing that I was in every way superior to Bahá'u'lláh, and preferred
+my own self to Him.
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body .fs-prose}
+It was through my vain imagining that in the gatherings of the friends I always used to occupy the
+seat of honour, assume the function of the speaker and would not give an opportunity to Bahá'u'lláh
+or anyone else to say anything. One afternoon, Bahá'u'lláh arranged a meeting in His house and a
+number of friends had gathered, as usual, in the same large room, a room around which, according to
+the Pen of the Most High, circle in adoration the people of Bahá. Again, I occupied the seat of
+honour. Bahá'u'lláh sat in the midst of the friends and was serving tea with His own hands.
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body .fs-prose}
+In the course of the meeting, a certain question was asked. Having satisfied myself that no one in
+the room was capable of tackling the problem, I began to speak. All the friends were attentively
+listening and were absolutely silent, except Bahá'u'lláh Who occasionally, while agreeing with my
+exposition, made a few comments on the subject. Gradually He took over and I became silent. His
+explanations were so profound and the ocean of His utterance surged with such a power that my whole
+being was overtaken with awe and fear.
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
+
+---
+
+## Story Corner
+
+::: {.slide-sub}
+Nabíl-i-Akbar
+:::
+
+::: {.figure-slide}
+::: {.fs-body .fs-prose}
+Spellbound by His words, I was plunged into a state of dazed bewilderment. After a few minutes of
+listening to His words — words of unparalleled wonder and majesty — I became dumbfounded. I could
+no longer hear His voice. Only by the movement of His lips did I know that He was still speaking.
+I felt deeply ashamed and troubled that I was occupying the seat of honour in that meeting. I
+waited impatiently until I saw that His lips were no longer moving when I knew that He had finished
+talking. Like a helpless bird which is freed from the claws of a mighty falcon I rose to my feet
+and went out. There three times I hit my head hard against the wall and rebuked myself for my
+spiritual blindness.
+:::
+
+::: {.fs-portrait}
+![](../images/Nabil-i-Akbar.jpg)
+:::
+:::
