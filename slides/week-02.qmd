@@ -70,14 +70,13 @@ Shoghi Effendi, *God Passes By* — the two in bold are where this week's readin
 
 ```{=html}
 <div class="p2-wrap" data-id="p2">
-<span class="p2">The essence of these words is this: <span class="hl hl-a" data-id="cleanse" id="s-cleanse">they that tread the path of faith, they that thirst for the wine of certitude, must cleanse themselves of all that is earthly</span>—their ears from idle talk, their minds from vain imaginings, their hearts from worldly affections, their eyes from that which perisheth. They should put their trust in God, and, holding fast unto Him, follow in His way. Then will they be made worthy of the effulgent glories of the sun of divine knowledge and understanding, and become the recipients of a grace that is infinite and unseen, inasmuch as man can never hope to attain unto the <span class="hl hl-c" data-id="f1" id="s-f1">knowledge of the All-Glorious</span>, can never quaff from the stream of <span class="hl hl-c" data-id="f2" id="s-f2">divine knowledge and wisdom</span>, can never enter the <span class="hl hl-c" data-id="f3" id="s-f3">abode of immortality</span>, nor partake of the cup of <span class="hl hl-c" data-id="f4" id="s-f4">divine nearness and favor</span>, unless and until he ceases to regard the words and deeds of mortal men as a <span class="hl hl-b" data-id="standard" id="s-standard">standard for the true understanding and recognition of God and His Prophets</span>.</span>
+<span class="p2">The essence of these words is this: <span class="fragment hl-f" data-fragment-index="1" data-id="cleanse">they that tread the path of faith, they that thirst for the wine of certitude, must cleanse themselves of all that is earthly</span>—their ears from idle talk, their minds from vain imaginings, their hearts from worldly affections, their eyes from that which perisheth. They should put their trust in God, and, holding fast unto Him, follow in His way. Then will they be made worthy of the effulgent glories of the sun of divine knowledge and understanding, and become the recipients of a grace that is infinite and unseen, inasmuch as man can never hope to attain unto the <span class="fragment hl-f" data-fragment-index="3" data-id="f1">knowledge of the All-Glorious</span>, can never quaff from the stream of <span class="fragment hl-f" data-fragment-index="4" data-id="f2">divine knowledge and wisdom</span>, can never enter the <span class="fragment hl-f" data-fragment-index="5" data-id="f3">abode of immortality</span>, nor partake of the cup of <span class="fragment hl-f" data-fragment-index="6" data-id="f4">divine nearness and favor</span>, unless and until he ceases to regard the words and deeds of mortal men as a <span class="fragment hl-f hl-key" data-fragment-index="2" data-id="standard">standard for the true understanding and recognition of God and His Prophets</span>.</span>
 </div>
-<svg class="p2-arrows" viewBox="0 0 1200 750" aria-hidden="true"><path d="M 448,104 H 830 V 349 H 676"/><polygon points="676.0,349.0 685.0,345.0 685.0,353.0"/><path class="thin" d="M 690,349 H 1000 V 257 H 411"/><polygon points="411.0,257.0 420.0,253.0 420.0,261.0"/><path class="thin" d="M 690,349 H 970 V 287.5 H 213"/><polygon points="213.0,287.5 222.0,283.5 222.0,291.5"/><path class="thin" d="M 690,349 H 940 V 292 H 545"/><polygon points="545.0,292.0 554.0,288.0 554.0,296.0"/><path class="thin" d="M 690,349 H 910 V 318 H 227"/><polygon points="227.0,318.0 236.0,314.0 236.0,322.0"/></svg>
 ```
 
 ---
 
-## {auto-animate="true" auto-animate-duration="1.1"}
+## An initial thought {auto-animate="true" auto-animate-duration="1.1"}
 
 ```{=html}
 <div class="flow">
@@ -94,7 +93,13 @@ Shoghi Effendi, *God Passes By* — the two in bold are where this week's readin
 </div>
 ```
 
----
+::: {.flow-notes .incremental}
+- Maybe "recognition of God and His Prophets" = declare as a Bahá'í
+- But that would imply Bahá'ís have cleansed themselves of all that is earthly
+- Bahá'ís have not cleansed themselves of all that is earthly
+- Therefore "recognition of God and His Prophets" ≠ declare as a Bahá'í, and we must embark on
+  this journey along with the uncle of the Báb
+:::
 
 ## Story Corner: Nabíl-i-Akbar
 

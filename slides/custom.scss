@@ -364,48 +364,51 @@ $code-block-font-size: 0.7em;
 // The text column stops well short of the right edge: the arrows are routed
 // through that margin so they never cross the prose.
 .reveal .p2-wrap {
-  position: absolute;
-  left: 20px;
-  top: 40px;
-  width: 760px;
-  font-size: 0.6em;
-  line-height: 1.5;
+  font-size: 0.62em;
+  line-height: 1.55;
   text-align: left;
 }
 
-.reveal .hl-off { transition: background 0.3s ease, color 0.3s ease; }
-
-.reveal .hl {
-  padding: 0.05em 0.12em;
+// A highlight that arrives on a keypress. Reveal hides an ordinary .fragment
+// until its turn; these must stay readable from the start and only take the
+// colour when called, which is how reveal's own highlight-* fragments behave.
+// The selector has to match reveal's own - .reveal .slides section .fragment
+// beats a plainer rule, and the words would vanish from the sentence until
+// their turn came.
+.reveal .slides section .fragment.hl-f {
+  opacity: 1;
+  visibility: inherit;
+  padding: 0.04em 0.1em;
   border-radius: 2px;
+  transition: background-color 0.35s ease, color 0.35s ease;
 }
 
-.reveal .hl-a { background: rgba(196, 166, 98, 0.32); }
-.reveal .hl-b { background: rgba(154, 123, 50, 0.9); color: $parchment; }
-.reveal .hl-c { background: rgba(196, 166, 98, 0.18); box-shadow: inset 0 -0.5em 0 rgba(196,166,98,0.18); }
+.reveal .slides section .fragment.hl-f.visible {
+  background: rgba(196, 166, 98, 0.38);
+}
 
-.reveal .p2-arrows {
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  overflow: visible;
-
-  path { fill: none; stroke: $gold; stroke-width: 1.6; }
-  path.thin { stroke-width: 1.1; opacity: 0.75; }
-  polygon { fill: $gold; }
+.reveal .slides section .fragment.hl-key.visible {
+  background: rgba(154, 123, 50, 0.92);
+  color: $parchment;
 }
 
 // --- The same thought, straightened out -------------------------------------
 .reveal .flow {
   display: flex;
   align-items: center;
-  gap: 0.9em;
+  gap: 0.8em;
   margin-top: 1.2em;
-  font-size: 0.52em;
+  font-size: 0.44em;
   text-align: left;
+}
+
+// The reasoning that follows from the diagram.
+.reveal .flow-notes {
+  margin-top: 1.2em;
+  font-size: 0.5em;
+  line-height: 1.4;
+
+  li { margin-bottom: 0.3em; }
 }
 
 .reveal .flow-step {
