@@ -1978,6 +1978,28 @@ a.btn-pdf {
 //
 // Kept last in the file on purpose. A media query adds no specificity, so any
 // base rule appearing after these would win on source order.
+// --- Where a handout ends ---------------------------------------------------
+// The one line left on a handout, and it is a boundary rather than a divider:
+// above it the material for the session, below it the week's paragraphs with a
+// box against each. It runs the width of the material only - the notes column
+// is empty here - and the reading starts well clear of it.
+body:has(.handout-actions) .paragraph-notes {
+  margin-top: 3.6rem;
+
+  &::before {
+    content: "";
+    display: block;
+    width: calc(100% - (var(--note-col) + var(--note-gap)));
+    border-top: 1px solid $rule;
+    margin-bottom: 3rem;
+
+    // No notes column beside the text on a phone, so the line runs the whole
+    // measure. Nested rather than left to the mobile block further up, which
+    // this rule would otherwise outrank on source order.
+    @media (max-width: 560px) { width: 100%; }
+  }
+}
+
 // --- No rules on a handout --------------------------------------------------
 // Nima's call: a week handout reads as one continuous piece, so nothing on it
 // is separated by a line - not the passages from one another, not a heading
