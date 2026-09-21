@@ -1718,6 +1718,14 @@ a.start-reading {
 // the prose around it.
 .passage-row .note-text { font-weight: 600; }
 
+// Quarto only tags a section `page-full` when it holds a full-width child of
+// its own, so a section made of nothing but a heading and questions is left in
+// the narrower page track - and everything in it then sits 24px inside the
+// section above. Span the section itself; what is in it keeps its own measure.
+section.level2.passage-heading {
+  grid-column: screen-start / screen-end;
+}
+
 h2.passage-heading {
   // Quarto puts headings in the body-content column while the passage rows
   // span the full screen column, which is what left the two out of line.
@@ -1766,6 +1774,30 @@ h2.passage-heading {
     color: inherit;
 
     li { margin-bottom: 0.4rem; }
+  }
+
+  // A passage quoted inside a question is the text, not the apparatus: it
+  // takes the serif face, the full size and the weight the gathered
+  // quotations have, so the question around it stays the quieter voice.
+  blockquote {
+    font-family: $font-family-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: $ink;
+    border-left: 2px solid $rule;
+    padding: 0.1rem 0 0.1rem 1.1rem;
+    margin: 0.9rem 0 1.1rem;
+
+    p { margin: 0; }
+
+    .attrib {
+      font-weight: 400;
+      font-size: 0.7rem;
+      letter-spacing: 0.06em;
+      margin-top: 0.45rem;
+    }
   }
 }
 

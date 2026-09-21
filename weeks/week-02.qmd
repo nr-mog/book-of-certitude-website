@@ -45,40 +45,6 @@ page-layout: full
 ```
 
 
-## Reasons for the Denial of the Prophets {.passage-heading}
-
-```{=html}
-<div class="note-row passage-row" data-p="8"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p8" title="Paragraph 8 in the full text">8</a></div><div class="note-text">And now, consider and reflect a moment upon the waywardness of this people. What could have been the reason for such denial and avoidance on their part? What could have induced them to refuse to put off the garment of denial, and to adorn themselves with the robe of acceptance? Moreover, what could have caused the nonfulfillment of the divine promise which led the seekers to reject that which they had accepted? Meditate profoundly, that the secret of things unseen may be revealed unto you, that you may inhale the sweetness of a spiritual and imperishable fragrance, and that you may acknowledge the truth that from time immemorial even unto eternity the Almighty hath tried, and will continue to try, His servants, so that light may be distinguished from darkness, truth from falsehood, right from wrong, guidance from error, happiness from misery, and roses from thorns. Even as He hath revealed: “Do men think when they say ‘We believe’ they shall be let alone and not be put to proof?”<sup class="fn-ref" data-fn="5" role="button" tabindex="0" aria-label="Footnote 5">5</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 8" placeholder="Your note on paragraph 8…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
-<div class="note-row passage-row" data-p="13"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p13" title="Paragraph 13 in the full text">13</a></div><div class="note-text">And now, ponder upon these things. What could have caused such contention and conflict? Why is it that the advent of every true <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span> of God hath been accompanied by such strife and tumult, by such tyranny and upheaval? This notwithstanding the fact that all the Prophets of God, whenever made manifest unto the peoples of the world, have invariably foretold the coming of yet another Prophet after them, and have established such signs as would herald the advent of the future Dispensation. To this the records of all sacred books bear witness. Why then is it that despite the expectation of men in their quest of the Manifestations of Holiness, and in spite of the signs recorded in the sacred books, such acts of violence, of oppression and cruelty, should have been perpetrated in every age and cycle against all the Prophets and chosen Ones of God? Even as He hath revealed: “As oft as an Apostle cometh unto you with that which your souls desire not, ye swell with pride, accusing some of being impostors and slaying others.”<sup class="fn-ref" data-fn="11" role="button" tabindex="0" aria-label="Footnote 11">11</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 13" placeholder="Your note on paragraph 13…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
-```
-
-::: {.passage-body}
-5. Nine times in these opening passages Bahá'u'lláh asks the reader to 'consider', to 'ponder', or to 'reflect' on the reason for the denial of the Prophets and become familiar with the cruelties they suffered. The more we observe these denials, He claims, the firmer will become our faith in the Cause of God. Below are some extracts which document various reasons people have given for the denial of particular Prophets. What themes can you identify? 
-:::
-
-
-```{=html}
-<div class="denial-list">
-<figure class="denial"><blockquote><p>"Then said the chiefs of his people who believed not, "We see in thee but a man like ourselves; and we see not who have followed thee except our meanest ones of hasty judgment, nor see we any excellence in you above ourselves: nay, we deem you liars."</p></blockquote><figcaption><span class="denial-prophet">Noah</span><span class="denial-source">Qur'án 11:27</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"They argued, “O Húd! You have not given us any clear proof, and we will never abandon our gods upon your word, nor will we believe in you. All we can say is that some of our gods have possessed you with evil.”"</p></blockquote><figcaption><span class="denial-prophet">Húd</span><span class="denial-source">Qur'án 11:53-54</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"They said, "O Ṣáliḥ! our hopes were fixed on thee till now: forbiddest thou us to worship what our fathers worshipped? Truly we misdoubt the faith to which thou callest us, as suspicious.""</p></blockquote><figcaption><span class="denial-prophet">Ṣáliḥ</span><span class="denial-source">Qur'án 11:62</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"They said, "O Shuʻayb! we understand not much of what thou sayest, and we clearly see that thou art powerless among us: were it not for thy family we would have surely stoned thee, nor couldest thou have prevailed against us.""</p></blockquote><figcaption><span class="denial-prophet">Shuʻayb</span><span class="denial-source">Qur'án 11:91</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"They asked [sarcastically], “O Shuʻayb! Does your prayer command you that we should abandon what our forefathers worshipped or give up managing our wealth as we please? Indeed, you are such a tolerant, sensible man!”"</p></blockquote><figcaption><span class="denial-prophet">Shuʻayb</span><span class="denial-source">Qur'án 11:87</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"Among these signs is this, that the Messiah should come from an unknown place, yet we all know this man’s house in Nazareth, and can any good thing come out of Nazareth?"</p></blockquote><figcaption><span class="denial-prophet">Jesus</span><span class="denial-source">ʻAbdu'l‑Bahá</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"And they say: "What sort of a messenger is this, who eats food, and walks through the streets? Why has not an angel been sent down to him to give admonition with him?""</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 25:7</span></figcaption></figure>
-<figure class="denial"><blockquote><p>"“Shall we, then, give up our deities at the bidding of a mad poet?”"</p></blockquote><figcaption><span class="denial-prophet">Muḥammad</span><span class="denial-source">Qur'án 37:36</span></figcaption></figure>
-</div>
-```
-
-::: {.passage-body}
-Explore full compilation on [Reasons for the Denial of the Prophets](../denials.qmd)
-:::
-
-::: {.passage-body}
-6. In your discussions you will probably have touched on the imperfections of human character, such as prejudice, self-interest, and closed mindedness that leads to rejection of new ways of thinking and being. Bahá'u'lláh suggests that meditating on the reason for the rejection of the Prophets will lead us to acknowledge the truth that "from time immemorial even unto eternity the Almighty hath tried, and will continue to try, His servants, so that light may be distinguished from darkness, truth from falsehood, right from wrong, guidance from error, happiness from misery, and roses from thorns." What is your current understanding of this truth?
-:::
-
-
 ```{=html}
 <div id="paragraph-notes" data-week="2" class="paragraph-notes">
   <p class="note-empty">Loading…</p>
