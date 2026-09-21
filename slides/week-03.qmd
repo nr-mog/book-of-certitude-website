@@ -3,21 +3,64 @@ title: "Week 3"
 subtitle: "23 September 2026 · Paragraphs 24–50"
 ---
 
-##  {.divider}
+## Turn to your neighbour
 
-::: {.kicker}
-Week 3
-:::
-::: {.divider-title}
-Paragraphs 24–50
+::: {.incremental}
+- With the person next to you try to remember what you read this week
+- What did Bahá'u'lláh say in these paragraphs?
+- What ideas stood out to you?
+- Which parts did you not understand?
+- What questions came up as you were reading?
 :::
 
 ---
 
-## Reflections or questions
+## Shoghi Effendi's Overview
 
-::: {.incremental}
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+::: {.tight .overview .fragment}
+- Proclaims the existence and oneness of a personal God, unknowable, inaccessible, the source of
+  all Revelation, eternal, omniscient, omnipresent and almighty
+- Asserts the relativity of religious truth and the continuity of Divine Revelation
+- Affirms the unity of the Prophets, the universality of their Message, the identity of their
+  fundamental teachings, the sanctity of their scriptures, and the twofold character of their stations
+- **Denounces the blindness and perversity of the divines and doctors of every age**
+- **Cites and elucidates the allegorical passages of the New Testament, the abstruse verses of the
+  Qur'án, and the cryptic Muḥammadan traditions which have bred those age-long misunderstandings, doubts and animosities that have sundered and kept apart the followers of the world’s leading religious systems**
+- Enumerates the essential prerequisites for the attainment by every true seeker of the object
+  of his quest
+- Demonstrates the validity, the sublimity and significance of the Báb's Revelation
+- Unfolds the meaning of such symbolic terms as "Return," "Resurrection," "Seal of the Prophets"
+  and "Day of Judgment"
+- Distinguishes between the three stages of Divine Revelation
+- Expatiates upon the glories and wonders of the "City of God"
+:::
+
+::: {.tiny}
+Shoghi Effendi, *God Passes By* — the two in bold are where this week's reading takes us.
+:::
+
+---
+
+## Two themes this week
+
+::: {.tiles .two}
+::: {.tile .marked}
+[Reasons for the Denial of the Prophets]{.tile-name}
+[Paragraphs 8 and 13]{.tile-epithet}
+
+- Every Manifestation has been met with **denial, strife and cruelty**
+- Yet each was **foretold**, and the signs of His coming recorded
+- The tests are deliberate: that **light may be distinguished from darkness**, and roses from thorns
+- Nine times in these pages we are asked to **consider, ponder, reflect** on why
+:::
+
+::: {.tile .marked}
+[The Meaning of Symbolic Terms]{.tile-name}
+[Paragraphs 28–48]{.tile-epithet}
+
+- The people awaited a sky that splits and an earth made new — Bahá'u'lláh reads these as **symbols**
+- **Oppression**: not the sword, but a soul seeking truth with nowhere to turn
+- **Sun, moon and stars**: the Prophets, the divines who follow them, and the laws of a Dispensation
+- **Cleaving of the heaven**: an established Revelation set aside at the appearance of one soul
+:::
 :::
