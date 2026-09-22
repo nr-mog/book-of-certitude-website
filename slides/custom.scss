@@ -498,6 +498,10 @@ $code-block-font-size: 0.7em;
 
 .reveal .fs-portrait {
   flex: 0 0 300px;
+  // Against the right edge of the stage even when the text beside it takes a
+  // capped measure (.fs-narrow), which otherwise left the portrait adrift in
+  // the middle with the free space after it.
+  margin-left: auto;
 
   img {
     display: block;
