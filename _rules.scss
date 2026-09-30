@@ -1109,6 +1109,16 @@ sup.fn-ref, sup.src-ref {
   &.fn-missing { color: $ink-faint; }
 }
 
+// The dagger has no x-height to speak of, so at the size the numerals take it
+// reads as a speck. Set larger, and nudged down, to carry the same weight on
+// the line as a footnote numeral does.
+sup.src-ref {
+  font-size: 0.82em;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.35em;
+}
+
 .fn-pop {
   position: absolute;
   z-index: 400;
