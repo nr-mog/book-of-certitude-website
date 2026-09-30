@@ -470,21 +470,34 @@
   function openPop(el) {
     closePop();
     var isGl = el.className.indexOf('gl-ref') !== -1;
-    var head, body;
+    // A source note written into the page itself, rather than one of the
+    // Íqán's own numbered footnotes: the marker carries its own text, and
+    // optionally a link, so a handout can cite a book without that citation
+    // having to exist in data/footnotes.json.
+    var isSrc = el.className.indexOf('src-ref') !== -1;
+    var head, body, href;
     if (isGl) {
       var entry = GLOSSARY && GLOSSARY[el.getAttribute('data-gl')];
       head = entry ? entry.term : el.textContent;
       body = entry ? entry.def : 'This entry is not recorded.';
+    } else if (isSrc) {
+      head = el.getAttribute('data-note-head') || el.textContent;
+      body = el.getAttribute('data-note') || '';
+      href = el.getAttribute('data-note-href');
     } else {
       head = el.getAttribute('data-fn');
       body = (FOOTNOTES && FOOTNOTES[head]) || 'This footnote is not recorded.';
     }
     pop = document.createElement('div');
-    pop.className = isGl ? 'fn-pop gl-pop' : 'fn-pop';
+    pop.className = isGl ? 'fn-pop gl-pop' : (isSrc ? 'fn-pop src-pop' : 'fn-pop');
     pop.setAttribute('role', 'dialog');
     pop.innerHTML =
       '<span class="fn-pop-num">' + esc(head) + '</span>' +
       '<span class="fn-pop-body">' + esc(body) + '</span>' +
+      (href
+        ? '<a class="fn-pop-link" href="' + esc(href) + '" target="_blank" ' +
+          'rel="noopener">Read it online</a>'
+        : '') +
       '<button type="button" class="fn-pop-close" aria-label="Close">&times;</button>';
     document.body.appendChild(pop);
 
@@ -500,7 +513,7 @@
   }
 
   document.addEventListener('click', function (ev) {
-    var ref = ev.target.closest && ev.target.closest('.fn-ref, .gl-ref');
+    var ref = ev.target.closest && ev.target.closest('.fn-ref, .gl-ref, .src-ref');
     if (ref) { ev.preventDefault(); openPop(ref); return; }
     if (pop && !ev.target.closest('.fn-pop')) closePop();
   });
@@ -508,7 +521,8 @@
     if (ev.key === 'Escape') closePop();
     if ((ev.key === 'Enter' || ev.key === ' ') && ev.target.classList &&
         (ev.target.classList.contains('fn-ref') ||
-         ev.target.classList.contains('gl-ref'))) {
+         ev.target.classList.contains('gl-ref') ||
+         ev.target.classList.contains('src-ref'))) {
       ev.preventDefault(); openPop(ev.target);
     }
   });

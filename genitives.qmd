@@ -1,5 +1,5 @@
 ---
-title: "The Metaphorical Genitive in the Kitáb-i-Íqán"
+title: "Images and Their Meanings in the Kitáb-i-Íqán"
 subtitle: "Part One · Paragraphs 1–101"
 toc: true
 toc-depth: 2
@@ -7,26 +7,10 @@ page-layout: full
 ---
 
 ::: {.lead .lead-sm}
-*Iḍáfa-yi isti‘árí*: a symbol and the thing it stands for, joined by a genitive ("the **ocean** of *true understanding*"). In the English translation the Persian iḍáfa almost always comes through as "X **of** Y." Bahá'u'lláh uses the construction to interpret: he names a symbol and, in the same breath, the reality it points to.
+Again and again Bahá'u'lláh explains a symbol by naming it and its meaning in the same breath, joined by the word *of*: the **ocean** of *true understanding*, the **earth** of *divine knowledge*, the **heaven** of *divine Revelation*. The first word is the image; the second says what the image stands for.
 
-**122 symbols · 300 distinct phrases · 327 occurrences**, counted by paragraph.
+This page gathers every such pair in the first part of the Book of Certitude — 122 images, 300 phrases, 327 occurrences. They are listed alphabetically by image, and under each image the phrases appear in the order they first occur. The numbers are paragraph numbers.
 :::
-
-## How to read this list
-
-- Symbols are listed alphabetically. Under each symbol, the phrases are in the order they first appear.
-- The numbers after each phrase are paragraph numbers in the standard numbered edition.
-- ★ marks the exegetical cases Buck describes. Here Bahá’u’lláh is interpreting a symbol from a verse he has quoted (*sun, moon, stars, heaven, earth, clouds*), and the genitive states his interpretation: “the **earth** of *divine knowledge*,” “the **heaven** of *divine Revelation*.”
-- A phrase is included when the first noun is an image (ocean, sun, robe, Sinai, Copt…) and the second noun names what that image means: a quality, a virtue, a state, a concept, or occasionally a person (*Daystar of Muḥammad*).
-
-**Deliberately left out** (useful for class discussion):
-- Genitives of *possession*, where the second noun is simply the owner: *city of God*, *Lamp of God*, *Riḍván of the All-Glorious*, *Sheba of the Eternal*, *touchstone of God*, *Kawthar of their Well-Beloved*.
-- *Literal* uses: *light of the sun*, *clouds of heaven* (quoted scripture), *star of Jesus* (the star the Magi saw), *dayspring of Baṭḥá*.
-- Dead or faded metaphors: *way of God*, *source of power*, *standard of their own knowledge*, *reins of every community*.
-
-> **A note on terms.** Classical Persian rhetoric often separates the *iḍáfa-yi tashbíhí* (similative: “ocean of knowledge” = knowledge *is like* an ocean) from the narrower *iḍáfa-yi isti‘árí* (metaphorical: “the *eye* of the heart,” “the *fingers* of divine power,” where the heart is imagined as having an eye). Buck uses “metaphorical” for both, and so does this list. Sorting the entries into the two types would make a good follow-up exercise.
-
----
 
 ## A
 
@@ -114,7 +98,7 @@ page-layout: full
 
 - *clouds of divine bounty* — ¶3
 - *clouds of grace* — ¶31
-- ★ *clouds of Heaven-sent trials* — ¶82
+- *clouds of Heaven-sent trials* — ¶82
 
 ### collyrium
 
@@ -183,12 +167,12 @@ page-layout: full
 
 ### earth
 
-- ★ *earth of those hearts* — ¶48
-- ★ *earth of divine knowledge and wisdom* — ¶48
-- ★ *earth of their hearts* — ¶48
-- ★ *earth of understanding and knowledge* — ¶51
-- ★ *earth of knowledge and understanding* — ¶51
-- ★ *earth of the pure and illuminated hearts* — ¶53
+- *earth of those hearts* — ¶48
+- *earth of divine knowledge and wisdom* — ¶48
+- *earth of their hearts* — ¶48
+- *earth of understanding and knowledge* — ¶51
+- *earth of knowledge and understanding* — ¶51
+- *earth of the pure and illuminated hearts* — ¶53
 
 ### emblems
 
@@ -291,25 +275,25 @@ page-layout: full
 
 - *heaven of glory* — ¶5
 - *heavens of justice and mercy* — ¶22
-- ★ *heaven of the religion of God* — ¶40
-- ★ *heaven of divine Revelation* — ¶46, 48 (in ¶48 written as the “heaven” of divine Revelation)
-- ★ *heavens of divine Revelation* — ¶51, 52
-- ★ *heavens of the Dispensations of the past* — ¶52
-- ★ *heaven of the will of God* — ¶61, 74
+- *heaven of the religion of God* — ¶40
+- *heaven of divine Revelation* — ¶46, 48 (in ¶48 written as the “heaven” of divine Revelation)
+- *heavens of divine Revelation* — ¶51, 52
+- *heavens of the Dispensations of the past* — ¶52
+- *heaven of the will of God* — ¶61, 74
 - *heavens of utterance* — ¶65
 - *heaven of the love of their Lord* — ¶65
-- ★ *heaven of justice* — ¶66
-- ★ *heaven of divine knowledge and understanding* — ¶70
+- *heaven of justice* — ¶66
+- *heaven of divine knowledge and understanding* — ¶70
 - *heaven of the divine presence* — ¶74
-- ★ *heaven of Command* — ¶75
-- ★ *heaven of Will* — ¶75
-- ★ *heaven of the divine Purpose* — ¶75
-- ★ *heaven of divine Knowledge* — ¶75
-- ★ *heaven of Certitude* — ¶75
-- ★ *heaven of Utterance* — ¶75
-- ★ *heaven of Revelation* — ¶75
-- ★ *heaven of Concealment* — ¶75
-- ★ *heavens of the knowledge and understanding* — ¶80
+- *heaven of Command* — ¶75
+- *heaven of Will* — ¶75
+- *heaven of the divine Purpose* — ¶75
+- *heaven of divine Knowledge* — ¶75
+- *heaven of Certitude* — ¶75
+- *heaven of Utterance* — ¶75
+- *heaven of Revelation* — ¶75
+- *heaven of Concealment* — ¶75
+- *heavens of the knowledge and understanding* — ¶80
 
 ### heights
 
@@ -422,9 +406,9 @@ page-layout: full
 
 ### moon
 
-- ★ *moon of true knowledge* — ¶66
-- ★ *moon of wisdom* — ¶73
-- ★ *Moon of knowledge* — ¶74
+- *moon of true knowledge* — ¶66
+- *moon of wisdom* — ¶73
+- *Moon of knowledge* — ¶74
 
 ### morn
 
@@ -639,9 +623,9 @@ page-layout: full
 
 ### stars
 
-- ★ *stars of the divinely established laws* — ¶66
-- ★ *stars of understanding and utterance* — ¶73
-- ★ *Stars of divine wisdom* — ¶74
+- *stars of the divinely established laws* — ¶66
+- *stars of understanding and utterance* — ¶73
+- *Stars of divine wisdom* — ¶74
 
 ### step
 
@@ -666,9 +650,9 @@ page-layout: full
 - *Sun of true knowledge* — ¶49
 - *Sun of Prophethood* — ¶54
 - *Sun of divine wisdom and understanding* — ¶65
-- ★ *sun of the heavenly teachings* — ¶66
-- ★ *sun of knowledge* — ¶73
-- ★ *Sun of the divine beauty* — ¶74
+- *sun of the heavenly teachings* — ¶66
+- *sun of knowledge* — ¶73
+- *Sun of the divine beauty* — ¶74
 
 ### symbols
 
