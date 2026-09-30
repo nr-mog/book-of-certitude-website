@@ -1,5 +1,5 @@
 ---
-title: "Images and Their Meanings in the Kitáb-i-Íqán"
+title: "Genitive Metaphors in the Kitáb-i-Íqán"
 subtitle: "Part One · Paragraphs 1–101"
 toc: true
 toc-depth: 2
@@ -7,7 +7,9 @@ page-layout: full
 ---
 
 ::: {.lead .lead-sm}
-Again and again Bahá'u'lláh explains a symbol by naming it and its meaning in the same breath, joined by the word *of*: the **ocean** of *true understanding*, the **earth** of *divine knowledge*, the **heaven** of *divine Revelation*. The first word is the image; the second says what the image stands for.
+A **genitive metaphor** is a metaphor built out of a possessive or descriptive construction — 'a flood of messages'. One noun is the actual subject (messages), the other is a figurative image (flood). In English the two are almost always joined by the word *of*.
+
+Bahá'u'lláh uses the construction constantly, and He uses it to interpret: He names an image and the reality it stands for in the same breath — the **ocean** of *true understanding*, the **earth** of *divine knowledge*, the **heaven** of *divine Revelation*.
 
 This page gathers every such pair in the first part of the Book of Certitude — 122 images, 300 phrases, 327 occurrences. They are listed alphabetically by image, and under each image the phrases appear in the order they first occur. The numbers are paragraph numbers.
 :::
