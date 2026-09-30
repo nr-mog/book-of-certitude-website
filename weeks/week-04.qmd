@@ -52,6 +52,14 @@ In these paragraphs Bahá'u'lláh has given symbolic interpretations to terms th
 - **Sun, Moon, Stars** — Manifestations of God and their followers; religious leaders of the former dispensation; teachings and laws of the former dispensation
     - Paragraphs [31](../read.qmd#p31), [34](../read.qmd#p34), [38](../read.qmd#p38), [41](../read.qmd#p41)
 
+In addition to these more explicit interpretations, some scholars have observed that Bahá'u'lláh also implicitly interprets many other terms in these paragraphs through the use of a construct called a *genitive metaphor*. This is a metaphor that is built using a possessive or descriptive construction, for example 'a flood of messages'. One noun is the actual subject (messages) and the other is a figurative image (flood). Bahá'u'lláh uses this device to aid His interpretations. He explains a symbolic term which was previously unclear by suggesting its referent.<sup class="src-ref" role="button" tabindex="0" data-note-head="Source" data-note="Christopher Buck, Symbol and Secret: Qur’án Commentary in Bahá’u’lláh’s Kitáb-i-Íqán." data-note-href="https://bahai-library.com/buck_symbol_secret_quran" aria-label="Source note">†</sup> For example, take the explanation of the changing of the earth:
+
+> In like manner, endeavor to comprehend the meaning of the "changing of the earth." Know thou, that upon whatever hearts the bountiful showers of mercy, raining from the "heaven" of divine Revelation, have fallen, the earth of those hearts hath verily been changed into the earth of divine knowledge and wisdom. What myrtles of unity hath the soil of their hearts produced! What blossoms of true knowledge and wisdom hath their illumined bosoms yielded! … Methinks they have been molded from the clay of infinite knowledge, and kneaded with the water of divine wisdom … Thus hath He said: "On the day when the earth shall be changed into another earth."
+>
+> [Bahá'u'lláh, *Kitáb-i-Íqán* [¶48](../read.qmd#p48)]{.attrib}
+
+See the full list of [genitive metaphors in part one of the Íqán](../genitives.qmd)
+
 3. Shoghi Effendi claims that if we ponder on the Book of Certitude we 'will obtain a clear insight into the old scriptures'. Let us now turn to some of these scriptures and see if we can understand them in light of what we have learned.
 :::
 
@@ -67,20 +75,6 @@ In these paragraphs Bahá'u'lláh has given symbolic interpretations to terms th
 <figure class="denial"><blockquote><p>"I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">6:51</span></figcaption></figure>
 </div>
 ```
-
-::: {.passage-body}
-4. In addition to these more explicit interpretations, some scholars have observed that Bahá'u'lláh also implicitly interprets many other terms in these paragraphs through the use of a construct called a *genitive metaphor*. This is a metaphor that is built using a possessive or descriptive construction, for example 'a flood of messages'. One noun is the actual subject (messages) and the other is a figurative image (flood). Bahá'u'lláh uses this device to aid His interpretations. He explains a symbolic term which was previously unclear by suggesting its referent.<sup class="src-ref" role="button" tabindex="0" data-note-head="Source" data-note="Christopher Buck, Symbol and Secret: Qur’án Commentary in Bahá’u’lláh’s Kitáb-i-Íqán." data-note-href="https://bahai-library.com/buck_symbol_secret_quran" aria-label="Source note">†</sup> For example, take the explanation of the changing of the earth:
-
-    > In like manner, endeavor to comprehend the meaning of the "changing of the earth." Know thou, that upon whatever hearts the bountiful showers of mercy, raining from the "heaven" of divine Revelation, have fallen, the earth of those hearts hath verily been changed into the earth of divine knowledge and wisdom. What myrtles of unity hath the soil of their hearts produced! What blossoms of true knowledge and wisdom hath their illumined bosoms yielded! … Methinks they have been molded from the clay of infinite knowledge, and kneaded with the water of divine wisdom … Thus hath He said: "On the day when the earth shall be changed into another earth."
-    >
-    > [Bahá'u'lláh, *Kitáb-i-Íqán* [¶48](../read.qmd#p48)]{.attrib}
-
-    Which images can you find working this way in this week's paragraphs, and what does each one interpret?
-:::
-
-::: {.passage-body}
-See the full list of [genitive metaphors in part one of the Íqán](../genitives.qmd)
-:::
 
 ```{=html}
 <div id="paragraph-notes" data-week="4" class="paragraph-notes">
