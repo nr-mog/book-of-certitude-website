@@ -1,0 +1,761 @@
+---
+title: "The Metaphorical Genitive in the Kitáb-i-Íqán"
+subtitle: "Part One · Paragraphs 1–101"
+toc: true
+toc-depth: 2
+page-layout: full
+---
+
+::: {.lead .lead-sm}
+*Iḍáfa-yi isti‘árí*: a symbol and the thing it stands for, joined by a genitive ("the **ocean** of *true understanding*"). In the English translation the Persian iḍáfa almost always comes through as "X **of** Y." Bahá'u'lláh uses the construction to interpret: he names a symbol and, in the same breath, the reality it points to.
+
+**122 symbols · 300 distinct phrases · 327 occurrences**, counted by paragraph.
+:::
+
+## How to read this list
+
+- Symbols are listed alphabetically. Under each symbol, the phrases are in the order they first appear.
+- The numbers after each phrase are paragraph numbers in the standard numbered edition.
+- ★ marks the exegetical cases Buck describes. Here Bahá’u’lláh is interpreting a symbol from a verse he has quoted (*sun, moon, stars, heaven, earth, clouds*), and the genitive states his interpretation: “the **earth** of *divine knowledge*,” “the **heaven** of *divine Revelation*.”
+- A phrase is included when the first noun is an image (ocean, sun, robe, Sinai, Copt…) and the second noun names what that image means: a quality, a virtue, a state, a concept, or occasionally a person (*Daystar of Muḥammad*).
+
+**Deliberately left out** (useful for class discussion):
+- Genitives of *possession*, where the second noun is simply the owner: *city of God*, *Lamp of God*, *Riḍván of the All-Glorious*, *Sheba of the Eternal*, *touchstone of God*, *Kawthar of their Well-Beloved*.
+- *Literal* uses: *light of the sun*, *clouds of heaven* (quoted scripture), *star of Jesus* (the star the Magi saw), *dayspring of Baṭḥá*.
+- Dead or faded metaphors: *way of God*, *source of power*, *standard of their own knowledge*, *reins of every community*.
+
+> **A note on terms.** Classical Persian rhetoric often separates the *iḍáfa-yi tashbíhí* (similative: “ocean of knowledge” = knowledge *is like* an ocean) from the narrower *iḍáfa-yi isti‘árí* (metaphorical: “the *eye* of the heart,” “the *fingers* of divine power,” where the heart is imagined as having an eye). Buck uses “metaphorical” for both, and so does this list. Sorting the entries into the two types would make a good follow-up exercise.
+
+---
+
+## A
+
+### abode(s)
+
+- *abode of immortality* — ¶2
+- *abodes of heedlessness and doubt* — ¶5
+
+### Ark
+
+- *Ark of divine guidance* — ¶66
+
+
+## B
+
+### billows
+
+- *billows of loving-kindness* — ¶31
+
+### bird(s)
+
+- *bird of the human heart* — ¶5
+- *Bird of Desire* — ¶15
+- *Birds of Eternity* — ¶16
+
+### blossoms
+
+- *blossoms of knowledge and certitude* — ¶31
+- *blossoms of true knowledge and wisdom* — ¶48
+- *blossoms of the invisible realities* — ¶65
+
+### bough
+
+- *bough of remoteness and bereavement* — ¶64
+
+### breath
+
+- *breath of life* — ¶64, 101
+
+### breeze
+
+- *breeze of divine mercy* — ¶3
+- *breeze of life* — ¶23
+- *breeze of bounty* — ¶31
+- *breeze of the bounty of the King of creation* — ¶50
+- *breeze of His affluence* — ¶56
+
+### Bush / Burning Bush
+
+- *Burning Bush of divine wisdom* — ¶40
+- *Bush of divine knowledge* — ¶57
+- *Bush of love* — ¶65
+
+
+## C
+
+### carrion
+
+- *carrion of the souls of men* — ¶28
+
+### chalice
+
+- *chalice of sacrifice* — ¶15
+- *chalice of immortal life* — ¶75
+
+### chamber(s)
+
+- *chamber of thine heart* — ¶52
+- *chamber of thy heart* — ¶65
+- *chambers of divine wisdom* — ¶78
+
+### children
+
+- *children of negation and falsehood* — ¶5
+
+### city
+
+- *city of the divine presence* — ¶57
+
+### clay
+
+- *clay of infinite knowledge* — ¶48
+
+### clouds
+
+- *clouds of divine bounty* — ¶3
+- *clouds of grace* — ¶31
+- ★ *clouds of Heaven-sent trials* — ¶82
+
+### collyrium
+
+- *collyrium of the knowledge of God* — ¶28
+
+### Copt
+
+- *Copt of tyranny* — ¶16
+
+### court
+
+- *court of holiness* — ¶32
+
+### cup
+
+- *cup of divine nearness and favor* — ¶2
+- *cup of divine knowledge and understanding* — ¶30
+
+
+## D
+
+### darkness
+
+- *darkness of their selfish desires* — ¶42
+
+### dayspring(s)
+
+- *dayspring of the Spirit* — ¶17
+- *dayspring of ancient glory* — ¶31
+- *Daysprings of ancient glory* — ¶74
+- *dayspring of Revelation* — ¶64
+- *dayspring of the divine Essence* — ¶81
+
+### daystar
+
+- *Daystar of Truth* — ¶30, 31, 34, 38
+- *Daystar of divine enlightenment* — ¶35
+- *Daystar of the heaven of justice* — ¶66
+- *Daystar of Muḥammad* — ¶71
+- *daystar of Jesus* — ¶98
+- *Daystar of the beauty of Jesus* — ¶98
+
+### depositories
+
+- *depositories of His law* — ¶31
+
+### dewdrop / drop
+
+- *dewdrop of the waters of everlasting life* — ¶22
+- *drop of the ocean of true understanding* — ¶40
+
+### domain
+
+- *domain of truth* — ¶100
+
+### door
+
+- *door of knowledge* — ¶28
+
+### dust
+
+- *dust of malice* — ¶75
+
+
+## E
+
+### earth
+
+- ★ *earth of those hearts* — ¶48
+- ★ *earth of divine knowledge and wisdom* — ¶48
+- ★ *earth of their hearts* — ¶48
+- ★ *earth of understanding and knowledge* — ¶51
+- ★ *earth of knowledge and understanding* — ¶51
+- ★ *earth of the pure and illuminated hearts* — ¶53
+
+### emblems
+
+- *Emblems of Detachment* — ¶33
+
+### essences
+
+- *Essences of Detachment* — ¶89
+
+### eye
+
+- *eye of discernment* — ¶12
+- *eye of the heart* — ¶61
+- *eye of justice* — ¶63
+- *eye of man’s understanding* — ¶81
+- *eye of thine heart* — ¶99
+
+
+## F
+
+### face
+
+- *face of denial* — ¶37
+
+### fingers
+
+- *fingers of divine power* — ¶28
+
+### fire(s)
+
+- *fires of envy and rebellion* — ¶11
+- *fire of the love of Jesus* — ¶19
+- *fire of bereavement* — ¶19
+- *fire of the love of God* — ¶86
+- *fire of vengeance* — ¶61
+- *fire of self* — ¶84
+
+### firmament
+
+- *firmament of the Bayán* — ¶1
+
+### flame
+
+- *flame of divine wisdom* — ¶12
+- *flame of utter detachment* — ¶75
+
+### fountain / fountainhead
+
+- *fountainhead of knowledge* — ¶16
+- *fountain of divine inspiration* — ¶76
+- *Fountainhead of infinite grace* — ¶82
+
+### fragrance
+
+- *fragrance of belief* — ¶86
+- *fragrance of the meaning of these traditions* — ¶90
+
+### fruit(s)
+
+- *fruit of increased rebelliousness* — ¶9
+- *fruits of His oneness* — ¶31
+- *fruit of patience* — ¶76
+
+
+## G
+
+### garden
+
+- *garden of love* — ¶64
+- *garden of whose soul* — ¶65
+
+### garment
+
+- *garment of denial* — ¶8
+
+### gems
+
+- *Gems of divine virtue* — ¶15
+- *Gems of knowledge* — ¶45
+
+### globe
+
+- *globe of understanding* — ¶65
+
+
+## H
+
+### hand
+
+- *white hand of divine knowledge* — ¶12
+- *hand of divine power* — ¶18
+- *right hand of power* — ¶52
+- *Hand of omnipotence* — ¶99
+
+### haven
+
+- *haven of security and peace* — ¶7
+
+### heaven(s)
+
+- *heaven of glory* — ¶5
+- *heavens of justice and mercy* — ¶22
+- ★ *heaven of the religion of God* — ¶40
+- ★ *heaven of divine Revelation* — ¶46, 48 (in ¶48 written as the “heaven” of divine Revelation)
+- ★ *heavens of divine Revelation* — ¶51, 52
+- ★ *heavens of the Dispensations of the past* — ¶52
+- ★ *heaven of the will of God* — ¶61, 74
+- *heavens of utterance* — ¶65
+- *heaven of the love of their Lord* — ¶65
+- ★ *heaven of justice* — ¶66
+- ★ *heaven of divine knowledge and understanding* — ¶70
+- *heaven of the divine presence* — ¶74
+- ★ *heaven of Command* — ¶75
+- ★ *heaven of Will* — ¶75
+- ★ *heaven of the divine Purpose* — ¶75
+- ★ *heaven of divine Knowledge* — ¶75
+- ★ *heaven of Certitude* — ¶75
+- ★ *heaven of Utterance* — ¶75
+- ★ *heaven of Revelation* — ¶75
+- ★ *heaven of Concealment* — ¶75
+- ★ *heavens of the knowledge and understanding* — ¶80
+
+### heights
+
+- *heights of glory* — ¶15
+- *heights of divine unity* — ¶74
+
+### home
+
+- *home of eternal reunion* — ¶18
+
+### horizon
+
+- *horizon of celestial might* — ¶3
+- *horizon of creation* — ¶9
+- *horizon of divine knowledge* — ¶16
+- *horizon of human hearts* — ¶18
+- *horizon of divine Revelation* — ¶42
+
+### ḥúrís
+
+- *ḥúrís of inner meaning* — ¶78
+
+
+## I
+
+### isles
+
+- *isles of Qur’ánic Revelation* — ¶97
+
+
+## K
+
+### Kawthar
+
+- *Kawthar of the infinite mercy of Providence* — ¶25
+- *Kawthar of the knowledge of God* — ¶81
+
+### Ka‘bih
+
+- *Ka‘bih of the heart’s desire* — ¶78
+
+### kingdom
+
+- *kingdom of eternity* — ¶12
+- *kingdom of glory* — ¶32
+- *Kingdom of divine power* — ¶61
+
+
+## L
+
+### lamp
+
+- *lamp of everlasting dominion* — ¶12
+- *lamp of conscience and reason* — ¶28
+- *lamp of idle fancy* — ¶52
+- *lamp of the spirit* — ¶65
+
+### land
+
+- *land of testimony* — ¶100
+
+### leaves
+
+- *leaves of detachment* — ¶31
+
+### letters
+
+- *Letters of Unity* — ¶89
+
+### light
+
+- *light of the Unseen* — ¶3
+- *light of righteousness* — ¶11
+- *light of divine guidance* — ¶18, 37, 52, 57
+- *light of divine knowledge and heavenly grace* — ¶28
+- *light of the love of God* — ¶31
+- *light of the latter Revelation* — ¶34
+- *light of true understanding* — ¶34
+- *light of truth* — ¶44
+- *light of divine knowledge and certitude* — ¶52
+- *Light of the unity of God* — ¶73
+- *light of His recognition* — ¶100
+
+### loins
+
+- *loins of endeavor* — ¶99
+
+### luminary
+
+- *luminary of earthly knowledge* — ¶35
+
+
+## M
+
+### mantle
+
+- *mantle of utterance* — ¶64
+
+### meads
+
+- *meads of heavenly delight* — ¶57
+
+### mirror
+
+- *mirror of thy heart* — ¶75
+
+### mists
+
+- *mists of error* — ¶18
+
+### moon
+
+- ★ *moon of true knowledge* — ¶66
+- ★ *moon of wisdom* — ¶73
+- ★ *Moon of knowledge* — ¶74
+
+### morn
+
+- *morn of divine guidance* — ¶29
+- *morn of true knowledge* — ¶75
+- *morn of truth and righteousness* — ¶66
+- *morn of certitude* — ¶85
+
+### Moses
+
+- *Moses of truth* — ¶16
+
+### myrtles
+
+- *myrtles of wisdom and utterance* — ¶31
+- *myrtles of unity* — ¶48
+
+
+## N
+
+### nest
+
+- *nest of faith and certainty* — ¶5
+
+### night
+
+- *night of error* — ¶29, 37
+
+### nightingale
+
+- *Nightingale of Holiness* — ¶16
+
+
+## O
+
+### ocean
+
+- *ocean of true understanding* — ¶1, 40
+- *ocean of the divine presence* — ¶18
+- *ocean of the truths* — ¶27
+- *ocean of His names and attributes* — ¶27
+- *ocean of His bountiful grace* — ¶56
+- *ocean of divine knowledge* — ¶68
+- *ocean of God’s grace* — ¶83
+- *ocean of His tender mercies* — ¶98
+
+### odor
+
+- *odor of these dark teachings* — ¶76
+
+### oil
+
+- *oil of wisdom* — ¶65
+
+
+## P
+
+### Párán
+
+- *Párán of the love of God* — ¶12
+
+### path
+
+- *path of faith* — ¶2
+- *path of error* — ¶28
+- *path of His Cause* — ¶44
+- *path of the spirit* — ¶74
+- *path of divine knowledge and wisdom* — ¶85
+
+### Pharaoh
+
+- *Pharaoh of unbelief* — ¶16
+
+### portals
+
+- *portals of grace* — ¶3
+- *portals of divine unity and understanding* — ¶28
+- *portals of the knowledge of God* — ¶28
+- *portals of understanding* — ¶56
+
+### prison-cage
+
+- *prison-cage of self and desire* — ¶56
+
+
+## R
+
+### realm(s)
+
+- *realms of eternity and holiness* — ¶5
+- *realm of guidance and grace* — ¶25
+- *realm of glory* — ¶56
+- *realm of the spirit* — ¶100
+
+### reins
+
+- *reins of authority* — ¶15
+
+### retreats
+
+- *retreats of its ancient sovereignty* — ¶25
+- *retreats of glory* — ¶74
+
+### Riḍván
+
+- *Riḍván of the divine presence* — ¶9
+- *Riḍván of the Gospel* — ¶24
+- *Riḍván of divine wisdom* — ¶37
+- *Riḍván of everlasting reunion* — ¶44
+- *Riḍván of heavenly reunion* — ¶64
+
+### river
+
+- *river of everlasting life* — ¶10
+- *river of holy utterance* — ¶23
+
+### robe
+
+- *robe of acceptance* — ¶8
+- *robe of wealth* — ¶56
+- *robe of human praise* — ¶64
+- *robe of the Desire of thy heart* — ¶76
+
+### rod
+
+- *rod of celestial dominion* — ¶12
+
+
+## S
+
+### Sadrih
+
+- *Sadrih of Bahá* — ¶85
+
+### Salsabíl
+
+- *Salsabíl of renunciation* — ¶57
+- *Salsabíl of divine wisdom* — ¶68
+- *Salsabíl of detachment* — ¶81
+
+### scourge
+
+- *scourge of chastisement* — ¶98
+
+### sea
+
+- *sea of glory* — ¶66
+- *sea of wealth* — ¶68
+
+### seats
+
+- *seats of authority and learning* — ¶15
+- *seats of learning* — ¶64
+
+### Sept
+
+- *Sept of justice* — ¶16
+
+### sepulchers
+
+- *sepulchers of heedlessness and error* — ¶25
+- *sepulchers of their mortal bodies* — ¶64
+- *sepulchers of their vain and selfish desires* — ¶101
+
+### serpent
+
+- *serpent of power and everlasting majesty* — ¶12
+
+### shadow(s)
+
+- *shadow of certitude* — ¶37
+- *shadows of the valley of self and desire* — ¶57
+
+### shell
+
+- *shell of Our heart* — ¶78
+
+### shore(s)
+
+- *shores of eternal salvation* — ¶15
+- *shore of true understanding* — ¶44
+- *shores of the sea of wealth* — ¶68
+
+### showers
+
+- *showers of afflictions* — ¶9
+- *showers of His loving-kindness* — ¶14
+- *showers of mercy* — ¶28, 48
+- *showers of tests* — ¶56
+- *showers of the grace and mercies of God* — ¶89
+
+### Sinai
+
+- *Sinai of light* — ¶12
+- *Sinai of the heart* — ¶65
+
+### soil
+
+- *soil of their hearts* — ¶48
+- *soil of these hearts* — ¶49
+- *soil of whose heart* — ¶65
+
+### springs
+
+- *springs of purity and holiness* — ¶17
+
+### standard(s)
+
+- *standard of divine guidance* — ¶11
+- *standards of guidance and felicity* — ¶66
+- *standards of divine power* — ¶85
+
+### stars
+
+- ★ *stars of the divinely established laws* — ¶66
+- ★ *stars of understanding and utterance* — ¶73
+- ★ *Stars of divine wisdom* — ¶74
+
+### step
+
+- *step of the spirit* — ¶44
+
+### stones
+
+- *stones of idle fancy* — ¶12
+
+### stream
+
+- *stream of divine knowledge and wisdom* — ¶2
+- *stream of utterance* — ¶64
+
+### sun / suns
+
+- *sun of divine knowledge and understanding* — ¶2
+- *Sun of Truth* — ¶14, 23, 26, 28, 29, 35, 36
+- *Suns of Truth* — ¶31
+- *sun of the Muḥammadan Dispensation* — ¶25, 91, 92, 98
+- *sun of the Muḥammadan Revelation* — ¶26
+- *Sun of true knowledge* — ¶49
+- *Sun of Prophethood* — ¶54
+- *Sun of divine wisdom and understanding* — ¶65
+- ★ *sun of the heavenly teachings* — ¶66
+- ★ *sun of knowledge* — ¶73
+- ★ *Sun of the divine beauty* — ¶74
+
+### symbols
+
+- *Symbols of Detachment* — ¶31
+- *Symbols of wisdom* — ¶45
+
+
+## T
+
+### tabernacle
+
+- *tabernacle of His grace* — ¶16
+- *tabernacle of life* — ¶65
+
+### throne
+
+- *throne of peace and certitude* — ¶57
+- *throne of justice* — ¶64
+
+### treasury / treasuries
+
+- *treasuries of His revelation* — ¶31
+- *treasury of the mysteries of divine knowledge* — ¶77
+
+### tree(s)
+
+- *tree of divine knowledge* — ¶5, 37
+- *tree of faithfulness* — ¶12
+- *tree of grace* — ¶22
+- *Tree of knowledge and wisdom* — ¶28
+- *trees of divine unity* — ¶31
+- *tree of such teachings* — ¶76
+
+
+## U
+
+### ‘Urvatu’l-Vuthqá (the “Firm Handle”)
+
+- *‘Urvatu’l-Vuthqá of divine knowledge* — ¶28
+
+
+## V
+
+### vale / valley
+
+- *vale of waywardness and misbelief* — ¶42
+- *valley of arrogance and pride* — ¶14
+- *valley of self and desire* — ¶57
+
+### veil(s)
+
+- *veil of concealment* — ¶3
+- *veil of glory* — ¶16
+- *veils of satanic fancy and false imaginings* — ¶17
+- *veils of Jewish limitations* — ¶19
+- *veils of idle learning* — ¶75
+
+
+## W
+
+### wastes
+
+- *wastes of separation* — ¶18
+
+### water(s)
+
+- *waters of ancient wisdom* — ¶5
+- *waters of falsehood and denial* — ¶12
+- *waters of everlasting life* — ¶22, 31
+- *water of divine wisdom* — ¶48
+- *waters of mercy* — ¶61
+- *waters of holy utterance* — ¶65
+
+### wilds
+
+- *wilds of remoteness* — ¶14, 18, 44, 65
+- *wilds of misgivings and doubts* — ¶80
+
+### wine
+
+- *wine of certitude* — ¶2
+
+### wings
+
+- *wings of certainty* — ¶11
+- *wings of certitude* — ¶65
+
+::: {.source-note}
+[Back to Week 4](weeks/week-04.qmd) · [Back to the schedule](schedule.qmd)
+:::

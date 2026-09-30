@@ -9,31 +9,88 @@ page-layout: full
 [Download as PDF](week-04.pdf){.btn-pdf download="Kitab-i-Iqan-week-04.pdf"}
 :::
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
+## The Purpose of Tests {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="53"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p53" title="Paragraph 53 in the full text">53</a></div><div class="note-text">Know verily that the purpose underlying all these symbolic terms and abstruse allusions, which emanate from the Revealers of God’s holy Cause, hath been to test and prove the peoples of the world; that thereby the earth of the pure and illuminated hearts may be known from the perishable and barren soil. From time immemorial such hath been the way of God amidst His creatures, and to this testify the records of the sacred books.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 53" placeholder="Your note on paragraph 53…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+The same purpose is given again, three times over, in the account of the changing of the Qiblih:
+
+> Verily, God caused not this turmoil but to test and prove His servants. Otherwise, He, the ideal King, could easily have left the Qiblih unchanged.
+>
+> [Bahá'u'lláh, *Kitáb-i-Íqán* [¶54](../read.qmd#p54)]{.attrib}
+
+> Notwithstanding the truth of these facts, why should the Qiblih have been changed, thus casting such dismay amongst the people, causing the companions of the Prophet to waver, and throwing so great a confusion into their midst? Yea, such things as throw consternation into the hearts of all men come to pass only that each soul may be tested by the touchstone of God, that the true may be known and distinguished from the false.
+>
+> [Bahá'u'lláh, *Kitáb-i-Íqán* [¶55](../read.qmd#p55)]{.attrib}
+
+> Such things take place only that the souls of men may develop and be delivered from the prison-cage of self and desire. Otherwise, that ideal King hath, throughout eternity, been in His Essence independent of the comprehension of all beings, and will continue, forever, in His own Being to be exalted above the adoration of every soul.
+>
+> [Bahá'u'lláh, *Kitáb-i-Íqán* [¶56](../read.qmd#p56)]{.attrib}
+
+1. Bahá'u'lláh says that the purpose of the Prophets in using symbolic language and the unexpected events that occur during their lives are both to test and prove us and also so that our souls can develop. A test is a procedure or trial used to measure knowledge, quality, ability, or the presence of a substance. In what sense do tests help us to develop? It may be helpful to reflect on the use of the word *test* in the following examples. What is the meaning of *test* in each case?
 :::
 
-## Reflections or questions
+```{=html}
+<div class="denial-list">
+<figure class="denial"><blockquote><p>"O Son of Being! Busy not thyself with this world, for with fire We test the gold, and with gold We test Our servants."</p></blockquote><figcaption><span class="denial-prophet">Bahá'u'lláh</span><span class="denial-source">The Hidden Words, Arabic 55</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"These tests, even as thou didst write, do but cleanse the spotting of self from off the mirror of the heart, till the Sun of Truth can cast its rays thereon; for there is no veil more obstructive than the self, and however tenuous that veil may be, at the last it will completely shut a person out, and deprive him of his portion of eternal grace."</p></blockquote><figcaption><span class="denial-prophet">ʻAbdu'l‑Bahá</span><span class="denial-source">Selections from the Writings of ʻAbdu'l‑Bahá</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"O my heavenly friends! It is certain and evident that the Incomparable One is always praised for His absolute wealth, distinguished for His all-embracing mercy, characterized by His eternal grace, and known for His gifts to the world of existence. Nonetheless, in accordance with His inscrutable wisdom and in order to apply a unique test to distinguish the friend from the stranger, He hath enjoined the Ḥuqúq upon His servants and made it obligatory."</p></blockquote><figcaption><span class="denial-prophet">Bahá'u'lláh</span><span class="denial-source">Ḥuqúqu'lláh</span></figcaption></figure>
+</div>
+```
 
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+```{=html}
+<div class="note-row passage-row" data-p="61"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p61" title="Paragraph 61 in the full text">61</a></div><div class="note-text">Behold how contrary are the ways of the <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestations">Manifestations</span> of God, as ordained by the King of creation, to the ways and desires of men! As thou comest to comprehend the essence of these divine mysteries, thou wilt grasp the purpose of God, the divine Charmer, the Best-Beloved. Thou wilt regard the words and the deeds of that almighty Sovereign as one and the same; in such wise that whatsoever thou dost behold in His deeds, the same wilt thou find in His sayings, and whatsoever thou dost read in His sayings, that wilt thou recognize in His deeds. Thus it is that outwardly such deeds and words are the fire of vengeance unto the wicked, and inwardly the waters of mercy unto the righteous. Were the eye of the heart to open, it would surely perceive that the words revealed from the heaven of the will of God are at one with, and the same as, the deeds that have emanated from the Kingdom of divine power.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 61" placeholder="Your note on paragraph 61…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-## Passages
+::: {.passage-body}
+2. In relation to this, Bahá'u'lláh states that 'the ways of the Manifestations of God' are 'contrary' 'to the ways and desires of men'. He then gives examples of events in the lives of previous Prophets which were contrary to the ways and desires of the people of their day and became a test for them. For Moses it was the accusation of murder ([¶57](../read.qmd#p57), [¶58](../read.qmd#p58)), for Jesus it was the fatherless birth ([¶59](../read.qmd#p59), [¶60](../read.qmd#p60)), and for Muḥammad it was the changing of the Qiblih ([¶54](../read.qmd#p54), [¶55](../read.qmd#p55)). What about for the current day? What things has Bahá'u'lláh said or done that are contrary to our ways and desires? How might these tests help our souls to grow and develop?
+:::
 
-*Paragraphs 51–73.*
+## The Meaning of Symbolic Terms Used by the Prophets (Continued) {.passage-heading}
 
-::: {.notes-section}
-## Your notes
+::: {.passage-body}
+In these paragraphs Bahá'u'lláh has given symbolic interpretations to terms that are commonly used by the Prophets of old. Here is a summary of the terms He has explained so far:
 
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
+- **Earth** — human hearts
+    - Paragraphs [48](../read.qmd#p48), [49](../read.qmd#p49), [51](../read.qmd#p51)
+- **Heaven** — divine revelation
+    - Paragraphs [46](../read.qmd#p46), [51](../read.qmd#p51), [52](../read.qmd#p52)
+- **Oppression** — truth being obscured; corruption of foolish and ignorant leaders
+    - Paragraphs [28](../read.qmd#p28), [29](../read.qmd#p29), [30](../read.qmd#p30)
+- **Sun, Moon, Stars** — Manifestations of God and their followers; religious leaders of the former dispensation; teachings and laws of the former dispensation
+    - Paragraphs [31](../read.qmd#p31), [34](../read.qmd#p34), [38](../read.qmd#p38), [41](../read.qmd#p41)
 
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
+3. Shoghi Effendi claims that if we ponder on the Book of Certitude we 'will obtain a clear insight into the old scriptures'. Let us now turn to some of these scriptures and see if we can understand them in light of what we have learned.
+:::
+
+```{=html}
+<div class="denial-list">
+<figure class="denial"><blockquote><p>"In the beginning God created the heaven and the earth."</p></blockquote><figcaption><span class="denial-prophet">Genesis</span><span class="denial-source">1:1</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea."</p></blockquote><figcaption><span class="denial-prophet">Revelation</span><span class="denial-source">21:1</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Thy kingdom come. Thy will be done in earth, as it is in heaven."</p></blockquote><figcaption><span class="denial-prophet">Matthew</span><span class="denial-source">6:10</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"O earth, earth, earth, hear the word of the LORD."</p></blockquote><figcaption><span class="denial-prophet">Jeremiah</span><span class="denial-source">22:29</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth."</p></blockquote><figcaption><span class="denial-prophet">Genesis</span><span class="denial-source">6:12</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"You, Lord, in the beginning laid the foundation of the earth, And the heavens are the work of Your hands. They will perish, but You remain; And they will all grow old like a garment; Like a cloak You will fold them up, And they will be changed. But You are the same, And Your years will not fail."</p></blockquote><figcaption><span class="denial-prophet">Hebrews</span><span class="denial-source">1:10–12</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Heaven and earth shall pass away, but my words shall not pass away."</p></blockquote><figcaption><span class="denial-prophet">Matthew</span><span class="denial-source">24:35</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">6:51</span></figcaption></figure>
+</div>
+```
+
+::: {.passage-body}
+4. In addition to these more explicit interpretations, some scholars have observed that Bahá'u'lláh also implicitly interprets many other terms in these paragraphs through the use of a construct called a *genitive metaphor*. This is a metaphor that is built using a possessive or descriptive construction, for example 'a flood of messages'. One noun is the actual subject (messages) and the other is a figurative image (flood). Bahá'u'lláh uses this device to aid His interpretations. He explains a symbolic term which was previously unclear by suggesting its referent (cf. Buck, *Symbol and Secret*). For example, take the explanation of the changing of the earth:
+
+    > In like manner, endeavor to comprehend the meaning of the "changing of the earth." Know thou, that upon whatever hearts the bountiful showers of mercy, raining from the "heaven" of divine Revelation, have fallen, the earth of those hearts hath verily been changed into the earth of divine knowledge and wisdom. What myrtles of unity hath the soil of their hearts produced! What blossoms of true knowledge and wisdom hath their illumined bosoms yielded! … Methinks they have been molded from the clay of infinite knowledge, and kneaded with the water of divine wisdom … Thus hath He said: "On the day when the earth shall be changed into another earth."
+    >
+    > [Bahá'u'lláh, *Kitáb-i-Íqán* [¶48](../read.qmd#p48)]{.attrib}
+
+    Which images can you find working this way in this week's paragraphs, and what does each one interpret?
+:::
+
+::: {.passage-body}
+See the full list of [genitive metaphors in part one of the Íqán](../genitives.qmd)
 :::
 
 ```{=html}
@@ -41,7 +98,6 @@ interpreted for you.
   <p class="note-empty">Loading…</p>
 </div>
 ```
-:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)
