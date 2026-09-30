@@ -43,8 +43,8 @@ page-layout: full
 ::: {.passage-body}
 In these paragraphs Bahá'u'lláh has given symbolic interpretations to terms that are commonly used by the Prophets of old. Here is a summary of the terms He has explained so far:
 
-- **Earth** — human hearts
-    - Paragraphs [48](../read.qmd#p48), [49](../read.qmd#p49), [51](../read.qmd#p51)
+- **Earth** — human hearts; understanding and knowledge; the pure and illuminated hearts
+    - Paragraphs [48](../read.qmd#p48), [49](../read.qmd#p49), [51](../read.qmd#p51), [53](../read.qmd#p53)
 - **Heaven** — divine revelation; the religion of God; the dispensations of the past; divine knowledge and understanding
     - Paragraphs [40](../read.qmd#p40), [46](../read.qmd#p46), [51](../read.qmd#p51), [52](../read.qmd#p52), [70](../read.qmd#p70), [73](../read.qmd#p73)
 - **Oppression** — truth being obscured; corruption of foolish and ignorant leaders
