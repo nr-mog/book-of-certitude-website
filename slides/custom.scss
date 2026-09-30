@@ -514,6 +514,20 @@ $code-block-font-size: 0.7em;
   }
 }
 
+// Quotation slides set larger than the story prose, for passages short enough
+// to take the room. .fs-lg for a short quotation, .fs-md where there is more
+// of it; both still below the 0.7em of a bulleted .fs-body.
+.reveal .fs-lg,
+.reveal .fs-md {
+  line-height: 1.5;
+
+  p { margin-bottom: 0.75em; }
+  p:last-child { margin-bottom: 0; }
+}
+
+.reveal .fs-lg { font-size: 0.8em; }
+.reveal .fs-md { font-size: 0.7em; }
+
 // Three paragraphs on one slide need a step down to stay inside the stage.
 .reveal .fs-tight {
   font-size: 0.58em;

@@ -76,7 +76,7 @@ and their expression through sensible forms
 :::
 
 ::: {.figure-slide}
-::: {.fs-body .fs-prose .fs-tight}
+::: {.fs-body .fs-prose}
 ::: {.fragment}
 There is a point that is pivotal to grasping the essence of the other questions that we have
 discussed or will be discussing, namely, that human knowledge is of two kinds.
@@ -118,7 +118,7 @@ and their expression through sensible forms
 :::
 
 ::: {.figure-slide}
-::: {.fs-body .fs-prose}
+::: {.fs-body .fs-md}
 ::: {.fragment}
 But when you undertake to express these intelligible realities, you have no recourse but to cast
 them in the mould of the sensible, for outwardly there is nothing beyond the sensible. Thus, when
@@ -160,17 +160,17 @@ Bahá'u'lláh
 :::
 
 ::: {.figure-slide}
-::: {.fs-body .fs-prose}
+::: {.fs-body .fs-lg}
 ::: {.fragment}
-> Blessed those who have distinguished both the outward and the inward meaning: these, verily,
-> are servants who have believed in the All-embracing Word.
+Blessed those who have distinguished both the outward and the inward meaning: these, verily,
+are servants who have believed in the All-embracing Word.
 :::
 
 ::: {.fragment}
-> Know, then, that whosoever adhereth to the outward meaning while oblivious of the inward
-> meaning is of the ignorant; that whosoever adhereth to the inward meaning while oblivious of
-> the outward meaning is of the heedless; and that whosoever understandeth the inward meaning in
-> the light of the outward meaning is of the truly learned.
+Know, then, that whosoever adhereth to the outward meaning while oblivious of the inward
+meaning is of the ignorant; that whosoever adhereth to the inward meaning while oblivious of
+the outward meaning is of the heedless; and that whosoever understandeth the inward meaning in
+the light of the outward meaning is of the truly learned.
 :::
 
 ::: {.tiny}
@@ -192,26 +192,26 @@ Bahá'u'lláh
 :::
 
 ::: {.figure-slide}
-::: {.fs-body .fs-prose .fs-tight}
+::: {.fs-body .fs-prose}
 ::: {.fragment}
-> The purpose of interpretation is this: that none become deprived of that which is evident, and
-> be veiled from that which is intended. If, for example, from the heaven of the will of God it
-> were revealed: "wash ye your faces", do not interpret this to mean, by washing, the intent is
-> the cleansing of the inner face that should be washed and purified by the water of divine
-> knowledge, and the like! Many a time, with such interpretations, a person's face may remain
-> utterly filthy and pungent, whilst, in his own idle fancy, he hath performed the essence of
-> God's command! Yet, in this instance, it is clear and evident that the washing of the face with
-> material water is intended…
+The purpose of interpretation is this: that none become deprived of that which is evident, and
+be veiled from that which is intended. If, for example, from the heaven of the will of God it
+were revealed: "wash ye your faces", do not interpret this to mean, by washing, the intent is
+the cleansing of the inner face that should be washed and purified by the water of divine
+knowledge, and the like! Many a time, with such interpretations, a person's face may remain
+utterly filthy and pungent, whilst, in his own idle fancy, he hath performed the essence of
+God's command! Yet, in this instance, it is clear and evident that the washing of the face with
+material water is intended…
 :::
 
 ::: {.fragment}
-> Those verses which contain divine commandments and prohibitions concerning worship, fines,
-> crime, and the like—the intent hath ever been, and wilt ever be, to act upon their evident
-> meaning. However, those divine verses that have been revealed in the previous Books, as well as
-> the Qur'án, regarding the coming of the last Hour and the Day of Resurrection are mostly
-> subject to interpretation. "And none knoweth its interpretation except God." These facts are
-> clear and proven in the Kitáb-i-Íqán; any soul that pondereth upon it will become cognizant of
-> that which hath been hidden unto all.
+Those verses which contain divine commandments and prohibitions concerning worship, fines,
+crime, and the like—the intent hath ever been, and wilt ever be, to act upon their evident
+meaning. However, those divine verses that have been revealed in the previous Books, as well as
+the Qur'án, regarding the coming of the last Hour and the Day of Resurrection are mostly
+subject to interpretation. "And none knoweth its interpretation except God." These facts are
+clear and proven in the Kitáb-i-Íqán; any soul that pondereth upon it will become cognizant of
+that which hath been hidden unto all.
 :::
 
 ::: {.tiny}
