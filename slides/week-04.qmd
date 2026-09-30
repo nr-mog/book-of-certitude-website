@@ -3,18 +3,6 @@ title: "Week 4"
 subtitle: "30 September 2026 · Paragraphs 51–73"
 ---
 
-## Turn to your neighbour
-
-::: {.incremental}
-- With the person next to you try to remember what you read this week
-- What did Bahá'u'lláh say in these paragraphs?
-- What ideas stood out to you?
-- Which parts did you not understand?
-- What questions came up as you were reading?
-:::
-
----
-
 ## Shoghi Effendi's Overview
 
 ::: {.tight .overview .fragment}
@@ -65,6 +53,18 @@ Shoghi Effendi, *God Passes By* — the three in bold are where this week's read
 - And in the *invisible* heaven, a **herald**: Yaḥyá, Salmán's four, then Aḥmad and Káẓim
 - Every Manifestation announced **twice over**
 :::
+:::
+
+---
+
+## Turn to your neighbour
+
+::: {.incremental}
+- With the person next to you try to remember what you read this week
+- What did Bahá'u'lláh say in these paragraphs?
+- What ideas stood out to you?
+- Which parts did you not understand?
+- What questions came up as you were reading?
 :::
 
 ---
