@@ -10,3 +10,9 @@ Quarto ignores directories whose names begin with an underscore, so nothing
 here is rendered or published. Kept for reference — the biographies on the
 People page were written for this study and have no equivalent in the
 published glossary.
+
+## Week 5 handout sections
+
+`week-05-archived-sections.qmd` holds the "Clouds of Heaven" and "Meaning of
+Symbolic Terms (Continued)" sections taken out of the Week 5 handout on
+6 October 2026, and "Corruption of the Text" taken out on 7 October, kept in case they are wanted for a later week.

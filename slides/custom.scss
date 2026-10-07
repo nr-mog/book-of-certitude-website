@@ -612,3 +612,21 @@ $code-block-font-size: 0.7em;
 
   li { margin-bottom: 0.3em; }
 }
+
+// A reference set under its own quotation in a run of prose, so two sources
+// on one slide read as two passages rather than one.
+.reveal .poem-attrib.proof-attrib {
+  margin: 0.35em 0 0;
+}
+
+.reveal .proof-next {
+  margin-top: 0.7em;
+  padding-top: 0.6em;
+  border-top: 1px solid $rule;
+}
+
+// The closing line under the two arguments: plain text, set a step down.
+.reveal .observation-close {
+  margin-top: 1.4em;
+  font-size: 0.62em;
+}

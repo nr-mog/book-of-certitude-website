@@ -9,39 +9,71 @@ page-layout: full
 [Download as PDF](week-05.pdf){.btn-pdf download="Kitab-i-Iqan-week-05.pdf"}
 :::
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
+## Two Kinds of Knowledge {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="76"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p76" title="Paragraph 76 in the full text">76</a></div><div class="note-text">Know verily that Knowledge is of two kinds: Divine and Satanic. The one welleth out from the fountain of divine inspiration; the other is but a reflection of vain and obscure thoughts. The source of the former is God Himself; the motive-force of the latter the whisperings of selfish desire. The one is guided by the principle: “Fear ye God; God will teach you”;<sup class="fn-ref" data-fn="54" role="button" tabindex="0" aria-label="Footnote 54">54</sup> the other is but a confirmation of the truth: “Knowledge is the most grievous veil between man and his Creator.” The former bringeth forth the fruit of patience, of longing desire, of true understanding, and love; whilst the latter can yield naught but arrogance, vainglory and conceit. From the sayings of those Masters of holy utterance, Who have expounded the meaning of true knowledge, the odor of these dark teachings, which have obscured the world, can in no wise be detected. The tree of such teachings can yield no result except iniquity and rebellion, and beareth no fruit but hatred and envy. Its fruit is deadly poison; its shadow a consuming fire. How well hath it been said: “Cling unto the robe of the Desire of thy heart, and put thou away all shame; bid the worldly wise be gone, however great their name.”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 76" placeholder="Your note on paragraph 76…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="77"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p77" title="Paragraph 77 in the full text">77</a></div><div class="note-text">The heart must needs therefore be cleansed from the idle sayings of men, and sanctified from every earthly affection, so that it may discover the hidden meaning of divine inspiration, and become the treasury of the mysteries of divine knowledge. Thus hath it been said: “He that treadeth the snow-white Path, and followeth in the footsteps of the <span class="gl-ref" data-gl="crimson-pillar" role="button" tabindex="0" aria-label="Glossary: Crimson Pillar">Crimson Pillar</span>, shall never attain unto his abode unless his hands are empty of those worldly things cherished by men.” This is the prime requisite of whosoever treadeth this path. Ponder thereon, that, with eyes unveiled, thou mayest perceive the truth of these words.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 77" placeholder="Your note on paragraph 77…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. Bahá'u'lláh distinguishes two kinds of knowledge by their **source**, their **guiding principle** and their **fruit**. Fill in what He says about each:
 :::
 
-## Reflections or questions
-
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
-
-## Passages
-
-*Paragraphs 74–101.*
-
-::: {.notes-section}
-## Your notes
-
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
-
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
+::: {.passage-body}
+|                   | Divine knowledge | Satanic knowledge |
+|-------------------|------------------|-------------------|
+| Source            |                  |                   |
+| Guiding principle |                  |                   |
+| Fruit             |                  |                   |
 :::
+
+::: {.passage-body}
+2. Bahá'u'lláh states that the two kinds of knowledge have different fruits. Divine knowledge leads to patience, longing desire, true understanding and love. The following are examples of situations where one of these qualities is required. What knowledge helps you to manifest the required attribute in each case?
+    a. To have patience with the children in your class who are struggling to focus
+    b. To keep a longing desire to learn, both in your studies and in your understanding of the Writings
+    c. To understand the real needs of the neighbourhood where you serve, rather than assuming you already know them
+    d. To show love to all who cross your path, including those whose views you disagree with
+
+    Satanic knowledge, on the other hand, yields "arrogance, vainglory and conceit". The following are examples of situations where one of these qualities can easily appear. What knowledge or way of thinking gives rise to the attribute in each case?
+
+    a. To dismiss a classmate's view because you feel you already have the answer
+    b. To share only positive accounts from one's neighbourhood to make it seem like you are achieving great success
+    c. To feel, after several years of animating, that you no longer need to learn from the junior youth you accompany
+3. Many of us have spent a significant portion of our lives studying, researching or learning a profession. It would be easy to read this passage as saying that worldly learning is bad and that we should turn away from human learning. Yet Bahá'u'lláh also writes that "knowledge is as wings to man's life, and a ladder for his ascent", that "its acquisition is incumbent upon everyone", and that we should acquire those sciences "as can profit the peoples of the earth". ʻAbdu'l-Bahá calls religion and science "the two wings upon which man's intelligence can soar into the heights". How do these statements help us understand what Bahá'u'lláh is and is not saying in this paragraph?
+:::
+
+## The Proof is His Word {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="82"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p82" title="Paragraph 82 in the full text">82</a></div><div class="note-text">It behooveth us, therefore, to make the utmost endeavor, that, by God’s invisible assistance, these dark veils, these clouds of Heaven-sent trials, may not hinder us from beholding the beauty of His shining Countenance, and that we may recognize Him only by His own Self. And should we ask for a testimony of His truth, we should content ourselves with one, and only one, that thereby we may attain unto Him Who is the Fountainhead of infinite grace, and in Whose presence all the world’s abundance fadeth into nothingness, that we may cease to cavil at Him every day and to cleave unto our own idle fancy.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 82" placeholder="Your note on paragraph 82…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="99"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p99" title="Paragraph 99 in the full text">99</a></div><div class="note-text">It is incumbent upon thee, by the permission of God, to cleanse the eye of thine heart from the things of the world, that thou mayest realize the infinitude of divine knowledge, and mayest behold Truth so clearly that thou wilt need no proof to demonstrate His reality, nor any evidence to bear witness unto His testimony.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 99" placeholder="Your note on paragraph 99…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="100"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p100" title="Paragraph 100 in the full text">100</a></div><div class="note-text">O affectionate seeker! Shouldst thou soar in the holy realm of the spirit, thou wouldst recognize God manifest and exalted above all things, in such wise that thine eyes would behold none else but Him. “God was alone; there was none else besides Him.” So lofty is this station that no testimony can bear it witness, neither evidence do justice to its truth. Wert thou to explore the sacred domain of truth, thou wilt find that all things are known only by the light of His recognition, that He hath ever been, and will continue forever to be, known through Himself. And if thou dwellest in the land of testimony, content thyself with that which He, Himself, hath revealed: “Is it not enough for them that We have sent down unto Thee the Book?”<sup class="fn-ref" data-fn="69" role="button" tabindex="0" aria-label="Footnote 69">69</sup> This is the testimony which He, Himself, hath ordained; greater proof than this there is none, nor ever will be: “This proof is His Word; His own Self, the testimony of His truth.”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 100" placeholder="Your note on paragraph 100…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+4. Two weeks ago we discussed why Bahá'u'lláh puts so much emphasis on the spiritual and symbolic interpretation of the Word of God, claiming that it is 'greater' and 'mightier' than the corresponding literal interpretation that people cling to. In these paragraphs Bahá'u'lláh says that, ideally, we should so cleanse our eyes that we can see the Truth directly without requiring a proof. But if we cannot do this and still require a proof, we should content ourselves with the 'Book' (the revealed words), because the Book is the greatest proof. However, many people may not consider the Book a sufficient proof for a divine Messenger. Below is a list of proofs that people may be expecting before they accept the truth of a Messenger of God. In what way is the Book greater than each one?
+    a. Performing a miracle, such as raising someone from the dead or parting the sea
+    b. A personal sign, such as ʻAbdu'l-Bahá appearing to you in a dream
+    c. The endorsement of respected wealthy, powerful or famous individuals
+    d. Scientific evidence, such as a peer-reviewed study showing that prayer heals or that fasting is good for your health
+5. Bahá'u'lláh suggests that it is possible to recognize Him 'by His own Self', without proof. This is very confusing. What do you understand by this?
+:::
+
+```{=html}
+<div class="write-box" data-write="w5-proof">
+  <label class="write-label" for="write-w5-proof">Your response</label>
+  <textarea class="note-input" id="write-w5-proof" rows="3" placeholder="Write your thoughts…"></textarea>
+  <div class="note-bar"><span class="note-saved"></span></div>
+  <div class="write-lines" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+</div>
+```
 
 ```{=html}
 <div id="paragraph-notes" data-week="5" class="paragraph-notes">
   <p class="note-empty">Loading…</p>
 </div>
 ```
-:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)

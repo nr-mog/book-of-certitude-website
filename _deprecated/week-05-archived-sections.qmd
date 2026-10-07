@@ -1,0 +1,84 @@
+<!--
+Archived from weeks/week-05.qmd on 6 October 2026: the "Clouds of Heaven" and
+"Meaning of Symbolic Terms (Continued)" handout sections, removed from the
+Week 5 handout, and "Corruption of the Text", removed on 7 October 2026. To restore, paste a section back above the paragraph-notes block.
+-->
+
+## The Clouds of Heaven {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="79"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p79" title="Paragraph 79 in the full text">79</a></div><div class="note-text">By these luminous, these conclusive, and lucid statements, the meaning of “heaven” in the aforementioned verse hath thus been made clear and evident. And now regarding His words, that the Son of man shall “come in the clouds of heaven.” By the term “clouds” is meant those things that are contrary to the ways and desires of men. Even as He hath revealed in the verse already quoted: “As oft as an Apostle cometh unto you with that which your souls desire not, ye swell with pride, accusing some of being impostors and slaying others.”<sup class="fn-ref" data-fn="56" role="button" tabindex="0" aria-label="Footnote 56">56</sup> These “clouds” signify, in one sense, the annulment of laws, the abrogation of former Dispensations, the repeal of rituals and customs current amongst men, the exalting of the illiterate faithful above the learned opposers of the Faith. In another sense, they mean the appearance of that immortal Beauty in the image of mortal man, with such human limitations as eating and drinking, poverty and riches, glory and abasement, sleeping and waking, and such other things as cast doubt in the minds of men, and cause them to turn away. All such veils are symbolically referred to as “clouds.”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 79" placeholder="Your note on paragraph 79…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="82"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p82" title="Paragraph 82 in the full text">82</a></div><div class="note-text">It behooveth us, therefore, to make the utmost endeavor, that, by God’s invisible assistance, these dark veils, these clouds of Heaven-sent trials, may not hinder us from beholding the beauty of His shining Countenance, and that we may recognize Him only by His own Self. And should we ask for a testimony of His truth, we should content ourselves with one, and only one, that thereby we may attain unto Him Who is the Fountainhead of infinite grace, and in Whose presence all the world’s abundance fadeth into nothingness, that we may cease to cavil at Him every day and to cleave unto our own idle fancy.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 82" placeholder="Your note on paragraph 82…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. Jesus said that the Son of man would come "in the clouds of heaven". Bahá'u'lláh explains that "clouds" are "those things that are contrary to the ways and desires of men", and gives two senses of the word. What are they? Why do you think a cloud is such a fitting image? It may help to think about what a cloud does to the sun, and what it does *not* do to it.
+2. One of these clouds is "the appearance of that immortal Beauty in the image of mortal man", with such human limitations as eating and drinking, poverty, sleeping and waking. Look back at the reasons for denial we read in [Week 3](week-03.qmd). How many of them are really about this cloud? The following passages may also help. What did the people around each of these Prophets find hard to accept?
+:::
+
+```{=html}
+<div class="denial-list">
+<figure class="denial"><blockquote><p>"Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him."</p></blockquote><figcaption><span class="denial-prophet">Mark</span><span class="denial-source">6:3</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?"</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">6:42</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And they have said: 'What manner of apostle is this? He eateth food, and walketh the streets. Unless an angel be sent down and take part in His warnings, we will not believe.'"</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">25:7 · quoted in ¶80</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"These ancient Beings, though delivered from the womb of their mother, have in reality descended from the heaven of the will of God. Though they be dwelling on this earth, yet their true habitations are the retreats of glory in the realms above."</p></blockquote><figcaption><span class="denial-prophet">Bahá'u'lláh</span><span class="denial-source">Kitáb-i-Íqán ¶74</span></figcaption></figure>
+</div>
+```
+
+::: {.passage-body}
+3. Imagine Bahá'u'lláh had lived His life here in Boston, in our own time. What might the "clouds" have been? What would people at your college, your workplace or in your neighbourhood have said to dismiss Him?
+4. In ¶79 Bahá'u'lláh also names "the exalting of the illiterate faithful above the learned opposers of the Faith" as one of these clouds. Think back to the blacksmith and Mírzá Abu'l-Faḍl. Can you think of an experience, perhaps in your own efforts to serve, where something that looked small or ordinary turned out to carry real power?
+5. In ¶82 Bahá'u'lláh asks that "these clouds of Heaven-sent trials" not hinder us, and that "we may recognize Him only by His own Self". What do you think it means to recognize someone by their own self, rather than by their circumstances?
+:::
+
+## The Meaning of Symbolic Terms Used by the Prophets (Continued) {.passage-heading}
+
+::: {.passage-body}
+Here is the summary from last week, with the terms Bahá'u'lláh explains in this week's reading added in bold at the end of the list:
+
+- **Earth**: human hearts; understanding and knowledge; the pure and illuminated hearts
+    - Paragraphs [48](../read.qmd#p48), [49](../read.qmd#p49), [51](../read.qmd#p51), [53](../read.qmd#p53)
+- **Heaven**: divine revelation; the religion of God; the dispensations of the past; divine knowledge and understanding; loftiness and exaltation, the seat of the Manifestations
+    - Paragraphs [40](../read.qmd#p40), [46](../read.qmd#p46), [51](../read.qmd#p51), [52](../read.qmd#p52), [70](../read.qmd#p70), [73](../read.qmd#p73), [74](../read.qmd#p74), [75](../read.qmd#p75)
+- **Oppression**: truth being obscured; corruption of foolish and ignorant leaders
+    - Paragraphs [28](../read.qmd#p28), [29](../read.qmd#p29), [30](../read.qmd#p30)
+- **Sun, Moon, Stars**: Manifestations of God and their followers; religious leaders of the former dispensation; teachings and laws of the former dispensation
+    - Paragraphs [31](../read.qmd#p31), [34](../read.qmd#p34), [38](../read.qmd#p38), [41](../read.qmd#p41)
+- **Clouds**: the annulment of laws and the abrogation of former Dispensations; the exalting of the illiterate faithful above the learned; the Manifestation appearing in human form, with human limitations
+    - Paragraphs [79](../read.qmd#p79), [80](../read.qmd#p80), [81](../read.qmd#p81), [82](../read.qmd#p82)
+- **Smoke**: grave dissensions; the abrogation and demolition of recognized standards, and the utter destruction of their narrow-minded exponents
+    - Paragraph [84](../read.qmd#p84)
+- **Angels**: those who, reinforced by the power of the spirit, have consumed all human traits and limitations with the fire of the love of God
+    - Paragraphs [86](../read.qmd#p86), [87](../read.qmd#p87)
+- **Corruption of the text**: interpreting the Word of God according to one's own idle imaginings and vain desires, not changing its words
+    - Paragraphs [91](../read.qmd#p91), [93](../read.qmd#p93), [94](../read.qmd#p94)
+
+See the full list of [genitive metaphors in part one of the Íqán](../genitives.qmd). Paragraph 75 gives several of its own: the "heaven of Command", the "heaven of Will", the "heaven of Certitude", the "heaven of Utterance".
+
+4. Once again, let us try reading some familiar scriptures in light of what Bahá'u'lláh has explained. For each passage, what is it commonly understood to mean from a literal perspective? How would you read it now?
+:::
+
+```{=html}
+<div class="denial-list">
+<figure class="denial"><blockquote><p>"And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory."</p></blockquote><figcaption><span class="denial-prophet">Matthew</span><span class="denial-source">24:30</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him."</p></blockquote><figcaption><span class="denial-prophet">Daniel</span><span class="denial-source">7:13</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight. … Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven."</p></blockquote><figcaption><span class="denial-prophet">Acts</span><span class="denial-source">1:9, 11</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."</p></blockquote><figcaption><span class="denial-prophet">1 Thessalonians</span><span class="denial-source">4:17</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him."</p></blockquote><figcaption><span class="denial-prophet">Revelation</span><span class="denial-source">1:7</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">3:13</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"What can such expect but that God should come down to them overshadowed with clouds?"</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">2:210 · quoted in ¶83</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"On the day when the heaven shall give out a palpable smoke, which shall enshroud mankind: this will be an afflictive torment."</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">44:10 · quoted in ¶84</span></figcaption></figure>
+</div>
+```
+
+## Corruption of the Text {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="93"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p93" title="Paragraph 93 in the full text">93</a></div><div class="note-text">This is one of the instances that have been referred to. Verily by “perverting” the text is not meant that which these foolish and abject souls have fancied, even as some maintain that Jewish and Christian divines have effaced from the Book such verses as extol and magnify the countenance of <span class="gl-ref" data-gl="muhammad" role="button" tabindex="0" aria-label="Glossary: Muḥammad">Muḥammad</span>, and instead thereof have inserted the contrary. How utterly vain and false are these words! Can a man who believeth in a book, and deemeth it to be inspired by God, mutilate it? Moreover, the <span class="gl-ref" data-gl="pentateuch" role="button" tabindex="0" aria-label="Glossary: Pentateuch">Pentateuch</span> had been spread over the surface of the earth, and was not confined to <span class="gl-ref" data-gl="mecca" role="button" tabindex="0" aria-label="Glossary: Mecca">Mecca</span> and <span class="gl-ref" data-gl="al-medina" role="button" tabindex="0" aria-label="Glossary: Medina">Medina</span>, so that they could privily corrupt and pervert its text. Nay, rather, by corruption of the text is meant that in which all Muslim divines are engaged today, that is the interpretation of God’s holy Book in accordance with their idle imaginings and vain desires. And as the Jews, in the time of Muḥammad, interpreted those verses of the Pentateuch that referred to His <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span> after their own fancy, and refused to be satisfied with His holy utterance, the charge of “perverting” the text was therefore pronounced against them. Likewise, it is clear, how in this day, the people of the <span class="gl-ref" data-gl="qur-an" role="button" tabindex="0" aria-label="Glossary: Qur’án">Qur’án</span> have perverted the text of God’s holy Book, concerning the signs of the expected Manifestation, and interpreted it according to their inclination and desires.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 93" placeholder="Your note on paragraph 93…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. Many Muslims in Bahá'u'lláh's day held that the Jews and Christians had changed the words of the Torah and the Gospel, and so had no need to take those books seriously. What does Bahá'u'lláh say "corrupting the text" really means? What two arguments does He give in ¶93 that the words themselves were not altered?
+2. In ¶98 He goes further, and rejects the idea that the true Gospel "hath ascended unto heaven". Why does He say this would be unjust of God? Shoghi Effendi lists among the themes of the Íqán that it "affirms … the sanctity of their scriptures". What difference might this make to the way you talk about the Bible or the Qur'án with friends from those traditions?
+3. If corruption means interpreting the Word "in accordance with their idle imaginings and vain desires", then this is a danger for any reader, not only for the divines of the past. In ¶101 Bahá'u'lláh warns the people of the Bayán to "fix their gaze upon the essentials of His Cause" lest they "cling unto certain passages of the Book". At the end of last week's session we read Bahá'u'lláh's words on [the purpose of interpretation](../slides/week-04.qmd). How can we, as individuals studying together, guard against reading our own wishes into the Writings?
+:::

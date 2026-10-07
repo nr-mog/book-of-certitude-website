@@ -50,3 +50,339 @@ From *God Passes By*, chapter VIII — "Bahá'u'lláh's Banishment to ʻIráq (C
 ::: {.source-note}
 Read this passage on [bahai.org](https://www.bahai.org/r/656662496).
 :::
+
+## A sequential outline of the text
+
+::: {.lead .lead-sm}
+The subjects of the Book of Certitude in the order they appear, as an aid to finding your way
+around it. Each number links to that paragraph on the [Read](read.qmd) page. The headings are a
+reading aid written for this study, not part of the text, and an outline like this can only follow
+one thread at a time through themes the Book weaves together. Hooper Dunbar's
+[*Companion to the Study of the Kitáb-i-Íqán*](https://www.bahaibookstore.com/Companion-to-the-Study-of-the-Kitab-i-Iqan-P7228)
+includes a fuller outline of its own, and he suggests that students make their own as well.
+:::
+
+<!-- OUTLINE:START -->
+```{=html}
+<div class="seq-outline">
+<h3 class="ol-part">Part One</h3>
+<div class="ol-row ol-l1"><span class="ol-text">Detachment as the condition for true understanding</span><a class="ol-ref" href="read.html#p1">1–2</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Repeated rejection of the Manifestations by those who awaited Them</span><a class="ol-ref" href="read.html#p3">3–6</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Denial and opposition faced by every Prophet</span><a class="ol-ref" href="read.html#p3">3–4</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Súrah of Húd and why the Prophets&#x27; sufferings are recounted</span><a class="ol-ref" href="read.html#p5">5–6</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Accounts of earlier Prophets and Their rejection</span><a class="ol-ref" href="read.html#p7">7–12</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Noah and the unfulfilled promise of victory</span><a class="ol-ref" href="read.html#p7">7</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">God tests His servants to separate truth from falsehood</span><a class="ol-ref" href="read.html#p8">8</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Húd and His people&#x27;s growing rebellion</span><a class="ol-ref" href="read.html#p9">9</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Ṣáliḥ and the tribe of Thamúd</span><a class="ol-ref" href="read.html#p10">10</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Abraham, the Friend of God: the fire and His expulsion</span><a class="ol-ref" href="read.html#p11">11</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Moses, Pharaoh, and the believer of Pharaoh&#x27;s family</span><a class="ol-ref" href="read.html#p12">12</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Why the Prophets have been opposed</span><a class="ol-ref" href="read.html#p13">13–16</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Signs foretold, yet every Manifestation persecuted</span><a class="ol-ref" href="read.html#p13">13</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">God&#x27;s testimony is complete; the fault is pride and blind imitation</span><a class="ol-ref" href="read.html#p14">14</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Religious leaders&#x27; part in turning people away</span><a class="ol-ref" href="read.html#p15">15</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Prophetic words misread; meaning known only to the &#x27;well-grounded in knowledge&#x27;</span><a class="ol-ref" href="read.html#p16">16</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Israel&#x27;s rejection of Jesus over law and unfulfilled signs</span><a class="ol-ref" href="read.html#p17">17</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Purpose of citing the earlier verses again</span><a class="ol-ref" href="read.html#p18">18</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Jesus&#x27; promise of return and the unity of the Manifestations</span><a class="ol-ref" href="read.html#p19">19–20</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;I go away and come again unto you&#x27;</span><a class="ol-ref" href="read.html#p19">19</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muḥammad as the return of Jesus; the analogy of the sun</span><a class="ol-ref" href="read.html#p20">20</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Disciples ask about the signs of Christ&#x27;s return</span><a class="ol-ref" href="read.html#p21">21</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The bread from heaven, offered from Baghdád</span><a class="ol-ref" href="read.html#p22">22–23</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Call to seize the time before the season passes</span><a class="ol-ref" href="read.html#p23">23</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Matthew&#x27;s prophecy of the signs of the Son of man</span><a class="ol-ref" href="read.html#p24">24</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Christian literalism and the rejection of Muḥammad</span><a class="ol-ref" href="read.html#p25">25–26</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Literal reading of the signs</span><a class="ol-ref" href="read.html#p25">25</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;My words shall not pass away&#x27; and the idea that the Gospel law is permanent</span><a class="ol-ref" href="read.html#p26">26</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Introduction to interpreting the prophecy</span><a class="ol-ref" href="read.html#p27">27</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Meaning of the &#x27;oppression of those days&#x27;</span><a class="ol-ref" href="read.html#p28">28–30</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Corrupt leaders and spiritual darkness in the age</span><a class="ol-ref" href="read.html#p28">28</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Seekers not knowing where to find guidance, which comes before every Revelation</span><a class="ol-ref" href="read.html#p29">29</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Not a literal shrinking of the earth</span><a class="ol-ref" href="read.html#p30">30</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Meanings of &#x27;sun&#x27;, &#x27;moon&#x27; and &#x27;stars&#x27;</span><a class="ol-ref" href="read.html#p31">31–42</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Manifestations as Suns of Truth</span><a class="ol-ref" href="read.html#p31">31</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Manifestations exalted above all names and attributes</span><a class="ol-ref" href="read.html#p32">32</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Prophets, saints and companions; the Prayer of Nudbih</span><a class="ol-ref" href="read.html#p33">33</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Divines of the former Dispensation</span><a class="ol-ref" href="read.html#p34">34–36</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Earthly learning fading before the Sun of Truth</span><a class="ol-ref" href="read.html#p35">35</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Call to hold fast to the &#x27;Urvatu&#x27;l-Vuthqá</span><a class="ol-ref" href="read.html#p37">37</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Laws and teachings, especially prayer and fasting</span><a class="ol-ref" href="read.html#p38">38–40</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Conversation with a divine on &#x27;Fasting is illumination, prayer is light&#x27;</span><a class="ol-ref" href="read.html#p40">40</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Darkening of sun and moon: errant divines and laws annulled</span><a class="ol-ref" href="read.html#p41">41–42</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Call to steadfastness and the &#x27;step of the spirit&#x27;</span><a class="ol-ref" href="read.html#p43">43–44</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Meaning of &#x27;the Lord of the Easts and the Wests&#x27;</span><a class="ol-ref" href="read.html#p45">45</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Meaning of the &#x27;cleaving of the heaven&#x27;</span><a class="ol-ref" href="read.html#p46">46</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Hardships and patience of the Manifestations</span><a class="ol-ref" href="read.html#p47">47</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Meaning of the &#x27;changing of the earth&#x27;</span><a class="ol-ref" href="read.html#p48">48–50</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Hearts changed into soil of divine knowledge; God-given versus acquired learning</span><a class="ol-ref" href="read.html#p48">48–49</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The physical earth also changed</span><a class="ol-ref" href="read.html#p50">50</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Earth as His handful; heavens folded in His right hand</span><a class="ol-ref" href="read.html#p51">51–52</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Symbolic language as a test of souls</span><a class="ol-ref" href="read.html#p53">53</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Change of the Qiblih as a test</span><a class="ol-ref" href="read.html#p54">54–56</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muḥammad turns from Jerusalem to the Ka&#x27;bih during prayer</span><a class="ol-ref" href="read.html#p54">54</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Qiblih unchanged by earlier Prophets; testing the true from the false</span><a class="ol-ref" href="read.html#p55">55</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Tests for the soul&#x27;s growth; God&#x27;s independence of all</span><a class="ol-ref" href="read.html#p56">56</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Tests in the lives of Moses and Mary</span><a class="ol-ref" href="read.html#p57">57–62</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Moses&#x27; killing of a man, His flight and His call</span><a class="ol-ref" href="read.html#p57">57–58</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Mary&#x27;s anguish and the fatherless Jesus given prophethood</span><a class="ol-ref" href="read.html#p59">59–60</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Ways of the Manifestations contrary to human desire; Their words and deeds one</span><a class="ol-ref" href="read.html#p61">61</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">How people today would respond to such things</span><a class="ol-ref" href="read.html#p62">62</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Grievous charges and persecutions against the Cause in this day</span><a class="ol-ref" href="read.html#p63">63</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Breeze of divine bounty now blowing</span><a class="ol-ref" href="read.html#p64">64–65</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">&#x27;The sign of the Son of man in heaven&#x27;: heralds in the visible and invisible heavens</span><a class="ol-ref" href="read.html#p66">66–73</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Abraham: Nimrod&#x27;s dream and the soothsayers&#x27; star</span><a class="ol-ref" href="read.html#p67">67</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Moses: Pharaoh&#x27;s soothsayers and the sage who consoled Israel</span><a class="ol-ref" href="read.html#p68">68</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Jesus: the Magi&#x27;s star and Yaḥyá (John the Baptist)</span><a class="ol-ref" href="read.html#p69">69–70</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muḥammad: four heralds and Rúz-bih (Salmán)</span><a class="ol-ref" href="read.html#p71">71</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">This Cause: astronomers&#x27; star, and Aḥmad and Káẓim</span><a class="ol-ref" href="read.html#p72">72</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Summary: the perfect man who prepares souls for each Manifestation</span><a class="ol-ref" href="read.html#p73">73</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The Son of man &#x27;coming in the clouds of heaven&#x27;</span><a class="ol-ref" href="read.html#p74">74–85</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Meaning of &#x27;heaven&#x27;: the Manifestations descend from the will of God</span><a class="ol-ref" href="read.html#p74">74</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The many senses of &#x27;heaven&#x27; in scripture</span><a class="ol-ref" href="read.html#p75">75</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Two kinds of knowledge, divine and satanic</span><a class="ol-ref" href="read.html#p76">76</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The heart must be cleansed and emptied of worldly attachments</span><a class="ol-ref" href="read.html#p77">77</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Digression: the many meanings still left unsaid</span><a class="ol-ref" href="read.html#p78">78</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Meaning of &#x27;clouds&#x27;: abrogation of laws and the Manifestation&#x27;s human limitations</span><a class="ol-ref" href="read.html#p79">79</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Clouds hide the divine Sun; the poverty and sufferings of the Prophets</span><a class="ol-ref" href="read.html#p80">80</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Changes in each Dispensation veil people raised on inherited belief</span><a class="ol-ref" href="read.html#p81">81</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Recognizing Him by His own Self, asking for one proof only</span><a class="ol-ref" href="read.html#p82">82</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Qur&#x27;ánic verse on God coming &#x27;overshadowed with clouds&#x27;</span><a class="ol-ref" href="read.html#p83">83</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Meaning of &#x27;smoke&#x27;: dissension and the overthrow of accepted standards</span><a class="ol-ref" href="read.html#p84">84</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Divines misread these verses and the Day of Resurrection</span><a class="ol-ref" href="read.html#p85">85</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Meaning of &#x27;angels&#x27;</span><a class="ol-ref" href="read.html#p86">86–87</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Ṣádiq&#x27;s sayings on true believers &#x27;behind the Throne&#x27;</span><a class="ol-ref" href="read.html#p86">86</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Holy souls freed of human limitations called &#x27;angels&#x27;</span><a class="ol-ref" href="read.html#p87">87</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Rejection caused by expecting prophecies to come true literally</span><a class="ol-ref" href="read.html#p88">88–90</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Christians&#x27; expectations, and their objection to Muḥammad that no angels came</span><a class="ol-ref" href="read.html#p88">88</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Blind imitation of divines in every age; &#x27;Our Word is abstruse&#x27;</span><a class="ol-ref" href="read.html#p89">89</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Divines insist the signs of the Qá&#x27;im are still unfulfilled</span><a class="ol-ref" href="read.html#p90">90</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Corruption of the scriptures</span><a class="ol-ref" href="read.html#p91">91–98</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muslims dismiss earlier scriptures as corrupted</span><a class="ol-ref" href="read.html#p91">91</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The story of Ibn-i-Ṣúríyá and the law of stoning</span><a class="ol-ref" href="read.html#p92">92</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Perverting&#x27; the text means interpreting it falsely, not changing the words</span><a class="ol-ref" href="read.html#p93">93</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Further verses on distorting the meaning and writing books against Muḥammad</span><a class="ol-ref" href="read.html#p94">94–95</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Divines today write denunciations of the new Cause</span><a class="ol-ref" href="read.html#p96">96</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Purpose of the discussion; verses on corruption mostly concern the Jews</span><a class="ol-ref" href="read.html#p97">97</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Refuting the claim that the Gospel was taken up to heaven</span><a class="ol-ref" href="read.html#p98">98</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Knowing God through Himself and His Word</span><a class="ol-ref" href="read.html#p99">99–100</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Cleansing the heart&#x27;s eye to see Truth without proof</span><a class="ol-ref" href="read.html#p99">99</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">God&#x27;s Word as the supreme proof: &#x27;Is it not enough for them...&#x27;</span><a class="ol-ref" href="read.html#p100">100</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Warning to the people of the Bayán</span><a class="ol-ref" href="read.html#p101">101</a></div>
+<h3 class="ol-part">Part Two</h3>
+<div class="ol-row ol-l1"><span class="ol-text">The sovereignty of the Manifestations of God</span><a class="ol-ref" href="read.html#p102">102–103</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Sovereignty independent of earthly rule and followers</span><a class="ol-ref" href="read.html#p102">102</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">All Manifestations invested with all-compelling power</span><a class="ol-ref" href="read.html#p103">103</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">God as unknowable Essence, and His Manifestations</span><a class="ol-ref" href="read.html#p104">104–110</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">God is exalted beyond human attributes and understanding</span><a class="ol-ref" href="read.html#p104">104–105</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The Manifestations as mirrors and exponents of God</span><a class="ol-ref" href="read.html#p106">106</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">All things, and man above all, reveal the names and attributes of God</span><a class="ol-ref" href="read.html#p107">107–109</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;He hath known God who hath known himself&#x27;</span><a class="ol-ref" href="read.html#p107">107–108</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The Manifestations as the fullest expression of the divine attributes</span><a class="ol-ref" href="read.html#p109">109</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">All Prophets hold every attribute, differing only in intensity of revelation</span><a class="ol-ref" href="read.html#p110">110</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">People neglect the inner meaning of God&#x27;s words</span><a class="ol-ref" href="read.html#p111">111–112</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Why the promised sovereignty of the Qá&#x27;im has not appeared</span><a class="ol-ref" href="read.html#p113">113–117</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The Qá&#x27;im&#x27;s sovereignty is real but not as people imagine</span><a class="ol-ref" href="read.html#p113">113</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Sovereignty as spiritual ascendancy, revealed according to capacity</span><a class="ol-ref" href="read.html#p114">114</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muḥammad&#x27;s persecution by the divines of His day</span><a class="ol-ref" href="read.html#p114">114–116</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The verse of &#x27;an opening into the earth or a ladder into heaven&#x27;</span><a class="ol-ref" href="read.html#p116">116</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muḥammad&#x27;s later earthly sovereignty as confirmation</span><a class="ol-ref" href="read.html#p117">117</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The power of one verse of Muḥammad</span><a class="ol-ref" href="read.html#p118">118–120</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The Word that divides believers from unbelievers and unites hearts</span><a class="ol-ref" href="read.html#p118">118</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Meaning of &#x27;the wolf and the lamb shall feed together&#x27;</span><a class="ol-ref" href="read.html#p119">119</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Reckoning, and the meaning of &#x27;life&#x27; and &#x27;death&#x27;</span><a class="ol-ref" href="read.html#p120">120</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Resurrection and judgment in Muḥammad&#x27;s Revelation</span><a class="ol-ref" href="read.html#p121">121–130</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Unbelievers mock the promise of a new creation</span><a class="ol-ref" href="read.html#p121">121</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Commentators&#x27; grammatical arguments over &#x27;idhá&#x27;</span><a class="ol-ref" href="read.html#p122">122</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Meaning of &#x27;trumpet&#x27; and &#x27;resurrection&#x27;</span><a class="ol-ref" href="read.html#p123">123</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">People reject the Day of Resurrection that has already come</span><a class="ol-ref" href="read.html#p124">124</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Ye must be born again&#x27;: spiritual birth in every Dispensation</span><a class="ol-ref" href="read.html#p125">125</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Let the dead bury their dead&#x27;</span><a class="ol-ref" href="read.html#p126">126</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Alí and the contract between two &#x27;dead&#x27; men</span><a class="ol-ref" href="read.html#p127">127</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">True life is the life of the spirit</span><a class="ol-ref" href="read.html#p128">128</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The verse on Ḥamzih and Abú-Jahl</span><a class="ol-ref" href="read.html#p129">129</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">People still look to unworthy leaders for answers</span><a class="ol-ref" href="read.html#p130">130</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Spiritual sovereignty compared with earthly dominion</span><a class="ol-ref" href="read.html#p131">131–134</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The sovereignty of the Word above that of earthly kings</span><a class="ol-ref" href="read.html#p131">131–132</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Earthly dominion would not be true even of God</span><a class="ol-ref" href="read.html#p133">133</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Verses on divine victory cannot mean earthly power</span><a class="ol-ref" href="read.html#p134">134</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The martyrdom of Imám Ḥusayn as an example of true ascendancy</span><a class="ol-ref" href="read.html#p135">135–140</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Ḥusayn&#x27;s defeat at Karbilá disproves literal readings</span><a class="ol-ref" href="read.html#p135">135–136</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The power of Ḥusayn&#x27;s blood and the dust of Karbilá</span><a class="ol-ref" href="read.html#p137">137</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Pilgrims to his shrine</span><a class="ol-ref" href="read.html#p138">138</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The immortality and self-sacrifice of these holy souls</span><a class="ol-ref" href="read.html#p139">139</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The hidden station of the Luminaries despite outward abasement</span><a class="ol-ref" href="read.html#p140">140</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">True riches and poverty</span><a class="ol-ref" href="read.html#p141">141–143</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Jesus&#x27; words: &#x27;who on earth is richer than I?&#x27;</span><a class="ol-ref" href="read.html#p141">141</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Ṣádiq and the poor companion who held his love</span><a class="ol-ref" href="read.html#p142">142</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Riches as independence of all save God</span><a class="ol-ref" href="read.html#p143">143</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The real sovereignty of Jesus</span><a class="ol-ref" href="read.html#p144">144–145</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Jesus before the high priest: &#x27;the right hand of power&#x27;</span><a class="ol-ref" href="read.html#p144">144</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Healing the palsied man and forgiving his sins</span><a class="ol-ref" href="read.html#p145">145</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Muslims repeat the objections of earlier peoples</span><a class="ol-ref" href="read.html#p146">146–148</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muslims&#x27; charges against the Báb echo those against Muḥammad</span><a class="ol-ref" href="read.html#p146">146</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Jewish claim that no Prophet would follow Moses; &#x27;the hand of God is chained up&#x27;</span><a class="ol-ref" href="read.html#p147">147–148</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muslims&#x27; belief that Revelation has ended</span><a class="ol-ref" href="read.html#p148">148</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">&#x27;Attainment unto the Presence of God&#x27;</span><a class="ol-ref" href="read.html#p148">148–151</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The highest grace, promised in many verses</span><a class="ol-ref" href="read.html#p148">148</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Refuting its interpretation as universal revelation</span><a class="ol-ref" href="read.html#p149">149</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Refuting its interpretation as the &#x27;Most Holy Outpouring&#x27; within the Essence</span><a class="ol-ref" href="read.html#p150">150</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The &#x27;Holy Outpouring&#x27; realized in the Prophets: God is attained through Them</span><a class="ol-ref" href="read.html#p151">151</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">True meaning of the &#x27;Day of Resurrection&#x27;</span><a class="ol-ref" href="read.html#p152">152–153</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Traditions linking the Qá&#x27;im&#x27;s rise with the Resurrection</span><a class="ol-ref" href="read.html#p152">152</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Incomparable worth of one righteous deed in this Day</span><a class="ol-ref" href="read.html#p153">153</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">True learning as recognition of the Manifestation</span><a class="ol-ref" href="read.html#p153">153–155</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Scholars absorbed in material studies remain deprived</span><a class="ol-ref" href="read.html#p153">153–154</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The unlettered believer counted among the truly learned</span><a class="ol-ref" href="read.html#p154">154</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The abased exalted and the exalted abased</span><a class="ol-ref" href="read.html#p155">155</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Summons to heed the &#x27;flamelike Youth&#x27; shining in &#x27;Iráq</span><a class="ol-ref" href="read.html#p155">155</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The mystery of &#x27;return&#x27; in the Qur&#x27;án</span><a class="ol-ref" href="read.html#p156">156–160</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The same hindrances in Muḥammad&#x27;s day and in this day</span><a class="ol-ref" href="read.html#p156">156</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muḥammad charges His hearers with slaying earlier Prophets</span><a class="ol-ref" href="read.html#p157">157–158</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Those &#x27;of whom they had knowledge&#x27; rejected when He came</span><a class="ol-ref" href="read.html#p159">159</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Return of the Prophets implies return of their companions</span><a class="ol-ref" href="read.html#p160">160</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Station of essential unity of the Manifestations</span><a class="ol-ref" href="read.html#p161">161–162</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;I am all the Prophets&#x27; and &#x27;Our Cause is but one&#x27;</span><a class="ol-ref" href="read.html#p161">161</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Every Revelation the return of the former</span><a class="ol-ref" href="read.html#p162">162</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Return of believers shown by spiritual rebirth</span><a class="ol-ref" href="read.html#p162">162–168</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Noah&#x27;s followers before faith: worldly attachment and ancestral custom</span><a class="ol-ref" href="read.html#p162">162</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Transformation from fear to joyful self-sacrifice</span><a class="ol-ref" href="read.html#p163">163–164</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Copper turned to gold by the elixir</span><a class="ol-ref" href="read.html#p165">165–167</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Mysteries of rebirth, return and resurrection unveiled</span><a class="ol-ref" href="read.html#p168">168</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Foremost believers of each Dispensation as the return of former ones</span><a class="ol-ref" href="read.html#p169">169–170</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The rose is a rose whether in East or West</span><a class="ol-ref" href="read.html#p169">169</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Companions of Muḥammad and of the Báb compared</span><a class="ol-ref" href="read.html#p170">170</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The same sun rising: the first and the last are one</span><a class="ol-ref" href="read.html#p171">171</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The &#x27;Seal of the Prophets&#x27; as a test</span><a class="ol-ref" href="read.html#p172">172–174</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muḥammad as both first and last Adam</span><a class="ol-ref" href="read.html#p172">172</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Meaning of &#x27;first&#x27; and &#x27;last&#x27; applied to God and His Manifestations</span><a class="ol-ref" href="read.html#p173">173–174</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">All names forgotten in the realm of &#x27;God was alone&#x27;</span><a class="ol-ref" href="read.html#p174">174</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The &#x27;veils of glory&#x27;</span><a class="ol-ref" href="read.html#p175">175–178</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Divines who reject the Manifestation and the people who follow them</span><a class="ol-ref" href="read.html#p175">175–176</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The clergy&#x27;s opposition to every Prophet</span><a class="ol-ref" href="read.html#p177">177</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The term &#x27;Seal of the Prophets&#x27; as a veil</span><a class="ol-ref" href="read.html#p178">178</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Creation and Manifestations without beginning or end</span><a class="ol-ref" href="read.html#p178">178–180</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Tradition of &#x27;a thousand Fáṭimihs&#x27;</span><a class="ol-ref" href="read.html#p178">178</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Ḥusayn&#x27;s tradition of a thousand Adams</span><a class="ol-ref" href="read.html#p179">179</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Feeble souls reject abstruse traditions</span><a class="ol-ref" href="read.html#p180">180</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Selective acceptance of the Qur&#x27;án</span><a class="ol-ref" href="read.html#p181">181–185</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Promise of &#x27;attainment unto the divine Presence&#x27; alongside the &#x27;Seal&#x27; verse</span><a class="ol-ref" href="read.html#p181">181–182</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">God &#x27;doeth whatsoever He willeth&#x27; and is not to be questioned</span><a class="ol-ref" href="read.html#p182">182–184</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Centuries of recitation without understanding</span><a class="ol-ref" href="read.html#p185">185</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Conversation with a seeker about the Day of Reckoning</span><a class="ol-ref" href="read.html#p186">186–187</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Sinners known &#x27;by their countenance&#x27;</span><a class="ol-ref" href="read.html#p186">186–187</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Events of this Dispensation foreshadowed in the Book</span><a class="ol-ref" href="read.html#p187">187</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Closing the theme with the &#x27;Abode of Peace&#x27;</span><a class="ol-ref" href="read.html#p188">188</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Themes repeated to suit every capacity</span><a class="ol-ref" href="read.html#p189">189</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Countless mysteries yet unrevealed</span><a class="ol-ref" href="read.html#p190">190</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Station of distinction of the Manifestations</span><a class="ol-ref" href="read.html#p191">191–198</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Each Manifestation&#x27;s distinct name, mission and limitations</span><a class="ol-ref" href="read.html#p191">191</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Divergent utterances explained by differing stations</span><a class="ol-ref" href="read.html#p192">192–193, 195</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Divinity from the standpoint of oneness</span><a class="ol-ref" href="read.html#p193">193</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Servitude and self-effacement in the second station</span><a class="ol-ref" href="read.html#p194">194</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Claims of divinity, messengership, seal and servitude all true</span><a class="ol-ref" href="read.html#p196">196, 198</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Utter effacement before God even when voicing divinity</span><a class="ol-ref" href="read.html#p196">196</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The breeze of God wafted in this day</span><a class="ol-ref" href="read.html#p197">197</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Seeking understanding rather than rejecting holy words</span><a class="ol-ref" href="read.html#p199">199–202</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Muḥammad derided for His answers on the new moons and the Spirit</span><a class="ol-ref" href="read.html#p200">200–201</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Knowledge as &#x27;one point&#x27; and a light from God</span><a class="ol-ref" href="read.html#p201">201–202</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Critique of the author of Irshádu&#x27;l-&#x27;Avám</span><a class="ol-ref" href="read.html#p203">203–210</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Sciences claimed as prerequisites for understanding the Mi&#x27;ráj</span><a class="ol-ref" href="read.html#p203">203–204</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The &#x27;veil of knowledge&#x27; consumed by love</span><a class="ol-ref" href="read.html#p205">205</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Vain pretensions and the people&#x27;s allegiance to him</span><a class="ol-ref" href="read.html#p206">206–207</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Challenge to prove his alchemy; Bahá&#x27;u&#x27;lláh&#x27;s sufferings</span><a class="ol-ref" href="read.html#p208">208</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Described in the Qur&#x27;án as &#x27;Athím&#x27;</span><a class="ol-ref" href="read.html#p209">209–210</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Divine knowledge from pure hearts and the illumined</span><a class="ol-ref" href="read.html#p211">211–212</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Conditions of the true seeker</span><a class="ol-ref" href="read.html#p213">213–215</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Cleansing the heart of acquired knowledge, love and hate</span><a class="ol-ref" href="read.html#p213">213</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Detachment, humility and guarding the tongue</span><a class="ol-ref" href="read.html#p213">213</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Shunning backbiting; contentment, prayer, kindness and forgiveness</span><a class="ol-ref" href="read.html#p214">214</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Uncertainty of one&#x27;s own end</span><a class="ol-ref" href="read.html#p214">214</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Whoso maketh efforts for Us&#x27;</span><a class="ol-ref" href="read.html#p215">215</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Fruits of search: new eyes, discernment and certitude</span><a class="ol-ref" href="read.html#p216">216–217</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The City of Certitude</span><a class="ol-ref" href="read.html#p217">217–220</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Wonders of the City</span><a class="ol-ref" href="read.html#p217">217–218</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Renewed once in about a thousand years</span><a class="ol-ref" href="read.html#p218">218</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The City as the Word of God in every age</span><a class="ol-ref" href="read.html#p219">219</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The Qur&#x27;án as a stronghold for the people of Muḥammad</span><a class="ol-ref" href="read.html#p220">220</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The Qur&#x27;án as the abiding testimony after Muḥammad</span><a class="ol-ref" href="read.html#p221">221–225</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The Book&#x27;s sufficiency over traditions until &#x27;the year sixty&#x27;</span><a class="ol-ref" href="read.html#p221">221</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;The Book of God and My Family&#x27;: the Book as the one remaining testimony</span><a class="ol-ref" href="read.html#p222">222–223</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;No doubt is there about this Book&#x27;: the Qur&#x27;án as guide to all</span><a class="ol-ref" href="read.html#p224">224</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Rejecting the Qur&#x27;án means rejecting earlier Scriptures</span><a class="ol-ref" href="read.html#p225">225</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Qur&#x27;ánic verses that make revealed verses the supreme proof</span><a class="ol-ref" href="read.html#p226">226–231</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Produce a Súrah like it&#x27;: verses as the sun among proofs</span><a class="ol-ref" href="read.html#p226">226–227</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;In what revelation will they believe&#x27;: no greater testimony</span><a class="ol-ref" href="read.html#p228">228</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Warnings to those who disdain and ridicule the verses</span><a class="ol-ref" href="read.html#p229">229–230</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Demands for miracles; the sun as proof of itself</span><a class="ol-ref" href="read.html#p230">230</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Bring back our fathers&#x27;: foolish demands of the scoffers</span><a class="ol-ref" href="read.html#p231">231</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The verses as a testimony even to the common people</span><a class="ol-ref" href="read.html#p232">232–233</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">A claim of the learned refuted as pride and love of authority</span><a class="ol-ref" href="read.html#p232">232–233</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Understanding depends on purity of heart, not learning</span><a class="ol-ref" href="read.html#p233">233</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Revelation dismissed as poetry, old tales and forgery</span><a class="ol-ref" href="read.html#p234">234–235</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The same charges made against the present Revelation</span><a class="ol-ref" href="read.html#p235">235</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The claim that no Prophet would come after the last</span><a class="ol-ref" href="read.html#p236">236–238</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The verse of Joseph: &#x27;God will by no means raise up a Messenger&#x27;</span><a class="ol-ref" href="read.html#p236">236</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Christian divines and the permanence of the Gospel law</span><a class="ol-ref" href="read.html#p236">236</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Seal of the Prophets&#x27; as a veil; interpretation known only to the well-grounded</span><a class="ol-ref" href="read.html#p237">237</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Whom God causeth to err through a knowledge&#x27; applied to the divines</span><a class="ol-ref" href="read.html#p237">237–238</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Slanders against the Manifestations and the flood of new verses</span><a class="ol-ref" href="read.html#p239">239–241</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Prophets called calumniators, misleaders and madmen</span><a class="ol-ref" href="read.html#p239">239</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Present attacks and the countless verses of this Revelation</span><a class="ol-ref" href="read.html#p240">240</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Call to meditate on His Word and submit to His Cause</span><a class="ol-ref" href="read.html#p241">241</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">&#x27;Do ye not disavow us&#x27;: the early Muslims&#x27; faith in the verses</span><a class="ol-ref" href="read.html#p242">242–243</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Persecution of Muḥammad&#x27;s companions for believing the verses</span><a class="ol-ref" href="read.html#p242">242</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Those who accept the new verses must be true believers</span><a class="ol-ref" href="read.html#p243">243</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The verses as the only standard for recognizing Manifestations</span><a class="ol-ref" href="read.html#p244">244–245</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;A Book written on parchment&#x27; and the charge of sorcery</span><a class="ol-ref" href="read.html#p244">244</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">No excuse for rejecting verses revealed without learning</span><a class="ol-ref" href="read.html#p245">245</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Proof from the faith and sacrifice of the Báb&#x27;s followers</span><a class="ol-ref" href="read.html#p246">246–256</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">In past ages the lowly believed while the learned scorned</span><a class="ol-ref" href="read.html#p246">246</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Learned divines who embraced this Revelation, with names</span><a class="ol-ref" href="read.html#p247">247–248</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Their martyrdom and detachment as testimony</span><a class="ol-ref" href="read.html#p249">249–250</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Their sufferings compared with those of the &#x27;Prince of Martyrs&#x27;</span><a class="ol-ref" href="read.html#p251">251</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Wish for death&#x27;: the Book&#x27;s touchstone of sincerity</span><a class="ol-ref" href="read.html#p252">252–253</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;O Son of Man!&#x27;: a call to rise from slumber</span><a class="ol-ref" href="read.html#p254">254</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">None of the believing divines were leaders of religion</span><a class="ol-ref" href="read.html#p255">255–256</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The Báb&#x27;s epistle to the divines as a warning to the people of the Bayán</span><a class="ol-ref" href="read.html#p256">256</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Proof from the Báb&#x27;s constancy in proclaiming the Cause</span><a class="ol-ref" href="read.html#p257">257–262</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">A youth proclaiming, without fear, a Cause all opposed</span><a class="ol-ref" href="read.html#p257">257</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">His longing for martyrdom in the Qayyúmu&#x27;l-Asmá&#x27; and the commentary on &#x27;Há&#x27;&#x27;</span><a class="ol-ref" href="read.html#p258">258–260</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The ingratitude and slanders of this generation</span><a class="ol-ref" href="read.html#p260">260</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Steadfastness as proof: &#x27;Two verses have made Me old&#x27;</span><a class="ol-ref" href="read.html#p261">261</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">His fervor growing under persecution until His martyrdom</span><a class="ol-ref" href="read.html#p262">262</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Proof from His ascendancy and transforming influence</span><a class="ol-ref" href="read.html#p263">263–264</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Signs of His power in every city after &#x27;the year sixty&#x27; in Shíráz</span><a class="ol-ref" href="read.html#p263">263</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The radiant resignation of the persecuted believers</span><a class="ol-ref" href="read.html#p263">263–264</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The world&#x27;s denunciation itself as proof of truth</span><a class="ol-ref" href="read.html#p265">265</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Traditions foretelling the Revelation and its rejection</span><a class="ol-ref" href="read.html#p266">266–275</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Why a few traditions are cited</span><a class="ol-ref" href="read.html#p266">266</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;The people of both the East and the West curse it&#x27;</span><a class="ol-ref" href="read.html#p267">267</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Opposition caused by the annulment of customs and rules</span><a class="ol-ref" href="read.html#p267">267–268</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">People waiting for a Promised One who upholds the old Law</span><a class="ol-ref" href="read.html#p268">268</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Traditions of a new law and a new Book from a Youth of Baní-Háshim</span><a class="ol-ref" href="read.html#p269">269–271</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Divines foretold as His chief enemies</span><a class="ol-ref" href="read.html#p270">270–271</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Knowledge is twenty and seven letters&#x27;</span><a class="ol-ref" href="read.html#p272">272</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The Tablet of Fáṭimih: sufferings of the Qá&#x27;im&#x27;s chosen ones</span><a class="ol-ref" href="read.html#p273">273</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Zawrá&#x27; and the martyrs slain in Rayy</span><a class="ol-ref" href="read.html#p274">274–275</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The divines of that age as the most wicked beneath heaven</span><a class="ol-ref" href="read.html#p275">275</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Bahá&#x27;u&#x27;lláh&#x27;s warning to the learned of the Bayán</span><a class="ol-ref" href="read.html#p276">276–277</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Opposition foreseen in the day of Mustagháth</span><a class="ol-ref" href="read.html#p276">276</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Unprecedented jealousy and betrayal by professed friends</span><a class="ol-ref" href="read.html#p277">277</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Bahá&#x27;u&#x27;lláh&#x27;s withdrawal to the wilderness and return</span><a class="ol-ref" href="read.html#p278">278–279</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Two years of solitude to avoid discord among the faithful</span><a class="ol-ref" href="read.html#p278">278</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Return in submission to the divine summons; enemies&#x27; plots</span><a class="ol-ref" href="read.html#p278">278–279</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">His readiness to give His life for the Primal Point</span><a class="ol-ref" href="read.html#p279">279</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Rejection despite verses and fulfilled traditions</span><a class="ol-ref" href="read.html#p280">280–282</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">The people cling to the letter of misunderstood traditions</span><a class="ol-ref" href="read.html#p280">280</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;In the year sixty, His Cause shall be made manifest&#x27;</span><a class="ol-ref" href="read.html#p281">281</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Four signs from four Prophets in the Qá&#x27;im</span><a class="ol-ref" href="read.html#p282">282</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">The twofold language of the Manifestations</span><a class="ol-ref" href="read.html#p283">283–285</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Plain speech to guide and veiled speech to test</span><a class="ol-ref" href="read.html#p283">283</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">&#x27;Seventy meanings&#x27; and the Qá&#x27;im&#x27;s unveiling of them</span><a class="ol-ref" href="read.html#p283">283</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">Blame unfulfilled traditions on lack of understanding; seek the Expounders</span><a class="ol-ref" href="read.html#p284">284</a></div>
+<div class="ol-row ol-l2"><span class="ol-text">None sincerely seek the guidance of the Manifestations</span><a class="ol-ref" href="read.html#p285">285</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Closing verses on turning from God&#x27;s remembrance</span><a class="ol-ref" href="read.html#p286">286–287</a></div>
+<div class="ol-row ol-l1"><span class="ol-text">Attribution and closing benediction</span><a class="ol-ref" href="read.html#p288">288–290</a></div>
+</div>
+```
+<!-- OUTLINE:END -->
