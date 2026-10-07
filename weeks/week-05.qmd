@@ -57,17 +57,15 @@ page-layout: full
     b. A personal sign, such as ʻAbdu'l-Bahá appearing to you in a dream
     c. The endorsement of respected wealthy, powerful or famous individuals
     d. Scientific evidence, such as a peer-reviewed study showing that prayer heals or that fasting is good for your health
-5. Bahá'u'lláh suggests that it is possible to recognize Him 'by His own Self', without proof. This is very confusing. What do you understand by this?
+5. Bahá'u'lláh asks that we "recognize Him only by His own Self", and He speaks of seeing Truth so clearly that we "will need no proof to demonstrate His reality". Later in the Book He gives an image for this:
+
+    > Gracious God! how strange the way of this people! They clamor for guidance, although the standards of Him Who guideth all things are already hoisted. They cleave to the obscure intricacies of knowledge, when He, Who is the Object of all knowledge, shineth as the sun. They see the sun with their own eyes, and yet question that brilliant Orb as to the proof of its light… The proof of the sun is the light thereof, which shineth and envelopeth all things.
+    >
+    > [Bahá'u'lláh, *Kitáb-i-Íqán* [¶230](../read.qmd#p230)]{.attrib}
+
+    Think of something in your own life that you recognized directly, without needing external proof: a piece of music, the goodness of a person, a friend's voice. How did you know? What might it mean to recognize a Manifestation of God in a similar way?
 :::
 
-```{=html}
-<div class="write-box" data-write="w5-proof">
-  <label class="write-label" for="write-w5-proof">Your response</label>
-  <textarea class="note-input" id="write-w5-proof" rows="3" placeholder="Write your thoughts…"></textarea>
-  <div class="note-bar"><span class="note-saved"></span></div>
-  <div class="write-lines" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
-</div>
-```
 
 ```{=html}
 <div id="paragraph-notes" data-week="5" class="paragraph-notes">
