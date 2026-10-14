@@ -46,6 +46,14 @@ page-layout: full
 <div class="note-row passage-row" data-p="107"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p107" title="Paragraph 107 in the full text">107</a></div><div class="note-text">The <span class="gl-ref" data-gl="traditions" role="button" tabindex="0" aria-label="Glossary: traditions">traditions</span> and sayings that bear direct reference to Our theme are divers and manifold; We have refrained from quoting them for the sake of brevity. Nay, whatever is in the heavens and whatever is on the earth is a direct evidence of the revelation within it of the attributes and names of God, inasmuch as within every atom are enshrined the signs that bear eloquent testimony to the revelation of that most great Light. Methinks, but for the potency of that revelation, no being could ever exist. How resplendent the luminaries of knowledge that shine in an atom, and how vast the oceans of wisdom that surge within a drop! To a supreme degree is this true of man, who, among all created things, hath been invested with the robe of such gifts, and hath been singled out for the glory of such distinction. For in him are potentially revealed all the attributes and names of God to a degree that no other created being hath excelled or surpassed. All these names and attributes are applicable to him. Even as He hath said: “Man is My mystery, and I am his mystery.” Manifold are the verses that have been repeatedly revealed in all the heavenly Books and the holy Scriptures, expressive of this most subtle and lofty theme. Even as He hath revealed: “We will surely show them Our signs in the world and within themselves.”<sup class="fn-ref" data-fn="73" role="button" tabindex="0" aria-label="Footnote 73">73</sup> Again He saith: “And also in your own selves: will ye not then behold the signs of God?”<sup class="fn-ref" data-fn="74" role="button" tabindex="0" aria-label="Footnote 74">74</sup> And yet again He revealeth: “And be ye not like those who forget God, and whom He hath therefore caused to forget their own selves.”<sup class="fn-ref" data-fn="75" role="button" tabindex="0" aria-label="Footnote 75">75</sup> In this connection, He Who is the eternal King—may the souls of all that dwell within the mystic Tabernacle be a sacrifice unto Him—hath spoken: “He hath known God who hath known himself.”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 107" placeholder="Your note on paragraph 107…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
 ```
 
+::: {.passage-body}
+4. If God is revealed in all created things, what need, you may ask, do we have for a Manifestation? This view is increasingly common today: for example, among those who describe themselves as "spiritual but not religious", or in the attraction to more mystical forms of religion, where the focus is on the individual's own spiritual journey and external guidance is not seen as necessary. How would you respond to such a person? It may help to notice that Bahá'u'lláh says the names and attributes of God are revealed in man only "potentially" ([¶107](../read.qmd#p107)), and to consider His words elsewhere:
+
+    > Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit therefrom.
+    >
+    > [Bahá'u'lláh, *Gleanings from the Writings of Bahá'u'lláh*, CXXII]{.attrib}
+:::
+
 ## Life, Death, Resurrection, and Judgment {.passage-heading}
 
 ```{=html}
@@ -54,9 +62,9 @@ page-layout: full
 ```
 
 ::: {.passage-body}
-4. What is the Day of Judgment, or the Day of Resurrection, according to Bahá'u'lláh? If the Day of Judgment has already come, in what way was humanity brought to a reckoning with God? (Paragraphs [120](../read.qmd#p120) and [121](../read.qmd#p121))
-5. What do "life" and "death" mean according to Bahá'u'lláh? Is eternal life something we can attain only in the next world, or can it begin in this one? (Paragraphs [125](../read.qmd#p125), [126](../read.qmd#p126), [127](../read.qmd#p127), [128](../read.qmd#p128) and [129](../read.qmd#p129))
-6. In the Hidden Words Bahá'u'lláh writes:
+5. What is the Day of Judgment, or the Day of Resurrection, according to Bahá'u'lláh? If the Day of Judgment has already come, in what way was humanity brought to a reckoning with God? (Paragraphs [120](../read.qmd#p120) and [121](../read.qmd#p121))
+6. What do "life" and "death" mean according to Bahá'u'lláh? Is eternal life something we can attain only in the next world, or can it begin in this one? (Paragraphs [125](../read.qmd#p125), [126](../read.qmd#p126), [127](../read.qmd#p127), [128](../read.qmd#p128) and [129](../read.qmd#p129))
+7. In the Hidden Words Bahá'u'lláh writes:
 
     > O Son of Being! Bring thyself to account each day ere thou art summoned to a reckoning; for death, unheralded, shall come upon thee and thou shalt be called to give account for thy deeds.
     >
