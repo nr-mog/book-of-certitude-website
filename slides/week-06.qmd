@@ -206,6 +206,17 @@ consists of a head and arms and two legs.
 [Mishkín-Qalam]{.pp-name}
 :::
 :::
+
+::: {.pp-note}
+Mishkín-Qalam was a famous calligrapher whose works "would be eagerly sought after by Persians of
+all classes, were it not that they all bore, as the signature of the penman, the following verse:
+
+| *Lord of calligraphy, my banner goes before;*
+| *But to Bahá'u'lláh, a bondsman at the door,*
+| *Naught else I am, Mishkín-Qalam."*
+
+[E. G. Browne, *A Year amongst the Persians*]{.pp-cite}
+:::
 :::
 :::
 
