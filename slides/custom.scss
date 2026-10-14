@@ -630,3 +630,22 @@ $code-block-font-size: 0.7em;
   margin-top: 1.4em;
   font-size: 0.62em;
 }
+
+// Fill the stage: a long quotation, a row of tiles or a short list set larger
+// when the slide has room for it. .fill on .fs-body outranks .fs-tight/.fs-prose.
+.reveal .fs-body.fill {
+  font-size: 0.68em;
+  line-height: 1.45;
+
+  p { margin-bottom: 0.6em; }
+  p:last-child { margin-bottom: 0; }
+}
+
+.reveal .tiles.fill .tile { font-size: 0.84em; }
+
+// A quotation split across two slides has room for a further step up.
+.reveal .fs-body.fill.fill-lg { font-size: 0.74em; }
+
+// Quarto moves .incremental onto the list items, so the list is reached
+// through its wrapper.
+.reveal div.fill > ul { font-size: 1.3em; }

@@ -1,0 +1,140 @@
+---
+title: "Week 6"
+subtitle: "14 October 2026 · Paragraphs 102–130"
+toc: false
+page-layout: full
+---
+
+::: {.handout-actions}
+[Download as PDF](week-06.pdf){.btn-pdf download="Kitab-i-Iqan-week-06.pdf"}
+:::
+
+## The Manifestations of God {.passage-heading}
+
+::: {.passage-body}
+This week we begin Part Two. It opens on a question the uncle of the Báb had raised: the traditions said the promised Qá'im would come with sovereignty, so why had the Báb been imprisoned and put to death, and His followers left "leading the life of abased and impotent mortals" ([¶113](../read.qmd#p113))? Before He answers, Bahá'u'lláh first explains who the Manifestations of God are.
+:::
+
+```{=html}
+<div class="note-row passage-row" data-p="106"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p106" title="Paragraph 106 in the full text">106</a></div><div class="note-text">The door of the knowledge of the Ancient of Days being thus closed in the face of all beings, the Source of infinite grace, according to His saying: “His grace hath transcended all things; My grace hath encompassed them all” hath caused those luminous Gems of Holiness to appear out of the realm of the spirit, in the noble form of the human temple, and be made manifest unto all men, that they may impart unto the world the mysteries of the unchangeable Being, and tell of the subtleties of His imperishable Essence. These sanctified Mirrors, these Daysprings of ancient glory are one and all the Exponents on earth of Him Who is the central Orb of the universe, its Essence and ultimate Purpose. From Him proceed their knowledge and power; from Him is derived their sovereignty. The beauty of their countenance is but a reflection of His image, and their revelation a sign of His deathless glory. They are the Treasuries of divine knowledge, and the Repositories of celestial wisdom. Through them is transmitted a grace that is infinite, and by them is revealed the light that can never fade. Even as He hath said: “There is no distinction whatsoever between Thee and them; except that they are Thy servants, and are created of Thee.” This is the significance of the tradition: “I am He, Himself, and He is I, myself.”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 106" placeholder="Your note on paragraph 106…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="107"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p107" title="Paragraph 107 in the full text">107</a></div><div class="note-text">The <span class="gl-ref" data-gl="traditions" role="button" tabindex="0" aria-label="Glossary: traditions">traditions</span> and sayings that bear direct reference to Our theme are divers and manifold; We have refrained from quoting them for the sake of brevity. Nay, whatever is in the heavens and whatever is on the earth is a direct evidence of the revelation within it of the attributes and names of God, inasmuch as within every atom are enshrined the signs that bear eloquent testimony to the revelation of that most great Light. Methinks, but for the potency of that revelation, no being could ever exist. How resplendent the luminaries of knowledge that shine in an atom, and how vast the oceans of wisdom that surge within a drop! To a supreme degree is this true of man, who, among all created things, hath been invested with the robe of such gifts, and hath been singled out for the glory of such distinction. For in him are potentially revealed all the attributes and names of God to a degree that no other created being hath excelled or surpassed. All these names and attributes are applicable to him. Even as He hath said: “Man is My mystery, and I am his mystery.” Manifold are the verses that have been repeatedly revealed in all the heavenly Books and the holy Scriptures, expressive of this most subtle and lofty theme. Even as He hath revealed: “We will surely show them Our signs in the world and within themselves.”<sup class="fn-ref" data-fn="73" role="button" tabindex="0" aria-label="Footnote 73">73</sup> Again He saith: “And also in your own selves: will ye not then behold the signs of God?”<sup class="fn-ref" data-fn="74" role="button" tabindex="0" aria-label="Footnote 74">74</sup> And yet again He revealeth: “And be ye not like those who forget God, and whom He hath therefore caused to forget their own selves.”<sup class="fn-ref" data-fn="75" role="button" tabindex="0" aria-label="Footnote 75">75</sup> In this connection, He Who is the eternal King—may the souls of all that dwell within the mystic Tabernacle be a sacrifice unto Him—hath spoken: “He hath known God who hath known himself.”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 107" placeholder="Your note on paragraph 107…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. In ¶104–110 Bahá'u'lláh moves step by step from God, through the Manifestations, to man and to every created thing. Fill in how He describes each one and how it relates to God:
+:::
+
+::: {.passage-body}
+|                                        | How is it described? | How does it relate to God? |
+|----------------------------------------|----------------------|----------------------------|
+| God, the unknowable Essence (¶104–105)  |                      |                            |
+| The Manifestations of God (¶106, ¶109)  |                      |                            |
+| Man (¶107, ¶109)                        |                      |                            |
+| All things (¶107, ¶109)                 |                      |                            |
+:::
+
+::: {.passage-body}
+2. In ¶106 Bahá'u'lláh quotes two sayings that seem to point in opposite directions. One says of the Manifestations: "There is no distinction whatsoever between Thee and them; except that they are Thy servants, and are created of Thee." The other: "I am He, Himself, and He is I, myself." He also calls the Manifestations "sanctified Mirrors". When a mirror faces the sun, in what sense is it true to say that the sun is in the mirror? In what sense is it not true? How does this image help us hold both sayings together? How might it help in a conversation with a Christian friend who asks whether Jesus was God?
+3. In ¶107 Bahá'u'lláh says that in man "are potentially revealed all the attributes and names of God", and He quotes the tradition "He hath known God who hath known himself." In the Hidden Words He writes:
+
+    > O Son of Spirit! I created thee rich, why dost thou bring thyself down to poverty? Noble I made thee, wherewith dost thou abase thyself? Out of the essence of knowledge I gave thee being, why seekest thou enlightenment from anyone beside Me? Out of the clay of love I molded thee, how dost thou busy thyself with another? Turn thy sight unto thyself, that thou mayest find Me standing within thee, mighty, powerful and self-subsisting.
+    >
+    > [Bahá'u'lláh, *The Hidden Words*, Arabic 13]{.attrib}
+
+    "Know yourself" is advice we hear everywhere. Below are some of the ways people try to do it. What might each one show you about yourself? What might it leave out of the self Bahá'u'lláh is describing?
+    a. Taking a personality test such as the Myers-Briggs or the Enneagram
+    b. Choosing a major or a career based on what you are good at
+    c. Curating how you come across online
+    d. Spending a period of service far from home
+    e. Following the counsel "Bring thyself to account each day ere thou art summoned to a reckoning" (*The Hidden Words*, Arabic 31)
+4. Bahá'u'lláh says the Manifestations come "to educate the souls of men" ([¶103](../read.qmd#p103)). Elsewhere He writes: "Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit therefrom." If every person potentially reflects all the names and attributes of God, how might that change the way you see each of the following?
+    a. A child in your class who keeps disrupting the lesson
+    b. A junior youth who tells you they are "not good at anything"
+    c. A roommate or classmate you find difficult
+    d. Yourself, on a bad day
+:::
+
+## The Meaning of Sovereignty {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="102"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p102" title="Paragraph 102 in the full text">102</a></div><div class="note-text">Verily He Who is the Daystar of Truth and Revealer of the Supreme Being holdeth, for all time, undisputed sovereignty over all that is in heaven and on earth, though no man be found on earth to obey Him. He verily is independent of all earthly dominion, though He be utterly destitute. Thus We reveal unto thee the mysteries of the Cause of God, and bestow upon thee the gems of divine wisdom, that haply thou mayest soar on the wings of renunciation to those heights that are veiled from the eyes of men.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 102" placeholder="Your note on paragraph 102…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+5. Bahá'u'lláh answers His uncle's question by explaining that sovereignty is "the spiritual ascendancy" which the Manifestation exercises "whether or not He appear to the world clothed in the majesty of earthly dominion", and which "in due time revealeth itself to the world in direct proportion to its capacity and spiritual receptiveness" ([¶114](../read.qmd#p114)). He points to Muḥammad, Who was so persecuted that Gabriel told Him to "seek out an opening into the earth or a ladder into heaven" ([¶116](../read.qmd#p116)), and Whose name is now praised from the minarets of many nations ([¶117](../read.qmd#p117)).
+    a. Think of someone who has had a real influence on your life. Where did that influence come from: position, wealth, a large following, or something else?
+    b. Bahá'u'lláh wrote these words in Baghdad in 1862, as an exile with a small band of followers. Describing Muḥammad's persecution, He adds: "Hath not the same befallen this Servant, and been witnessed by all?" (¶114). What do you make of Him writing about sovereignty from that position?
+    c. In [Week 2](week-02.qmd) we thought about someone who wavers in their faith after "a long period in which the institute process appears to have produced no impact" in their neighbourhood. What might ¶114–117 say to that person?
+:::
+
+## Life, Death and Resurrection {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="125"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p125" title="Paragraph 125 in the full text">125</a></div><div class="note-text">Such things have come to pass in the days of every <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span> of God. Even as Jesus said: “Ye must be born again.”<sup class="fn-ref" data-fn="86" role="button" tabindex="0" aria-label="Footnote 86">86</sup> Again He saith: “Except a man be born of water and of the Spirit, he cannot enter into the Kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.”<sup class="fn-ref" data-fn="87" role="button" tabindex="0" aria-label="Footnote 87">87</sup> The purport of these words is that whosoever in every dispensation is born of the Spirit and is quickened by the breath of the Manifestation of Holiness, he verily is of those that have attained unto “life” and “resurrection” and have entered into the “<span class="gl-ref" data-gl="paradise" role="button" tabindex="0" aria-label="Glossary: paradise">paradise</span>” of the love of God. And whosoever is not of them, is condemned to “death” and “deprivation,” to the “fire” of unbelief, and to the “wrath” of God. In all the scriptures, the books and chronicles, the sentence of death, of fire, of blindness, of want of understanding and hearing, hath been pronounced against those whose lips have tasted not the ethereal cup of true knowledge, and whose hearts have been deprived of the grace of the holy Spirit in their day. Even as it hath been previously recorded: “Hearts have they with which they understand not.”<sup class="fn-ref" data-fn="88" role="button" tabindex="0" aria-label="Footnote 88">88</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 125" placeholder="Your note on paragraph 125…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="127"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p127" title="Paragraph 127 in the full text">127</a></div><div class="note-text">In like manner, two of the people of <span class="gl-ref" data-gl="kufih" role="button" tabindex="0" aria-label="Glossary: Kúfih">Kúfih</span> went to <span class="gl-ref" data-gl="ali" role="button" tabindex="0" aria-label="Glossary: ‘Alí">‘Alí</span>, the Commander of the Faithful. One owned a house and wished to sell it; the other was to be the purchaser. They had agreed that this transaction should be effected and the contract be written with the knowledge of ‘Alí. He, the exponent of the law of God, addressing the scribe, said: “Write thou: ‘A dead man hath bought from another dead man a house. That house is bounded by four limits. One extendeth toward the tomb, the other to the vault of the grave, the third to the <span class="gl-ref" data-gl="sirat" role="button" tabindex="0" aria-label="Glossary: Ṣiráṭ">Ṣiráṭ</span>, the fourth to either <span class="gl-ref" data-gl="paradise" role="button" tabindex="0" aria-label="Glossary: Paradise">Paradise</span> or hell.’” Reflect, had these two souls been quickened by the trumpet-call of ‘Alí, had they risen from the grave of error by the power of his love, the judgment of death would certainly not have been pronounced against them.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 127" placeholder="Your note on paragraph 127…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="128"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p128" title="Paragraph 128 in the full text">128</a></div><div class="note-text">In every age and century, the purpose of the Prophets of God and their chosen ones hath been no other but to affirm the spiritual significance of the terms “life,” “resurrection,” and “judgment.” If one will ponder but for a while this utterance of <span class="gl-ref" data-gl="ali" role="button" tabindex="0" aria-label="Glossary: ‘Alí">‘Alí</span> in his heart, one will surely discover all mysteries hidden in the terms “grave,” “tomb,” “<span class="gl-ref" data-gl="sirat" role="button" tabindex="0" aria-label="Glossary: ṣiráṭ">ṣiráṭ</span>,” “<span class="gl-ref" data-gl="paradise" role="button" tabindex="0" aria-label="Glossary: paradise">paradise</span>” and “hell.” But oh! how strange and pitiful! Behold, all the people are imprisoned within the tomb of self, and lie buried beneath the nethermost depths of worldly desire! Wert thou to attain to but a dewdrop of the crystal waters of divine knowledge, thou wouldst readily realize that true life is not the life of the flesh but the life of the spirit. For the life of the flesh is common to both men and animals, whereas the life of the spirit is possessed only by the pure in heart who have quaffed from the ocean of faith and partaken of the fruit of certitude. This life knoweth no death, and this existence is crowned by immortality. Even as it hath been said: “He who is a true believer liveth both in this world and in the world to come.” If by “life” be meant this earthly life, it is evident that death must needs overtake it.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 128" placeholder="Your note on paragraph 128…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+In these paragraphs Bahá'u'lláh explains more of the terms the people expected to see fulfilled literally on the Day of Judgment. [Week 4](week-04.qmd) has a summary of the terms from Part One. Here are the ones He explains this week:
+
+- **Sovereignty**: the spiritual ascendancy of the Manifestation, revealed to the world in proportion to its capacity
+    - Paragraphs [113](../read.qmd#p113), [114](../read.qmd#p114), [117](../read.qmd#p117)
+- **Reckoning and judgment**: the whole world brought to account by a single verse of the Manifestation
+    - Paragraphs [118](../read.qmd#p118), [120](../read.qmd#p120)
+- **The wolf and the lamb**: peoples "of divers beliefs, of conflicting creeds, and opposing temperaments" united by the Word of God
+    - Paragraphs [118](../read.qmd#p118), [119](../read.qmd#p119)
+- **Life and death**: "the life of faith and the death of unbelief"
+    - Paragraphs [120](../read.qmd#p120), [125](../read.qmd#p125), [128](../read.qmd#p128)
+- **Trumpet**: the trumpet-call of the Manifestation's Revelation
+    - Paragraphs [122](../read.qmd#p122), [123](../read.qmd#p123)
+- **Resurrection**: the Manifestation's rise to proclaim the Cause of God, and souls quickened by it to "speed out of the sepulchers of their bodies"
+    - Paragraphs [123](../read.qmd#p123), [125](../read.qmd#p125)
+- **Paradise and hell**: the "paradise" of the love of God, and the "fire" of unbelief
+    - Paragraph [125](../read.qmd#p125)
+- **Grave and tomb**: "the tomb of self" and "the nethermost depths of worldly desire"
+    - Paragraphs [127](../read.qmd#p127), [128](../read.qmd#p128)
+
+6. Let us once again read some familiar scriptures in light of what Bahá'u'lláh has explained. For each passage, what is it commonly understood to mean when read literally? How would you read it now?
+:::
+
+```{=html}
+<div class="denial-list">
+<figure class="denial"><blockquote><p>"And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."</p></blockquote><figcaption><span class="denial-prophet">Daniel</span><span class="denial-source">12:2</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Son of man, can these bones live? And I answered, O Lord GOD, thou knowest. Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD. Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live."</p></blockquote><figcaption><span class="denial-prophet">Ezekiel</span><span class="denial-source">37:3–5</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat."</p></blockquote><figcaption><span class="denial-prophet">Isaiah</span><span class="denial-source">65:25 · quoted in ¶119</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other."</p></blockquote><figcaption><span class="denial-prophet">Matthew</span><span class="denial-source">24:31</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"For this my son was dead, and is alive again; he was lost, and is found."</p></blockquote><figcaption><span class="denial-prophet">Luke</span><span class="denial-source">15:24</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">5:25</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live: And whosoever liveth and believeth in me shall never die."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">11:25–26</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed."</p></blockquote><figcaption><span class="denial-prophet">1 Corinthians</span><span class="denial-source">15:52</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first."</p></blockquote><figcaption><span class="denial-prophet">1 Thessalonians</span><span class="denial-source">4:16</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."</p></blockquote><figcaption><span class="denial-prophet">Revelation</span><span class="denial-source">20:12</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And there shall be a blast on the trumpet, and all who are in the Heavens and all who are in the Earth shall expire, save those whom God shall vouchsafe to live. Then shall there be another blast on it, and lo! arising they shall gaze around them."</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">39:68</span></figcaption></figure>
+</div>
+```
+
+::: {.passage-body}
+7. "Behold the ignorance and folly of those who, like the nations of old, are still expecting to witness the time when these beasts will feed together in one pasture! … Besides, of what profit would it be to the world were such a thing to take place?" ([¶119](../read.qmd#p119)). Bahá'u'lláh says the real fulfilment is that people in whose midst "the Satan of self had for years sown the seeds of malice and hate" became "so fused and blended" that "it seemed as if they had sprung from the same loins" ([¶118](../read.qmd#p118)). Our campuses and neighbourhoods bring together people from every background, who often live side by side without ever really meeting. Where have you seen a "wolf and lamb" feed together? What made it possible? In what sense is this a greater fulfilment than the literal one?
+8. ʻAlí has the scribe write: "A dead man hath bought from another dead man a house" ([¶127](../read.qmd#p127)). Anyone who has hunted for an apartment in Boston knows how much of our life a lease can take up! ʻAlí is not condemning the buying of houses. What made these two men "dead" in his eyes? What would it look like to sign a lease, accept a job offer or choose a graduate program as someone who is "alive" in the sense of ¶128?
+9. Bahá'u'lláh closes this part of His argument by handing the question back to the reader: "Let it now be seen what thy search and endeavors will achieve" ([¶130](../read.qmd#p130)). We are now about halfway through the Book. Looking back over the last six weeks, what has your own search achieved so far? What do you hope it will lead to in the weeks ahead?
+:::
+
+```{=html}
+<div class="write-box" data-write="w6-q9">
+  <label class="write-label" for="write-w6-q9">Your response</label>
+  <textarea class="note-input" id="write-w6-q9" rows="3" placeholder="Write your thoughts…"></textarea>
+  <div class="note-bar"><span class="note-saved"></span></div>
+  <div class="write-lines" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+</div>
+```
+
+```{=html}
+<div id="paragraph-notes" data-week="6" class="paragraph-notes">
+  <p class="note-empty">Loading…</p>
+</div>
+```
+
+::: {.source-note}
+[Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)
+:::

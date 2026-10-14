@@ -9,31 +9,60 @@ page-layout: full
 [Download as PDF](week-06.pdf){.btn-pdf download="Kitab-i-Iqan-week-06.pdf"}
 :::
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
+## Three Stages of Divine Revelation {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="104"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p104" title="Paragraph 104 in the full text">104</a></div><div class="note-text">To every discerning and illumined heart it is evident that God, the unknowable Essence, the divine Being, is immensely exalted beyond every human attribute, such as corporeal existence, ascent and descent, egress and regress. Far be it from His glory that human tongue should adequately recount His praise, or that human heart comprehend His fathomless mystery. He is and hath ever been veiled in the ancient eternity of His Essence, and will remain in His Reality everlastingly hidden from the sight of men. “No vision taketh in Him, but He taketh in all vision; He is the Subtile, the All-Perceiving.”<sup class="fn-ref" data-fn="71" role="button" tabindex="0" aria-label="Footnote 71">71</sup> No tie of direct intercourse can possibly bind Him to His creatures. He standeth exalted beyond and above all separation and union, all proximity and remoteness. No sign can indicate His presence or His absence; inasmuch as by a word of His command all that are in heaven and on earth have come to exist, and by His wish, which is the <span class="gl-ref" data-gl="primal-will" role="button" tabindex="0" aria-label="Glossary: Primal Will">Primal Will</span> itself, all have stepped out of utter nothingness into the realm of being, the world of the visible.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 104" placeholder="Your note on paragraph 104…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. In these paragraphs Bahá'u'lláh distinguishes between three stages of Divine Revelation, a theme He develops further later in the Book. These stages can be outlined as (1) the Essence of God, (2) the Manifestations of God, and (3) the world of creation, including human beings.
+
+    Regarding the Essence of God, Bahá'u'lláh states that He is "immensely exalted beyond every human attribute". For Bahá'u'lláh this rules out any direct communication between God and His creatures: "No tie of direct intercourse can possibly bind Him to His creatures." Even the ideas of presence and absence cannot be applied to Him: "No sign can indicate His presence or His absence." Yet people often describe experiences of communicating with God or feeling His presence. Can you give some examples of such experiences? In light of Bahá'u'lláh's statements, can these experiences come from the Essence of God? If not, what might their source be?
+2. The unknowability of the Essence of God is perhaps the most strongly asserted theme in the whole of Bahá'u'lláh's Revelation. Again and again we find statements such as these:
+
+    > The conceptions of the devoutest of mystics, the attainments of the most accomplished amongst men, the highest praise which human tongue or pen can render are all the product of man's finite mind and are conditioned by its limitations.
+    >
+    > [Bahá'u'lláh, *Gleanings from the Writings of Bahá'u'lláh*, XXVI]{.attrib}
+
+    > Far, far from Thy glory be what mortal man can affirm of Thee, or attribute unto Thee, or the praise with which he can glorify Thee!
+    >
+    > [Bahá'u'lláh, *Gleanings from the Writings of Bahá'u'lláh*, I]{.attrib}
+
+    If Bahá'u'lláh's goal is to unite humanity in "one universal Cause, one common Faith", why do you think He gives so much attention to this seemingly esoteric idea?
 :::
 
-## Reflections or questions
+```{=html}
+<div class="note-row passage-row" data-p="106"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p106" title="Paragraph 106 in the full text">106</a></div><div class="note-text">The door of the knowledge of the Ancient of Days being thus closed in the face of all beings, the Source of infinite grace, according to His saying: “His grace hath transcended all things; My grace hath encompassed them all” hath caused those luminous Gems of Holiness to appear out of the realm of the spirit, in the noble form of the human temple, and be made manifest unto all men, that they may impart unto the world the mysteries of the unchangeable Being, and tell of the subtleties of His imperishable Essence. These sanctified Mirrors, these Daysprings of ancient glory are one and all the Exponents on earth of Him Who is the central Orb of the universe, its Essence and ultimate Purpose. From Him proceed their knowledge and power; from Him is derived their sovereignty. The beauty of their countenance is but a reflection of His image, and their revelation a sign of His deathless glory. They are the Treasuries of divine knowledge, and the Repositories of celestial wisdom. Through them is transmitted a grace that is infinite, and by them is revealed the light that can never fade. Even as He hath said: “There is no distinction whatsoever between Thee and them; except that they are Thy servants, and are created of Thee.” This is the significance of the tradition: “I am He, Himself, and He is I, myself.”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 106" placeholder="Your note on paragraph 106…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+::: {.passage-body}
+3. Here, for the first time, Bahá'u'lláh explains the station of the Manifestations of God. He continues to develop this concept throughout Part Two of the Book, and it is so central to His worldview that it is worth pausing here to consider it further. You may wish to discuss the following:
+    a. Bahá'u'lláh repeatedly refers to the Manifestations in the plural: "those luminous Gems of Holiness", "These sanctified Mirrors, these Daysprings of ancient glory", "the Exponents on earth of Him Who is the central Orb of the universe" ([¶106](../read.qmd#p106)). He also states that "all the Prophets of God … are, without exception, the bearers of His names, and the embodiments of His attributes. They only differ in the intensity of their revelation, and the comparative potency of their light" ([¶110](../read.qmd#p110)). The difference between Revelations is therefore one of intensity, not of kind. What do you think follows from this for the way we see the world's religions?
+    b. Bahá'u'lláh introduces the Manifestations in two ways in these paragraphs. First, He explains that the door of the knowledge of the Essence of God is closed to us, and that God has therefore sent the Manifestations to give us a path towards Him ([¶106](../read.qmd#p106)). This is a description from the top down. Then He describes human beings as uniquely endowed with the capacity to reflect all the names and attributes of God, and says that of all men "the most accomplished, the most distinguished and the most excellent are the Manifestations of the Sun of Truth" ([¶107](../read.qmd#p107), [¶109](../read.qmd#p109)). This is a description from the bottom up. What does each approach help us understand about the Manifestations? Why do you think Bahá'u'lláh gives us both?
+:::
 
-## Passages
+```{=html}
+<div class="note-row passage-row" data-p="107"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p107" title="Paragraph 107 in the full text">107</a></div><div class="note-text">The <span class="gl-ref" data-gl="traditions" role="button" tabindex="0" aria-label="Glossary: traditions">traditions</span> and sayings that bear direct reference to Our theme are divers and manifold; We have refrained from quoting them for the sake of brevity. Nay, whatever is in the heavens and whatever is on the earth is a direct evidence of the revelation within it of the attributes and names of God, inasmuch as within every atom are enshrined the signs that bear eloquent testimony to the revelation of that most great Light. Methinks, but for the potency of that revelation, no being could ever exist. How resplendent the luminaries of knowledge that shine in an atom, and how vast the oceans of wisdom that surge within a drop! To a supreme degree is this true of man, who, among all created things, hath been invested with the robe of such gifts, and hath been singled out for the glory of such distinction. For in him are potentially revealed all the attributes and names of God to a degree that no other created being hath excelled or surpassed. All these names and attributes are applicable to him. Even as He hath said: “Man is My mystery, and I am his mystery.” Manifold are the verses that have been repeatedly revealed in all the heavenly Books and the holy Scriptures, expressive of this most subtle and lofty theme. Even as He hath revealed: “We will surely show them Our signs in the world and within themselves.”<sup class="fn-ref" data-fn="73" role="button" tabindex="0" aria-label="Footnote 73">73</sup> Again He saith: “And also in your own selves: will ye not then behold the signs of God?”<sup class="fn-ref" data-fn="74" role="button" tabindex="0" aria-label="Footnote 74">74</sup> And yet again He revealeth: “And be ye not like those who forget God, and whom He hath therefore caused to forget their own selves.”<sup class="fn-ref" data-fn="75" role="button" tabindex="0" aria-label="Footnote 75">75</sup> In this connection, He Who is the eternal King—may the souls of all that dwell within the mystic Tabernacle be a sacrifice unto Him—hath spoken: “He hath known God who hath known himself.”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 107" placeholder="Your note on paragraph 107…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-*Paragraphs 102–130.*
+## Life, Death, Resurrection, and Judgment {.passage-heading}
 
-::: {.notes-section}
-## Your notes
+```{=html}
+<div class="note-row passage-row" data-p="120"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p120" title="Paragraph 120 in the full text">120</a></div><div class="note-text">Consider how with this one verse which hath descended from the heaven of the Will of God, the world and all that is therein have been brought to a reckoning with Him. Whosoever acknowledged His truth and turned unto Him, his good works outweighed his misdeeds, and all his sins were remitted and forgiven. Thereby is the truth of these words concerning Him made manifest: “Swift is He in reckoning.” Thus God turneth iniquity into righteousness, were ye to explore the realms of divine knowledge, and fathom the mysteries of His wisdom. In like manner, whosoever partook of the cup of love, obtained his portion of the ocean of eternal grace and of the showers of everlasting mercy, and entered into the life of faith—the heavenly and everlasting life. But he that turned away from that cup was condemned to eternal death. By the terms “life” and “death,” spoken of in the scriptures, is intended the life of faith and the death of unbelief. The generality of the people, owing to their failure to grasp the meaning of these words, rejected and despised the person of the <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span>, deprived themselves of the light of His divine guidance, and refused to follow the example of that immortal Beauty.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 120" placeholder="Your note on paragraph 120…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="125"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p125" title="Paragraph 125 in the full text">125</a></div><div class="note-text">Such things have come to pass in the days of every <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span> of God. Even as Jesus said: “Ye must be born again.”<sup class="fn-ref" data-fn="86" role="button" tabindex="0" aria-label="Footnote 86">86</sup> Again He saith: “Except a man be born of water and of the Spirit, he cannot enter into the Kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.”<sup class="fn-ref" data-fn="87" role="button" tabindex="0" aria-label="Footnote 87">87</sup> The purport of these words is that whosoever in every dispensation is born of the Spirit and is quickened by the breath of the Manifestation of Holiness, he verily is of those that have attained unto “life” and “resurrection” and have entered into the “<span class="gl-ref" data-gl="paradise" role="button" tabindex="0" aria-label="Glossary: paradise">paradise</span>” of the love of God. And whosoever is not of them, is condemned to “death” and “deprivation,” to the “fire” of unbelief, and to the “wrath” of God. In all the scriptures, the books and chronicles, the sentence of death, of fire, of blindness, of want of understanding and hearing, hath been pronounced against those whose lips have tasted not the ethereal cup of true knowledge, and whose hearts have been deprived of the grace of the holy Spirit in their day. Even as it hath been previously recorded: “Hearts have they with which they understand not.”<sup class="fn-ref" data-fn="88" role="button" tabindex="0" aria-label="Footnote 88">88</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 125" placeholder="Your note on paragraph 125…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
+::: {.passage-body}
+4. What is the Day of Judgment, or the Day of Resurrection, according to Bahá'u'lláh? If the Day of Judgment has already come, in what way was humanity brought to a reckoning with God? (Paragraphs [120](../read.qmd#p120) and [121](../read.qmd#p121))
+5. What do "life" and "death" mean according to Bahá'u'lláh? Is eternal life something we can attain only in the next world, or can it begin in this one? (Paragraphs [125](../read.qmd#p125), [126](../read.qmd#p126), [127](../read.qmd#p127), [128](../read.qmd#p128) and [129](../read.qmd#p129))
+6. In the Hidden Words Bahá'u'lláh writes:
 
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
+    > O Son of Being! Bring thyself to account each day ere thou art summoned to a reckoning; for death, unheralded, shall come upon thee and thou shalt be called to give account for thy deeds.
+    >
+    > [Bahá'u'lláh, *The Hidden Words*, Arabic 31]{.attrib}
+
+    Bahá'ís usually explain this passage in terms of a reckoning that takes place after the death of the physical body. Can it be understood differently? In light of what Bahá'u'lláh has explained, what could the terms "reckoning" and "death" mean in the context of this statement? It may help to note that this statement comes from the Hidden Words which, like the Kitáb-i-Íqán, was revealed during the Baghdad period, before Bahá'u'lláh's declaration.
 :::
 
 ```{=html}
@@ -41,7 +70,6 @@ interpreted for you.
   <p class="note-empty">Loading…</p>
 </div>
 ```
-:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)
