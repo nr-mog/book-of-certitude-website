@@ -648,4 +648,17 @@ $code-block-font-size: 0.7em;
 
 // Quarto moves .incremental onto the list items, so the list is reached
 // through its wrapper.
-.reveal div.fill > ul { font-size: 1.3em; }
+.reveal div.fill > ul { font-size: 1.15em; }
+
+// A conceptual plot drawn inline: a gold curve on two plain axes, no ticks.
+.reveal .sine-plot {
+  display: block;
+  // Drawn at its own size, one unit to a pixel, so the labels match the deck.
+  width: 720px;
+  margin: 0.4em auto 0;
+  font-family: $font-family-sans-serif;
+
+  .sp-axis  { stroke: $ink-faint; stroke-width: 1; }
+  .sp-line  { fill: none; stroke: $gold; stroke-width: 3; stroke-linecap: round; }
+  .sp-label { fill: $ink-faint; font-size: 20px; letter-spacing: 0.08em; text-transform: uppercase; }
+}

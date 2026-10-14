@@ -9,39 +9,48 @@ page-layout: full
 [Download as PDF](week-01.pdf){.btn-pdf download="Kitab-i-Iqan-week-01.pdf"}
 :::
 
-## Introductions
+## Introductions {.passage-heading}
 
+::: {.passage-body}
 - Your name
 - Where you're from
 - Something you're looking forward to this year
 - What do you hope to get from this space?
 - What do you hope to give to this space?
+:::
 
-## Goals of the study
+## Goals of the study {.passage-heading}
 
+::: {.passage-body}
 1. To strengthen the habit of reading the Writings by yourself
 2. To advance in your understanding of fundamental Bahá'í beliefs, and how to explain them to others
 3. To experience the joy of reading the Sacred Writings
+:::
 
-## Format of the study
+## Format of the study {.passage-heading}
 
+::: {.passage-body}
 Each session there will be time for:
 
 - Understanding and reflecting on the paragraphs assigned for that week, and selected supplementary material related to the themes of those paragraphs
 - Exploring any questions that came up during your reading or during the last weeks' discussion
 - Further resources are posted for anyone who wants to follow a topic further. They are not required reading.
+:::
 
-## Group norms and expectations
+## Group norms and expectations {.passage-heading}
 
+::: {.passage-body}
 - To contribute to an open and welcoming environment, and to respect everyone in the group.
 - To come having read the paragraphs, having made an honest attempt to engage with the text and
   reflect on its meaning.
 - To ask any questions that you have about the material and respond to comments or questions that others make
 - To be open to changing your mind 
 - **You are not expected to understand everything we read.** That is why we study together.
+:::
 
-## What is the Book of Certitude?
+## What is the Book of Certitude? {.passage-heading}
 
+::: {.passage-body}
 The Kitáb-i-Íqán: The Book of Certitude is a Book revealed by Bahá'u'lláh in Baghdad in 1862 in
 response to questions posed by one of the maternal uncles of the Báb, translated by Shoghi Effendi
 and first published in English in 1931.
@@ -51,9 +60,11 @@ and first published in English in 1931.
 ::: {.plate}
 ![Bahá'u'lláh's successive places of exile, with the years He spent in each](../images/bahaullah-exiles-map.jpg){fig-alt="A map of the Ottoman Empire and Iran marking Tehran 1817-1853, Baghdad 1853-1863, Constantinople 1863-1863, Adrianople 1863-1868 and 'Akká 1868-1892, joined by a line tracing the route of the exiles."}
 :::
+:::
 
-## The three maternal uncles of the Báb
+## The three maternal uncles of the Báb {.passage-heading}
 
+::: {.passage-body}
 The Báb had three maternal uncles; they were brothers of His mother, Fatima-Begum:
 
 1. Hájí Mírzá Siyyid Muhammad was the eldest of the three
@@ -69,9 +80,11 @@ The Báb had three maternal uncles; they were brothers of His mother, Fatima-Beg
       Martyrs of Tehran, a few months before the martyrdom of the Báb.
 3. Haji Mirza Siyyid Hassan Ali was the youngest of the three
    brothers.
+:::
 
-## Circumstances surrounding the revelation of the Book
+## Circumstances surrounding the revelation of the Book {.passage-heading}
 
+::: {.passage-body}
 Before His declaration in Shiraz, the Báb was in Bushier occupied in a business with His three
 uncles. The Báb left Bushier for Shiraz accompanied by Khal-i-Azam, Haji Mirza Siyyid Ali (the
 middle uncle). The Báb declared His Mission in Shiraz in 1844 A.D.
@@ -156,42 +169,35 @@ The Kitáb-i-Íqán dispelled every doubt that Haji Mirza Siyyid Muhammad had ha
 As a result of reading, he reached the stage of Certitude and recognized the station of the Báb.
 Later he also accepted Bahá'u'lláh as "Him Whom God shall make manifest", as was confirmed in his
 will.
+:::
 
-## Why study the Book of Certitude?
+## Why study the Book of Certitude? {.passage-heading}
 
-::: {.witness}
+::: {.passage-body}
 > In fact, all the Scriptures and the mysteries thereof are condensed into this brief account. So
 > much so, that were a person to ponder it a while in his heart, he would discover from all that
 > hath been said the mysteries of the Words of God, and would apprehend the meaning of whatever
 > hath been manifested by that ideal King.
 >
-> [Bahá'u'lláh]{.attrib}
-:::
+> [Bahá'u'lláh, *Kitáb-i-Íqán* [¶266](../read.qmd#p266)]{.attrib}
 
-::: {.witness}
 > The Iqan is the most important book written on the spiritual significance of the Cause. I do not
 > believe any person can consider himself well versed in the teachings unless he has studied it
 > thoroughly.
 >
-> [Shoghi Effendi]{.attrib}
-:::
+> [Shoghi Effendi, *The Light of Divine Guidance*, vol. 1, p. 37]{.attrib}
 
-::: {.witness}
 > The book is so important that the most minute detail is worthy of consideration
 >
-> [Shoghi Effendi]{.attrib}
-:::
+> [From a letter written on behalf of Shoghi Effendi to George Townshend]{.attrib}
 
-::: {.witness}
 > The Sacred Books are full of allusions to this new dispensation. In the book of Iqán,
 > Bahá'u'lláh gives the key-note and explains some of the outstanding passages hoping that the
 > friends will continue to study the Sacred Books by themselves and unfold the mysteries found
 > therein.
 >
-> [Shoghi Effendi]{.attrib}
-:::
+> [From a letter written on behalf of Shoghi Effendi]{.attrib}
 
-::: {.witness}
 > Shoghi Effendi hoped that you will exert all your efforts first in deepening your own knowledge
 > of the teachings and then to strive to attract other people. You should form study classes and
 > read the Important books that have been published especially the Iqán which contains the basic
@@ -199,10 +205,8 @@ will.
 > obtain a clear insight into the old scriptures and appreciate the true mission of the Báb and
 > Bahá'u'lláh.
 >
-> [Shoghi Effendi]{.attrib}
-:::
+> [From a letter written on behalf of Shoghi Effendi]{.attrib}
 
-::: {.witness}
 > Shoghi Effendi hopes that you will exert all your efforts to deepen your knowledge of the
 > literature of the Movement, until you become fully acquainted with its spirit and tenets. Unless
 > you do obtain such a firm hold you will never be able to teach others and render real service to
@@ -212,22 +216,20 @@ will.
 > Bahá'í should master these books and be able to explain their contents to others. Besides their
 > importance, they are interesting and most absorbing.
 >
-> [Shoghi Effendi]{.attrib}
-:::
+> [From a letter written on behalf of Shoghi Effendi, 9 February 1932]{.attrib}
 
-::: {.witness}
 > Books such as the Iqán, Some Answered Questions, the Tablets of Bahá'u'lláh, Nabíl's Narrative
 > and Dr. Esslemont's book should be read and read over again by every soul who desires to serve
 > the Movement or considers himself an active member of the group.
 >
-> [Shoghi Effendi]{.attrib}
-:::
+> [From a letter written on behalf of Shoghi Effendi]{.attrib}
 
 More of these, with their sources, are on the [home page](../index.qmd).
+:::
 
-## Shoghi Effendi's Overview of the Iqán
+## Shoghi Effendi's Overview of the Iqán {.passage-heading}
 
-::: {.witness}
+::: {.passage-body}
 > Foremost among the priceless treasures cast forth from the billowing ocean of Bahá'u'lláh's
 > Revelation ranks the Kitáb-i-Íqán (Book of Certitude), revealed within the space of two days and
 > two nights, in the closing years of that period (1278 A.H.–1862 A.D.). It was written in
@@ -267,14 +269,24 @@ More of these, with their sources, are on the [home page](../index.qmd).
 > that have so insurmountably separated the great religions of the world, has laid down a broad
 > and unassailable foundation for the complete and permanent reconciliation of their followers.
 >
-> [Shoghi Effendi]{.attrib}
+> [Shoghi Effendi, *God Passes By*, ch. VIII]{.attrib}
 :::
 
-## Before next week
+## Before next week {.passage-heading}
 
+::: {.passage-body}
 Read **[¶1–23](../read.qmd#p1)**, and come with what struck you and what you did not follow. The
 whole reading schedule is on the [Schedule](../schedule.qmd) page.
+:::
 
+```{=html}
+<!-- Quarto lays a week page out on its full-width grid only when the page holds
+     margin content; on the other weeks that is the note box beside each passage.
+     Week 1 has no passages, so this empty aside asks for the same grid and the
+     title, headings, questions and the links below land where they do on every
+     other week. It sits in the last section because the links are part of it. -->
+<aside class="layout-anchor" aria-hidden="true" hidden></aside>
+```
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)
