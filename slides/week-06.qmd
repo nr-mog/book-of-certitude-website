@@ -194,6 +194,18 @@ consists of a head and arms and two legs.
 
 ::: {.fs-portrait}
 ![](../images/ringstone-symbol.svg){fig-alt="The ringstone symbol: three horizontal lines joined by a vertical stroke, in stylized Arabic calligraphy, with a five-pointed star on either side."}
+
+::: {.portrait-pair}
+::: {}
+![](../images/Abbaseffendi1868.jpg){fig-alt="ʻAbdu'l-Bahá as a young man, in a white turban."}
+[ʻAbdu'l-Bahá]{.pp-name}
+:::
+
+::: {}
+![](../images/mishkin-qalam.webp){fig-alt="Mishkín-Qalam, seated, with long hair and spectacles."}
+[Mishkín-Qalam]{.pp-name}
+:::
+:::
 :::
 :::
 

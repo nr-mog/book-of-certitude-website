@@ -662,3 +662,30 @@ $code-block-font-size: 0.7em;
   .sp-line  { fill: none; stroke: $gold; stroke-width: 3; stroke-linecap: round; }
   .sp-label { fill: $ink-faint; font-size: 20px; letter-spacing: 0.08em; text-transform: uppercase; }
 }
+
+// Two portraits side by side under an image in the portrait column, cropped
+// to one shape so the pair reads as a pair whatever the source photographs.
+.reveal .portrait-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6em;
+  margin-top: 0.7em;
+
+  img {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: center top;
+  }
+
+  .pp-name {
+    display: block;
+    margin-top: 0.3em;
+    font-family: $font-family-sans-serif;
+    font-size: 0.4em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $ink-faint;
+    text-align: center;
+  }
+}
