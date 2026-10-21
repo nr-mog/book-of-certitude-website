@@ -1,6 +1,6 @@
 ---
 title: "Week 8"
-subtitle: "28 October 2026 · Paragraphs 159–188"
+subtitle: "28 October 2026 · Paragraphs 157–188"
 toc: false
 page-layout: full
 ---
@@ -21,7 +21,7 @@ Materials for this session will be posted here.
 
 ## Passages
 
-*Paragraphs 159–188.*
+*Paragraphs 157–188.*
 
 ::: {.notes-section}
 ## Your notes

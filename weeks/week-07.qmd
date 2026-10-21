@@ -1,6 +1,6 @@
 ---
 title: "Week 7"
-subtitle: "21 October 2026 · Paragraphs 131–158"
+subtitle: "21 October 2026 · Paragraphs 131–156"
 toc: false
 page-layout: full
 ---
@@ -9,31 +9,23 @@ page-layout: full
 [Download as PDF](week-07.pdf){.btn-pdf download="Kitab-i-Iqan-week-07.pdf"}
 :::
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
-:::
+## Life, Death, Resurrection, and Judgment {.passage-heading}
 
-## Reflections or questions
+```{=html}
+<div class="note-row passage-row" data-p="120"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p120" title="Paragraph 120 in the full text">120</a></div><div class="note-text">Consider how with this one verse which hath descended from the heaven of the Will of God, the world and all that is therein have been brought to a reckoning with Him. Whosoever acknowledged His truth and turned unto Him, his good works outweighed his misdeeds, and all his sins were remitted and forgiven. Thereby is the truth of these words concerning Him made manifest: “Swift is He in reckoning.” Thus God turneth iniquity into righteousness, were ye to explore the realms of divine knowledge, and fathom the mysteries of His wisdom. In like manner, whosoever partook of the cup of love, obtained his portion of the ocean of eternal grace and of the showers of everlasting mercy, and entered into the life of faith—the heavenly and everlasting life. But he that turned away from that cup was condemned to eternal death. By the terms “life” and “death,” spoken of in the scriptures, is intended the life of faith and the death of unbelief. The generality of the people, owing to their failure to grasp the meaning of these words, rejected and despised the person of the <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span>, deprived themselves of the light of His divine guidance, and refused to follow the example of that immortal Beauty.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 120" placeholder="Your note on paragraph 120…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="125"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p125" title="Paragraph 125 in the full text">125</a></div><div class="note-text">Such things have come to pass in the days of every <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span> of God. Even as Jesus said: “Ye must be born again.”<sup class="fn-ref" data-fn="86" role="button" tabindex="0" aria-label="Footnote 86">86</sup> Again He saith: “Except a man be born of water and of the Spirit, he cannot enter into the Kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.”<sup class="fn-ref" data-fn="87" role="button" tabindex="0" aria-label="Footnote 87">87</sup> The purport of these words is that whosoever in every dispensation is born of the Spirit and is quickened by the breath of the Manifestation of Holiness, he verily is of those that have attained unto “life” and “resurrection” and have entered into the “<span class="gl-ref" data-gl="paradise" role="button" tabindex="0" aria-label="Glossary: paradise">paradise</span>” of the love of God. And whosoever is not of them, is condemned to “death” and “deprivation,” to the “fire” of unbelief, and to the “wrath” of God. In all the scriptures, the books and chronicles, the sentence of death, of fire, of blindness, of want of understanding and hearing, hath been pronounced against those whose lips have tasted not the ethereal cup of true knowledge, and whose hearts have been deprived of the grace of the holy Spirit in their day. Even as it hath been previously recorded: “Hearts have they with which they understand not.”<sup class="fn-ref" data-fn="88" role="button" tabindex="0" aria-label="Footnote 88">88</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 125" placeholder="Your note on paragraph 125…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+::: {.passage-body}
+1. What is the Day of Judgment, or the Day of Resurrection, according to Bahá'u'lláh? If the Day of Judgment has already come, in what way was humanity brought to a reckoning with God? (Paragraphs [120](../read.qmd#p120) and [121](../read.qmd#p121))
+2. What do "life" and "death" mean according to Bahá'u'lláh? Is eternal life something we can attain only in the next world, or can it begin in this one? (Paragraphs [125](../read.qmd#p125) and [128](../read.qmd#p128))
+3. In the Hidden Words Bahá'u'lláh writes:
 
-## Passages
+    > O Son of Being! Bring thyself to account each day ere thou art summoned to a reckoning; for death, unheralded, shall come upon thee and thou shalt be called to give account for thy deeds.
+    >
+    > [Bahá'u'lláh, *The Hidden Words*, Arabic 31]{.attrib}
 
-*Paragraphs 131–158.*
-
-::: {.notes-section}
-## Your notes
-
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
-
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
+    Bahá'ís usually explain this passage in terms of a reckoning that takes place after the death of the physical body. Can it be understood differently? In light of what Bahá'u'lláh has explained, what could the terms "reckoning" and "death" mean in the context of this statement? It may help to note that this statement comes from the Hidden Words which, like the Kitáb-i-Íqán, was revealed during the Baghdad period, before Bahá'u'lláh's declaration.
 :::
 
 ```{=html}
@@ -41,7 +33,6 @@ interpreted for you.
   <p class="note-empty">Loading…</p>
 </div>
 ```
-:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)

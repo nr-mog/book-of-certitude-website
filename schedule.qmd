@@ -54,13 +54,13 @@ page-layout: full
     <tr>
       <td class="wk">7</td>
       <td class="date">21 Oct 2026</td>
-      <td class="para">¶131-158<a class="start-reading" href="read.html#p131">Start reading</a></td>
+      <td class="para">¶131-156<a class="start-reading" href="read.html#p131">Start reading</a></td>
       <td class="mats"><a href="weeks/week-07.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">8</td>
       <td class="date">28 Oct 2026</td>
-      <td class="para">¶159-188<a class="start-reading" href="read.html#p159">Start reading</a></td>
+      <td class="para">¶157-188<a class="start-reading" href="read.html#p157">Start reading</a></td>
       <td class="mats"><a href="weeks/week-08.html" class="mat">Handout</a></td>
     </tr>
     <tr>

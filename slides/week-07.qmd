@@ -1,6 +1,6 @@
 ---
 title: "Week 7"
-subtitle: "21 October 2026 · Paragraphs 131–158"
+subtitle: "21 October 2026 · Paragraphs 131–156"
 ---
 
 ##  {.divider}
@@ -9,7 +9,7 @@ subtitle: "21 October 2026 · Paragraphs 131–158"
 Week 7
 :::
 ::: {.divider-title}
-Paragraphs 131–158
+Paragraphs 131–156
 :::
 
 ---
