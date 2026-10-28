@@ -1,0 +1,517 @@
+[
+ {
+  "ref": "2:46",
+  "section": "presence",
+  "sura": "Al-Baqarah",
+  "rodwell_sura": "The Cow",
+  "arabic": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَٰجِعُونَ",
+  "rodwell": "Who bear in mind that they shall meet their Lord, and that unto Him shall they return.",
+  "arabic_marks": [
+   [
+    3,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meet their Lord"
+  ]
+ },
+ {
+  "ref": "2:223",
+  "section": "presence",
+  "sura": "Al-Baqarah",
+  "rodwell_sura": "The Cow",
+  "arabic": "… وَقَدِّمُوا۟ لِأَنفُسِكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُم مُّلَٰقُوهُ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+  "rodwell": "…but do first some act for your souls' good: and fear ye God, and know that ye must meet Him; and bear these good tidings to the faithful.",
+  "arabic_marks": [
+   [
+    8,
+    1
+   ]
+  ],
+  "english_marks": [
+   "meet Him"
+  ]
+ },
+ {
+  "ref": "2:249",
+  "section": "presence",
+  "sura": "Al-Baqarah",
+  "rodwell_sura": "The Cow",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+  "rodwell": "And when Saul marched forth with his forces, he said, \"God will test you by a river: He who drinketh of it shall not be of my band; but he who shall not taste it, drinking a drink out of the hand excepted, shall be of my band.\" And, except a few of them, they drank of it. And when they had passed it, he and those who believed with him, the former said, \"We have no strength this day against (Djalout) Goliath and his forces:\" But they who held it as certain that they must meet God, said, \"How oft, by God's will, hath a small host vanquished a numerous host! and God is with the steadfastly enduring.\"",
+  "arabic_marks": [
+   [
+    49,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meet God"
+  ]
+ },
+ {
+  "ref": "6:31",
+  "section": "presence",
+  "sura": "Al-Anʻám",
+  "rodwell_sura": "Cattle",
+  "arabic": "قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةًۭ قَالُوا۟ يَٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ",
+  "rodwell": "Lost are they who deny the meeting with God until \"the Hour\" cometh suddenly upon them! Then will they say, \"Oh, our sighs for past negligence of this hour!\" and they shall bear their burdens on their back! Will not that be evil with which they shall be burdened?",
+  "arabic_marks": [
+   [
+    4,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meeting with God"
+  ]
+ },
+ {
+  "ref": "6:130",
+  "section": "presence",
+  "sura": "Al-Anʻám",
+  "rodwell_sura": "Cattle",
+  "arabic": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ",
+  "rodwell": "O race of Djinn and men! came not apostles to you from among yourselves, rehearsing my signs to you, and warning you of the meeting of this your day? They shall say, \"We bear witness against ourselves.\" This world's life deceived them; and they shall bear witness against themselves that they were infidels:-",
+  "arabic_marks": [
+   [
+    11,
+    3
+   ]
+  ],
+  "english_marks": [
+   "meeting of this your day"
+  ]
+ },
+ {
+  "ref": "6:154",
+  "section": "presence",
+  "sura": "Al-Anʻám",
+  "rodwell_sura": "Cattle",
+  "arabic": "ثُمَّ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ وَتَفْصِيلًۭا لِّكُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ لَّعَلَّهُم بِلِقَآءِ رَبِّهِمْ يُؤْمِنُونَ",
+  "rodwell": "Then gave we the Book to Moses-complete for him who should do right, and a decision for all matters, and a guidance, and a mercy, that they might believe in the meeting with their Lord.",
+  "arabic_marks": [
+   [
+    14,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meeting with their Lord"
+  ]
+ },
+ {
+  "ref": "7:51",
+  "section": "presence",
+  "sura": "Al-Aʻráf",
+  "rodwell_sura": "Al Araf",
+  "arabic": "ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَهْوًۭا وَلَعِبًۭا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَٰذَا وَمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ",
+  "rodwell": "Who made their religion a sport and pastime, and whom the life of the world hath deceived.\" This day therefore will we forget them, as they forgot the meeting of this their day, and as they did deny our signs.",
+  "arabic_marks": [
+   [
+    13,
+    3
+   ]
+  ],
+  "english_marks": [
+   "meeting of this their day"
+  ]
+ },
+ {
+  "ref": "7:147",
+  "section": "presence",
+  "sura": "Al-Aʻráf",
+  "rodwell_sura": "Al Araf",
+  "arabic": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَلِقَآءِ ٱلْءَاخِرَةِ حَبِطَتْ أَعْمَٰلُهُمْ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+  "rodwell": "Vain will be the works of those who treated our signs, and the meeting of the life to come, as lies! Shall they be rewarded but as they have wrought?",
+  "arabic_marks": [
+   [
+    3,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meeting of the life to come"
+  ]
+ },
+ {
+  "ref": "10:7",
+  "section": "presence",
+  "sura": "Yúnus",
+  "rodwell_sura": "Jonah",
+  "arabic": "إِنَّ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا وَرَضُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱطْمَأَنُّوا۟ بِهَا وَٱلَّذِينَ هُمْ عَنْ ءَايَٰتِنَا غَٰفِلُونَ",
+  "rodwell": "Verily, they who hope not to meet Us, and find their satisfaction in this world's life, and rest on it, and who of our signs are heedless;-",
+  "arabic_marks": [
+   [
+    4,
+    1
+   ]
+  ],
+  "english_marks": [
+   "meet Us"
+  ]
+ },
+ {
+  "ref": "10:11",
+  "section": "presence",
+  "sura": "Yúnus",
+  "rodwell_sura": "Jonah",
+  "arabic": "۞ وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَٰنِهِمْ يَعْمَهُونَ",
+  "rodwell": "Should God hasten evil on men as they fain would hasten their good, then were their end decreed! So leave we those who hope not to meet Us, bewildered in their error.",
+  "arabic_marks": [
+   [
+    16,
+    1
+   ]
+  ],
+  "english_marks": [
+   "meet Us"
+  ]
+ },
+ {
+  "ref": "10:15",
+  "section": "presence",
+  "sura": "Yúnus",
+  "rodwell_sura": "Jonah",
+  "arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍۢ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍۢ",
+  "rodwell": "But when our clear signs are recited to them, they who look not forward to meet Us, say, \"Bring a different Koran from this, or make some change in it.\" SAY: It is not for me to change it as mine own soul prompteth. I follow only what is revealed to me: verily, I fear, if I rebel against my Lord, the punishment of a great day.",
+  "arabic_marks": [
+   [
+    10,
+    1
+   ]
+  ],
+  "english_marks": [
+   "meet Us"
+  ]
+ },
+ {
+  "ref": "10:45",
+  "section": "presence",
+  "sura": "Yúnus",
+  "rodwell_sura": "Jonah",
+  "arabic": "وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةًۭ مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ",
+  "rodwell": "Moreover, on that day, He will gather them all together: They shall seem as though they had waited but an hour of the day! They shall recognise one another! Now perish they who denied the meeting with God, and were not guided aright!",
+  "arabic_marks": [
+   [
+    16,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meeting with God"
+  ]
+ },
+ {
+  "ref": "11:29",
+  "section": "presence",
+  "sura": "Húd",
+  "rodwell_sura": "Houd",
+  "arabic": "وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ ۚ إِنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًۭا تَجْهَلُونَ",
+  "rodwell": "And, O my people! I ask you not for riches: my reward is of God alone: and I will not drive away those who believe that they shall meet their Lord:-but I see that ye are an ignorant people.",
+  "arabic_marks": [
+   [
+    19,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meet their Lord"
+  ]
+ },
+ {
+  "ref": "13:2",
+  "section": "presence",
+  "sura": "Ar-Raʻd",
+  "rodwell_sura": "Thunder",
+  "arabic": "ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ يَجْرِى لِأَجَلٍۢ مُّسَمًّۭى ۚ يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْءَايَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ",
+  "rodwell": "It is God who hath reared the Heavens without pillars thou canst behold; then mounted his throne, and imposed laws on the sun and moon: each travelleth to its appointed goal. He ordereth all things. He maketh his signs clear, that ye may have firm faith in a meeting with your Lord.",
+  "arabic_marks": [
+   [
+    27,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meeting with your Lord"
+  ]
+ },
+ {
+  "ref": "18:105",
+  "section": "presence",
+  "sura": "Al-Kahf",
+  "rodwell_sura": "The Cave",
+  "arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ رَبِّهِمْ وَلِقَآئِهِۦ فَحَبِطَتْ أَعْمَٰلُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَزْنًۭا",
+  "rodwell": "They are those who believe not in the signs of the Lord, or that they shall ever meet him. Vain, therefore, are their works; and no weight will we allow them on the day of resurrection.",
+  "arabic_marks": [
+   [
+    5,
+    1
+   ]
+  ],
+  "english_marks": [
+   "meet him"
+  ]
+ },
+ {
+  "ref": "18:110",
+  "section": "presence",
+  "sura": "Al-Kahf",
+  "rodwell_sura": "The Cave",
+  "arabic": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَٰلِحًۭا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا",
+  "rodwell": "SAY: In sooth I am only a man like you. It hath been revealed to me that your God is one only God: let him then who hopeth to meet his Lord work a righteous work: nor let him give any other creature a share in the worship of his Lord.",
+  "arabic_marks": [
+   [
+    15,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meet his Lord"
+  ]
+ },
+ {
+  "ref": "23:33",
+  "section": "presence",
+  "sura": "Al-Mu'minún",
+  "rodwell_sura": "The Believers",
+  "arabic": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْءَاخِرَةِ وَأَتْرَفْنَٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+  "rodwell": "And the chiefs of His people who believed not, and who deemed the meeting with us in the life to come to be a lie, and whom we had richly supplied in this present life, said, \"This is but a man like yourselves; he eateth of what ye eat, And he drinketh of what ye drink:",
+  "arabic_marks": [
+   [
+    7,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meeting with us in the life to come"
+  ]
+ },
+ {
+  "ref": "25:21",
+  "section": "presence",
+  "sura": "Al-Furqán",
+  "rodwell_sura": "Al Furkan",
+  "arabic": "۞ وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَٰٓئِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّۭا كَبِيرًۭا",
+  "rodwell": "They who look not forward to meet Us say, \"If the angels be not sent down to us, or unless we behold our Lord. . . .” Ah! they are proud of heart, and exceed with great excess!",
+  "arabic_marks": [
+   [
+    5,
+    1
+   ]
+  ],
+  "english_marks": [
+   "meet Us"
+  ]
+ },
+ {
+  "ref": "29:5",
+  "section": "presence",
+  "sura": "Al-ʻAnkabút",
+  "rodwell_sura": "The Spider",
+  "arabic": "مَن كَانَ يَرْجُوا۟ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَءَاتٍۢ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "rodwell": "To him who hopeth to meet God, the set time of God will surely come. The Hearer, the Knower, He!",
+  "arabic_marks": [
+   [
+    3,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meet God"
+  ]
+ },
+ {
+  "ref": "29:23",
+  "section": "presence",
+  "sura": "Al-ʻAnkabút",
+  "rodwell_sura": "The Spider",
+  "arabic": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُو۟لَٰٓئِكَ يَئِسُوا۟ مِن رَّحْمَتِى وَأُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌۭ",
+  "rodwell": "As for those who believe not in the signs of God, or that they shall ever meet him, these of my mercy shall despair, and these doth a grievous chastisement await.\"",
+  "arabic_marks": [
+   [
+    4,
+    1
+   ]
+  ],
+  "english_marks": [
+   "meet him"
+  ]
+ },
+ {
+  "ref": "30:8",
+  "section": "presence",
+  "sura": "Ar-Rúm",
+  "rodwell_sura": "The Greeks",
+  "arabic": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ أَنفُسِهِم ۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۗ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ بِلِقَآئِ رَبِّهِمْ لَكَٰفِرُونَ",
+  "rodwell": "Have they not considered within themselves that God hath not created the Heavens and the Earth and all that is between them but for a serious end, and for a fixed term? But truly most men believe not that they shall meet their Lord.",
+  "arabic_marks": [
+   [
+    21,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meet their Lord"
+  ]
+ },
+ {
+  "ref": "30:16",
+  "section": "presence",
+  "sura": "Ar-Rúm",
+  "rodwell_sura": "The Greeks",
+  "arabic": "وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَا وَلِقَآئِ ٱلْءَاخِرَةِ فَأُو۟لَٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ",
+  "rodwell": "But as for those who shall not have believed, but treated our signs and the meeting of the next life as lies, they shall be given over to the torment.",
+  "arabic_marks": [
+   [
+    5,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meeting of the next life"
+  ]
+ },
+ {
+  "ref": "32:10",
+  "section": "presence",
+  "sura": "As-Sajdah",
+  "rodwell_sura": "Adoration",
+  "arabic": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَٰفِرُونَ",
+  "rodwell": "And they say, \"What! when we shall have lain hidden in the earth, shall we become a new creation?\" Yea, they deny that they shall meet their Lord.",
+  "arabic_marks": [
+   [
+    12,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meet their Lord"
+  ]
+ },
+ {
+  "ref": "32:14",
+  "section": "presence",
+  "sura": "As-Sajdah",
+  "rodwell_sura": "Adoration",
+  "arabic": "فَذُوقُوا۟ بِمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَآ إِنَّا نَسِينَٰكُمْ ۖ وَذُوقُوا۟ عَذَابَ ٱلْخُلْدِ بِمَا كُنتُمْ تَعْمَلُونَ",
+  "rodwell": "\"Taste then the recompense of your having forgotten the meeting with this your day. We, too, we have forgotten you: taste then an eternal punishment for that which ye have wrought.\"",
+  "arabic_marks": [
+   [
+    3,
+    3
+   ]
+  ],
+  "english_marks": [
+   "meeting with this your day"
+  ]
+ },
+ {
+  "ref": "39:71",
+  "section": "presence",
+  "sura": "Az-Zumar",
+  "rodwell_sura": "The Troops",
+  "arabic": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ",
+  "rodwell": "And by TROOPS shall the unbelievers be driven towards Hell, until when they reach it, its gates shall be opened, and its keepers shall say to them, \"Came not apostles from among yourselves to you, reciting to you the signs of your Lord, and warning you of the meeting with Him on this your day?\" They shall say, \"Yes.\" But just is the sentence of punishment on the unbelievers.",
+  "arabic_marks": [
+   [
+    24,
+    3
+   ]
+  ],
+  "english_marks": [
+   "meeting with Him on this your day"
+  ]
+ },
+ {
+  "ref": "40:15",
+  "section": "presence",
+  "sura": "Gháfir",
+  "rodwell_sura": "The Believer",
+  "arabic": "رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ",
+  "rodwell": "Of exalted grade, of the throne possessed, He sendeth forth the Spirit at His own behest on whomsoever of His servants He pleaseth, that He may warn of the day of meeting,",
+  "arabic_marks": [
+   [
+    14,
+    2
+   ]
+  ],
+  "english_marks": [
+   "day of meeting"
+  ]
+ },
+ {
+  "ref": "41:54",
+  "section": "presence",
+  "sura": "Fuṣṣilat",
+  "rodwell_sura": "The Made Plain",
+  "arabic": "أَلَآ إِنَّهُمْ فِى مِرْيَةٍۢ مِّن لِّقَآءِ رَبِّهِمْ ۗ أَلَآ إِنَّهُۥ بِكُلِّ شَىْءٍۢ مُّحِيطٌۢ",
+  "rodwell": "Are they not in doubt as to the meeting with their Lord? But doth he not encompass all things?",
+  "arabic_marks": [
+   [
+    5,
+    2
+   ]
+  ],
+  "english_marks": [
+   "meeting with their Lord"
+  ]
+ },
+ {
+  "ref": "45:34",
+  "section": "presence",
+  "sura": "Al-Játhiyah",
+  "rodwell_sura": "The Kneeling",
+  "arabic": "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+  "rodwell": "And it shall be said to them, \"This day will we forget you as ye forgat your meeting with us this day, and your abode shall be the fire, and none shall there be to succour you:-",
+  "arabic_marks": [
+   [
+    5,
+    3
+   ]
+  ],
+  "english_marks": [
+   "meeting with us this day"
+  ]
+ },
+ {
+  "ref": "84:6",
+  "section": "presence",
+  "sura": "Al-Inshiqáq",
+  "rodwell_sura": "The Splitting Asunder",
+  "arabic": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًۭا فَمُلَٰقِيهِ",
+  "rodwell": "Then verily, O man, who desirest to reach thy Lord, shalt thou meet him.",
+  "arabic_marks": [
+   [
+    5,
+    1
+   ],
+   [
+    7,
+    1
+   ]
+  ],
+  "english_marks": [
+   "thy Lord",
+   "meet him"
+  ]
+ },
+ {
+  "ref": "33:40",
+  "section": "seal",
+  "sura": "Al-Aḥzáb",
+  "rodwell_sura": "The Confederates",
+  "arabic": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍۢ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا",
+  "rodwell": "Muhammad is not the father of any man among you, but he is the Apostle of God, and the seal of the prophets: and God knoweth all things.",
+  "arabic_marks": [
+   [
+    10,
+    2
+   ]
+  ],
+  "english_marks": [
+   "seal of the prophets"
+  ]
+ }
+]

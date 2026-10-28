@@ -1661,8 +1661,11 @@ a.start-reading {
   }
 }
 
-// Anchored paragraphs must clear the fixed navbar.
-.note-row { scroll-margin-top: 5rem; }
+// Anchored paragraphs must clear the fixed navbar. So must a heading reached by
+// a link, such as context.qmd#questions from the home page: Quarto puts the
+// heading's id on the section around it.
+.note-row,
+main section[id] { scroll-margin-top: 5rem; }
 
 // Brief highlight so an arriving reader can see where they landed.
 .note-row.landed .note-text {
@@ -1920,6 +1923,18 @@ figure.claim {
   }
 }
 
+// A label over each group of quotations, where a list mixes sources.
+.denial-group {
+  margin: 1.8rem 0 0.8rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: $ink-soft;
+
+  &:first-child { margin-top: 0.4rem; }
+}
+
 // Bold, on the handout and on both compilation pages: the quotations are what
 // the reader has come for, and they carry the weight the passages do.
 figure.claim blockquote,
@@ -1943,6 +1958,103 @@ figure.denial blockquote {
 }
 
 .denial-source a { color: inherit; text-decoration-color: $gold-soft; }
+
+// --- Qur'anic verses --------------------------------------------------------
+// The References to Attaining the Divine Presence page. The sura and verse
+// number sit in a narrow column on the left, the Arabic and then Rodwell's
+// English beside them. The marked words are the meeting and what is met.
+.verse-list { grid-column: screen-start / screen-end; }
+
+// The Arabic starts hidden and the checkbox above the list brings it back.
+// Plain CSS, so it needs no script; Amiri is only fetched once it is shown.
+.verse-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0.4rem 0 0.6rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: $ink-soft;
+  cursor: pointer;
+
+  input { accent-color: $gold; }
+}
+
+body:not(:has(#show-arabic:checked)) .verse-arabic { display: none; }
+
+figure.verse {
+  display: grid;
+  grid-template-columns: 9.5rem minmax(0, 1fr);
+  gap: 0.4rem 1.6rem;
+  margin: 0;
+  padding: 1.3rem 0;
+  border-top: 1px solid $rule;
+
+  figcaption {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    font-family: $font-family-sans-serif;
+  }
+
+  // Upright and unruled: the base blockquote is italic with a left rule, and
+  // here the English is the verse itself, set under its Arabic.
+  blockquote {
+    margin: 0;
+    padding: 0;
+    border-left: none;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    font-style: normal;
+    color: $ink;
+
+    p { margin: 0; font-style: normal; }
+  }
+
+  mark {
+    background: $gold-tint;
+    color: inherit;
+    padding: 0 0.12em;
+    border-radius: 2px;
+  }
+}
+
+.verse-sura {
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: $ink-faint;
+}
+
+.verse-ref {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: $gold;
+  font-variant-numeric: tabular-nums;
+}
+
+.verse-text { min-width: 0; }
+
+.verse-arabic {
+  margin: 0 0 0.6rem;
+  font-family: "Amiri", "Geeza Pro", "Traditional Arabic", serif;
+  font-size: 1.55rem;
+  line-height: 2;
+  text-align: right;
+  color: $ink;
+}
+
+.verse-note {
+  margin: 0.6rem 0 0;
+  font-family: $font-family-sans-serif;
+  font-size: 0.78rem;
+  color: $ink-faint;
+}
+
+@media (max-width: 560px) {
+  figure.verse { grid-template-columns: minmax(0, 1fr); }
+  .verse-arabic { font-size: 1.4rem; }
+}
 
 @media (max-width: 560px) {
   // Match the margin the full text keeps on a phone, rather than running the

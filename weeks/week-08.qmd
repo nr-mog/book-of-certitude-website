@@ -9,31 +9,79 @@ page-layout: full
 [Download as PDF](week-08.pdf){.btn-pdf download="Kitab-i-Iqan-week-08.pdf"}
 :::
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
+## The Station of Pure Abstraction and Essential Unity {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="161"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p161" title="Paragraph 161 in the full text">161</a></div><div class="note-text">Furthermore, it is evident to thee that the Bearers of the trust of God are made manifest unto the peoples of the earth as the Exponents of a new Cause and the Bearers of a new Message. Inasmuch as these Birds of the Celestial Throne are all sent down from the heaven of the Will of God, and as they all arise to proclaim His irresistible Faith, they therefore are regarded as one soul and the same person. For they all drink from the one Cup of the love of God, and all partake of the fruit of the same Tree of Oneness. These <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestations">Manifestations</span> of God have each a twofold station. One is the station of pure abstraction and essential unity. In this respect, if thou callest them all by one name, and dost ascribe to them the same attribute, thou hast not erred from the truth. Even as He hath revealed: “No distinction do We make between any of His Messengers!”<sup class="fn-ref" data-fn="115" role="button" tabindex="0" aria-label="Footnote 115">115</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 161" placeholder="Your note on paragraph 161…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="162"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p162" title="Paragraph 162 in the full text">162</a></div><div class="note-text">It is clear and evident to thee that all the Prophets are the Temples of the Cause of God, Who have appeared clothed in divers attire. If thou wilt observe with discriminating eyes, thou wilt behold them all abiding in the same tabernacle, soaring in the same heaven, seated upon the same throne, uttering the same speech, and proclaiming the same Faith. Such is the unity of those Essences of being, those Luminaries of infinite and immeasurable splendor.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 162" placeholder="Your note on paragraph 162…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. Bahá'u'lláh here introduces the station of pure abstraction and essential unity. In this station all the Prophets are one and the same. They are "uttering the same speech, and proclaiming the same Faith" ([¶162](../read.qmd#p162)). This concept of the unity of all the Manifestations of God is a central Bahá'í belief and forms the foundation for the concept of progressive revelation. However, you may experience some resistance when trying to articulate this idea to others. How would you respond to someone who says the following:
+
+    a. "If all the prophets are essentially one then why do their teachings differ? Muḥammad forbids the consumption of pork and alcohol, whereas Jesus allows them. Moses allows divorce, whereas Jesus forbids it."
+    b. "These religions disagree about fundamental questions. As a Christian I believe that to be saved we must put our faith in Jesus. However, Muḥammad taught that our salvation depends on doing good deeds. There's no way to reconcile these two views."
+    c. "You're cherry-picking some concepts which seem to agree on the surface. Yes, it's true that all religions teach the golden rule, but they also disagree about some important topics. For example, Christians believe that God is a Trinity comprising the Father, the Son and the Holy Spirit. Muslims believe in Allah, who is one, not three, and that Muḥammad was just a messenger, not an incarnation of Allah."
+
+    On the other hand some people may express enthusiasm for the idea that all religions come from the same source but, on closer inspection, the agreement is on a superficial level. How would you respond to someone who says the following:
+    
+    d. "I like how Bahais believe in all the prophets. They have taken the best part of each religion and put it together."
+    e. "Yes! All the religions come from the same God. So you should choose the one that speaks to you the most and learn what you can from it. It doesn't matter which one you choose."
+    f. "I agree with you. All the prophets are telling us the same thing. We should treat each other with kindness and try to be good people. I already understand that, so I don't feel the need to follow a particular religion."
 :::
 
-## Reflections or questions
+## The return of the Prophets and their companions {.passage-heading}
 
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+```{=html}
+<div class="note-row passage-row" data-p="164"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p164" title="Paragraph 164 in the full text">164</a></div><div class="note-text">It is evident that nothing short of this mystic transformation could cause such spirit and behavior, so utterly unlike their previous habits and manners, to be made manifest in the world of being. For their agitation was turned into peace, their doubt into certitude, their timidity into courage. Such is the potency of the <span class="gl-ref" data-gl="divine-elixir" role="button" tabindex="0" aria-label="Glossary: Divine Elixir">Divine Elixir</span>, which, swift as the twinkling of an eye, transmuteth the souls of men!</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 164" placeholder="Your note on paragraph 164…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="167"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p167" title="Paragraph 167 in the full text">167</a></div><div class="note-text">Likewise, these souls, through the potency of the <span class="gl-ref" data-gl="divine-elixir" role="button" tabindex="0" aria-label="Glossary: Divine Elixir">Divine Elixir</span>, traverse, in the twinkling of an eye, the world of dust and advance into the realm of holiness; and with one step cover the earth of limitations and reach the domain of the Placeless. It behooveth thee to exert thine utmost to attain unto this Elixir which, in one fleeting breath, causeth the west of ignorance to reach the east of knowledge, illuminateth the darkness of night with the resplendence of the morn, guideth the wanderer in the wilderness of doubt to the wellspring of the Divine Presence and Fount of certitude, and conferreth upon mortal souls the honor of acceptance into the <span class="gl-ref" data-gl="ridvan" role="button" tabindex="0" aria-label="Glossary: Riḍván">Riḍván</span> of immortality. Now, could this gold be thought to be copper, these people could likewise be thought to be the same as before they were endowed with faith.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 167" placeholder="Your note on paragraph 167…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-## Passages
+::: {.passage-body}
+2. The Divine Elixir, Bahá'u'lláh tells us, transmutes the souls of men "swift as the twinkling of an eye" ([¶164](../read.qmd#p164)). Likewise, in the Seven Valleys He writes that the detached wayfarer "may traverse these seven stages in seven steps, nay rather in seven breaths, nay even in a single breath, should God will and desire it." Writing about the work of community building, the Universal House of Justice has similarly observed that "growth can occur quickly when the right conditions are in place" ([29 December 2015](https://www.bahai.org/library/authoritative-texts/the-universal-house-of-justice/messages/20151229_001/20151229_001.pdf)).
 
-*Paragraphs 157–188.*
+    It may be helpful to reflect on what conditions help transformation to happen quickly, whether in your own life or in the community? Share an example if you can.
+:::
 
-::: {.notes-section}
-## Your notes
+```{=html}
+<div class="note-row passage-row" data-p="169"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p169" title="Paragraph 169 in the full text">169</a></div><div class="note-text">Therefore, those who in every subsequent Dispensation preceded the rest of mankind in embracing the Faith of God, who quaffed the clear waters of knowledge at the hand of the divine Beauty, and attained the loftiest summits of faith and certitude, these can be regarded, in name, in reality, in deeds, in words, and in rank, as the “return” of those who in a former Dispensation had achieved similar distinctions. For whatsoever the people of a former Dispensation have manifested, the same hath been shown by the people of this latter generation. Consider the rose: whether it blossometh in the East or in the West, it is nonetheless a rose. For what mattereth in this respect is not the outward shape and form of the rose, but rather the smell and fragrance which it doth impart.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 169" placeholder="Your note on paragraph 169…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
+::: {.passage-body}
+3. Here Bahá'u'lláh explains that "return" means the return of the same qualities and attributes, not of the same individuals. Those who were first to embrace the Faith of God in one Dispensation are, "in name, in reality, in deeds, in words, and in rank", the "return" of those who achieved similar distinctions in a former one ([¶169](../read.qmd#p169)). As He puts it: "Consider the rose: whether it blossometh in the East or in the West, it is nonetheless a rose."
 
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
+    Which qualities of the early believers would you most like to draw on in your own life? Is there a particular believer, or a story about one, that inspires you? Share it with the group.
+:::
+
+```{=html}
+<div class="note-row passage-row" data-p="171"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p171" title="Paragraph 171 in the full text">171</a></div><div class="note-text">From these statements therefore it hath been made evident and manifest that should a Soul in the “End that knoweth no end” be made manifest, and arise to proclaim and uphold a Cause which in “the Beginning that hath no beginning” another Soul had proclaimed and upheld, it can be truly declared of Him Who is the Last and of Him Who was the First that they are one and the same, inasmuch as both are the Exponents of one and the same Cause. For this reason, hath the Point of the <span class="gl-ref" data-gl="bayan" role="button" tabindex="0" aria-label="Glossary: Bayán">Bayán</span>—may the life of all else but Him be His sacrifice!—likened the <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestations">Manifestations</span> of God unto the sun which, though it rise from the “Beginning that hath no beginning” until the “End that knoweth no end,” is nonetheless the same sun. Now, wert thou to say that this sun is the former sun, thou speakest the truth; and if thou sayest that this sun is the “return” of that sun, thou also speakest the truth. Likewise, from this statement it is made evident that the term “last” is applicable to the “first,” and the term “first” applicable to the “last”; inasmuch as both the “first” and the “last” have risen to proclaim one and the same Faith.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 171" placeholder="Your note on paragraph 171…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+4. Bahá'u'lláh firmly refutes claims of finality and exclusivity in religion. Nor does He claim finality for His own Revelation: in other Tablets He refers explicitly to the Manifestation Who is to come after Him. Even so, every sacred book contains verses to which some of its followers have clung in order to claim finality or exclusivity for their own religion. How can we understand verses such as these?
+:::
+
+```{=html}
+<div class="denial-list">
+<p class="denial-group">From Judaism:</p>
+<figure class="denial"><blockquote><p>"Ye shall not add unto the word which I command you, neither shall ye diminish from it, that ye may keep the commandments of the LORD your God which I command you."</p></blockquote><figcaption><span class="denial-prophet">Deuteronomy</span><span class="denial-source">4:2</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant."</p></blockquote><figcaption><span class="denial-prophet">Exodus</span><span class="denial-source">31:16</span></figcaption></figure>
+<p class="denial-group">From Christianity:</p>
+<figure class="denial"><blockquote><p>"I am the way, the truth, and the life: no man cometh unto the Father, but by me."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">14:6</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"And he said unto me, It is done. I am Alpha and Omega, the beginning and the end."</p></blockquote><figcaption><span class="denial-prophet">Revelation</span><span class="denial-source">21:6</span></figcaption></figure>
+<p class="denial-group">From Islam:</p>
+<figure class="denial"><blockquote><p>"This day have I perfected your religion for you, completed My favour upon you, and have chosen for you Islam as your religion."</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">5:3</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"The Religion before Allah is Islam (submission to His Will)."</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">3:19</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"If anyone desires a religion other than Islam (submission to Allah), never will it be accepted of him; and in the Hereafter he will be in the ranks of those who have lost (all spiritual good)."</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">3:85</span></figcaption></figure>
+</div>
+```
+
+::: {.passage-body}
+5. In discussing the "Seal of the Prophets", Bahá'u'lláh draws attention to the promise of "attainment unto the divine Presence". He does not deny that Muḥammad is the Seal of the Prophets. Rather, He asks us to consider this title in the light of the other teachings of the same Book: "the Lord of being hath in His unerring Book, after speaking of the 'Seal' in His exalted utterance: 'Muḥammad is the Apostle of God and the Seal of the Prophets,' hath revealed unto all people the promise of 'attainment unto the divine Presence'" ([¶181](../read.qmd#p181)). He then speaks of those who cling to some verses and deny others, challenging them by saying "Believe ye then part of the Book, and deny part?"
+
+    In a similar vein, Shoghi Effendi advises us: "We must take the teachings as a great, balanced whole, not seek out and oppose to each other two strong statements that have different meanings; somewhere in between, there are links uniting the two. That is what makes our Faith so flexible and well balanced." (From a letter written on his behalf, 19 March 1946.)
+
+    Perhaps it is natural to feel more drawn to some aspects of the Revelation than to others. How can we make sure we do not fall into the trap of clinging to the parts we like and setting aside the rest? How can we make sure we are reading for understanding, rather than for confirmation of what we already think?
 :::
 
 ```{=html}
@@ -41,7 +89,6 @@ interpreted for you.
   <p class="note-empty">Loading…</p>
 </div>
 ```
-:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)
