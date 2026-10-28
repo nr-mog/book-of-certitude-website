@@ -3,23 +3,25 @@ title: "Week 8"
 subtitle: "28 October 2026 · Paragraphs 157–188"
 ---
 
-##  {.divider}
+## Two themes this week
 
-::: {.kicker}
-Week 8
+::: {.tiles .two .fill}
+::: {.tile .marked}
+[The Station of Pure Abstraction and Essential Unity]{.tile-name}
+[Paragraphs 161–162]{.tile-epithet}
+
+- The Manifestations of God are regarded as **one soul and the same person**
+- They are all "**uttering the same speech, and proclaiming the same Faith**"
+- The foundation of **progressive revelation**
 :::
-::: {.divider-title}
-Paragraphs 157–188
+
+::: {.tile .marked}
+[The Return of the Prophets and Their Companions]{.tile-name}
+[Paragraphs 157–188]{.tile-epithet}
+
+- **The Divine Elixir and the transformation of the early believers**: souls transmuted "swift as the twinkling of an eye"
+- **The First and the Last**: each Manifestation is both, for all proclaim one and the same Cause
 :::
-
----
-
-## Reflections or questions
-
-::: {.incremental}
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
 :::
 
 ---
@@ -44,7 +46,7 @@ Paragraphs 157–188
 
 ---
 
-## First and Last
+## The Concept of Return
 
 ::: {.slide-sub}
 Why would a Prophet say they are the last?
@@ -89,7 +91,7 @@ same advice."
 
 ---
 
-## First and Last
+## The Concept of Return
 
 ::: {.slide-sub}
 Why else would a Prophet say they are the last?
@@ -120,7 +122,7 @@ Stand up, here comes the bride!"
 
 ---
 
-## First and Last
+## The Concept of Return
 
 ::: {.slide-sub}
 Consider the sun
@@ -180,7 +182,7 @@ Kitáb-i-Íqán ¶20
 
 ---
 
-## First and Last
+## The Concept of Return
 
 ::: {.slide-sub}
 One after another
@@ -190,7 +192,7 @@ One after another
 ::: {.cast-row}
 ::: {.cast .fragment .fade-left fragment-index=0}
 ::: {.bubble .fragment .fade-out fragment-index=1}
-I am the first
+I am the last
 :::
 
 ![](../images/ditto.png){.cast-img fig-alt="Ditto, a smiling purple blob."}
@@ -223,7 +225,7 @@ Kitáb-i-Íqán ¶172 and ¶196
 
 ---
 
-## First and Last
+## The Concept of Return
 
 ::: {.slide-sub}
 Further reading
@@ -275,7 +277,7 @@ beginning and the end are one and the same.
 
 ---
 
-## First and Last
+## The Concept of Return
 
 ::: {.slide-sub}
 He Who will come after Me
