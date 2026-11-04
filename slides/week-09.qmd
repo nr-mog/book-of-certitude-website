@@ -147,10 +147,10 @@ Book of Certitude, or just AI?
 Book of Certitude, or just AI?
 :::
 
-**They that cling to the husk of the Word, and have not tasted the kernel thereof, shall be shut out as by a veil from the Beauty that hath appeared in their midst.**
+**Even as the night of heedlessness giveth way unto the day of the Lord, so are the hearts of the faithful clad anew in the raiment of His bounty.**
 
 ::: {.fragment}
-**AI.** It's close to the Íqán's theme of the literal and inner meaning of the Word, but these words don't appear in the book.
+**AI.** It's close to the Íqán's imagery of night and the Day of God, but these words don't appear in the book.
 :::
 
 ---
@@ -286,3 +286,13 @@ Emoji Íqán
 ::::
 
 [Kitáb-i-Íqán, ¶203–206]{.attrib}
+
+---
+
+## The Scar of Chains
+
+> Among the sciences which this pretender hath professed is that of alchemy. We cherish the hope that either a king or a man of preeminent power may call upon him to translate this science from the realm of fancy to the domain of fact and from the plane of mere pretension to that of actual achievement. Would that this unlearned and humble Servant, who never laid any pretension to such things, nor even regarded them as the criterion of true knowledge, might undertake the same task, that thereby the truth might be known and distinguished from falsehood. But of what avail! All this generation could offer Us were wounds from its darts, and the only cup it proffered to Our lips was the cup of its venom. On Our neck We still bear the scar of chains, and upon Our body are imprinted the evidences of an unyielding cruelty.
+>
+> [Kitáb-i-Íqán, [¶208](../read.qmd#p208)]{.attrib}
+
+For the story behind these words, see the [timeline of Bahá'u'lláh's sufferings](../sufferings.qmd).
