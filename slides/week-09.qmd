@@ -120,7 +120,7 @@ Book of Certitude, or just AI?
 You will see a sentence. Write down whether it is from the Book of Certitude or was written by AI.
 :::
 ::: {.divider-sub}
-Bonus point: if it is from the book, name the paragraph (within 5 either way).
+Bonus point: if it is from the book, name the paragraph (+/- 5 is accepted).
 :::
 
 ---
@@ -147,10 +147,10 @@ Book of Certitude, or just AI?
 Book of Certitude, or just AI?
 :::
 
-**Even as the winter of heedlessness giveth way unto the springtime of the Lord, so are the hearts of the faithful clad anew in the raiment of His bounty.**
+**They that cling to the husk of the Word, and have not tasted the kernel thereof, shall be shut out as by a veil from the Beauty that hath appeared in their midst.**
 
 ::: {.fragment}
-**AI.** It's close to the Íqán's theme of spiritual springtime and renewal, but these words don't appear in the book.
+**AI.** It's close to the Íqán's theme of the literal and inner meaning of the Word, but these words don't appear in the book.
 :::
 
 ---
