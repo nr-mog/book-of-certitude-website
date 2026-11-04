@@ -9,39 +9,82 @@ page-layout: full
 [Download as PDF](week-09.pdf){.btn-pdf download="Kitab-i-Iqan-week-09.pdf"}
 :::
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
+## He Doeth Whatsoever He Willeth {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="182"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p182" title="Paragraph 182 in the full text">182</a></div><div class="note-text">But apart from all these things, had this people attained unto a drop of the crystal streams flowing from the words: “God doeth whatsoever He willeth, and ordaineth whatsoever He pleaseth,” they would not have raised any unseemly cavils, such as these, against the focal Center of His Revelation. The Cause of God, all deeds and words, are held within the grasp of His power. “All things lie imprisoned within the hollow of His mighty Hand; all things are easy and possible unto Him.” He accomplisheth whatsoever He willeth, and doeth all that He desireth. “Whoso sayeth ‘why’ or ‘wherefore’ hath spoken blasphemy!”</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 182" placeholder="Your note on paragraph 182…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="184"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p184" title="Paragraph 184 in the full text">184</a></div><div class="note-text">Be fair: Were these people to acknowledge the truth of these luminous words and holy allusions, and recognize God as “Him that doeth whatsoever He pleaseth,” how could they continue to cleave unto these glaring absurdities? Nay, with all their soul, they would accept and submit to whatsoever He saith. </div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 184" placeholder="Your note on paragraph 184…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. The concept that the Manifestation of God knows best what humanity needs comes up in various ways throughout the Book and Bahá'u'lláh's Writings. In the Kitáb-i-Aqdas He says: "Blessed is the man that hath acknowledged his belief in God and in His signs, and recognized that 'He shall not be asked of His doings.' Such a recognition hath been made by God the ornament of every belief and its very foundation"<sup>[a](https://www.bahai.org/r/866164026 "Kitáb-i-Aqdas ¶161")</sup>. Elsewhere, in even stronger language, He says: "were He to pronounce water itself to be unlawful, it would indeed become unlawful, and the converse holdeth equally true"<sup>[b](https://www.bahai.org/r/963019440 "The Tabernacle of Unity")</sup>.
+
+    At the same time, we are required to investigate reality independently and to "put all [our] beliefs into harmony with science"<sup>[c](https://www.bahai.org/r/552551100 "ʻAbdu'l-Bahá, Paris Talks")</sup>. The whole Book of Certitude can be seen as Bahá'u'lláh's attempt to accompany us on this investigation. How can both these things be true at the same time? How can we claim the need to investigate and discover truth, and at the same time say that "He shall not be asked of His doings"?
 :::
 
-## Reflections or questions
+::: {.passage-body}
+2. In *Gleanings* Bahá'u'lláh compares the Manifestations of God to physicians. They are "the only ones who can claim to have understood the patient,"<sup>[d](https://www.bahai.org/r/186183494 "Gleanings XXXIV")</sup> and so none has the right to question their words. Like a good doctor, the Manifestation understands the disease fully. But because of our limited capacity, He has to explain it, and prescribe for it, in a way we can understand and accept.
 
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+    This may be why the Manifestations have always "voiced an utterance that would conform to the requirements of the occasion"<sup>[e](../read.qmd#p198 "Kitáb-i-Íqán ¶198")</sup>. Bahá'u'lláh does the same in His own book: "We have variously and repeatedly set forth the meaning of every theme, that perchance every soul, whether high or low, may obtain, according to his measure and capacity, his share and portion thereof"<sup>[f](../read.qmd#p189 "Kitáb-i-Íqán ¶189")</sup>.
 
-## Passages
+    The same is true of the names and titles the Manifestations take:
 
-*Paragraphs 189–212.*
+    > Know then that all thou hast heard and witnessed that Daystar of Truth, the Primal Point, ascribe to Himself from the designations of former times is only on account of the weakness of men and the scheme of the world of creation. Otherwise, all names and attributes revolve round His Essence and circle about the threshold of His sanctuary. For He it is Who traineth all names, revealeth all attributes, conferreth life upon all beings, proclaimeth the divine verses, and arrayeth the heavenly signs.
+    >
+    > [Bahá'u'lláh, [*Gems of Divine Mysteries*](https://www.bahai.org/r/390113104)]{.attrib}
 
-::: {.notes-section}
-## Your notes
-
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
-
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
+    If, in reality, the Manifestations could claim any name or title, and They only do this to help us recognize Them, what are the implications for how we see the relationship between previous Manifestations? What are the implications for how we view statements Bahá'u'lláh has made about the greatness of His Revelation?
 :::
+
+## Understanding the Word of God {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="199"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p199" title="Paragraph 199 in the full text">199</a></div><div class="note-text">Those words uttered by the Luminaries of Truth must needs be pondered, and should their significance be not grasped, enlightenment should be sought from the Trustees of the depositories of Knowledge, that these may expound their meaning, and unravel their mystery. For it behooveth no man to interpret the holy words according to his own imperfect understanding, nor, having found them to be contrary to his inclination and desires, to reject and repudiate their truth. For such, today, is the manner of the divines and doctors of the age, who occupy the seats of knowledge and learning, and who have named ignorance knowledge, and called oppression justice. Were these to ask the Light of Truth concerning those images which their idle fancy hath carved, and were they to find His answer inconsistent with their own conceptions and their own understanding of the Book, they would assuredly denounce Him Who is the Mine and Wellhead of all Knowledge as the very negation of understanding. Such things have happened in every age.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 199" placeholder="Your note on paragraph 199…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="212"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p212" title="Paragraph 212 in the full text">212</a></div><div class="note-text">Inasmuch as it hath been clearly shown that only those who are initiated into the divine mysteries can comprehend the melodies uttered by the Bird of Heaven, it is therefore incumbent upon every one to seek enlightenment from the illumined in heart and from the Treasuries of divine mysteries regarding the intricacies of God’s Faith and the abstruse allusions in the utterances of the Daysprings of Holiness. Thus will these mysteries be unraveled, not by the aid of acquired learning, but solely through the assistance of God and the outpourings of His grace. “Ask ye, therefore, of them that have the custody of the Scriptures, if ye know it not.”<sup class="fn-ref" data-fn="150" role="button" tabindex="0" aria-label="Footnote 150">150</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 212" placeholder="Your note on paragraph 212…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+3. One challenge that is repeatedly referred to in the Book of Certitude is the challenge of understanding the meaning of the Word of God. Many things can prevent us from this understanding, such as our selfish desires and vain imaginations. In these paragraphs He says that the words of the Manifestations "must needs be pondered", and at the same time "it behooveth no man to interpret the holy words according to his own imperfect understanding, nor, having found them to be contrary to his inclination and desires, to reject and repudiate their truth." When we do not understand, we are to seek "from the Trustees of the depositories of Knowledge" and "from the illumined in heart"<sup>[g](../read.qmd#p212 "Kitáb-i-Íqán ¶212")</sup>. The mysteries are unravelled "not by the aid of acquired learning, but solely through the assistance of God and the outpourings of His grace." Beyond this, Bahá'u'lláh has stressed that "None knoweth the interpretation thereof but God and they that are well-grounded in knowledge."
+
+    In the Bahá'í Faith, we are fortunate to have authoritative interpretation of Bahá'u'lláh's Writings from two sources: ʻAbdu'l-Bahá and Shoghi Effendi. Further, the Universal House of Justice is accompanying the Bahá'í world to translate what Bahá'u'lláh has written into reality and action, through which new meanings and implications of the words can be discovered. You may wish to reflect on the significance of having access to such authoritative interpretations and guidance. What is the role which individuals play in understanding the Word of God?
+:::
+
+## The Twofold Station of the Prophets {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="191"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p191" title="Paragraph 191 in the full text">191</a></div><div class="note-text">We have already in the foregoing pages assigned two stations unto each of the Luminaries arising from the Daysprings of eternal holiness. One of these stations, the station of essential unity, We have already explained. “No distinction do We make between any of them.”<sup class="fn-ref" data-fn="132" role="button" tabindex="0" aria-label="Footnote 132">132</sup> The other is the station of distinction, and pertaineth to the world of creation and to the limitations thereof. In this respect, each <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span> of God hath a distinct individuality, a definitely prescribed mission, a predestined Revelation, and specially designated limitations. Each one of them is known by a different name, is characterized by a special attribute, fulfills a definite Mission, and is entrusted with a particular Revelation. Even as He saith: “Some of the Apostles We have caused to excel the others. To some God hath spoken, some He hath raised and exalted. And to Jesus, Son of Mary, We gave manifest signs, and We strengthened Him with the Holy Spirit.”<sup class="fn-ref" data-fn="133" role="button" tabindex="0" aria-label="Footnote 133">133</sup></div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 191" placeholder="Your note on paragraph 191…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="192"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p192" title="Paragraph 192 in the full text">192</a></div><div class="note-text">It is because of this difference in their station and mission that the words and utterances flowing from these Wellsprings of divine knowledge appear to diverge and differ. Otherwise, in the eyes of them that are initiated into the mysteries of divine wisdom, all their utterances are in reality but the expressions of one Truth. As most of the people have failed to appreciate those stations to which We have referred, they therefore feel perplexed and dismayed at the varying utterances pronounced by <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestations">Manifestations</span> that are essentially one and the same.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 192" placeholder="Your note on paragraph 192…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+4. Last week Bahá'u'lláh introduced the first of the two stations of the Manifestations of God, the station of "pure abstraction and essential unity"<sup>[h](../read.qmd#p161 "Kitáb-i-Íqán ¶161")</sup>. Here He describes the second, the station of distinction, in which "each Manifestation of God hath a distinct individuality, a definitely prescribed mission, a predestined Revelation, and specially designated limitations"<sup>[i](../read.qmd#p191 "Kitáb-i-Íqán ¶191")</sup>. It is "because of this difference in their station and mission that the words and utterances flowing from these Wellsprings of divine knowledge appear to diverge and differ"<sup>[j](../read.qmd#p192 "Kitáb-i-Íqán ¶192")</sup>.
+
+    Viewed from the station of unity, the Manifestations speak with "the accents of God Himself"<sup>[k](../read.qmd#p193 "Kitáb-i-Íqán ¶193")</sup>. Viewed from the station of distinction, "they manifest absolute servitude, utter destitution and complete self-effacement"<sup>[l](../read.qmd#p194 "Kitáb-i-Íqán ¶194")</sup>. In which station is the Manifestation speaking in each of these passages?
+:::
+
+```{=html}
+<div class="denial-list">
+<p class="denial-group">From the Gospels:</p>
+<figure class="denial"><blockquote><p>"I and my Father are one."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">10:30</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"He that hath seen me hath seen the Father."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">14:9</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"Why callest thou me good? there is none good but one, that is, God."</p></blockquote><figcaption><span class="denial-prophet">Matthew</span><span class="denial-source">19:17</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"My Father is greater than I."</p></blockquote><figcaption><span class="denial-prophet">John</span><span class="denial-source">14:28</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father."</p></blockquote><figcaption><span class="denial-prophet">Mark</span><span class="denial-source">13:32</span></figcaption></figure>
+<p class="denial-group">From the Qur'án:</p>
+<figure class="denial"><blockquote><p>"In truth, they who plighted fealty unto thee [Muḥammad], really plighted that fealty unto God."</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">48:10</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"You did not slay them, but God slew them; and when thou [Muḥammad] threwest, it was not thyself that threw, but God threw."</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">8:17</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"I am the servant of God. I am but a man like you."</p></blockquote><figcaption><span class="denial-prophet">Qur'án</span><span class="denial-source">18:110</span></figcaption></figure>
+<p class="denial-group">From the Writings of Bahá'u'lláh:</p>
+<figure class="denial"><blockquote><p>"I was but a man like others, asleep upon My couch, when lo, the breezes of the All-Glorious were wafted over Me, and taught Me the knowledge of all that hath been."</p></blockquote><figcaption><span class="denial-prophet">Epistle to the Son of the Wolf</span><span class="denial-source">p. 11</span></figcaption></figure>
+<figure class="denial"><blockquote><p>"When I contemplate, O my God, the relationship that bindeth me to Thee, I am moved to proclaim to all created things 'verily I am God!'; and when I consider my own self, lo, I find it coarser than clay!"</p></blockquote><figcaption><span class="denial-prophet">Quoted in The Dispensation of Bahá'u'lláh</span><span class="denial-source">WOB p. 113</span></figcaption></figure>
+</div>
+```
 
 ```{=html}
 <div id="paragraph-notes" data-week="9" class="paragraph-notes">
   <p class="note-empty">Loading…</p>
 </div>
 ```
-:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)

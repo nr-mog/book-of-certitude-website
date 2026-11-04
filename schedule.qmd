@@ -67,7 +67,7 @@ page-layout: full
       <td class="wk">9</td>
       <td class="date">4 Nov 2026</td>
       <td class="para">¶189-212<a class="start-reading" href="read.html#p189">Start reading</a></td>
-      <td class="mats"><a href="weeks/week-09.html" class="mat">Handout</a></td>
+      <td class="mats"><a href="slides/week-09.html" class="mat">Slides</a><a href="weeks/week-09.html" class="mat">Handout</a></td>
     </tr>
     <tr>
       <td class="wk">10</td>

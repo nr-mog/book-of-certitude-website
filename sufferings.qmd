@@ -1,0 +1,224 @@
+---
+title: "Sufferings"
+subtitle: "A timeline of Bahá'u'lláh's afflictions, 1847–1892"
+toc: true
+toc-depth: 2
+---
+
+::: {.witness}
+> But of what avail! All this generation could offer Us were wounds from its darts, and the only
+> cup it proffered to Our lips was the cup of its venom. On Our neck We still bear the scar of
+> chains, and upon Our body are imprinted the evidences of an unyielding cruelty.
+>
+> [Bahá'u'lláh, *Kitáb-i-Íqán* [¶208](read.qmd#p208)]{.attrib}
+:::
+
+::: {.lead .lead-sm}
+Bahá'u'lláh wrote these words in Baghdád in 1862. The chains He mentions had been taken off ten
+years before, in the Síyáh-Chál of Ṭihrán. Most of what He would suffer was still ahead of Him:
+three more banishments, a poisoning, and twenty-four years as a prisoner of the Ottoman state.
+The timeline below covers all four decades. Each entry links to the passage it is drawn from.
+:::
+
+## Ṭihrán and Mázindarán, 1847–1852
+
+::: {.timeline}
+- [**1844** Embracing the Cause of the Báb]{.tl-head} He accepts the Báb's message. Setting aside fame, wealth and position, and risking the
+  scorn of His class, He takes up the cause of an obscure and outlawed sect.
+  [[GPB V](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/7#183045064)]{.src}
+- [**1847** First imprisonment]{.tl-head} Ṭáhirih and her companions are imprisoned in Qazvín. For their sake He submits to
+  several days' confinement in the house of a Ṭihrán official. It is His first imprisonment.
+  [[GPB V](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/7#183045064) ·
+  [DB XV](https://bahai-library.com/books/dawnbreakers/chapters/15.html#278)]{.src}
+- [**Summer 1848** Attack at Niyálá]{.tl-head} After the conference of Badasht the Bábís camp at Niyálá. At dawn villagers stone
+  them from the hillside and the companions scatter. Bahá'u'lláh puts His own clothes on Quddús to
+  send him to safety.
+  [[DB XVI](https://bahai-library.com/books/dawnbreakers/chapters/16.html#297)]{.src}
+- [**Late 1848** Bastinado at Ámul]{.tl-head} [“While confined in the prison of the Land of Mím (Mázindarán) We were one day delivered into the hands of the divines. Thou canst well imagine what befell Us.” [ESW](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/3#990996010){.tl-cite}]{.tl-quote} He sets out to join the defenders of the shrine of Shaykh Ṭabarsí and is arrested
+  and taken to Ámul, where four thousand people gather. The acting governor orders His companions
+  beaten. Bahá'u'lláh offers Himself instead and is bastinadoed until His feet bleed, then pelted
+  with stones by the mob.
+  [[GPB V](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/7#183045064) ·
+  [DB XIX](https://bahai-library.com/books/dawnbreakers/chapters/19.html#368)]{.src}
+- [**15 August 1852** Arrest at Níyávarán]{.tl-head} [“By the righteousness of God! We were in no wise connected with that evil deed, and Our innocence was indisputably established by the tribunals.” [ESW](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/2#433308565){.tl-cite}]{.tl-quote} Two young Bábís try to kill Náṣiri'd-Dín Sháh. Bahá'u'lláh is a guest in
+  Lavásán. He refuses advice to hide, rides out to the Sháh's camp at Níyávarán, and is arrested.
+  [[GPB V](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/7#118002230)]{.src}
+- [**August 1852** March to Ṭihrán]{.tl-head} [“A brutal man, accompanying Us on horseback, snatched off Our hat, whilst We were being hurried along by a troop of executioners and officials.” [ESW](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/2#433308565){.tl-cite}]{.tl-quote} He is marched to Ṭihrán "on foot and in chains, with bared head and bare feet"
+  under the midsummer sun. On the way He is stripped, mocked and stoned. A mob sacks His house in
+  Ṭihrán and leaves His family destitute. His family home at Tákur in Mázindarán is looted and the
+  village burned.
+  [[GPB V](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/7#005302799) ·
+  [GPB V](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/7#218285415) ·
+  [Esslemont IV](https://www.bahai.org/library/other-literature/publications-individual-authors/bahaullah-new-era/6#434168608)]{.src}
+- [**August–December 1852** Imprisonment in the Black Pit]{.tl-head} [“We were consigned for four months to a place foul beyond comparison.” [ESW](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/2#433308565){.tl-cite}]{.tl-quote} He spends four months in the Síyáh-Chál, an underground pit beneath the
+  capital, among nearly a hundred and fifty thieves and murderers. His feet are in stocks, and two
+  chains, the Qarih-Kahar and the Salásil, are placed on His neck in turn. They leave the scar the
+  Íqán mentions ([¶208](read.qmd#p208)). Every day the jailers come in and call one of His
+  companions by name to follow them to the gallows.
+  [[GPB V](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/7#005302799) ·
+  [ESW](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/3#990996010) ·
+  [DB XXVI](https://bahai-library.com/books/dawnbreakers/chapters/26.html#632)]{.src}
+:::
+
+::: {.witness}
+> The dungeon was wrapped in thick darkness, and Our fellow prisoners numbered nearly a hundred and
+> fifty souls: thieves, assassins and highwaymen. … No pen can depict that place, nor any tongue
+> describe its loathsome smell.
+>
+> [Bahá'u'lláh, [*Epistle to the Son of the Wolf*](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/2#433308565)]{.attrib}
+:::
+
+## Banishment and Baghdád, 1853–1863
+
+::: {.timeline}
+- [**12 January 1853** Banishment from Persia]{.tl-head} [“Thy behest summoned this servant to depart out of Persia, accompanied by a number of frail-bodied men and children of tender age, at this time when the cold is so intense that one cannot even speak” [quoted in GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#266476360){.tl-cite}]{.tl-quote} He is released and ordered to leave Persia within a month. He sets out in an
+  unusually severe winter, with His family poorly equipped for the snow-bound mountains. Their young
+  son Mihdí stays behind in Ṭihrán and joins them only years later.
+  [[GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#680761776) ·
+  [GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#844845557) ·
+  [GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#370323955)]{.src}
+- [**1853–1854** Mírzá Yaḥyá's campaign]{.tl-head} [“My Pen, verily, lamenteth over Mine own Self, and My Tablet weepeth sore over what hath befallen Me at the hands of one (Mírzá Yaḥyá) over whom We watched for successive years … until he was made to err by one of My servants, named Siyyid Muḥammad.” [ESW](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/3#754132499){.tl-cite}]{.tl-quote} His half-brother Mírzá Yaḥyá, urged on by Siyyid Muḥammad of Iṣfahán, secretly
+  runs a campaign by letter to discredit Him, and the Bábí community falls into disputes.
+  [[GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#491479441) ·
+  [GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#027203130)]{.src}
+- [**10 April 1854** Retreat to Kurdistán]{.tl-head} [“What more shall We say? The universe, were it to gaze with the eye of justice, would be incapable of bearing the weight of this utterance! In the early days of Our arrival in this land, when We discerned the signs of impending events, We decided, ere they happened, to retire.” [Íqán ¶278](read.qmd#p278){.tl-cite}]{.tl-quote} He leaves Baghdád without telling anyone and spends two years alone in the
+  mountains of Kurdistán. His one attendant is soon killed by robbers. "Many a night We had no food
+  for sustenance" ([¶278](read.qmd#p278)).
+  [[GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#219527428) ·
+  [GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#609094235)]{.src}
+- [**19 March 1856** Return to Baghdád]{.tl-head} [“But for My recognition of the fact that the blessed Cause of the Primal Point was on the verge of being completely obliterated … I would in no wise have consented to return to the people of the Bayán” [quoted in GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#054564223){.tl-cite}]{.tl-quote} He comes back to Baghdád and finds the community "faint and dispirited."
+  Enemies keep trying to destroy Him, and "none amongst the faithful" comes to help
+  ([¶279](read.qmd#p279)).
+  [[GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#373957472) ·
+  [GPB VII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/9#387102330)]{.src}
+- [**Late 1850s–1862** Plots of the consul and the clergy]{.tl-head} [“until the Minister representing thy government arrived, whose name Our pen is loath to mention, who was given to wine, who followed his lusts, and committed wickedness, and was corrupt and corrupted ‘Iráq.” [Gleanings](https://www.bahai.org/library/authoritative-texts/bahaullah/gleanings-writings-bahaullah/6#635730377){.tl-cite}]{.tl-quote} The mujtahid Shaykh ʻAbdu'l-Ḥusayn allies himself with Mírzá Buzurg Khán,
+  the Persian consul-general. The consul hires a Turk named Riḍá to kill Him. Clergy gathered at
+  Káẓimayn resolve on holy war against the exiles, but the leading mujtahid, Shaykh
+  Murtaḍáy-i-Anṣárí, refuses to give the ruling they need.
+  [[GPB VIII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/10#892593156) ·
+  [GPB VIII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/10#676477598) ·
+  [GPB VIII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/10#005665955)]{.src}
+- [**1862** Revelation of the Kitáb-i-Íqán]{.tl-head} He reveals the Kitáb-i-Íqán. In it He records what He has suffered so far.
+  [[Íqán ¶208](read.qmd#p208) · [¶278–279](read.qmd#p278)]{.src}
+- [**Spring 1863** Departure from Baghdád]{.tl-head} [“I entrust to your keeping this city of Baghdád … tears like the rain of spring are flowing down, and I depart.” [quoted in GPB VIII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/10#700470060){.tl-cite}]{.tl-quote} Summoned to Constantinople, He sets out on 22 April for the Garden of Riḍván and
+  leaves Baghdád on 3 May.
+  [[GPB VIII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/10#956705619)]{.src}
+:::
+
+::: {.witness}
+> Amidst them all, We stand, life in hand, wholly resigned to His will; that perchance, through
+> God's loving-kindness and His grace, this revealed and manifest Letter may lay down His life as
+> a sacrifice in the path of the Primal Point, the most exalted Word.
+>
+> [Bahá'u'lláh, *Kitáb-i-Íqán* [¶279](read.qmd#p279)]{.attrib}
+:::
+
+## Constantinople and Adrianople, 1863–1868
+
+::: {.timeline}
+- [**16 August 1863** Arrival in Constantinople]{.tl-head} [“Call Thou to remembrance Thine arrival in the City (Constantinople), how the Ministers of the Sulṭán thought Thee to be unacquainted with their laws and regulations, and believed Thee to be one of the ignorant.” [Gleanings](https://www.bahai.org/library/authoritative-texts/bahaullah/gleanings-writings-bahaullah/4#795912043){.tl-cite}]{.tl-quote} He arrives in Constantinople after a hundred and ten days on the road. He
+  refuses to call on the ministers, as government guests were expected to do. The Persian
+  ambassador, Mírzá Ḥusayn Khán, uses this to turn the Ottoman authorities against Him.
+  [[GPB IX](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/11#328572830) ·
+  [GPB IX](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/11#683215992) ·
+  [GPB IX](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/11#791581581)]{.src}
+- [**December 1863** Winter journey to Adrianople]{.tl-head} [“The eyes of Our enemies wept over Us, and beyond them those of every discerning person.” [quoted in GPB IX](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/11#633876148){.tl-cite}]{.tl-quote} Sulṭán ʻAbdu'l-ʻAzíz banishes Him a third time, now to Adrianople. They set out
+  on a cold December morning for a twelve-day journey and arrive on 12 December. "Neither My family,
+  nor those who accompanied Me, had the necessary raiment to protect them from the cold." To get
+  water, they keep fires burning beside the frozen springs. In Adrianople they are first lodged in
+  a house built only for summer.
+  [[GPB IX](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/11#633876148) ·
+  [GPB IX](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/11#288050683)]{.src}
+- [**c. 1864–1865** Poisoned by Mírzá Yaḥyá]{.tl-head} [“When the secret nursed in his (Mírzá Yaḥyá) bosom was revealed by God, … he disclaimed such an intention, and imputed it to that same servant (Ustád Muḥammad-‘Alí).” [quoted in GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#059692386){.tl-cite}]{.tl-quote} About a year after they arrive, Mírzá Yaḥyá smears His tea-cup with poison. He
+  is gravely ill for a month, and His hand shakes for the rest of His life. Yaḥyá also poisons the
+  exiles' well and urges the barber to kill Bahá'u'lláh in the bath.
+  [[GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#972283719) ·
+  [GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#059692386)]{.src}
+- [**1866** The Most Great Separation]{.tl-head} [“There befell Me at the hands of him whom I have nurtured (Mírzá Yaḥyá), by day and by night, what hath caused the Holy Spirit, and the dwellers of the Tabernacle of the Grandeur of God, the Lord of this wondrous Day, to lament.” [ESW](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/4#536160563){.tl-cite}]{.tl-quote} He breaks finally with Mírzá Yaḥyá, an event called the Most Great Separation. Shoghi
+  Effendi counts this internal crisis as graver than anything the Faith had yet suffered from
+  outside.
+  [[GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#573198624)]{.src}
+- [**August 1868** Banishment from Adrianople]{.tl-head} [“The people surrounded the house, and Muslims and Christians wept over Us” [quoted in GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#489808222){.tl-cite}]{.tl-quote} One morning soldiers surround His house. A new decree banishes Him again, and
+  His family is left the first night without food. One believer, Ḥájí Jaʻfar-i-Tabrízí, finds his
+  name left off the list of exiles and cuts his throat. He is stopped in time. On 12 August they
+  leave for Gallipoli.
+  [[GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#489808222) ·
+  [GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#726510486) ·
+  [GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#903844631)]{.src}
+:::
+
+## ʻAkká, 1868–1892
+
+::: {.timeline}
+- [**21–31 August 1868** Voyage to ʻAkká]{.tl-head} [“Know thou that upon Our arrival at this Spot, We chose to designate it as the ‘Most Great Prison.’ Though previously subjected in another land (Ṭihrán) to chains and fetters, We yet refused to call it by that name.” [quoted in GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#547487647){.tl-cite}]{.tl-quote} They sail from Gallipoli by way of Alexandria to ʻAkká, a penal colony for
+  murderers and highway robbers. A curious, unfriendly crowd gathers at the port to see "the God of
+  the Persians."
+  [[GPB X](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/12#701677710) ·
+  [GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#823751656) ·
+  [GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#143871183)]{.src}
+- [**1868–1870** Imprisonment in the barracks]{.tl-head} [“From the foundation of the world until the present day a cruelty such as this hath neither been seen nor heard of.” [quoted in GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#143871183){.tl-cite}]{.tl-quote} They are locked in the citadel barracks. On the first night they get no food and
+  no water. Malaria and dysentery break out, and three of them die. Bahá'u'lláh gives His carpet to
+  be sold to pay for their burial, but the guards bury them unwashed and unshrouded. The Sulṭán's
+  decree sentences the exiles to perpetual banishment and strict confinement, and forbids them to
+  associate with anyone.
+  [[GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#143871183) ·
+  [GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#805814042)]{.src}
+- [**1868–1870** Pilgrims beyond the moat]{.tl-head} Pilgrims who reach ʻAkká must stand beyond the second moat, facing the window of
+  His prison, hoping for a glimpse of Him. Many turn back without seeing Him at all.
+  [[GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#300935094)]{.src}
+- [**23 June 1870** Death of the Purest Branch]{.tl-head} [“Glorified art Thou, O Lord, my God! Thou seest me in the hands of Mine enemies, and My son bloodstained before Thy face.” [quoted in *Messages to America*](https://reference.bahai.org/en/t/se/MA/ma-47.html){.tl-cite}]{.tl-quote} His son Mírzá Mihdí, the Purest Branch, is twenty-two. Pacing the barracks roof
+  in prayer, he falls through a skylight and dies twenty-two hours later. He asks that his life be
+  a ransom for those kept from his father's presence.
+  [[GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#370323955)]{.src}
+- [**Autumn 1870** The house of ʻÚdí Khammár]{.tl-head} They are moved out of the barracks through a series of cramped houses. In the
+  house of ʻÚdí Khammár, thirteen people share a single room.
+  [[GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#668173103)]{.src}
+- [**January 1872** Arrest and questioning]{.tl-head} [“My captivity can bring on Me no shame. Nay, by My life, it conferreth on Me glory. That which can make Me ashamed is the conduct of such of My followers as profess to love Me, yet in fact follow the Evil One.” [quoted in GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#852681921){.tl-cite}]{.tl-quote} Against His explicit orders, some of His followers kill three of Yaḥyá's
+  partisans. Troops with drawn swords surround His house. He is taken before the governor and
+  questioned, then held for seventy hours. ʻAbdu'l-Bahá spends the first night in chains. "My
+  captivity cannot harm Me," He writes. "That which can harm Me is the conduct of those who love
+  Me."
+  [[GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#023867666) ·
+  [GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#852681921) ·
+  [GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#288829749)]{.src}
+- [**1877** Leaving the city walls]{.tl-head} "I have not gazed on verdure for nine years," He remarks. ʻAbdu'l-Bahá arranges for
+  Him to leave the city walls for the mansion of Mazraʻih.
+  [[Esslemont III](https://www.bahai.org/library/other-literature/publications-individual-authors/bahaullah-new-era/5#201057246)]{.src}
+- [**1879** The King and the Beloved of Martyrs]{.tl-head} [“The twin shining lights, Ḥasan and Ḥusayn (The King of Martyrs and the Beloved of Martyrs) offered up spontaneously their lives in that city. Neither fortune, nor wealth, nor glory, could deter them!” [ESW](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/3#918459842){.tl-cite}]{.tl-quote} In Iṣfahán the brothers known as the King of Martyrs and the Beloved of Martyrs are
+  put to death. His followers in Persia are persecuted until the end of His life.
+  [[GPB XII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/14#900750150)]{.src}
+- [**1879–1892** A prisoner at Bahjí]{.tl-head} He lives at the Mansion of Bahjí. A governor tells Him He may pass through the city
+  gates whenever He pleases, but He declines. The Sulṭán's decree is never revoked, and He dies a
+  prisoner.
+  [[GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#268080141) ·
+  [GPB XI](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/13#762117001)]{.src}
+- [**29 May 1892** His passing]{.tl-head} On 8 May He comes down with a fever that returns more severely. He passes away at
+  Bahjí at dawn on 29 May, in His seventy-fifth year. He has been an exile for thirty-nine years
+  and a prisoner for twenty-four.
+  [[GPB XIII](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/15#473624450)]{.src}
+:::
+
+::: {.witness}
+> The Ancient Beauty hath consented to be bound with chains that mankind may be released from its
+> bondage, and hath accepted to be made a prisoner within this most mighty Stronghold that the
+> whole world may attain unto true liberty. He hath drained to its dregs the cup of sorrow, that
+> all the peoples of the earth may attain unto abiding joy, and be filled with gladness.
+>
+> [Bahá'u'lláh, [*Gleanings* XLV](https://www.bahai.org/library/authoritative-texts/bahaullah/gleanings-writings-bahaullah/3#797739643)]{.attrib}
+:::
+
+::: {.source-note}
+**Sources.** Each entry links to the paragraph it is drawn from.
+**GPB** is Shoghi Effendi's
+[*God Passes By*](https://www.bahai.org/library/authoritative-texts/shoghi-effendi/god-passes-by/)
+and the numeral is its chapter.
+**DB** is Nabíl's [*The Dawn-Breakers*](https://bahai-library.com/nabil_dawnbreakers), translated
+by Shoghi Effendi, on bahai-library.com.
+**ESW** is Bahá'u'lláh's
+[*Epistle to the Son of the Wolf*](https://www.bahai.org/library/authoritative-texts/bahaullah/epistle-son-wolf/).
+**Esslemont** is J. E. Esslemont's
+[*Bahá'u'lláh and the New Era*](https://www.bahai.org/library/other-literature/publications-individual-authors/bahaullah-new-era/),
+which quotes ʻAbdu'l-Bahá's account of Mazraʻih.
+Where a source gives only a season or a year, that is what the timeline shows. The closing
+figures, thirty-nine years of exile and twenty-four of imprisonment, are counted from those dates.
+:::

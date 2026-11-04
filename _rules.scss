@@ -756,6 +756,50 @@ table.schedule td.para.tbd {
     display: block;
     margin-bottom: 0.1rem;
   }
+
+  // Date and title on one line: the date keeps its bold, the title does not.
+  .tl-head {
+    display: block;
+    margin-bottom: 0.1rem;
+    font-family: $font-family-sans-serif;
+    font-size: 0.82rem;
+    letter-spacing: 0.03em;
+    color: $ink-soft;
+
+    strong { display: inline; margin: 0 0.4rem 0 0; }
+  }
+
+  // Bahá'u'lláh's own words on the event, between the date and the narrative.
+  .tl-quote {
+    display: block;
+    margin: 0.1rem 0 0.25rem;
+    font-weight: 600;
+    color: $ink;
+  }
+
+  .tl-cite {
+    font-family: $font-family-sans-serif;
+    font-style: normal;
+    font-size: 0.7rem;
+    letter-spacing: 0.02em;
+    color: $ink-faint;
+    text-decoration: none;
+    white-space: nowrap;
+    &:hover { color: $gold; }
+  }
+
+  // Per-entry citations, as on the Sufferings page
+  .src {
+    display: block;
+    margin-top: 0.15rem;
+    font-family: $font-family-sans-serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.02em;
+    color: $ink-faint;
+
+    a { color: inherit; text-decoration-color: $gold-soft; }
+    a:hover { color: $gold; }
+  }
 }
 
 // --- Margin citations -------------------------------------------------------
@@ -1786,6 +1830,9 @@ h2.passage-heading {
 
   // Clear of the passage above it.
   margin-top: 1.9rem;
+
+  // Reference letters: small enough without an underline as well.
+  sup a { text-decoration: none; }
 
   > ul, > ol {
     margin-left: 0;
