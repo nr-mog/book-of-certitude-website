@@ -9,31 +9,58 @@ page-layout: full
 [Download as PDF](week-10.pdf){.btn-pdf download="Kitab-i-Iqan-week-10.pdf"}
 :::
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
+## The True Seeker {.passage-heading}
+
+```{=html}
+<div class="note-row passage-row" data-p="213"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p213" title="Paragraph 213 in the full text">213</a></div><div class="note-text">But, O my brother, when a true seeker determineth to take the step of search in the path leading to the knowledge of the Ancient of Days, he must, before all else, cleanse and purify his heart, which is the seat of the revelation of the inner mysteries of God, from the obscuring dust of all acquired knowledge, and the allusions of the embodiments of satanic fancy. He must purge his breast, which is the sanctuary of the abiding love of the Beloved, of every defilement, and sanctify his soul from all that pertaineth to water and clay, from all shadowy and ephemeral attachments. He must so cleanse his heart that no remnant of either love or hate may linger therein, lest that love blindly incline him to error, or that hate repel him away from the truth. Even as thou dost witness in this day how most of the people, because of such love and hate, are bereft of the immortal Face, have strayed far from the Embodiments of the divine mysteries, and, shepherdless, are roaming through the wilderness of oblivion and error. That seeker must at all times put his trust in God, must renounce the peoples of the earth, detach himself from the world of dust, and cleave unto Him Who is the Lord of Lords. He must never seek to exalt himself above anyone, must wash away from the <span class="gl-ref" data-gl="tablet" role="button" tabindex="0" aria-label="Glossary: tablet">tablet</span> of his heart every trace of pride and vainglory, must cling unto patience and resignation, observe silence, and refrain from idle talk. For the tongue is a smoldering fire, and excess of speech a deadly poison. Material fire consumeth the body, whereas the fire of the tongue devoureth both heart and soul. The force of the former lasteth but for a time, whilst the effects of the latter endure a century.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 213" placeholder="Your note on paragraph 213…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="214"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p214" title="Paragraph 214 in the full text">214</a></div><div class="note-text">That seeker should also regard backbiting as grievous error, and keep himself aloof from its dominion, inasmuch as backbiting quencheth the light of the heart, and extinguisheth the life of the soul. He should be content with little, and be freed from all inordinate desire. He should treasure the companionship of those that have renounced the world, and regard avoidance of boastful and worldly people a precious benefit. At the dawn of every day he should commune with God, and with all his soul persevere in the quest of his Beloved. He should consume every wayward thought with the flame of His loving mention, and, with the swiftness of lightning, pass by all else save Him. He should succor the dispossessed, and never withhold his favor from the destitute. He should show kindness to animals, how much more unto his fellowman, to him who is endowed with the power of utterance. He should not hesitate to offer up his life for his Beloved, nor allow the censure of the people to turn him away from the Truth. He should not wish for others that which he doth not wish for himself, nor promise that which he doth not fulfill. With all his heart should the seeker avoid fellowship with evildoers, and pray for the remission of their sins. He should forgive the sinful, and never despise his low estate, for none knoweth what his own end shall be. How often hath a sinner, at the hour of death, attained to the essence of faith, and, quaffing the immortal draft, hath taken his flight unto the celestial Concourse. And how often hath a devout believer, at the hour of his soul’s ascension, been so changed as to fall into the nethermost fire. Our purpose in revealing these convincing and weighty utterances is to impress upon the seeker that he should regard all else beside God as transient, and count all things save Him, Who is the Object of all adoration, as utter nothingness.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 214" placeholder="Your note on paragraph 214…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. Bahá'u'lláh describes here the prerequisites of a true seeker after "the knowledge of the Ancient of Days"<sup>[a](../read.qmd#p213 "Kitáb-i-Íqán ¶213")</sup>. He says that "when the detached wayfarer and sincere seeker hath fulfilled these essential conditions, then and only then can he be called a true seeker"<sup>[b](../read.qmd#p215 "Kitáb-i-Íqán ¶215")</sup>. Some of these conditions are about how we relate to God, others are about how we relate to other people, including several about our speech, and others are about our own inner condition. Write down a few of the requirements that fall into each category.
 :::
 
-## Reflections or questions
+```{=html}
+<div class="write-box" data-write="w10-q1-god">
+  <label class="write-label" for="write-w10-q1-god">Our relationship with God</label>
+  <textarea class="note-input" id="write-w10-q1-god" rows="3" placeholder="Write your thoughts…"></textarea>
+  <div class="note-bar"><span class="note-saved"></span></div>
+  <div class="write-lines" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+</div>
+<div class="write-box" data-write="w10-q1-others">
+  <label class="write-label" for="write-w10-q1-others">Our relationship with others, including our speech</label>
+  <textarea class="note-input" id="write-w10-q1-others" rows="3" placeholder="Write your thoughts…"></textarea>
+  <div class="note-bar"><span class="note-saved"></span></div>
+  <div class="write-lines" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+</div>
+<div class="write-box" data-write="w10-q1-inner">
+  <label class="write-label" for="write-w10-q1-inner">Our inner condition</label>
+  <textarea class="note-input" id="write-w10-q1-inner" rows="3" placeholder="Write your thoughts…"></textarea>
+  <div class="note-bar"><span class="note-saved"></span></div>
+  <div class="write-lines" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+</div>
+```
 
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
+::: {.passage-body}
+2. Which of these conditions stand out to you? Do any of them surprise you? Why might these conditions be related to acquiring knowledge?
+:::
 
-## Passages
+```{=html}
+<div class="note-row passage-row" data-p="216"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p216" title="Paragraph 216 in the full text">216</a></div><div class="note-text">Only when the lamp of search, of earnest striving, of longing desire, of passionate devotion, of fervid love, of rapture, and ecstasy, is kindled within the seeker’s heart, and the breeze of His loving-kindness is wafted upon his soul, will the darkness of error be dispelled, the mists of doubts and misgivings be dissipated, and the lights of knowledge and certitude envelop his being. At that hour will the mystic Herald, bearing the joyful tidings of the Spirit, shine forth from the City of God resplendent as the morn, and, through the trumpet-blast of knowledge, will awaken the heart, the soul, and the spirit from the slumber of negligence. Then will the manifold favors and outpouring grace of the holy and everlasting Spirit confer such new life upon the seeker that he will find himself endowed with a new eye, a new ear, a new heart, and a new mind. He will contemplate the manifest signs of the universe, and will penetrate the hidden mysteries of the soul. Gazing with the eye of God, he will perceive within every atom a door that leadeth him to the stations of absolute certitude. He will discover in all things the mysteries of divine Revelation and the evidences of an everlasting <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: manifestation">manifestation</span>.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 216" placeholder="Your note on paragraph 216…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="217"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p217" title="Paragraph 217 in the full text">217</a></div><div class="note-text">I swear by God! Were he that treadeth the path of guidance and seeketh to scale the heights of righteousness to attain unto this glorious and supreme station, he would inhale at a distance of a thousand leagues the fragrance of God, and would perceive the resplendent morn of a divine Guidance rising above the dayspring of all things. Each and every thing, however small, would be to him a revelation leading him to his Beloved, the Object of his quest. So great shall be the discernment of this seeker that he will discriminate between truth and falsehood even as he doth distinguish the sun from shadow. If in the uttermost corners of the East the sweet savors of God be wafted, he will assuredly recognize and inhale their fragrance, even though he be dwelling in the uttermost ends of the West. He will likewise clearly distinguish all the signs of God—His wondrous utterances, His great works, and mighty deeds—from the doings, words and ways of men, even as the jeweler who knoweth the gem from the stone, or the man who distinguisheth the spring from autumn and heat from cold.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 217" placeholder="Your note on paragraph 217…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-*Paragraphs 213–245.*
+::: {.passage-body}
+3. Once we have fulfilled these essential conditions, several things will happen. Among them, we will find ourselves "endowed with a new eye, a new ear, a new heart, and a new mind"<sup>[c](../read.qmd#p216 "Kitáb-i-Íqán ¶216")</sup>. None of us would claim to have reached the station of the true seeker described in these paragraphs, but it may be helpful to pause and reflect on the early glimpses of the transformation they envision. After all, the power of the Manifestation of God to transform hearts is one of the fundamental proofs of His Revelation. Two weeks ago we read that the Divine Elixir, "swift as the twinkling of an eye, transmuteth the souls of men"<sup>[d](../read.qmd#p164 "Kitáb-i-Íqán ¶164")</sup>. In what way has the Revelation of Bahá'u'lláh transformed you? What are you doing now that you would not otherwise have done?
+:::
 
-::: {.notes-section}
-## Your notes
+```{=html}
+<div class="note-row passage-row" data-p="217"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p217" title="Paragraph 217 in the full text">217</a></div><div class="note-text">When the channel of the human soul is cleansed of all worldly and impeding attachments, it will unfailingly perceive the breath of the Beloved across immeasurable distances, and will, led by its perfume, attain and enter the City of Certitude. Therein he will discern the wonders of His ancient wisdom, and will perceive all the hidden teachings from the rustling leaves of the Tree—which flourisheth in that City. With both his inner and his outer ear he will hear from its dust the hymns of glory and praise ascending unto the Lord of Lords, and with his inner eye will he discover the mysteries of “return” and “revival.” How unspeakably glorious are the signs, the tokens, the revelations, and splendors which He Who is the King of names and attributes hath destined for that City! The attainment of this City quencheth thirst without water, and kindleth the love of God without fire. Within every blade of grass are enshrined the mysteries of an inscrutable wisdom, and upon every rosebush a myriad nightingales pour out, in blissful rapture, their melody. Its wondrous tulips unfold the mystery of the undying Fire in the Burning Bush, and its sweet savors of holiness breathe the perfume of the Messianic Spirit. It bestoweth wealth without gold, and conferreth immortality without death. In every leaf ineffable delights are treasured, and within every chamber unnumbered mysteries lie hidden.</div></div><aside class="note-side"></aside></div>
+<div class="note-row passage-row" data-p="219"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p219" title="Paragraph 219 in the full text">219</a></div><div class="note-text">That City is none other than the Word of God revealed in every age and dispensation. In the days of <span class="gl-ref" data-gl="moses" role="button" tabindex="0" aria-label="Glossary: Moses">Moses</span> it was the <span class="gl-ref" data-gl="pentateuch" role="button" tabindex="0" aria-label="Glossary: Pentateuch">Pentateuch</span>; in the days of Jesus the Gospel; in the days of <span class="gl-ref" data-gl="muhammad" role="button" tabindex="0" aria-label="Glossary: Muḥammad">Muḥammad</span> the Messenger of God the <span class="gl-ref" data-gl="qur-an" role="button" tabindex="0" aria-label="Glossary: Qur’án">Qur’án</span>; in this day the <span class="gl-ref" data-gl="bayan" role="button" tabindex="0" aria-label="Glossary: Bayán">Bayán</span>; and in the dispensation of Him Whom God will make manifest His own Book—the Book unto which all the Books of former Dispensations must needs be referred, the Book which standeth amongst them all transcendent and supreme. In these Cities spiritual sustenance is bountifully provided, and incorruptible delights have been ordained. The food they bestow is the bread of heaven, and the Spirit they impart is God’s imperishable blessing. Upon detached souls they bestow the gift of Unity, enrich the destitute, and offer the cup of knowledge unto them who wander in the wilderness of ignorance. All the guidance, the blessings, the learning, the understanding, the faith, and certitude, conferred upon all that is in heaven and on earth, are hidden and treasured within these Cities.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 219" placeholder="Your note on paragraph 219…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
 
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
-
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
+::: {.passage-body}
+4. The journey ends in the "City of Certitude", and Bahá'u'lláh then tells us what that City is: "none other than the Word of God revealed in every age and dispensation"<sup>[e](../read.qmd#p219 "Kitáb-i-Íqán ¶219")</sup>. Those who reach it become so attached to it "that a moment's separation from it would to them be unthinkable"<sup>[f](../read.qmd#p218 "Kitáb-i-Íqán ¶218")</sup>. One of the requirements of the true seeker is that "at the dawn of every day he should commune with God"<sup>[g](../read.qmd#p214 "Kitáb-i-Íqán ¶214")</sup>. What helps you build a daily connection with the Word of God, and what gets in the way?
 :::
 
 ```{=html}
@@ -41,7 +68,6 @@ interpreted for you.
   <p class="note-empty">Loading…</p>
 </div>
 ```
-:::
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)

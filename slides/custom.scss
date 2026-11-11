@@ -690,6 +690,14 @@ $code-block-font-size: 0.7em;
   }
 }
 
+// The same pair stacked in one column, for a slide whose text needs the width:
+// the letters to Alain Locke carry Shoghi Effendi above Locke.
+.reveal .portrait-pair.stack {
+  grid-template-columns: 1fr;
+  gap: 0.4em;
+  margin-top: 0;
+}
+
 // A short note under the pair: the story behind one of the portraits.
 .reveal .pp-note {
   margin-top: 0.35em;
@@ -952,6 +960,10 @@ $code-block-font-size: 0.7em;
 }
 
 // --- Meme beside a list -----------------------------------------------------
+// A story told in its narrator's words: one quote block per fragment, set closer
+// together than a lone quotation so three or four fit beside the portrait.
+.reveal .figure-slide.quoted blockquote { margin: 0.35em 0; }
+
 .reveal .meme-slide > div.fill {
   flex: 1 1 auto;
 
