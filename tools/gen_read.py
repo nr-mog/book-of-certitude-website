@@ -51,7 +51,21 @@ def render_text(raw, n):
                 'aria-label="Glossary: %s">%s</span>' % (payload, word, word))
         last = end
     out.append(html.escape(raw[last:]))
-    return ''.join(out)
+    return line_group(''.join(out))
+
+
+# A paragraph can set a run of lines apart, as the Reference Library does with
+# the names in ¶248: the lines are separated by newlines in the text.
+# Everything from the first newline to the last becomes one indented block, a
+# line to a span. The newlines stay between the spans so a copied passage
+# keeps them, and no marker can straddle one, since a footnote number or
+# glossary term never spans a line break.
+def line_group(rendered):
+    parts = rendered.split('\n')
+    if len(parts) < 3:
+        return rendered
+    lines = '\n'.join('<span>%s</span>' % p for p in parts[1:-1])
+    return '%s<span class="line-group">%s</span>%s' % (parts[0], lines, parts[-1])
 
 
 STRUCTURE_BEFORE = {

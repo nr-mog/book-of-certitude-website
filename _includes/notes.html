@@ -104,7 +104,20 @@
           esc(s.slice(m[0], m[1])) + '</span>';
       last = m[1];
     }
-    return out + esc(s.slice(last));
+    return lineGroup(out + esc(s.slice(last)));
+  }
+
+  // A run of lines set apart, as in ¶248: everything from the first newline
+  // in the text to the last becomes one indented block. Same rule as
+  // line_group() in tools/gen_read.py.
+  function lineGroup(html) {
+    var parts = html.split('\n');
+    if (parts.length < 3) return html;
+    var lines = parts.slice(1, -1).map(function (p) {
+      return '<span>' + p + '</span>';
+    }).join('\n');
+    return parts[0] + '<span class="line-group">' + lines + '</span>' +
+      parts[parts.length - 1];
   }
 
   function fetchJSON(path) {

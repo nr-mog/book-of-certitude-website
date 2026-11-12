@@ -51,7 +51,16 @@ def render_text(raw, n):
                 'aria-label="Glossary: %s">%s</span>' % (payload, word, word))
         last = end
     out.append(html.escape(raw[last:]))
-    return ''.join(out)
+    return line_group(''.join(out))
+
+
+# Identical rule to line_group() in tools/gen_read.py.
+def line_group(rendered):
+    parts = rendered.split('\n')
+    if len(parts) < 3:
+        return rendered
+    lines = '\n'.join('<span>%s</span>' % p for p in parts[1:-1])
+    return '%s<span class="line-group">%s</span>%s' % (parts[0], lines, parts[-1])
 
 
 def main(numbers):

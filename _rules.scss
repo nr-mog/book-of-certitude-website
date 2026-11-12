@@ -1077,6 +1077,15 @@ a.note-num {
   padding: 0;
 }
 
+// A run of lines set apart within a paragraph - the names in ¶248 - indented
+// a line to a name, as the Reference Library sets them.
+.line-group {
+  display: block;
+  margin: 0.45em 0 0.45em 2em;
+
+  > span { display: block; }
+}
+
 // --- The note column --------------------------------------------------------
 .note-side {
   flex: 0 0 var(--note-col);
