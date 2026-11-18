@@ -9,39 +9,102 @@ page-layout: full
 [Download as PDF](week-11.pdf){.btn-pdf download="Kitab-i-Iqan-week-11.pdf"}
 :::
 
-::: {.callout-note appearance="simple"}
-Materials for this session will be posted here.
+
+## Proofs demonstrating the Truth of this Revelation {.passage-heading}
+
+::: {.passage-body}
+The greatest proof of the Báb's Revelation is the Word of God itself: the verses He revealed. After this, Bahá'u'lláh gives some further proofs:
+
+- Learned people accepted the Message
+- The exemplary and heroic deeds of the early believers
+- The constancy of the Báb in proclaiming the Message
+- The spiritual ascendancy of the Báb over the hearts of people
 :::
 
-## Reflections or questions
-
-- What stood out to you in this section?
-- Any questions about the passages?
-- Were there any words, phrases, or concepts you didn't understand?
-
-## Passages
-
-*Paragraphs 246–265.*
-
-::: {.notes-section}
-## Your notes
-
-::: {.notes-intro}
-Write as you read. Notes save automatically and stay **in this browser on this device** —
-nothing is sent anywhere and no one else can see them. Keep a copy from the
-[My notes](../notes.qmd) page if they matter to you.
-
-"Ask about this paragraph" copies a prompt to your clipboard that you can paste into Claude,
-ChatGPT or Gemini. It asks for definitions and references rather than for the passage to be
-interpreted for you.
-:::
+### A number of divines and people of learning have accepted the Message {.passage-subheading}
 
 ```{=html}
-<div id="paragraph-notes" data-week="11" class="paragraph-notes">
-  <p class="note-empty">Loading…</p>
-</div>
+<div class="note-row passage-row" data-p="246"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p246" title="Paragraph 246 in the full text">246</a></div><div class="note-text">Amongst the proofs demonstrating the truth of this Revelation is this, that in every age and Dispensation, whenever the invisible Essence was revealed in the person of His <span class="gl-ref" data-gl="manifestation" role="button" tabindex="0" aria-label="Glossary: Manifestation">Manifestation</span>, certain souls, obscure and detached from all worldly entanglements, would seek illumination from the Sun of Prophethood and Moon of divine guidance, and would attain unto the divine Presence. For this reason, the divines of the age and those possessed of wealth would scorn and scoff at these people. Even as He hath revealed concerning them that erred: “Then said the chiefs of His people who believed not, ‘We see in Thee but a man like ourselves; and we see not any who have followed Thee except our meanest ones of hasty judgment, nor see we any excellence in you above ourselves: nay, we deem you liars.’”<sup class="fn-ref" data-fn="172" role="button" tabindex="0" aria-label="Footnote 172">172</sup> They caviled at those holy Manifestations, and protested saying: “None hath followed you except the abject amongst us, those who are worthy of no attention.” Their aim was to show that no one amongst the learned, the wealthy, and the renowned believed in them. By this and similar proofs they sought to demonstrate the falsity of Him that speaketh naught but the truth.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 246" placeholder="Your note on paragraph 246…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="247"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p247" title="Paragraph 247 in the full text">247</a></div><div class="note-text">In this most resplendent Dispensation, however, this most mighty Sovereignty, a number of illumined divines, of men of consummate learning, of doctors of mature wisdom, have attained unto His Court, drunk the cup of His divine Presence, and been invested with the honor of His most excellent favor. They have renounced, for the sake of the Beloved, the world and all that is therein. We will mention the names of some of them, that perchance it may strengthen the fainthearted, and encourage the timorous.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 247" placeholder="Your note on paragraph 247…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
 ```
+
+```{=html}
+<div class="note-row passage-row" data-p="248"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p248" title="Paragraph 248 in the full text">248</a></div><div class="note-text">Among them was <span class="gl-ref" data-gl="mulla-husayn" role="button" tabindex="0" aria-label="Glossary: Mullá Ḥusayn">Mullá Ḥusayn</span>, who became the recipient of the effulgent glory of the Sun of divine Revelation. But for him, God would not have been established upon the seat of His mercy, nor ascended the throne of eternal glory. Among them also was <span class="gl-ref" data-gl="siyyid-yahya-surnamed-vahid" role="button" tabindex="0" aria-label="Glossary: Siyyid Yaḥyá">Siyyid Yaḥyá</span>, that unique and peerless figure of his age, <span class="line-group"><span><span class="gl-ref" data-gl="mulla-muhammad-aliy-i-zanjani" role="button" tabindex="0" aria-label="Glossary: Mullá Muḥammad ‘Alíy-i-Zanjání">Mullá Muḥammad ‘Alíy-i-Zanjání</span></span>
+<span><span class="gl-ref" data-gl="mulla-aliy-i-bastami" role="button" tabindex="0" aria-label="Glossary: Mullá ‘Alíy-i-Bastámí">Mullá ‘Alíy-i-Bastámí</span></span>
+<span>Mullá Sa‘íd-i-Bárfurúshí</span>
+<span><span class="gl-ref" data-gl="mulla-n-imatu-llah-i-mazindarani" role="button" tabindex="0" aria-label="Glossary: Mullá Ni‘matu’lláh-i-Mázindarání">Mullá Ni‘matu’lláh-i-Mázindarání</span></span>
+<span><span class="gl-ref" data-gl="mulla-yusuf-i-ardibili" role="button" tabindex="0" aria-label="Glossary: Mullá Yúsuf-i-Ardibílí">Mullá Yúsuf-i-Ardibílí</span></span>
+<span><span class="gl-ref" data-gl="mulla-mihdiy-i-khu-i" role="button" tabindex="0" aria-label="Glossary: Mullá Mihdíy-i-Khu’í">Mullá Mihdíy-i-Khu’í</span></span>
+<span><span class="gl-ref" data-gl="siyyid-husayn-i-turshizi" role="button" tabindex="0" aria-label="Glossary: Siyyid Ḥusayn-i-Turshízí">Siyyid Ḥusayn-i-Turshízí</span></span>
+<span>Mullá Mihdíy-i-Kandí</span>
+<span><span class="gl-ref" data-gl="mulla-baqir" role="button" tabindex="0" aria-label="Glossary: Mullá Báqir">Mullá Báqir</span></span>
+<span><span class="gl-ref" data-gl="mulla-abd-l-khaliq-i-yazdi" role="button" tabindex="0" aria-label="Glossary: Mullá ‘Abdu’l-Kháliq-i-Yazdí">Mullá ‘Abdu’l-Kháliq-i-Yazdí</span></span>
+<span><span class="gl-ref" data-gl="mulla-aliy-i-baraqani" role="button" tabindex="0" aria-label="Glossary: Mullá ‘Alíy-i-Baraqání">Mullá ‘Alíy-i-Baraqání</span></span></span> and others, well-nigh four hundred in number, whose names are all inscribed upon the “Guarded <span class="gl-ref" data-gl="tablet" role="button" tabindex="0" aria-label="Glossary: Tablet">Tablet</span>” of God.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 248" placeholder="Your note on paragraph 248…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+1. Tonight we will get to know three of the people Bahá'u'lláh names. In small groups, each group takes one person. Open their full account from the card below and read it together (about ten minutes), help each other to understand the events in their life, and then introduce your person to everyone in about five minutes. 
 :::
+
+::: {.person-card .pc-short #group-1}
+::: {.pc-kicker}
+Group 1
+:::
+
+### Mullá Ḥusayn & Companions at Fort Ṭabarsí
+
+[About 1813–1849 · the first Letter of the Living · the Bábu'l-Báb, "the Gate of the Gate"]{.pc-dates}
+
+[Read the full account →](../accounts-248.qmd#group-1){.pc-link}
+:::
+
+::: {.person-card .pc-short #group-2}
+::: {.pc-kicker}
+Group 2
+:::
+
+### Siyyid Yaḥyáy-i-Dárábí, Vaḥíd
+
+[Died 1850 · "that unique and peerless figure of his age"]{.pc-dates}
+
+[Read the full account →](../accounts-248.qmd#group-2){.pc-link}
+:::
+
+::: {.person-card .pc-short #group-3}
+::: {.pc-kicker}
+Group 3
+:::
+
+### Mullá 'Alíy-i-Basṭámí
+
+[Died about 1846 · the second Letter of the Living · "the first to leave the House of God, and to suffer for His sake"]{.pc-dates}
+
+[Read the full account →](../accounts-248.qmd#group-3){.pc-link}
+:::
+
+### Their deeds testify to the truth of their words {.passage-subheading}
+
+```{=html}
+<div class="note-row passage-row" data-p="249"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p249" title="Paragraph 249 in the full text">249</a></div><div class="note-text">All these were guided by the light of that Sun of divine Revelation, confessed and acknowledged His truth. Such was their faith, that most of them renounced their substance and kindred, and cleaved to the good-pleasure of the All-Glorious. They laid down their lives for their Well-Beloved, and surrendered their all in His path. Their breasts were made targets for the darts of the enemy, and their heads adorned the spears of the infidel. No land remained which did not drink the blood of these embodiments of detachment, and no sword that did not bruise their necks. Their deeds, alone, testify to the truth of their words. Doth not the testimony of these holy souls, who have so gloriously risen to offer up their lives for their Beloved that the whole world marveled at the manner of their sacrifice, suffice the people of this day? Is it not sufficient witness against the faithlessness of those who for a trifle betrayed their faith, who bartered away immortality for that which perisheth, who gave up the <span class="gl-ref" data-gl="kawthar" role="button" tabindex="0" aria-label="Glossary: Kawthar">Kawthar</span> of the divine Presence for salty springs, and whose one aim in life is to usurp the property of others? Even as thou dost witness how all of them have busied themselves with the vanities of the world, and have strayed far from Him Who is the Lord, the Most High.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 249" placeholder="Your note on paragraph 249…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+<div class="note-row passage-row" data-p="250"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p250" title="Paragraph 250 in the full text">250</a></div><div class="note-text">Be fair: Is the testimony of those acceptable and worthy of attention whose deeds agree with their words, whose outward behavior conforms with their inner life? The mind is bewildered at their deeds, and the soul marveleth at their fortitude and bodily endurance. Or is the testimony of these faithless souls who breathe naught but the breath of selfish desire, and who lie imprisoned in the cage of their idle fancies, acceptable? Like the bats of darkness, they lift not their heads from their couch except to pursue the transient things of the world, and find no rest by night except as they labor to advance the aims of their sordid life. Immersed in their selfish schemes, they are oblivious of the divine Decree. In the daytime they strive with all their soul after worldly benefits, and in the night-season their sole occupation is to gratify their carnal desires. By what law or standard could men be justified in cleaving to the denials of such petty-minded souls and in ignoring the faith of them that have renounced, for the sake of the good-pleasure of God, their life and substance, their fame and renown, their reputation and honor?</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 250" placeholder="Your note on paragraph 250…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>
+```
+
+::: {.passage-body}
+2. Which of the characteristics mentioned by Bahá'u'lláh in these paragraphs were exemplified by the individuals we just heard about? Are there other individuals who come to mind as examples of these qualities?
+:::
+
+
+::: {.passage-body}
+3. Bahá'u'lláh asks whose testimony we should trust: theirs "whose deeds agree with their words, whose outward behavior conforms with their inner life"<sup>[d](../read.qmd#p250 "Kitáb-i-Íqán ¶250")</sup>, or theirs who "will in no wise relinquish one jot or one tittle of their temporal authority for the sake of God's holy Faith"<sup>[e](../read.qmd#p252 "Kitáb-i-Íqán ¶252")</sup>. Few of us will be asked for our lives. What does it look like, in an ordinary week, for our deeds to agree with our words?
+:::
+
+
+
+::: {.passage-body}
+*To read further:* Nabíl's [*The Dawn-Breakers*](https://bahai-library.com/nabil_dawnbreakers) tells each of these stories at length: Mullá Ḥusayn's search and the night of 22 May 1844 (ch. 3) and the siege of Ṭabarsí, Vaḥíd's interviews with the Báb (pp. 172–177) and the Nayríz upheaval, and Basṭámí's mission (pp. 87–92).
+:::
+
+
 
 ::: {.source-note}
 [Back to the schedule](../schedule.qmd) · [All my notes](../notes.qmd)
