@@ -43,9 +43,10 @@ In the previous section Bahá'u'lláh gave numerous examples about why the Word 
 ```
 
 ::: {.passage-body}
-1. Tonight we will get to know three of the people Bahá'u'lláh names. In small groups, each group takes one person. Open their full account from the card below and read it together (about ten minutes), help each other to understand the events in their life, and then introduce your person to everyone in about five minutes. 
+1. Tonight we will get to know three of the people Bahá'u'lláh names. In small groups, each group takes one person. Read their full account together (about ten minutes), help each other to understand the events in their life, and then introduce your person/people to everyone in about five minutes. 
 :::
 
+::::: {.pc-row}
 ::: {.person-card .pc-short #group-1}
 ::: {.pc-kicker}
 Group 1
@@ -55,7 +56,7 @@ Group 1
 
 [About 1813–1849 · the first Letter of the Living · the Bábu'l-Báb, "the Gate of the Gate"]{.pc-dates}
 
-[Read the full account →](../accounts-248.qmd#group-1){.pc-link}
+[Read the account →](../accounts-248.qmd#group-1){.pc-link}
 :::
 
 ::: {.person-card .pc-short #group-2}
@@ -67,7 +68,7 @@ Group 2
 
 [Died 1850 · "that unique and peerless figure of his age"]{.pc-dates}
 
-[Read the full account →](../accounts-248.qmd#group-2){.pc-link}
+[Read the account →](../accounts-248.qmd#group-2){.pc-link}
 :::
 
 ::: {.person-card .pc-short #group-3}
@@ -79,10 +80,11 @@ Group 3
 
 [Died about 1846 · the second Letter of the Living · "the first to leave the House of God, and to suffer for His sake"]{.pc-dates}
 
-[Read the full account →](../accounts-248.qmd#group-3){.pc-link}
+[Read the account →](../accounts-248.qmd#group-3){.pc-link}
 :::
+:::::
 
-### Their deeds testify to the truth of their words {.passage-subheading}
+### The exemplary and heroic deeds of the early believers {.passage-subheading}
 
 ```{=html}
 <div class="note-row passage-row" data-p="249"><div class="note-main"><div class="note-head"><a class="note-num" href="../read.html#p249" title="Paragraph 249 in the full text">249</a></div><div class="note-text">All these were guided by the light of that Sun of divine Revelation, confessed and acknowledged His truth. Such was their faith, that most of them renounced their substance and kindred, and cleaved to the good-pleasure of the All-Glorious. They laid down their lives for their Well-Beloved, and surrendered their all in His path. Their breasts were made targets for the darts of the enemy, and their heads adorned the spears of the infidel. No land remained which did not drink the blood of these embodiments of detachment, and no sword that did not bruise their necks. Their deeds, alone, testify to the truth of their words. Doth not the testimony of these holy souls, who have so gloriously risen to offer up their lives for their Beloved that the whole world marveled at the manner of their sacrifice, suffice the people of this day? Is it not sufficient witness against the faithlessness of those who for a trifle betrayed their faith, who bartered away immortality for that which perisheth, who gave up the <span class="gl-ref" data-gl="kawthar" role="button" tabindex="0" aria-label="Glossary: Kawthar">Kawthar</span> of the divine Presence for salty springs, and whose one aim in life is to usurp the property of others? Even as thou dost witness how all of them have busied themselves with the vanities of the world, and have strayed far from Him Who is the Lord, the Most High.</div></div><aside class="note-side"><textarea class="note-input" rows="2" aria-label="Your note on paragraph 249" placeholder="Your note on paragraph 249…"></textarea><div class="note-bar"><span class="note-saved"></span></div></aside></div>

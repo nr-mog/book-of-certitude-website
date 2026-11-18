@@ -2055,6 +2055,33 @@ a.more-link {
   }
 }
 
+// The three short cards side by side, so the handout spends one line on them.
+.pc-row {
+  grid-column: screen-start / screen-end;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1.1rem calc(var(--note-col) + var(--note-gap)) 1.4rem 2.6rem;
+
+  .person-card.pc-short {
+    grid-column: auto;
+    margin: 0;
+    padding: 0.7rem 0.9rem 0.75rem;
+    display: flex;
+    flex-direction: column;
+
+    h3 { font-size: 1rem; line-height: 1.3; margin: 0.15rem 0 0.25rem; }
+    .pc-dates { font-size: 0.72rem; line-height: 1.4; margin-bottom: 0.45rem; }
+    > section { flex: 1; display: flex; flex-direction: column; }
+    p:last-child { margin: auto 0 0; }
+    .pc-link { font-size: 0.78rem; }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .pc-row { grid-template-columns: minmax(0, 1fr); margin-right: 2.6rem; }
+}
+
 .person-card.full-measure {
   margin-left: 0;
   margin-right: 0;
@@ -2408,6 +2435,10 @@ body:has(.handout-actions) {
 
   // Five lines to write on, kept together on one page.
   .write-box { break-inside: avoid; }
+
+  .pc-row { margin: 0.15in 0 0.2in 2.2rem; break-inside: avoid; }
+  .pc-row .person-card.pc-short { margin: 0; padding: 0.08in 0.1in; border-left-width: 2px; }
+  .pc-row .pc-link { display: none; }
 
   .person-card.pc-short {
     break-before: auto;
