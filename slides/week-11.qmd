@@ -146,3 +146,25 @@ Group 1
 Leave this up while Group 1 presents. The map is live, so it needs an internet connection during the session, and it will not appear in
 the PDF export of the slides.
 :::
+
+---
+
+## Their spiritual descendants
+
+::: {.slide-sub}
+Shoghi Effendi, cable to the American believers
+:::
+
+::: {.figure-slide}
+::: {.fs-body style="font-size: 0.95em;"}
+> DAWN-BREAKERS PREVIOUS AGE HAVE ON PERSIAN SOIL SIGNALIZED BY THEIR ACTS BIRTH FAITH BAHÁ’U’LLÁH.
+> MIGHT NOT AMERICAN BELIEVERS THEIR SPIRITUAL DESCENDANTS PROVE THEMSELVES IN TURN CAPABLE USHERING
+> IN ON WORLD SCALE THE CIVILIZATION OF WHICH THAT FAITH IS DIRECT SOURCE AND SOLE BEGETTER?
+>
+> [Shoghi Effendi, cable of 29 October 1936]{.attrib}
+:::
+
+::: {.fs-portrait style="flex-basis: 290px;"}
+![](../images/shoghi.avif){fig-alt="Shoghi Effendi as a young man, in a belted overcoat and striped tie."}
+:::
+:::
